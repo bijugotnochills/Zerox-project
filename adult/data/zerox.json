@@ -1,0 +1,2592 @@
+{
+  "zerox_enon": {
+    "world_name": "Zerox Enon",
+    "world_description": "A sprawling, multi-layered dimension where the boundaries between myth, reality, and divinity blur into an endless tapestry of conflict and harmony. It exists as a nexus point where the spiritual energies of countless universes converge, creating a realm where gods walk among mortals, where ancient beasts of legend breathe life into the mountains, and where the very fabric of reality pulses with the heartbeat of creation itself.",
+    "cosmology": {
+      "primordial_tree": "The Primordial Tree of Convergence",
+      "ley_lines": 5,
+      "celestial_spheres": [
+        {
+          "tier": 1,
+          "name": "The Mortal Coil",
+          "description": "Where normal beings dwell"
+        },
+        {
+          "tier": 2,
+          "name": "The Veil of Wonders",
+          "description": "Where rare phenomena manifest"
+        },
+        {
+          "tier": 3,
+          "name": "The Sanctum of Power",
+          "description": "Where special abilities awaken"
+        },
+        {
+          "tier": 4,
+          "name": "The Hall of Heroes",
+          "description": "Where epic legends are forged"
+        },
+        {
+          "tier": 5,
+          "name": "The Mythic Expanse",
+          "description": "Where legendary beings reign"
+        },
+        {
+          "tier": 6,
+          "name": "The Immortal Garden",
+          "description": "Where death holds no dominion"
+        },
+        {
+          "tier": 7,
+          "name": "The Divine Threshold",
+          "description": "Where gods bestow their blessings"
+        },
+        {
+          "tier": 8,
+          "name": "The Celestial Court",
+          "description": "Where ascended beings gather"
+        },
+        {
+          "tier": 9,
+          "name": "The Primordial Void",
+          "description": "Where the original creators slumber"
+        }
+      ]
+    },
+    "continents": [
+      {
+        "id": 1,
+        "name": "Tenryuku",
+        "full_name": "Tenryūku (Celestial Dragon Dominion)",
+        "location": "Eastern Hemisphere, suspended partially in the clouds",
+        "primary_influence": "Divine Authority & Celestial Light",
+        "capital": "Ōzora-no-Miyako (Capital of the Great Sky)",
+        "ruling_power": "The Jade Throne of Heaven",
+        "description": "Tenryuku exists as a breathtaking archipelago of floating islands, each one a massive chunk of earth held aloft by ancient celestial magic and the bones of primordial dragons that died protecting the realm. The skies are permanently painted in shades of gold and lavender, with clouds that glow from within.",
+        "flora": ["Hikari-blooms (Light Flowers)", "Tengoku-ki (Heaven Trees)"],
+        "fauna": ["Shiro-kitsune (White Foxes)", "Ryū-no-ko (Dragon Children)"],
+        "phenomena": ["Divine Tides", "Ascent Season", "Descent Season"]
+      },
+      {
+        "id": 2,
+        "name": "Shinkage",
+        "full_name": "Shinkage (Spirit Shadow Realm)",
+        "location": "Western Hemisphere, shrouded in eternal twilight",
+        "primary_influence": "Primal Darkness & Spirit Energy",
+        "capital": "Yamiyo-no-Shiro (Castle of the Dark Night)",
+        "ruling_power": "The Onyx Throne of Whispers",
+        "description": "Shinkage exists in perpetual shadow, straddling the boundary between the living world and the spirit realm. The sun never fully rises, and the moon never fully sets—instead, the sky maintains a constant state of deep purple twilight, illuminated by the ghostly glow of wandering spirits.",
+        "flora": ["Yūrei-bayashi (Ghost Forest)", "Spirit moss", "Shadow flowers"],
+        "fauna": ["Onryō (Vengeful Spirits)", "Yūrei (Ghosts)", "Yokai"],
+        "phenomena": ["The Wailing Winds", "Spiritual Density", "Veil Thinning"]
+      },
+      {
+        "id": 3,
+        "name": "Hōraisan",
+        "full_name": "Hōraisan (Mountain of Immortal Bliss)",
+        "location": "Southern Hemisphere, rising from endless mist",
+        "primary_influence": "Temporal Order & Elemental Chaos",
+        "capital": "Eien-no-Miya (Palace of Eternity)",
+        "ruling_power": "The Crystal Throne of Perpetuity",
+        "description": "Hōraisan is dominated by a single, impossibly massive mountain that rises from a sea of clouds to pierce the heavens. The mountain is divided into distinct ecological zones, each corresponding to a different elevation and spiritual density.",
+        "flora": ["Immortal herbs", "Peach trees of immortality", "Jade bamboo"],
+        "fauna": ["Celestial deer", "Phoenixes", "Immortal cranes"],
+        "phenomena": ["The Mist of Forgetfulness", "Time Distortion", "Eight Immortal Gardens"]
+      },
+      {
+        "id": 4,
+        "name": "Kishima",
+        "full_name": "Kishima (Mechanical Demon Archipelago)",
+        "location": "Northern Hemisphere, a chain of volcanic islands",
+        "primary_influence": "Primal Darkness & Divine Authority (Corrupted)",
+        "capital": "Kurogane-no-Ryūgū (Iron Dragon Palace)",
+        "ruling_power": "The Obsidian Throne of Gears",
+        "description": "Kishima is a nightmare fusion of organic life and mechanical construction—a sprawling archipelago where mountains breathe smoke through iron vents, where forests consist of trees with steel bark and copper leaves, and where rivers flow not with water but with liquid metal.",
+        "flora": ["Metal-bark trees", "Copper-leaf bushes", "Rust flowers"],
+        "fauna": ["Kikai-Heishi (Machine Soldiers)", "Kikai-Ryū (Machine Dragons)", "Rust beasts"],
+        "phenomena": ["The Forgeheart Volcano", "The Rust Plague", "Kikai-Kūkan (Machine Spaces)"]
+      },
+      {
+        "id": 5,
+        "name": "Shinseikai",
+        "full_name": "Shinseikai (Neo-Spiritual Frontier)",
+        "location": "Central Hemisphere, bridging all other continents",
+        "primary_influence": "Elemental Chaos & Temporal Order",
+        "capital": "Mirai-no-Miyako (City of the Future)",
+        "ruling_power": "The Prismatic Throne of Convergence",
+        "description": "Shinseikai is the youngest continent, formed when a convergence of ley lines caused reality to 'fold' upon itself. It is a place where ancient traditions meet future technologies, where spirit shrines stand beside neon-lit skyscrapers.",
+        "flora": ["Neon bamboo", "Holographic flowers", "Data-vines"],
+        "fauna": ["Digital spirits", "Cyber-yokai", "Data-dragons"],
+        "phenomena": ["Dimensional Strata", "The Living Ley Lines", "Temporal Anomalies"]
+      }
+    ],
+    "pantheons": [
+      {
+        "id": 1,
+        "name": "The Celestial Dragon Court",
+        "full_name": "Tenryū-chōtei",
+        "domain": "Tenryuku",
+        "alignment": "Lawful Divine",
+        "primary_force": "Divine Authority & Celestial Light",
+        "symbol": "A golden dragon coiled around a sunburst",
+        "description": "The Celestial Dragon Court is the oldest and most powerful pantheon in Zerox Enon, tracing its lineage directly to the Primordial Tree of Convergence. Its members are the original divine beings who shaped the world from chaos, and they maintain their authority through absolute adherence to cosmic law.",
+        "ruler": {
+          "name": "Ryūjin Ōkami",
+          "title": "The First-Born of Heaven, The Eternal Scale, The Voice of Primordial Law",
+          "domain": "All of Creation (theoretically), Tenryuku (actually)",
+          "symbol": "A single golden scale balanced on a dragon's claw",
+          "physical_description": "Ryūjin Ōkami manifests as a being of such overwhelming presence that most mortals cannot perceive his true form. To those with the spiritual sight to glimpse him, he appears as a dragon of impossible size whose body is composed of pure, concentrated starlight. His scales are not physical but are instead individual galaxies, each one containing countless worlds and beings that exist within his divine essence.",
+          "authority": [
+            "Primordial Authority - He can command any being whose existence falls within the natural order",
+            "Cosmic Sight - He perceives all events that have ever occurred or will ever occur within the bounds of divine law",
+            "Scale of Balance - He can weigh the actions of any being against cosmic law and deliver judgment that cannot be appealed",
+            "Dragon's Breath - He can exhale the cosmic wind, which can create new worlds or erase existing ones from existence"
+          ],
+          "blessing": {
+            "name": "Mark of Primordial Law",
+            "description": "A golden scale that appears somewhere on the body",
+            "grants": [
+              "Lawful Authority - The blessed can issue commands that lesser beings (below their power tier) must obey, provided those commands do not violate cosmic law",
+              "Judgment Sight - The blessed can perceive whether actions align with or violate natural order",
+              "Dragon's Resilience - The blessed gain resistance to any force that would corrupt or transform them against their will",
+              "Cosmic Connection - The blessed can communicate with any dragon or dragon-kin across any distance"
+            ]
+          }
+        },
+        "troops": [
+          {
+            "id": "p1_t1",
+            "name": "Tenryū-Senshi",
+            "full_name": "Celestial Dragon Warriors",
+            "rank": ["Rare", "Epic", "Legend"],
+            "blessing": "Ryūjin no Chikara (Dragon God's Power)",
+            "description": "The Tenryū-Senshi are the elite warriors of the Celestial Dragon Court, chosen from among the most devout and powerful mortals who have proven their worth through centuries of service. Each warrior undergoes a sacred ritual wherein a fragment of a celestial dragon's soul is bound to their own, granting them powers far beyond mortal ken.",
+            "physical_appearance": {
+              "height": "7-8 feet (in mortal form, can expand)",
+              "build": "Perfectly proportioned, neither bulky nor slender",
+              "skin": "Pale gold with faint scale patterns visible when power flows",
+              "eyes": "Solid gold, no visible pupils, emit soft light",
+              "hair": "Flowing silver-white that moves as if underwater",
+              "armor": "Living golden scales that cover vital areas, leaving joints free",
+              "weapons": "Twin blades of solidified light, or bows that fire sunbeams",
+              "wings": "Optional manifestation—translucent golden dragon wings"
+            },
+            "lore": "The Tenryū-Senshi were first created during the Age of Sundering, when lesser gods attempted to challenge the Celestial Court's authority. Ryūjin Ōkami, rather than destroying the rebels himself, raised up mortal champions and imbued them with dragon souls, creating a force that could enforce divine will without the gods directly involving themselves in conflict.",
+            "abilities": {
+              "passive": {
+                "name": "Dragon's Resilience",
+                "description": "The warrior's dragon soul provides constant protection. They regenerate health over time, are immune to fear effects, and cannot be corrupted by dark magic. Any attack that would kill them has a chance to be negated entirely as the dragon soul takes the fatal blow instead."
+              },
+              "basic_skills": [
+                {
+                  "name": "Scale Strike",
+                  "description": "The warrior's weapon glows with golden light, delivering a strike that ignores physical armor and damages the soul directly."
+                },
+                {
+                  "name": "Wing Gust",
+                  "description": "Even without manifesting wings, the warrior can create a burst of divine wind that knocks back nearby enemies."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Dragon's Roar",
+                  "description": "The warrior releases the voice of the dragon within, creating a cone of sonic/divine energy that damages and stuns all enemies in front of them."
+                },
+                {
+                  "name": "Scale Shield",
+                  "description": "Living scales from the armor extend to form a barrier that blocks all incoming damage for a short duration."
+                },
+                {
+                  "name": "Heavenly Ascent",
+                  "description": "The warrior manifests their wings and takes flight, gaining increased movement speed and evasion while airborne."
+                }
+              ],
+              "unique_skill": {
+                "name": "Soul Merge",
+                "description": "The warrior temporarily allows the dragon soul to fully manifest, transforming into a draconic form. In this state, all abilities are enhanced, and the warrior gains access to dragon-specific attacks. However, if maintained too long, the dragon soul may begin to overwrite the warrior's personality."
+              },
+              "ultimate_skill": {
+                "name": "Ryūjin's Judgment",
+                "description": "The warrior channels the direct authority of the Dragon God Supreme, calling down a beam of pure cosmic law from heaven. Any enemy struck by this beam is judged based on their actions—the guilty suffer catastrophic damage, while the innocent are merely knocked aside. This skill can only be used once per day and leaves the warrior exhausted."
+              }
+            },
+            "character_references": [1, 15, 21, 27]
+          },
+          {
+            "id": "p1_t2",
+            "name": "Tennyo",
+            "full_name": "Celestial Maidens",
+            "rank": ["Special", "Epic", "Myth"],
+            "blessing": "Hikari no Mai (Dance of Light)",
+            "description": "The Tennyo are the divine dancers and musicians of the Celestial Court, beings whose art is not mere entertainment but a form of reality manipulation. Their dances can heal wounds, purify corruption, and even mend tears in the fabric of existence.",
+            "physical_appearance": {
+              "height": "5'6\" to 6' on average",
+              "build": "Willowy and graceful, built for movement",
+              "skin": "Porcelain white with a faint iridescent sheen",
+              "eyes": "Various colors, always with visible pupils but the whites glow faintly",
+              "hair": "Long, straight, in colors matching their primary element",
+              "attire": "Multi-layered rainbow robes that flow as if underwater",
+              "accessories": "Golden hairpins shaped like musical notes, jeweled anklets that chime with each step",
+              "wings": "Optional—translucent, feathery wings of light"
+            },
+            "lore": "The first Tennyo was created when a mortal dancer so moved Ryūjin Ōkami with her performance that he granted her immortality and raised her to the Celestial Court. She became the patron of all artists who dedicate their talents to divine service, and over millennia, she has gathered around her a host of kindred spirits.",
+            "abilities": {
+              "passive": {
+                "name": "Harmonic Aura",
+                "description": "The Tennyo's presence creates a field of harmony. Allies within range have their abilities cooldown faster, their wounds heal more quickly, and their minds are protected from confusion or despair. The effect grows stronger with more Tennyo present."
+              },
+              "basic_skills": [
+                {
+                  "name": "Healing Melody",
+                  "description": "The Tennyo hums a simple tune, causing a single ally to regenerate health over time."
+                },
+                {
+                  "name": "Graceful Step",
+                  "description": "The Tennyo dances a short sequence, becoming temporarily untargetable and moving through enemies without obstruction."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Purifying Dance",
+                  "description": "The Tennyo performs a dance that releases waves of cleansing light, removing negative effects from all allies in a large area and damaging corrupted enemies."
+                },
+                {
+                  "name": "Song of Courage",
+                  "description": "Her voice rises in an inspiring melody, granting all allies increased attack power and resistance to fear."
+                },
+                {
+                  "name": "Veil of Petals",
+                  "description": "She scatters magical flower petals that form a protective barrier around an ally, absorbing damage and healing them over time."
+                }
+              ],
+              "unique_skill": {
+                "name": "Heaven's Choreography",
+                "description": "The Tennyo begins a dance that mirrors the movements of celestial bodies. For a duration, she can predict enemy attacks and automatically evade them, while her own attacks always strike true."
+              },
+              "ultimate_skill": {
+                "name": "Genesis Ballet",
+                "description": "The Tennyo performs the dance that first brought order to chaos at the beginning of creation. Reality bends around her—enemies are caught in loops of repeating time, allies find their wounds reversed, and the very landscape reshapes itself according to her will."
+              }
+            },
+            "character_references": [1, 2, 8, 10, 12, 16]
+          },
+          {
+            "id": "p1_t3",
+            "name": "Ryūki",
+            "full_name": "Dragon Knights",
+            "rank": ["Epic", "Legend", "Immortal"],
+            "blessing": "Ryū to no Keiyaku (Covenant with Dragons)",
+            "description": "The Ryūki are the mounted elite of the Celestial Court, warriors who have formed permanent bonds with living dragons. The bond between knight and dragon is so profound that they can sense each other's thoughts, feel each other's pain, and die if the other falls.",
+            "physical_appearance_knight": {
+              "height": "5'10\" to 6'4\"",
+              "build": "Stocky and powerful, built to withstand dragonback combat",
+              "skin": "Tanned and weathered from years in the sky",
+              "eyes": "Sharp, focused, with a faint glow matching their dragon's element",
+              "hair": "Cropped short, often braided with dragon scales",
+              "armor": "Heavy plate mail incorporating dragon scale and bone",
+              "helmet": "Open-faced, often adorned with horns matching their dragon",
+              "weapons": "Long lances, massive swords, or composite bows"
+            },
+            "physical_appearance_dragon": {
+              "size": "20-50 feet long, depending on age and power",
+              "color": "Varies by element—gold (light), silver (moon), bronze (time), copper (trickery)",
+              "scales": "Large, overlapping, with a metallic sheen",
+              "eyes": "Vertical pupils, glow with elemental power",
+              "horns": "Vary by breed—some branched, some spiraled, some swept back",
+              "wings": "Massive, bat-like, with membranes that shimmer like stained glass",
+              "breath_weapon": "Matches their element"
+            },
+            "lore": "The tradition of the Ryūki began when a mortal knight saved a wounded dragon from a demon attack, nursing it back to health despite knowing that dragons were considered enemies of humanity at the time. The dragon, grateful for the kindness, offered to serve the knight as repayment. Together, they proved so effective in battle that Ryūjin Ōkami himself took notice and declared that henceforth, dragons and mortals might bond by choice rather than by divine mandate.",
+            "abilities": {
+              "passive": {
+                "name": "Bonded Souls",
+                "description": "The knight and dragon share senses and can coordinate perfectly. They cannot be surprised, and any attempt to attack one from behind automatically alerts the other. If separated by more than 100 feet, both become increasingly distressed and their abilities weaken."
+              },
+              "basic_skills": [
+                {
+                  "name": "Swooping Strike",
+                  "description": "The dragon dives while the knight leans out to strike, combining movement damage with weapon damage."
+                },
+                {
+                  "name": "Scale Defense",
+                  "description": "The dragon wraps its wings around both itself and the knight, creating a temporary shield."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Elemental Breath",
+                  "description": "The dragon unleashes its breath weapon while the knight protects their flank from counterattack."
+                },
+                {
+                  "name": "Sky Dance",
+                  "description": "The pair performs aerial acrobatics, becoming difficult to target while raining attacks on enemies below."
+                },
+                {
+                  "name": "Shared Strength",
+                  "description": "The knight draws on the dragon's power, temporarily gaining increased strength and resilience while the dragon's attacks become more precise."
+                }
+              ],
+              "unique_skill": {
+                "name": "Soul Flare",
+                "description": "The bond between knight and dragon intensifies, creating an aura of pure elemental energy around both. Enemies near them take continuous damage, and allies are inspired to greater deeds."
+              },
+              "ultimate_skill": {
+                "name": "Apocalypse Flight",
+                "description": "The knight and dragon ascend to the edge of the atmosphere and dive at impossible speed, becoming a comet of elemental destruction. Upon impact, they create a crater of devastating force, damaging everything within a massive radius. Both are left severely weakened afterward and cannot fight for some time."
+              }
+            },
+            "character_references": [6, 11, 27, 30]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "The Shadow Spirit Court",
+        "full_name": "Kage-onryō-chōtei",
+        "domain": "Shinkage",
+        "alignment": "Chaotic Neutral",
+        "primary_force": "Primal Darkness & Spirit Energy",
+        "symbol": "A white oni mask with one crying and one laughing eye",
+        "description": "The Shadow Spirit Court governs the boundary between life and death, between the physical and spiritual realms. Its members are not gods in the traditional sense but rather ascended spirits—beings who began as mortal souls and, through power, will, or circumstance, rose to rule over the dead.",
+        "ruler": {
+          "name": "Yomi-no-Ō",
+          "title": "The First Ghost, The Warden of Souls, The Silent Judge",
+          "domain": "The Underworld and all spirit realms",
+          "symbol": "A cracked bell with no clapper",
+          "physical_description": "Yomi-no-Ō's true form is that of a void—a place where souls go when they have nowhere else to be. To those who approach his throne, he appears as whatever they most fear or most desire, a reflection of their own soul rather than an external being. When he must interact with the physical world, he manifests as a figure in a tattered black kimono, his face hidden beneath a wide straw hat that casts his features in permanent shadow.",
+          "authority": [
+            "Soul Sight - He perceives the true nature of any soul, knowing its history, its sins, and its virtues",
+            "Gate Authority - He controls access between the living world and the spirit realm",
+            "Memory Weaving - He can view, alter, or erase memories",
+            "Eternal Patience - He has existed since the first death and will exist until the last"
+          ],
+          "blessing": {
+            "name": "Mark of the Cracked Bell",
+            "description": "A small, permanent bruise-like mark somewhere on the body that resembles a cracked bell",
+            "grants": [
+              "Spirit Sight - The blessed can see and communicate with spirits, even those normally invisible",
+              "Death's Threshold - The blessed cannot be truly killed by any means short of divine intervention",
+              "Memory Protection - The blessed's memories cannot be altered or erased by any force",
+              "Gate Sense - The blessed can sense when the veil between worlds is thin and can sometimes step through briefly"
+            ]
+          }
+        },
+        "troops": [
+          {
+            "id": "p2_t1",
+            "name": "Onryō-Senshi",
+            "full_name": "Vengeful Spirit Warriors",
+            "rank": ["Rare", "Epic"],
+            "blessing": "Onryō no Chikai (Vow of Vengeance)",
+            "description": "The Onryō-Senshi are souls who died with such powerful unfinished business—vengeance, love, duty—that they refused to pass on. Rather than becoming wandering ghosts, they pledged themselves to Yomi-no-Ō's service, trading their freedom for the power to continue existing.",
+            "physical_appearance": {
+              "form": "Semi-transparent, with visible death wounds",
+              "skin": "Pale grey to deep blue, depending on age",
+              "eyes": "Glowing points of light in colors matching their emotional state",
+              "hair": "Flows as if underwater, even in still air",
+              "attire": "What they wore at death, often tattered and ghostly",
+              "weapons": "Spectral versions of their living weapons",
+              "aura": "Constant cold, visible as mist around them"
+            },
+            "lore": "The Onryō-Senshi are recruited from among the most powerful spirits who refuse to pass on. Yomi-no-Ō offers them a choice: fade into nothing as their will slowly erodes, or serve him and retain their identity indefinitely. Most choose service.",
+            "abilities": {
+              "passive": {
+                "name": "Intangible Form",
+                "description": "Onryō-Senshi can phase through physical objects at will, though magical barriers stop them. Physical attacks have a chance to pass through them without effect, while magical attacks deal increased damage."
+              },
+              "basic_skills": [
+                {
+                  "name": "Ghost Touch",
+                  "description": "The warrior reaches through an enemy's defenses to touch their soul directly, dealing damage that ignores physical armor."
+                },
+                {
+                  "name": "Wail",
+                  "description": "A mournful cry that damages and briefly disorients a single target."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Vengeful Strike",
+                  "description": "The warrior focuses on a single target, dealing bonus damage based on how much that target has harmed them or their allies."
+                },
+                {
+                  "name": "Spectral Passage",
+                  "description": "The warrior becomes fully intangible for a moment, passing through walls and enemies, reappearing at a chosen location."
+                },
+                {
+                  "name": "Memory Flood",
+                  "description": "The warrior forces a target to experience a traumatic memory, stunning them and dealing mental damage."
+                }
+              ],
+              "unique_skill": {
+                "name": "Death's Embrace",
+                "description": "The warrior temporarily pulls a target partially into the spirit realm, causing them to become intangible and unable to affect the physical world for a short duration."
+              },
+              "ultimate_skill": {
+                "name": "Onryō's Wrath",
+                "description": "The warrior unleashes all the pent-up emotion that keeps them anchored to existence, creating a massive explosion of spiritual energy. All enemies in a large area take damage and are feared. The warrior then fades, requiring time to reform."
+              }
+            },
+            "character_references": [9, 14, 20, 26]
+          },
+          {
+            "id": "p2_t2",
+            "name": "Kami-no-Tsukai",
+            "full_name": "Spirit Messengers",
+            "rank": ["Special", "Epic", "Legend"],
+            "blessing": "Yūrei no Tegami (Ghost Letter)",
+            "description": "The Kami-no-Tsukai are spirits who serve as messengers between worlds. They carry words from the living to the dead, deliver warnings from spirits to those about to face danger, and ensure that the flow of information between realms remains unbroken.",
+            "physical_appearance": {
+              "form": "Semi-transparent but more solid than Onryō-Senshi",
+              "skin": "Pale, with a faint blue or green tinge",
+              "eyes": "Normal-looking but with a distant, knowing gaze",
+              "attire": "Whatever they wore when they received their final message",
+              "distinctive_feature": "Always carrying their undelivered message",
+              "movement": "Float rather than walk, leaving no footprints"
+            },
+            "lore": "The Kami-no-Tsukai are recruited from among those who died with messages undelivered—lovers who never confessed, soldiers who never said goodbye, parents who never gave final advice. Yomi-no-Ō gives them the chance to deliver those messages after death, and in return, they agree to carry other messages as well.",
+            "abilities": {
+              "passive": {
+                "name": "Messenger's Immunity",
+                "description": "Kami-no-Tsukai cannot be attacked by spirits (who respect their role) and are ignored by most aggressive beings. Physical beings must actively choose to attack them, and doing so earns the enmity of all spirit-kind."
+              },
+              "basic_skills": [
+                {
+                  "name": "Whisper",
+                  "description": "The messenger delivers a message directly to a target's mind, which can be anything from a simple communication to a devastating psychological attack."
+                },
+                {
+                  "name": "Veil Step",
+                  "description": "The messenger briefly phases through reality, appearing elsewhere."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Message of Doom",
+                  "description": "The messenger delivers a prophetic warning to an enemy, causing them to experience the fear of their own death and reducing their combat effectiveness."
+                },
+                {
+                  "name": "Letter of Hope",
+                  "description": "The messenger delivers an inspiring message to an ally, healing them and granting them a temporary boost to all abilities."
+                },
+                {
+                  "name": "Seal of Silence",
+                  "description": "The messenger places a spiritual seal on an area, preventing any communication in or out."
+                }
+              ],
+              "unique_skill": {
+                "name": "Final Words",
+                "description": "The messenger delivers the last words of a dying being to a target. If the target was connected to that being, the emotional impact can stun them or even kill them from grief."
+              },
+              "ultimate_skill": {
+                "name": "Akashic Records",
+                "description": "The messenger temporarily accesses the complete records of all communication that has ever occurred, allowing them to predict enemy actions perfectly and reveal any hidden truth. For a duration, they cannot be surprised, cannot miss, and their words carry absolute authority."
+              }
+            },
+            "character_references": [2, 8, 13, 18]
+          },
+          {
+            "id": "p2_t3",
+            "name": "Yōkai-Gunshi",
+            "full_name": "Yokai Generals",
+            "rank": ["Epic", "Legend", "Immortal"],
+            "blessing": "Yōkai no Chie (Wisdom of Spirits)",
+            "description": "The Yōkai-Gunshi are ascended yokai—spirits of nature, objects, and concepts that have gained enough power and wisdom to serve as generals in Yomi-no-Ō's army. Each is unique, their form reflecting the object or concept they embody, and their powers are as varied as the spirits themselves.",
+            "types": [
+              {
+                "name": "Kitsune General",
+                "description": "A massive fox with nine tails, each one tipped with flame of a different color. Fur pure white with gold markings, eyes slit-pupiled burning with amber light, size as large as a house when fully manifested."
+              },
+              {
+                "name": "Tengu General",
+                "description": "Humanoid with a long nose and feathery wings, skin deep red weathered like mountain rock, height 8 feet, wearing traditional mountain priest robes, carrying war fan and katana, wings of black feathers that shed shadows."
+              },
+              {
+                "name": "Kappa General",
+                "description": "Humanoid turtle with a water-filled dish on its head, skin green scales on back and pale belly, height 5 feet, carrying a shield made from its own shell, water in head-dish grants it power."
+              }
+            ],
+            "lore": "The Yōkai-Gunshi are the oldest and wisest of the yokai, beings who have existed since the first humans told stories about the world. They have seen empires rise and fall, watched gods be born and die, and accumulated knowledge that would drive mortals mad.",
+            "abilities_kitsune": {
+              "passive": {
+                "name": "Illusion Mastery",
+                "description": "The Kitsune constantly projects illusions, making it difficult to determine her true location. Attacks against her have a chance to hit an illusion instead."
+              },
+              "basic_skills": [
+                {
+                  "name": "Foxfire",
+                  "description": "Fires a bolt of colored flame that burns and confuses."
+                },
+                {
+                  "name": "Tail Whip",
+                  "description": "One of her nine tails sweeps the area, knocking back enemies."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Nine Lives",
+                  "description": "Each tail represents a life; she can survive fatal damage up to nine times per battle."
+                },
+                {
+                  "name": "Glamour",
+                  "description": "Creates an illusion so powerful that enemies perceive it as real, potentially causing them to fight shadows."
+                },
+                {
+                  "name": "Wisdom's Flame",
+                  "description": "Her tails burn with knowledge-fire that damages enemies while healing allies."
+                }
+              ],
+              "unique_skill": {
+                "name": "Shape Shift",
+                "description": "The Kitsune transforms into any form she chooses, gaining the abilities of that form while retaining her own consciousness."
+              },
+              "ultimate_skill": {
+                "name": "Inari's Wrath",
+                "description": "She channels the power of the rice god, creating a field of golden light where allies are blessed with abundance (healing, empowerment) and enemies are cursed with famine (weakening, damage over time)."
+              }
+            },
+            "character_references": [4, 7, 9, 17, 39]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "The Immortal Garden",
+        "full_name": "Hōrai-en",
+        "domain": "Hōraisan",
+        "alignment": "Lawful Good",
+        "primary_force": "Temporal Order & Elemental Chaos",
+        "symbol": "A peach blossom with eight petals",
+        "description": "The Immortal Garden is not so much a pantheon as a community—a gathering of beings who have transcended mortality through cultivation, meditation, and the pursuit of perfection. Its members are not born divine; they achieve divinity through effort, wisdom, and the accumulation of power over millennia.",
+        "ruler": {
+          "name": "Seiōbo",
+          "title": "The Peach Gardener, The Keeper of Immortality, The Eight-Thousand-Year Wisdom",
+          "domain": "The Peach Orchard of Immortality",
+          "symbol": "A golden peach with a single bite taken",
+          "physical_description": "Seiōbo appears as a woman of ageless beauty, her face that of a young woman but her eyes holding the wisdom of millennia. She wears robes of white silk embroidered with gold peaches, and her hair is arranged in an elaborate style held by jade pins shaped like flowering branches. In her hands, she carries a golden gardening trowel—her symbol of office and, when necessary, her weapon.",
+          "authority": [
+            "Peach Blessing - She can grant immortality through her sacred peaches, each of which extends life by three thousand years",
+            "Garden Authority - She controls access to Hōraisan and can expel any being from its slopes",
+            "Wisdom's Gaze - She perceives the true potential of any being, seeing what they could become if they follow the path of cultivation",
+            "Eternal Patience - She has waited eight thousand years for some plans to come to fruition and can wait eight thousand more"
+          ],
+          "blessing": {
+            "name": "Mark of the Peach Blossom",
+            "description": "A small pink mark somewhere on the body that resembles a peach flower",
+            "grants": [
+              "Extended Life - The blessed ages at half the normal rate and is immune to natural disease",
+              "Cultivation Affinity - The blessed learns skills and abilities twice as fast as normal",
+              "Garden Sense - The blessed always knows the fastest path to self-improvement",
+              "Peach's Resilience - The blessed can survive one fatal blow per century, reviving with full health"
+            ]
+          }
+        },
+        "troops": [
+          {
+            "id": "p3_t1",
+            "name": "Sennin-Senshi",
+            "full_name": "Immortal Warriors",
+            "rank": ["Epic", "Legend", "Myth"],
+            "blessing": "Fudō no Kokoro (Unmoving Heart)",
+            "description": "The Sennin-Senshi are mortals who have achieved immortality through cultivation and now serve as the guardians of Hōraisan. They are not soldiers in the traditional sense—they are warriors who have transcended the need for war, who fight only when necessary and always with perfect control.",
+            "physical_appearance": {
+              "build": "Perfectly proportioned, neither bulky nor slender",
+              "skin": "Flawless, with a faint golden glow",
+              "eyes": "Clear, calm, with visible pupils but an unnerving depth",
+              "hair": "Long, often white or silver, styled in traditional topknots",
+              "attire": "Simple robes of white or gold, sometimes with light armor",
+              "weapons": "Traditional weapons (swords, spears, fans) that glow with inner power",
+              "aura": "Constant, gentle warmth like sunlight"
+            },
+            "lore": "The Sennin-Senshi were once ordinary humans—farmers, soldiers, scholars, merchants—who chose the path of cultivation. They spent decades in meditation, centuries in training, millennia in pursuit of perfection. Those who survived became immortal, but not all immortals choose to fight.",
+            "abilities": {
+              "passive": {
+                "name": "Perfect Control",
+                "description": "The Sennin-Senshi never waste movement or energy. Their attacks always hit with exactly the force needed, their defenses always positioned exactly where required. This makes them nearly impossible to read in combat."
+              },
+              "basic_skills": [
+                {
+                  "name": "Flowing Strike",
+                  "description": "A simple attack that flows like water, hard to block and easy to follow with another."
+                },
+                {
+                  "name": "Mountain Stance",
+                  "description": "The warrior plants themselves, becoming immovable and gaining increased defense."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Thousand Cuts",
+                  "description": "The warrior moves so fast they appear to strike everywhere at once, damaging all enemies in range."
+                },
+                {
+                  "name": "Empty Mind",
+                  "description": "The warrior empties their mind of thought, becoming immune to mental attacks and predicting enemy movements."
+                },
+                {
+                  "name": "Breath of Life",
+                  "description": "The warrior exhales gently, releasing healing energy that restores nearby allies."
+                }
+              ],
+              "unique_skill": {
+                "name": "One With Everything",
+                "description": "The warrior briefly becomes one with the universe, existing everywhere and nowhere simultaneously. During this time, they cannot be targeted and can appear anywhere they choose."
+              },
+              "ultimate_skill": {
+                "name": "Enlightenment's Edge",
+                "description": "The warrior channels the understanding of eternity into a single strike. This attack cannot be blocked, cannot be dodged, and deals damage based not on the warrior's strength but on the target's understanding of their own mortality. The more the target fears death, the more damage they take."
+              }
+            },
+            "character_references": [3, 5, 8, 13, 27, 29]
+          },
+          {
+            "id": "p3_t2",
+            "name": "Senka",
+            "full_name": "Immortal Flower Maidens",
+            "rank": ["Special", "Epic", "Legend"],
+            "blessing": "Hana no Kokoro (Heart of Flowers)",
+            "description": "The Senka are cultivators who have achieved immortality through their connection to nature and the cycles of growth and decay. They tend the gardens of Hōraisan, nurture the sacred peach trees, and ensure that the beauty of the mountain never fades.",
+            "physical_appearance": {
+              "build": "Delicate and graceful, like willow branches",
+              "skin": "Flawless, with a faint pink flush like flower petals",
+              "eyes": "Large, gentle, often with floral patterns in the iris",
+              "hair": "Long, flowing, adorned with living flowers",
+              "attire": "Layered robes in colors matching their favored flowers",
+              "accessories": "Flower-shaped hairpins, jade bracelets, silk sashes",
+              "aura": "The scent of their chosen flower surrounds them"
+            },
+            "lore": "The Senka were once ordinary women—gardeners, herbalists, healers—who found immortality through their connection to plants. They learned to hear the whispers of growing things, to feel the pulse of the earth, to understand the language of petals and leaves.",
+            "abilities": {
+              "passive": {
+                "name": "Garden's Blessing",
+                "description": "The Senka and nearby allies slowly regenerate health and have negative effects cleansed over time. The effect is stronger in natural environments."
+              },
+              "basic_skills": [
+                {
+                  "name": "Petal Dance",
+                  "description": "The Senka scatters flower petals that dance around an enemy, distracting them and dealing minor damage."
+                },
+                {
+                  "name": "Root Bind",
+                  "description": "Roots burst from the ground, holding an enemy in place."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Healing Blossom",
+                  "description": "A flower blooms on an ally, healing them over time and granting them a protective aura."
+                },
+                {
+                  "name": "Poison Petal",
+                  "description": "The Senka throws a single petal that, upon contact, releases a powerful toxin that weakens and damages."
+                },
+                {
+                  "name": "Garden's Veil",
+                  "description": "Creates an area of shimmering beauty where allies are harder to see and enemies are disoriented."
+                }
+              ],
+              "unique_skill": {
+                "name": "Flower Storm",
+                "description": "The Senka calls upon all the flowers she has ever tended, creating a massive storm of petals that blinds, damages, and confuses all enemies within."
+              },
+              "ultimate_skill": {
+                "name": "Eternal Spring",
+                "description": "The Senka channels the very essence of Hōraisan's immortal gardens, creating a field of pure life energy. Allies within are healed to full, have all negative effects removed, and gain temporary invulnerability. Enemies within are overwhelmed by life force, taking damage and being slowed."
+              }
+            },
+            "character_references": [2, 7, 8, 10, 16]
+          },
+          {
+            "id": "p3_t3",
+            "name": "Shikigami-Gunshi",
+            "full_name": "Paper Spirit Generals",
+            "rank": ["Rare", "Epic"],
+            "blessing": "Kami no Chikara (Power of Paper)",
+            "description": "The Shikigami-Gunshi are not living beings but constructs—paper servants brought to life by the magic of immortal cultivators. They serve as assistants, messengers, and when necessary, soldiers.",
+            "physical_appearance": {
+              "form": "Humanoid, made of layered washi paper",
+              "color": "White with red and black calligraphy",
+              "size": "5-6 feet tall on average",
+              "features": "No face, just paper where features would be",
+              "movement": "Float slightly above the ground, paper rustling",
+              "weapons": "Can fold parts of themselves into any shape",
+              "glow": "The calligraphy on their bodies pulses with light"
+            },
+            "lore": "The art of creating Shikigami was perfected on Hōraisan over millennia. What began as simple paper charms to ward off evil evolved into complex constructs capable of independent thought and action. The most powerful Shikigami are those created by immortals who have spent centuries perfecting a single servant.",
+            "abilities": {
+              "passive": {
+                "name": "Paper Body",
+                "description": "Shikigami take reduced damage from blunt attacks (which pass through them) but increased damage from fire and water. They can fold themselves to fit through any space."
+              },
+              "basic_skills": [
+                {
+                  "name": "Paper Cut",
+                  "description": "The Shikigami's edge sharpens, dealing slashing damage."
+                },
+                {
+                  "name": "Fold",
+                  "description": "The Shikigami folds itself into a smaller form, becoming harder to hit."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Origami Army",
+                  "description": "The Shikigami unfolds into multiple smaller copies, each capable of independent action."
+                },
+                {
+                  "name": "Calligraphy Bind",
+                  "description": "The writing on its body extends as magical chains, wrapping around enemies."
+                },
+                {
+                  "name": "Paper Shield",
+                  "description": "The Shikigami unfolds into a wall, blocking attacks and protecting allies behind it."
+                }
+              ],
+              "unique_skill": {
+                "name": "Living Origami",
+                "description": "The Shikigami transforms into a complex origami creature (crane, dragon, tiger), gaining new abilities based on the form."
+              },
+              "ultimate_skill": {
+                "name": "Thousand Paper Soldiers",
+                "description": "The Shikigami-Gunshi calls upon all Shikigami in the area, commanding them to form a massive construct—a giant origami warrior that fights as a single unit for a limited time."
+              }
+            },
+            "character_references": [3, 5, 16, 22]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "The Corrupted Machine Gods",
+        "full_name": "Kikai-shin",
+        "domain": "Kishima",
+        "alignment": "Chaotic Evil",
+        "primary_force": "Primal Darkness & Corrupted Divine Authority",
+        "symbol": "A gear with a demonic face",
+        "description": "The Corrupted Machine Gods are the result of an experiment that went horribly wrong—an attempt to fuse divine essence with demonic machinery that created beings of terrifying power and absolute madness. They are not gods in the traditional sense; they are abominations, aberrations, mistakes that should never have existed but now cannot be unmade.",
+        "ruler": {
+          "name": "Kikai-Shin Ō",
+          "title": "The First Gear, The Eternal Engine, The Rust That Consumes",
+          "domain": "All of Kishima and any machine touched by corruption",
+          "symbol": "A gear turning backwards, grinding itself to dust",
+          "physical_description": "Kikai-Shin Ō has no fixed form—he is a constantly shifting mass of gears, pistons, and demonic flesh, each part moving independently yet somehow functioning as a whole. When he chooses to manifest a recognizable shape, it is that of a giant, his body composed of interlocking metal plates, his face a demonic mask of rusted iron, his eyes glowing with the green fire of corrupted divinity.",
+          "authority": [
+            "Machine Dominion - He can command any machine, from the simplest gear to the most complex construct",
+            "Corruption Touch - His mere presence can begin transforming living tissue into metal",
+            "Eternal Motion - He never stops, never rests, never slows",
+            "Rust Plague - He can spread the Rust Plague across entire continents"
+          ],
+          "blessing": {
+            "name": "Mark of the Rusted Cog",
+            "description": "A gear-shaped patch of rust somewhere on the body",
+            "grants": [
+              "Machine Empathy - The blessed can communicate with and command machines",
+              "Rust Touch - The blessed can accelerate corrosion, damaging metal objects and enemies",
+              "Mechanical Endurance - The blessed feels no pain and ignores wounds, but their body slowly transforms into metal",
+              "Eternal Motion - The blessed never tires, never needs sleep, but eventually loses the ability to stop"
+            ]
+          }
+        },
+        "troops": [
+          {
+            "id": "p4_t1",
+            "name": "Kikai-Heishi",
+            "full_name": "Machine Soldiers",
+            "rank": ["Normal", "Rare", "Epic"],
+            "blessing": "Kikai no Tamashii (Machine Soul)",
+            "description": "The Kikai-Heishi are the foot soldiers of the Machine Gods—beings who were once living creatures but have been transformed into mechanical soldiers through the Rust Plague. They retain fragments of their original personalities, enough to make them effective soldiers, but their loyalty is to the Machine Gods alone.",
+            "physical_appearance": {
+              "form": "Humanoid, but with obvious mechanical replacements",
+              "skin": "Where skin remains, it is grey and dead. Most is replaced by rusted metal",
+              "eyes": "Glowing green, no visible pupils",
+              "movement": "Jerky, mechanical, accompanied by grinding sounds",
+              "weapons": "Integrated blades, guns, or tools",
+              "sound": "Constant ticking, grinding, whirring",
+              "aura": "Smell of oil and rust, faint green glow"
+            },
+            "lore": "The Kikai-Heishi were once soldiers of various armies who fell in battle and were collected by the Machine Gods. Their corpses were taken to the Forgeheart and subjected to the transformation process—their flesh replaced with metal, their souls bound to machinery, their wills overwritten with loyalty to their new masters.",
+            "abilities": {
+              "passive": {
+                "name": "Rusted Body",
+                "description": "The Kikai-Heishi have high resistance to physical damage but take increased damage from corrosion-based attacks. They are immune to poison, disease, and effects that target living tissue."
+              },
+              "basic_skills": [
+                {
+                  "name": "Gear Strike",
+                  "description": "The soldier's arm transforms into a spinning blade, dealing slashing damage."
+                },
+                {
+                  "name": "Piston Punch",
+                  "description": "A hydraulic-assisted punch that deals heavy blunt damage."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Rust Cloud",
+                  "description": "The soldier releases a cloud of rust particles that damages enemies over time and reduces their armor."
+                },
+                {
+                  "name": "Self-Repair",
+                  "description": "The soldier consumes some of its own mass to repair damage, healing over time."
+                },
+                {
+                  "name": "Overclock",
+                  "description": "The soldier pushes its systems beyond safe limits, gaining increased speed and damage but taking damage over time."
+                }
+              ],
+              "unique_skill": {
+                "name": "Memory Fragment",
+                "description": "A fragment of the soldier's original personality surfaces, causing it to hesitate or act unpredictably. This can be an advantage (surprising enemies) or a disadvantage (refusing orders)."
+              },
+              "ultimate_skill": {
+                "name": "Self-Destruct",
+                "description": "The soldier's core overheats and explodes, dealing massive damage to all nearby enemies and destroying itself in the process."
+              }
+            },
+            "character_references": [23, 25, 31, 35, 37]
+          },
+          {
+            "id": "p4_t2",
+            "name": "Kikai-Shikigami",
+            "full_name": "Machine Paper Spirits",
+            "rank": ["Special", "Epic", "Legend"],
+            "blessing": "Kikai to Kami no Kongō (Fusion of Machine and Spirit)",
+            "description": "The Kikai-Shikigami are paper spirits created by immortal cultivators, captured and corrupted by the Machine Gods, their simple paper bodies now infused with demonic machinery.",
+            "physical_appearance": {
+              "form": "Origami shapes (cranes, dragons, humanoids) made of metal-paper hybrid",
+              "color": "Grey and rust, with green-glowing corrupted calligraphy",
+              "size": "Varies from hand-sized to building-sized",
+              "movement": "Flutter and grind simultaneously",
+              "sound": "Rustling paper mixed with grinding gears",
+              "glow": "Sick green from corrupted symbols",
+              "eyes": "Glowing green points"
+            },
+            "lore": "The Kikai-Shikigami were once servants of the Immortal Garden, paper constructs sent on peaceful missions or to guard sacred sites. When the Machine Gods' influence spread, some of these Shikigami were caught in the corruption and transformed.",
+            "abilities": {
+              "passive": {
+                "name": "Hybrid Form",
+                "description": "Kikai-Shikigami combine the properties of paper and metal. They are resistant to both physical and elemental damage but vulnerable to both fire and corrosion simultaneously."
+              },
+              "basic_skills": [
+                {
+                  "name": "Rusted Cut",
+                  "description": "A blade of corrupted paper that damages and applies a rust effect."
+                },
+                {
+                  "name": "Gear Fold",
+                  "description": "The Shikigami folds into a compact form, becoming harder to hit while moving faster."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Corrupted Army",
+                  "description": "The Shikigami unfolds into multiple corrupted copies, each spreading rust wherever they move."
+                },
+                {
+                  "name": "Green Chains",
+                  "description": "Corrupted calligraphy extends as chains that bind enemies and slowly transform them."
+                },
+                {
+                  "name": "Rust Shield",
+                  "description": "Creates a barrier of swirling rust particles that damages enemies who approach."
+                }
+              ],
+              "unique_skill": {
+                "name": "Memory Conflict",
+                "description": "The Shikigami's original programming briefly conflicts with its corruption, causing it to act unpredictably—sometimes healing allies, sometimes attacking randomly."
+              },
+              "ultimate_skill": {
+                "name": "Corrupted Origami Storm",
+                "description": "The Shikigami explodes into thousands of tiny corrupted paper pieces, each one a razor-sharp blade that seeks out enemies and spreads rust. The Shikigami can reform afterward but is significantly weakened."
+              }
+            },
+            "character_references": [9, 14, 19, 20]
+          },
+          {
+            "id": "p4_t3",
+            "name": "Kikai-Ryū",
+            "full_name": "Machine Dragons",
+            "rank": ["Legend", "Epic", "Divine"],
+            "blessing": "Kikai Ryū no Tamashii (Soul of the Machine Dragon)",
+            "description": "The Kikai-Ryū are the ultimate weapons of the Machine Gods—living dragons that have been captured, corrupted, and transformed into biomechanical horrors.",
+            "physical_appearance": {
+              "size": "50-200 feet long",
+              "body": "Blend of living tissue and rusted metal",
+              "scales": "Iron plates, rusted and pitted",
+              "eyes": "Glowing green, multiple (some mechanical, some original)",
+              "wings": "Metal frames with tattered membrane, or entirely mechanical",
+              "breath": "Clouds of rust particles or streams of molten metal",
+              "sound": "Constant grinding, roaring like collapsing machinery",
+              "aura": "Waves of heat and rust, visible green corruption"
+            },
+            "lore": "The Kikai-Ryū were once proud dragons of the Celestial Court, beings of majesty and power who served Ryūjin Ōkami himself. During the Great Sundering, some were captured by the Machine Gods and subjected to the transformation process.",
+            "abilities": {
+              "passive": {
+                "name": "Corrupted Dragon Soul",
+                "description": "The Kikai-Ryū constantly emits an aura of rust and corruption. Living beings near it slowly transform, their flesh taking on metallic properties. The dragon also regenerates by consuming metal from its surroundings."
+              },
+              "basic_skills": [
+                {
+                  "name": "Rusted Claw",
+                  "description": "A claw strike that deals physical damage and applies a severe rust effect."
+                },
+                {
+                  "name": "Tail Sweep",
+                  "description": "The dragon's massive tail sweeps the area, damaging and knocking back all enemies."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Corrosion Breath",
+                  "description": "The dragon exhales a cloud of rust particles that damages enemies over time and reduces their armor to nothing."
+                },
+                {
+                  "name": "Metal Storm",
+                  "description": "The dragon's wings beat, sending thousands of metal shards flying in all directions."
+                },
+                {
+                  "name": "Gear Maw",
+                  "description": "The dragon's mouth opens to reveal grinding gears that pull in enemies, dealing continuous damage."
+                }
+              ],
+              "unique_skill": {
+                "name": "Dragon's Memory",
+                "description": "A fragment of the dragon's original identity surfaces, causing it to momentarily fight against its corruption. This can manifest as hesitation, attacking allies, or even (very rarely) providing aid to former allies."
+              },
+              "ultimate_skill": {
+                "name": "Apocalyptic Rust",
+                "description": "The dragon releases all its accumulated corruption in a massive explosion that transforms an entire area into a rusted wasteland. Everything caught in the blast takes massive damage and begins transforming into metal. The dragon is severely weakened afterward and must consume massive amounts of metal to recover."
+              }
+            },
+            "character_references": [6, 11, 26, 31, 37]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "The Twilight Convergence",
+        "full_name": "Tasogare-no-chōtei",
+        "domain": "Shinseikai",
+        "alignment": "True Neutral",
+        "primary_force": "Elemental Chaos & Temporal Order (Balanced)",
+        "symbol": "A spiral of five colors merging into white",
+        "description": "The Twilight Convergence is the youngest pantheon, formed when the ley lines converged and created Shinsekai. Its members are not traditional gods but rather ascended beings from all the other pantheons who chose to make this new realm their home. They represent balance—the understanding that light needs dark, that order needs chaos, that life needs death.",
+        "ruler": {
+          "name": "The Five Voices",
+          "title": "The Voices of Convergence",
+          "domain": "Shinseikai",
+          "symbol": "Five overlapping circles",
+          "voices": [
+            {
+              "name": "Voice of Light",
+              "description": "A former Tennyo who chose to leave the Celestial Court to experience change"
+            },
+            {
+              "name": "Voice of Shadow",
+              "description": "A Yōkai-Gunshi who grew tired of eternity and sought new perspectives"
+            },
+            {
+              "name": "Voice of Time",
+              "description": "A Sennin who achieved immortality but refused to stop growing"
+            },
+            {
+              "name": "Voice of Chaos",
+              "description": "A Kikai-Ryū who partially overcame their corruption"
+            },
+            {
+              "name": "Voice of Balance",
+              "description": "A being born from the convergence itself, with no prior existence"
+            }
+          ],
+          "authority": [
+            "Harmony Field - Within Shinsekai, all beings are weakened or strengthened to achieve balance",
+            "Convergence Sight - They perceive how all events affect the cosmic balance",
+            "Veto Power - Any five members acting together can block any divine action within Shinsekai",
+            "Reality Weaving - They can temporarily alter the rules of reality within their domain"
+          ],
+          "blessing": {
+            "name": "Mark of the Spiral",
+            "description": "A swirling pattern of five colors somewhere on the body",
+            "grants": [
+              "Balance Sense - The blessed perceives imbalances in power, emotion, and reality",
+              "Adaptive Resistance - The blessed gradually becomes resistant to any repeated attack",
+              "Convergence Step - The blessed can briefly exist in multiple places at once",
+              "Harmony's Favor - The blessed is treated as neutral by all factions, able to pass through any territory"
+            ]
+          }
+        },
+        "troops": [
+          {
+            "id": "p5_t1",
+            "name": "Konron-Senshi",
+            "full_name": "Chaos Warriors",
+            "rank": ["Epic", "Legend", "Immortal"],
+            "blessing": "Konron no Chikara (Power of Chaos)",
+            "description": "The Konron-Senshi are beings who have embraced the fundamental chaos at the heart of existence. They understand that order is temporary, that rules are illusions, and that true power comes from accepting the infinite possibilities of each moment.",
+            "physical_appearance": {
+              "form": "Constantly shifting, never stable",
+              "features": "Whatever is most useful at the moment",
+              "size": "Varies, but typically humanoid",
+              "armor": "Shifts with their form",
+              "weapons": "Manifest as needed, then dissolve",
+              "aura": "Faint shimmer like heat haze",
+              "eyes": "Usually visible, calm and knowing despite the chaos"
+            },
+            "lore": "The Konron-Senshi are recruited from among those who have achieved enlightenment regarding the nature of reality—who understand that the universe is fundamentally chaotic and that order is a temporary illusion we impose upon it.",
+            "abilities": {
+              "passive": {
+                "name": "Chaotic Form",
+                "description": "The Konron-Senshi's constantly shifting form makes them difficult to target. Attacks against them have a chance to miss entirely, and even successful hits might strike a less vulnerable area."
+              },
+              "basic_skills": [
+                {
+                  "name": "Chaos Strike",
+                  "description": "An attack whose damage type (physical, elemental, spiritual) changes each time, making it hard to defend against."
+                },
+                {
+                  "name": "Shift",
+                  "description": "The warrior briefly shifts form, becoming untargetable and reappearing elsewhere."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Probability Manipulation",
+                  "description": "The warrior slightly alters probability in their favor, making their next attack critical and the enemy's next attack miss."
+                },
+                {
+                  "name": "Reality Flicker",
+                  "description": "The warrior exists in multiple places simultaneously for a moment, attacking all nearby enemies."
+                },
+                {
+                  "name": "Chaos Shield",
+                  "description": "Creates a barrier of pure chaos that absorbs damage and reflects a random portion back as a random damage type."
+                }
+              ],
+              "unique_skill": {
+                "name": "Form of Possibility",
+                "description": "The warrior temporarily becomes all possibilities simultaneously, gaining the abilities of any form they choose and able to switch between them at will."
+              },
+              "ultimate_skill": {
+                "name": "Chaos Unleashed",
+                "description": "The warrior releases the full chaos within them, creating a field where reality breaks down. Enemies within experience random effects: damage, healing, transformation, teleportation, time loops. The warrior cannot control what happens but is immune to the effects themselves."
+              }
+            },
+            "character_references": [7, 19, 23, 24, 32, 39]
+          },
+          {
+            "id": "p5_t2",
+            "name": "Jikū-Senshi",
+            "full_name": "Space-Time Warriors",
+            "rank": ["Myth", "Divine"],
+            "blessing": "Jikū no Chikara (Power of Space-Time)",
+            "description": "The Jikū-Senshi are beings who have mastered the manipulation of space and time, allowing them to exist in multiple moments simultaneously and to be wherever they are needed most.",
+            "physical_appearance": {
+              "form": "Humanoid but temporally unstable",
+              "features": "Constantly flickering between past and future versions",
+              "skin": "Pale, with occasional moments of transparency",
+              "eyes": "Multiple afterimages trail their gaze",
+              "armor": "Wrapped in swirling temporal energy",
+              "weapons": "Exist simultaneously in multiple states",
+              "aura": "Faint distortion like heat haze, but wrong"
+            },
+            "lore": "The Jikū-Senshi are rare even among the Convergence's forces, requiring a specific combination of natural talent and rigorous training. Candidates must first achieve perfect awareness of the present moment, then learn to extend that awareness into the past and future.",
+            "abilities": {
+              "passive": {
+                "name": "Temporal Awareness",
+                "description": "The Jikū-Senshi perceives all possible futures simultaneously, allowing them to automatically evade attacks they see coming. They cannot be surprised, and their attacks always strike where the enemy will be, not where they are."
+              },
+              "basic_skills": [
+                {
+                  "name": "Temporal Slash",
+                  "description": "An attack that strikes the enemy in past, present, and future simultaneously, dealing triple damage."
+                },
+                {
+                  "name": "Time Step",
+                  "description": "The warrior briefly steps outside the timestream, becoming untargetable and able to reposition."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Time Slow",
+                  "description": "The warrior slows time in an area, making allies faster and enemies slower relative to the outside world."
+                },
+                {
+                  "name": "Future Sight",
+                  "description": "The warrior sees one possible future and can warn allies, granting them a chance to evade the next attack."
+                },
+                {
+                  "name": "Past Echo",
+                  "description": "The warrior summons an echo of themselves from one second ago to attack again."
+                }
+              ],
+              "unique_skill": {
+                "name": "Temporal Loop",
+                "description": "The warrior traps an enemy in a short time loop, forcing them to repeat the same actions while taking damage each cycle."
+              },
+              "ultimate_skill": {
+                "name": "Timestream Severance",
+                "description": "The warrior cuts an enemy's connection to their own timeline, temporarily removing them from existence. While severed, the enemy cannot act, cannot be targeted, and does not exist. When they return, they have no memory of the intervening time."
+              }
+            },
+            "character_references": [18, 30, 35, 45]
+          },
+          {
+            "id": "p5_t3",
+            "name": "Gensō-Senshi",
+            "full_name": "Illusion Warriors",
+            "rank": ["Special", "Epic", "Legend"],
+            "blessing": "Gensō no Chikara (Power of Illusion)",
+            "description": "The Gensō-Senshi are masters of perception, able to create illusions so powerful that they become indistinguishable from reality. They understand that all of existence is, in a sense, an illusion—a shared dream that we all agree to call reality.",
+            "physical_appearance": {
+              "form": "Variable, always chosen",
+              "true_form": "Hidden, unknown",
+              "features": "Whatever they wish you to perceive",
+              "armor": "Part of the illusion",
+              "weapons": "Also illusory, but still dangerous",
+              "aura": "Subtle wrongness that only the perceptive notice",
+              "eyes": "Often the only clue—they never match the rest of the illusion"
+            },
+            "lore": "The Gensō-Senshi began as tricksters, deceivers, and artists—beings who understood that perception is reality and that changing how something is seen changes what it is. They honed their skills over centuries, learning to create illusions that could fool gods and mortals alike.",
+            "abilities": {
+              "passive": {
+                "name": "Unreliable Target",
+                "description": "The Gensō-Senshi constantly projects an illusion of being somewhere else. Attacks against them have a high chance to hit the illusion instead of the real warrior."
+              },
+              "basic_skills": [
+                {
+                  "name": "Phantom Strike",
+                  "description": "An illusory copy of the warrior attacks, dealing real damage if believed in."
+                },
+                {
+                  "name": "Veil",
+                  "description": "The warrior becomes invisible for a short time."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Mass Illusion",
+                  "description": "Creates an illusory army that enemies must waste time attacking."
+                },
+                {
+                  "name": "Reality Shift",
+                  "description": "Temporarily changes how an area is perceived, making allies look like enemies and enemies look like allies."
+                },
+                {
+                  "name": "Nightmare",
+                  "description": "Creates an illusion personalized to an enemy's greatest fear, stunning them."
+                }
+              ],
+              "unique_skill": {
+                "name": "Illusion Breaker",
+                "description": "The warrior strips away all illusions in an area, revealing truth. This can expose hidden enemies, dispel buffs, and reveal weaknesses."
+              },
+              "ultimate_skill": {
+                "name": "Dream Weaving",
+                "description": "The warrior temporarily replaces reality with a dream of their choosing. For a duration, they control what enemies perceive, see, and experience. They cannot directly harm enemies in this state, but they can make enemies harm themselves or each other."
+              }
+            },
+            "character_references": [2, 4, 9, 12, 16, 33]
+          }
+        ]
+      }
+    ],
+    "monster_hierarchy": [
+      {
+        "tier": 1,
+        "name": "Normal",
+        "classification": "Heimin",
+        "description": "Normal monsters are the common creatures of Zerox Enon—the wolves that hunt in the forests, the spirits that haunt abandoned shrines, the constructs that guard ancient tombs. They possess basic instincts, minimal intelligence, and powers that are easily understood and countered.",
+        "monsters": [
+          {
+            "id": "m1_1",
+            "name": "Kappa",
+            "full_name": "River Imp",
+            "classification": "Normal",
+            "habitat": "Rivers, lakes, ponds throughout Zerox Enon",
+            "threat_level": "Low to Moderate",
+            "physical_description": "The Kappa is one of the most recognizable yokai in Zerox Enon, appearing as a humanoid creature roughly the size of a child. Its body is covered in scales that range from green to blue, and it has a turtle-like shell on its back. Its face is monkey-like with a pointed mouth, and its hands and feet are webbed. The most distinctive feature is the sara (dish) on top of its head, which holds water—the source of its power and life.",
+            "lore": "Kappa are river spirits that have existed since the first humans settled near water. They are mischievous rather than evil, known for pulling people into rivers, stealing crops, and occasionally drowning livestock. However, they also help with irrigation and will return favors done for them. The key to dealing with a Kappa is politeness—if you bow to a Kappa, it will bow back, and water will spill from its dish, weakening it.",
+            "abilities": {
+              "passive": {
+                "name": "Water Source",
+                "description": "The Kappa's power depends on the water in its head-dish. While the dish contains water, the Kappa has enhanced strength and regeneration. If the dish is emptied, the Kappa becomes significantly weaker."
+              },
+              "basic_skills": [
+                {
+                  "name": "Water Gun",
+                  "description": "The Kappa spits a high-pressure stream of water, knocking back and damaging a single target."
+                },
+                {
+                  "name": "Grapple",
+                  "description": "The Kappa grabs a target and attempts to pull them into water."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Sumo Slam",
+                  "description": "The Kappa uses its opponent's momentum against them, throwing them with surprising force."
+                },
+                {
+                  "name": "Cucumber Lure",
+                  "description": "The Kappa creates an illusory cucumber (its favorite food) to distract enemies."
+                },
+                {
+                  "name": "Water Shield",
+                  "description": "Creates a barrier of swirling water that absorbs damage."
+                }
+              ],
+              "unique_skill": {
+                "name": "Polite Bow",
+                "description": "The Kappa bows deeply, spilling water from its dish. If an enemy bows back, the Kappa is confused and cannot act for a moment. If they don't, the Kappa becomes angry and attacks with increased ferocity."
+              },
+              "ultimate_skill": {
+                "name": "River's Wrath",
+                "description": "The Kappa calls upon the river itself, creating a flood that damages and sweeps away all enemies in an area."
+              }
+            }
+          },
+          {
+            "id": "m1_2",
+            "name": "Tsuchigumo",
+            "full_name": "Earth Spider",
+            "classification": "Normal",
+            "habitat": "Mountains, caves, underground throughout Zerox Enon",
+            "threat_level": "Low to Moderate",
+            "physical_description": "The Tsuchigumo is a massive spider, easily the size of a small horse, with a body covered in bristly hair the color of earth and stone. Its eight eyes glow with a faint red light, and its fangs drip with venom that can paralyze prey instantly. Its legs are thick and powerful, capable of digging through solid rock. Unlike ordinary spiders, Tsuchigumo do not spin webs—they create tunnels, collapsing them on prey and then digging through the rubble to feed.",
+            "lore": "Tsuchigumo are ancient creatures, said to be the transformed spirits of warriors who died in mountain battles and were never given proper burial. They haunt the mountains where they fell, attacking travelers who wander too close to their graves. Some Tsuchigumo have grown to enormous size over centuries, becoming mountain spirits in their own right.",
+            "abilities": {
+              "passive": {
+                "name": "Stone Skin",
+                "description": "The Tsuchigumo's chitin is as hard as rock, granting it high resistance to physical damage. However, it is vulnerable to earth-based magic, which can cause its body to crack."
+              },
+              "basic_skills": [
+                {
+                  "name": "Venom Bite",
+                  "description": "A bite that deals damage and applies a paralyzing venom."
+                },
+                {
+                  "name": "Leg Sweep",
+                  "description": "The spider sweeps its powerful legs, knocking back nearby enemies."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Tunnel",
+                  "description": "The Tsuchigumo digs into the ground, emerging elsewhere and surprising enemies."
+                },
+                {
+                  "name": "Rock Shower",
+                  "description": "The spider kicks up stones that rain down on enemies."
+                },
+                {
+                  "name": "Earth Shield",
+                  "description": "Creates a barrier of packed earth that absorbs damage."
+                }
+              ],
+              "unique_skill": {
+                "name": "Collapse",
+                "description": "The Tsuchigumo causes the ground to collapse beneath enemies, trapping them in a pit."
+              },
+              "ultimate_skill": {
+                "name": "Mountain's Wrath",
+                "description": "The Tsuchigumo calls upon the mountain itself, causing rockslides and earthquakes that devastate a large area."
+              }
+            }
+          },
+          {
+            "id": "m1_3",
+            "name": "Karakasa",
+            "full_name": "Paper Umbrella Spirit",
+            "classification": "Normal",
+            "habitat": "Urban areas, roadsides, anywhere discarded items accumulate",
+            "threat_level": "Low",
+            "physical_description": "The Karakasa is a tsukumogami—a spirit that inhabits a discarded object that has reached its 100th birthday. It appears as a single-legged umbrella with one eye, a long tongue, and wooden geta sandals on its single foot. It hops about, often startling travelers. Its body is the umbrella itself, the paper sometimes torn and the ribs broken. When it opens, it can reveal a mouth lined with sharp teeth.",
+            "lore": "Karakasa are among the most common tsukumogami, as umbrellas are frequently discarded. They are said to be playful rather than malicious, enjoying nothing more than popping open suddenly to scare passersby. However, if provoked, they can become dangerous, their paper edges sharp as knives.",
+            "abilities": {
+              "passive": {
+                "name": "Paper Body",
+                "description": "The Karakasa's paper body makes it light and difficult to hit, but vulnerable to fire and water."
+              },
+              "basic_skills": [
+                {
+                  "name": "Open Slam",
+                  "description": "The Karakasa opens suddenly, startling an enemy and dealing minor damage."
+                },
+                {
+                  "name": "Hop",
+                  "description": "The Karakasa hops away, evading attacks."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Paper Cut",
+                  "description": "The Karakasa's edges sharpen, dealing slashing damage."
+                },
+                {
+                  "name": "Spook",
+                  "description": "The Karakasa pops open in an enemy's face, stunning them briefly."
+                },
+                {
+                  "name": "Glide",
+                  "description": "The Karakasa opens and glides on the wind, moving quickly."
+                }
+              ],
+              "unique_skill": {
+                "name": "Possess",
+                "description": "The Karakasa briefly possesses another umbrella, using it to attack."
+              },
+              "ultimate_skill": {
+                "name": "Umbrella Storm",
+                "description": "The Karakasa multiplies into dozens of copies, all attacking simultaneously before reforming."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "tier": 2,
+        "name": "Rare",
+        "classification": "Mezurashī",
+        "description": "Rare monsters possess greater power and intelligence than normal creatures. They are often the leaders of normal monster groups, the guardians of important locations, or the results of unusual circumstances.",
+        "monsters": [
+          {
+            "id": "m2_1",
+            "name": "Nurarihyon",
+            "full_name": "Grandfather of All Yokai",
+            "classification": "Rare",
+            "habitat": "Throughout Zerox Enon, wherever yokai gather",
+            "threat_level": "Moderate",
+            "physical_description": "The Nurarihyon appears as an elderly man with a elongated, featureless head that resembles a monk's tonsure but is actually a gourd-shaped cranium. He wears traditional robes and carries a staff, and he moves with the slow, deliberate pace of great age. His face, when visible, is wrinkled and wise, with eyes that have seen centuries.",
+            "lore": "The Nurarihyon is said to be the original yokai, the first spirit to emerge from the primordial chaos. He has existed since before the gods, before the Celestial Court, before the Shadow Spirit Court. He has seen everything and forgotten nothing.",
+            "abilities": {
+              "passive": {
+                "name": "Ancient Wisdom",
+                "description": "The Nurarihyon's centuries of experience allow him to predict enemy actions with frightening accuracy. Attacks against him have a high chance to miss, and he always seems to be where danger isn't."
+              },
+              "basic_skills": [
+                {
+                  "name": "Staff Tap",
+                  "description": "A light tap that somehow carries the weight of centuries, dealing spiritual damage."
+                },
+                {
+                  "name": "Tea Offering",
+                  "description": "The Nurarihyon offers tea, which can either heal an ally or confuse an enemy."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Elder's Command",
+                  "description": "The Nurarihyon speaks a single word, and lesser yokai must obey. He can order them to attack, defend, or cease hostilities."
+                },
+                {
+                  "name": "Memory Sip",
+                  "description": "He sips tea and experiences a memory, which he can then share with others or use to gain insight."
+                },
+                {
+                  "name": "Comfortable Spot",
+                  "description": "Wherever the Nurarihyon sits becomes a place of peace, healing all who rest there."
+                }
+              ],
+              "unique_skill": {
+                "name": "Yokai Summit",
+                "description": "The Nurarihyon calls a gathering of all yokai in the area, forcing them to pause their activities and listen. This can stop ongoing battles or create opportunities."
+              },
+              "ultimate_skill": {
+                "name": "Primordial Wisdom",
+                "description": "The Nurarihyon channels his ancient knowledge, temporarily understanding all things. During this time, he cannot be deceived, cannot be surprised, and his advice is absolute truth."
+              }
+            }
+          },
+          {
+            "id": "m2_2",
+            "name": "Kodama",
+            "full_name": "Tree Spirits",
+            "classification": "Rare",
+            "habitat": "Ancient forests throughout Zerox Enon",
+            "threat_level": "Low (individually) to High (in groups)",
+            "physical_description": "Kodama are small spirits that inhabit ancient trees, appearing as tiny humanoid figures made of pale light. They have no distinct features—just vaguely human shapes with two brighter points for eyes. They drift among the branches of their host trees, occasionally appearing to travelers who treat the forest with respect.",
+            "lore": "Kodama are the spirits of trees, born when a tree reaches a certain age and becomes aware of its own existence. They are shy, gentle creatures, watching travelers from the branches and occasionally leaving offerings for those who show respect. Harm a Kodama's tree, and you harm the Kodama.",
+            "abilities": {
+              "passive": {
+                "name": "Forest Sense",
+                "description": "Kodama are aware of everything happening in their forest. They cannot be surprised, and they can communicate with all plants and animals."
+              },
+              "basic_skills": [
+                {
+                  "name": "Glow",
+                  "description": "The Kodama emits a soft light, revealing hidden things."
+                },
+                {
+                  "name": "Whisper",
+                  "description": "The Kodama whispers secrets, providing information or causing confusion."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Branch Whip",
+                  "description": "The Kodama causes branches to whip at enemies."
+                },
+                {
+                  "name": "Root Bind",
+                  "description": "Roots burst from the ground, holding enemies in place."
+                },
+                {
+                  "name": "Healing Light",
+                  "description": "The Kodama's glow heals allies."
+                }
+              ],
+              "unique_skill": {
+                "name": "Forest's Curse",
+                "description": "The Kodama curses an enemy, causing them to become lost and confused in the forest."
+              },
+              "ultimate_skill": {
+                "name": "Forest Army",
+                "description": "The Kodama calls upon all the spirits of the forest, causing the very woods to attack enemies."
+              }
+            }
+          },
+          {
+            "id": "m2_3",
+            "name": "Kamaitachi",
+            "full_name": "Sickle Weasels",
+            "classification": "Rare",
+            "habitat": "Grasslands, fields, anywhere with tall grass",
+            "threat_level": "Moderate",
+            "physical_description": "The Kamaitachi are a trio of weasel-like yokai that ride on whirlwinds and carry razor-sharp sickles. The first weasel knocks victims down, the second cuts them with its sickle, and the third applies medicine to the wounds—ensuring that the victim feels pain but doesn't die. They appear as small, sleek weasels with sickles for front claws, moving so fast they're nearly invisible.",
+            "lore": "Kamaitachi are wind spirits that take the form of weasels. They delight in surprising travelers, cutting them with their sickles, and then watching them try to understand what happened. The wounds they inflict are painless at first but begin to hurt moments later—the effect of the medicine the third sibling applies.",
+            "abilities": {
+              "passive": {
+                "name": "Wind Speed",
+                "description": "Kamaitachi move at incredible speed, making them difficult to hit. They also ignore movement penalties from terrain."
+              },
+              "basic_skills": [
+                {
+                  "name": "Sickle Slash",
+                  "description": "A fast slashing attack that deals damage and applies a bleed effect."
+                },
+                {
+                  "name": "Whirlwind Dodge",
+                  "description": "The Kamaitachi turns into wind, evading attacks and repositioning."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Triple Strike",
+                  "description": "All three siblings attack in sequence, dealing increasing damage."
+                },
+                {
+                  "name": "Wind Ride",
+                  "description": "The Kamaitachi ride a whirlwind, becoming untargetable and moving quickly."
+                },
+                {
+                  "name": "Medicine Application",
+                  "description": "The third sibling applies medicine, which can heal allies or cause delayed damage to enemies."
+                }
+              ],
+              "unique_skill": {
+                "name": "Invisible Cut",
+                "description": "The Kamaitachi attack so fast that enemies don't realize they've been hit until later, when damage accumulates."
+              },
+              "ultimate_skill": {
+                "name": "Windstorm Slash",
+                "description": "The Kamaitachi create a tornado of slicing wind, damaging all enemies in a large area repeatedly."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "tier": 3,
+        "name": "Special",
+        "classification": "Tokubetsu",
+        "description": "Special monsters possess unique abilities and often serve as guardians of important locations or as lieutenants to more powerful beings. They are intelligent, capable of complex strategies, and often have followers of their own.",
+        "monsters": [
+          {
+            "id": "m3_1",
+            "name": "Tengu",
+            "full_name": "Mountain Goblins",
+            "classification": "Special",
+            "habitat": "Deep mountains, ancient forests throughout Zerox Enon",
+            "threat_level": "Moderate to High",
+            "physical_description": "Tengu appear as humanoids with long noses and feathered wings. Their skin ranges from red to blue, and they wear the robes of mountain ascetics, complete with small black hats and geta sandals. In their hands, they carry fans made of feathers—their primary weapons and tools of magic. The Karasu-Tengu (crow tengu) have bird-like features—beaks instead of noses, feathers covering their bodies, and more pronounced wings.",
+            "lore": "Tengu were once considered evil spirits, demons that terrorized travelers and kidnapped children. Over time, their reputation softened, and they became known as protectors of the mountains, teachers of martial arts, and tricksters who punished the arrogant. Tengu are masters of combat, particularly swordsmanship and the use of the war fan.",
+            "abilities": {
+              "passive": {
+                "name": "Wind Walker",
+                "description": "Tengu can fly and are unaffected by wind-based effects. They move silently and leave no tracks."
+              },
+              "basic_skills": [
+                {
+                  "name": "Fan Gust",
+                  "description": "The Tengu fans its wings or war fan, creating a gust that damages and knocks back enemies."
+                },
+                {
+                  "name": "Sword Strike",
+                  "description": "A precise sword strike that deals damage and can disarm."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Magic Fan",
+                  "description": "The Tengu's fan creates illusions, confuses enemies, or controls wind."
+                },
+                {
+                  "name": "Martial Teaching",
+                  "description": "The Tengu briefly teaches an ally a technique, granting them a temporary ability."
+                },
+                {
+                  "name": "Mist Walk",
+                  "description": "The Tengu disappears into mist, becoming untargetable."
+                }
+              ],
+              "unique_skill": {
+                "name": "Challenge",
+                "description": "The Tengu challenges an enemy to single combat. If accepted, both are bound to fight without interference. If refused, the enemy is shamed and weakened."
+              },
+              "ultimate_skill": {
+                "name": "Mountain's Wrath",
+                "description": "The Tengu calls upon the mountain, causing rockslides and storms that devastate a large area."
+              }
+            }
+          },
+          {
+            "id": "m3_2",
+            "name": "Yuki-Onna",
+            "full_name": "Snow Woman",
+            "classification": "Special",
+            "habitat": "Snowy mountains, blizzards, frozen wastelands",
+            "threat_level": "High",
+            "physical_description": "The Yuki-Onna is a spirit of winter, appearing as a breathtakingly beautiful woman with skin as pale as snow, hair as black as a winter night, and lips the color of frozen blood. She wears a white kimono that seems to blend with the snow around her, and she leaves no footprints as she walks. Her eyes are deep and cold, holding the loneliness of eternal winter.",
+            "lore": "Yuki-Onna are the spirits of women who died in snowstorms, their souls unable to find peace. They wander the mountains where they perished, sometimes luring travelers to their deaths, sometimes saving them. Their behavior is unpredictable, driven by the loneliness and sorrow of their deaths.",
+            "abilities": {
+              "passive": {
+                "name": "Frozen Heart",
+                "description": "The Yuki-Onna is immune to cold damage and constantly radiates cold, slowly freezing enemies near her. Water near her turns to ice."
+              },
+              "basic_skills": [
+                {
+                  "name": "Ice Breath",
+                  "description": "The Yuki-Onna exhales a cloud of freezing air, damaging and slowing enemies."
+                },
+                {
+                  "name": "Frozen Touch",
+                  "description": "Her touch deals cold damage and can freeze a target solid."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Blizzard",
+                  "description": "Creates a localized snowstorm that damages and blinds enemies."
+                },
+                {
+                  "name": "Ice Mirror",
+                  "description": "Creates a mirror of ice that reflects attacks."
+                },
+                {
+                  "name": "Snow Cloak",
+                  "description": "The Yuki-Onna becomes nearly invisible in snow."
+                }
+              ],
+              "unique_skill": {
+                "name": "Fatal Embrace",
+                "description": "The Yuki-Onna embraces a target, freezing them solid while draining their warmth to heal herself."
+              },
+              "ultimate_skill": {
+                "name": "Eternal Winter",
+                "description": "The Yuki-Onna unleashes the full fury of winter, freezing an entire area solid. Enemies caught are damaged and trapped in ice."
+              }
+            }
+          },
+          {
+            "id": "m3_3",
+            "name": "Nue",
+            "full_name": "Chimera",
+            "classification": "Special",
+            "habitat": "Dark forests, mountains, near places of death",
+            "threat_level": "High",
+            "physical_description": "The Nue is a chimera with the head of a monkey, the body of a tanuki (racoon dog), the legs of a tiger, and the tail of a serpent. Its body is covered in black scales rather than fur, and its eyes glow with malevolent intelligence. When it moves, each part seems to act independently, creating a disturbing, disjointed motion. It is large, easily the size of a horse.",
+            "lore": "Nue are born from concentrated negative emotions—fear, despair, hatred—gathering in places of death or great suffering. They are omens of disaster, and their appearance often precedes plagues, wars, or natural catastrophes. Killing a Nue is difficult, as its composite nature makes it resistant to most attacks.",
+            "abilities": {
+              "passive": {
+                "name": "Composite Body",
+                "description": "The Nue's different parts act independently. It can make multiple attacks per turn, and damaging one part doesn't affect the others. However, each part can be targeted separately."
+              },
+              "basic_skills": [
+                {
+                  "name": "Monkey Bite",
+                  "description": "The monkey head bites, dealing damage and applying a disease."
+                },
+                {
+                  "name": "Tiger Claw",
+                  "description": "The tiger legs slash, dealing damage and applying bleed."
+                },
+                {
+                  "name": "Serpent Strike",
+                  "description": "The serpent tail strikes, dealing poison damage."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Disease Cloud",
+                  "description": "The Nue emits a cloud of pestilence that damages and sickens enemies."
+                },
+                {
+                  "name": "Omen of Death",
+                  "description": "The Nue's cry causes fear and weakness in all who hear it."
+                },
+                {
+                  "name": "Chaos Body",
+                  "description": "The Nue's parts attack randomly, making its movements unpredictable."
+                }
+              ],
+              "unique_skill": {
+                "name": "Misfortune",
+                "description": "The Nue curses a target, causing them to experience bad luck—attacks miss, items break, allies accidentally harm them."
+              },
+              "ultimate_skill": {
+                "name": "Disaster's Arrival",
+                "description": "The Nue calls forth a localized disaster—earthquake, plague, storm—that devastates a large area."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "tier": 4,
+        "name": "Epic",
+        "classification": "Eikō",
+        "description": "Epic monsters are legendary creatures, known throughout Zerox Enon. They possess great power, intelligence, and often serve as major antagonists or guardians. Defeating an epic monster is a feat worthy of songs and stories.",
+        "monsters": [
+          {
+            "id": "m4_1",
+            "name": "Ōtake-Maru",
+            "full_name": "Great Bamboo Cutter",
+            "classification": "Epic",
+            "habitat": "Bamboo forests, particularly in Shinkage",
+            "threat_level": "Very High",
+            "physical_description": "Ōtake-Maru appears as a giant made entirely of bamboo, standing over thirty feet tall. His body is composed of thick bamboo stalks woven together, his arms are massive bamboo clubs, and his head is a cluster of bamboo leaves surrounding a single, glowing eye. When he moves, he makes the sound of a forest swaying in the wind—creaking, rustling, and the occasional sharp crack of breaking stalks.",
+            "lore": "Ōtake-Maru was once a simple bamboo cutter who loved the forest where he worked. He treated the bamboo with respect, always giving thanks for each stalk he cut and never taking more than he needed. When he died, the bamboo forest he had protected for so long refused to let him go, and his spirit merged with the plants to become their eternal guardian.",
+            "abilities": {
+              "passive": {
+                "name": "Forest's Strength",
+                "description": "Ōtake-Maru is stronger in bamboo forests, where he can draw power from the plants around him. He regenerates health rapidly and his attacks are enhanced."
+              },
+              "basic_skills": [
+                {
+                  "name": "Bamboo Slam",
+                  "description": "He slams his massive club-arms down, creating a shockwave."
+                },
+                {
+                  "name": "Stalk Spear",
+                  "description": "Bamboo stalks shoot from the ground, impaling enemies."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Forest Embrace",
+                  "description": "Bamboo wraps around enemies, holding them in place and slowly crushing them."
+                },
+                {
+                  "name": "Leaf Storm",
+                  "description": "Razor-sharp bamboo leaves whirl around him, damaging all nearby."
+                },
+                {
+                  "name": "Root Healing",
+                  "description": "He sinks roots into the ground, rapidly regenerating health."
+                }
+              ],
+              "unique_skill": {
+                "name": "Judgment",
+                "description": "Ōtake-Maru judges a target based on their treatment of nature. The guilty take massive damage; the innocent are healed."
+              },
+              "ultimate_skill": {
+                "name": "Bamboo Forest Manifestation",
+                "description": "Ōtake-Maru calls forth an entire bamboo forest, transforming the battlefield into his domain where he has absolute control."
+              }
+            }
+          },
+          {
+            "id": "m4_2",
+            "name": "Umi-Bōzu",
+            "full_name": "Sea Monk",
+            "classification": "Epic",
+            "habitat": "Oceans, particularly around Kishima and Tenryuku",
+            "threat_level": "Very High",
+            "physical_description": "The Umi-Bōzu appears as a massive humanoid figure rising from the sea, its body composed of dark, churning water. It has a round, bald head like a monk's and two glowing eyes that pierce the darkness of storms. Its size varies—sometimes as tall as a ship's mast, sometimes towering over islands. When it speaks, its voice is the sound of crashing waves.",
+            "lore": "Umi-Bōzu are said to be the spirits of drowned monks, their souls unable to find peace and instead merging with the sea. They appear during storms, towering over ships and demanding answers from the crews. Those who answer respectfully may be spared; those who show fear or disrespect are dragged beneath the waves.",
+            "abilities": {
+              "passive": {
+                "name": "Water Form",
+                "description": "The Umi-Bōzu's body is made of water, making it immune to physical damage. Only magical attacks can harm it. It can also reform if partially dispersed."
+              },
+              "basic_skills": [
+                {
+                  "name": "Wave Slam",
+                  "description": "Creates a massive wave that damages and knocks back enemies."
+                },
+                {
+                  "name": "Drowning Grasp",
+                  "description": "Watery hands reach up to grab and drown enemies."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Storm Call",
+                  "description": "Summons a localized storm with lightning and heavy rain."
+                },
+                {
+                  "name": "Ship Breaker",
+                  "description": "Focuses on ships or large structures, dealing massive damage."
+                },
+                {
+                  "name": "Whirlpool",
+                  "description": "Creates a whirlpool that pulls in and damages enemies."
+                }
+              ],
+              "unique_skill": {
+                "name": "Questioning",
+                "description": "The Umi-Bōzu asks a question. Those who answer truthfully may be spared; those who lie are attacked with increased ferocity."
+              },
+              "ultimate_skill": {
+                "name": "Tsunami",
+                "description": "The Umi-Bōzu calls forth a massive tsunami that devastates an entire coastline or fleet."
+              }
+            }
+          },
+          {
+            "id": "m4_3",
+            "name": "Shutendōji",
+            "full_name": "Drunk Demon",
+            "classification": "Epic",
+            "habitat": "Mountains, particularly on Hōraisan's lower slopes",
+            "threat_level": "Very High",
+            "physical_description": "Shutendōji appears as a giant of a man, easily fifteen feet tall, with red skin, long wild hair, and a face that is both handsome and terrifying. He wears elaborate robes befitting a noble, but they are always disheveled, stained with sake and blood. In one hand, he carries a massive sake cup; in the other, a sword as tall as a normal man.",
+            "lore": "Shutendōji was once a human bandit who discovered a magical sake that transformed him into an oni. He gathered a band of followers and established a fortress in the mountains, from which they raided nearby villages. In Zerox Enon, Shutendōji is not a single being but a title—the leader of any particularly powerful oni band.",
+            "abilities": {
+              "passive": {
+                "name": "Drunken Stance",
+                "description": "Shutendōji's movements become unpredictable when he drinks. Attacks against him have a chance to miss, and his own attacks gain bonus damage."
+              },
+              "basic_skills": [
+                {
+                  "name": "Sake Splash",
+                  "description": "Throws sake that burns (literally and figuratively), dealing damage and disorienting."
+                },
+                {
+                  "name": "Oni Slash",
+                  "description": "A powerful sword strike that deals heavy damage."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Drunken Frenzy",
+                  "description": "Shutendōji drinks deeply and enters a frenzy, attacking randomly with increased power."
+                },
+                {
+                  "name": "Bandit Call",
+                  "description": "Summons lesser oni to fight for him."
+                },
+                {
+                  "name": "Fortress Defense",
+                  "description": "Creates a barrier of oni energy that absorbs damage."
+                }
+              ],
+              "unique_skill": {
+                "name": "Invitation to Drink",
+                "description": "Shutendōji offers an enemy a drink. If they accept, they are poisoned and weakened. If they refuse, he becomes enraged."
+              },
+              "ultimate_skill": {
+                "name": "Oni Lord's Wrath",
+                "description": "Shutendōji unleashes his full power, growing even larger and attacking with devastating force."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "tier": 5,
+        "name": "Legend",
+        "classification": "Densetsu",
+        "description": "Legend monsters are beings of immense power, known throughout Zerox Enon and beyond. They are often the subjects of epic poems and songs, their deeds recorded in history. Defeating a legend monster requires the combined efforts of heroes or the direct intervention of gods.",
+        "monsters": [
+          {
+            "id": "m5_1",
+            "name": "Yamata-no-Orochi",
+            "full_name": "Eight-Headed Serpent",
+            "classification": "Legend",
+            "habitat": "The ancient forests of Shinkage, near the Abyss of the Underworld",
+            "threat_level": "Extreme",
+            "physical_description": "Yamata-no-Orochi is a serpent of impossible size, its body coiling through valleys and its eight heads reaching toward the sky like separate mountains. Each head is the size of a temple, with eyes that glow like molten gold and mouths filled with rows of sword-length teeth. Its scales are dark green, nearly black, and each one is the size of a shield. When it moves, the ground shakes, and when all eight heads roar simultaneously, the sound can be heard for miles.",
+            "lore": "Yamata-no-Orochi is one of the oldest beings in Zerox Enon, predating even the Celestial Court. According to legend, it terrorized the land for centuries, demanding yearly sacrifices of young women, until the hero Susano-o defeated it by getting it drunk on sake and then cutting off its heads one by one. In Zerox Enon, the serpent was not killed but merely wounded, and it retreated to the deepest forests to heal.",
+            "abilities": {
+              "passive": {
+                "name": "Eight Lives",
+                "description": "Each of Yamata-no-Orochi's heads must be defeated separately. As long as at least one head remains, the serpent can regenerate lost heads over time."
+              },
+              "basic_skills": [
+                {
+                  "name": "Fire Breath",
+                  "description": "Head 1 breathes massive streams of flame."
+                },
+                {
+                  "name": "Ice Breath",
+                  "description": "Head 2 exhales freezing mist."
+                },
+                {
+                  "name": "Lightning Strike",
+                  "description": "Head 3 calls down thunderbolts."
+                },
+                {
+                  "name": "Venom Spray",
+                  "description": "Head 4 sprays venom."
+                },
+                {
+                  "name": "Earthquake",
+                  "description": "Head 5 causes earthquakes."
+                },
+                {
+                  "name": "Tornado",
+                  "description": "Head 6 creates tornadoes."
+                },
+                {
+                  "name": "Shadow Drain",
+                  "description": "Head 7 emits shadows that drain life."
+                },
+                {
+                  "name": "Holy Beam",
+                  "description": "Head 8 fires beams of holy energy."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Coordinated Strike",
+                  "description": "Multiple heads attack simultaneously, targeting different enemies."
+                },
+                {
+                  "name": "Body Slam",
+                  "description": "The serpent's massive body crashes down, crushing everything in an area."
+                },
+                {
+                  "name": "Regeneration",
+                  "description": "If any head remains, the serpent regenerates lost heads over time."
+                }
+              ],
+              "unique_skill": {
+                "name": "Primordial Roar",
+                "description": "All eight heads roar together, creating a shockwave that damages and fears all who hear it."
+              },
+              "ultimate_skill": {
+                "name": "Apocalypse",
+                "description": "Yamata-no-Orochi unleashes the full power of all eight heads simultaneously, creating a localized apocalypse that devastates everything within miles."
+              }
+            }
+          },
+          {
+            "id": "m5_2",
+            "name": "Hakutaku",
+            "full_name": "White Marsh Spirit",
+            "classification": "Legend",
+            "habitat": "Swamps and marshes throughout Zerox Enon",
+            "threat_level": "Variable (benevolent if respected, deadly if provoked)",
+            "physical_description": "Hakutaku appears as a magnificent white creature with the body of a lion, the face of a human (often with a serene expression), and multiple eyes covering its body. It has nine tails, each one tipped with a tuft of golden fur, and its mane flows like mist. Despite its fearsome appearance, its presence brings peace and clarity to those nearby.",
+            "lore": "Hakutaku is a spirit of wisdom and prophecy, said to appear only during times of great change or crisis. It knows all things—past, present, and future—and can share this knowledge with those it deems worthy. According to legend, Hakutaku was once a scholar who achieved enlightenment and transformed into this form.",
+            "abilities": {
+              "passive": {
+                "name": "All-Knowing",
+                "description": "Hakutaku perceives everything within its domain. It cannot be surprised, cannot be deceived, and always knows the true nature of any being it encounters."
+              },
+              "basic_skills": [
+                {
+                  "name": "Wisdom's Touch",
+                  "description": "A touch that grants understanding, which can heal confusion or reveal truth."
+                },
+                {
+                  "name": "Tail Sweep",
+                  "description": "A sweep of its nine tails that deals minimal damage but reveals weaknesses."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Prophecy",
+                  "description": "Hakutaku speaks a prophecy, which may come true immediately or in the future. Enemies who hear prophecies about themselves may be affected."
+                },
+                {
+                  "name": "Reveal Truth",
+                  "description": "Hakutaku strips away all illusions and deceptions in an area."
+                },
+                {
+                  "name": "Blessing of Clarity",
+                  "description": "Grants an ally perfect understanding, temporarily boosting all abilities."
+                }
+              ],
+              "unique_skill": {
+                "name": "Future Sight",
+                "description": "Hakutaku sees one possible future and can warn allies, allowing them to avoid disasters."
+              },
+              "ultimate_skill": {
+                "name": "Wisdom's Judgment",
+                "description": "Hakutaku judges all beings in an area based on their wisdom and understanding. The wise are blessed; the foolish are cursed."
+              }
+            }
+          },
+          {
+            "id": "m5_3",
+            "name": "Byakko",
+            "full_name": "White Tiger",
+            "classification": "Legend",
+            "habitat": "The western mountains of Tenryuku",
+            "threat_level": "Extreme",
+            "physical_description": "Byakko is one of the Four Celestial Beasts, the guardian of the West. It appears as a massive white tiger, larger than any natural predator, with stripes of silver and gold that seem to shift and flow. Its eyes are the color of autumn leaves, and its roar can be heard across continents. When it moves, wind follows, and when it attacks, its claws leave trails of light.",
+            "lore": "Byakko is one of the Four Celestial Beasts, ancient guardians assigned to protect the four cardinal directions. It has existed since the dawn of time, watching over the West and ensuring that chaos does not spread from that direction. Byakko is associated with autumn, with metal, and with the virtue of righteousness.",
+            "abilities": {
+              "passive": {
+                "name": "Celestial Guardian",
+                "description": "Byakko is immune to corruption and cannot be controlled or influenced by dark forces. Its attacks deal bonus damage to chaotic and evil beings."
+              },
+              "basic_skills": [
+                {
+                  "name": "Tiger Claw",
+                  "description": "A slash that leaves trails of light, dealing damage and applying a mark."
+                },
+                {
+                  "name": "Wind Step",
+                  "description": "Byakko moves with the wind, appearing elsewhere."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Autumn's Wrath",
+                  "description": "Byakko calls upon autumn, causing leaves to fall that cut like blades."
+                },
+                {
+                  "name": "Metal Roar",
+                  "description": "A roar that sounds like crashing metal, damaging and stunning."
+                },
+                {
+                  "name": "Guardian's Shield",
+                  "description": "Creates a barrier of celestial energy that protects allies."
+                }
+              ],
+              "unique_skill": {
+                "name": "Judgment Claw",
+                "description": "Byakko judges a target. The guilty take massive damage; the innocent are unharmed."
+              },
+              "ultimate_skill": {
+                "name": "Western Gate",
+                "description": "Byakko opens the Western Gate of Heaven, calling forth celestial energy that devastates enemies and blesses allies."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "tier": 6,
+        "name": "Myth",
+        "classification": "Shinwa",
+        "description": "Myth monsters are beings of such power that they are often mistaken for gods. They have existed since the earliest days of Zerox Enon and have shaped the course of history through their actions. Defeating a myth monster is nearly impossible without divine intervention.",
+        "monsters": [
+          {
+            "id": "m6_1",
+            "name": "Seiryū",
+            "full_name": "Azure Dragon",
+            "classification": "Myth",
+            "habitat": "The eastern seas of Tenryuku",
+            "threat_level": "Extreme",
+            "physical_description": "Seiryū is one of the Four Celestial Beasts, the guardian of the East. It appears as an azure dragon of breathtaking beauty, its scales the color of a spring sky, its horns branching like ancient trees, and its eyes the deep blue of the ocean. It is immense—when fully extended, its body can wrap around mountains, and its flight casts shadows over entire cities. Unlike other dragons, Seiryū has no wings. It flies through the power of its own will, swimming through the air as easily as through water.",
+            "lore": "Seiryū is the guardian of the East, associated with spring, with wood, and with the virtue of benevolence. It has existed since before the Celestial Court, one of the original forces of order in the universe. It rarely intervenes directly in mortal affairs, but when it does, its actions are always aimed at preserving balance and promoting growth.",
+            "abilities": {
+              "passive": {
+                "name": "Life Giver",
+                "description": "Seiryū's presence causes life to flourish. Allies near it regenerate health rapidly, and plants grow to aid in battle."
+              },
+              "basic_skills": [
+                {
+                  "name": "Azure Breath",
+                  "description": "Breathes a stream of pure water that heals allies and damages enemies."
+                },
+                {
+                  "name": "Tail Sweep",
+                  "description": "A sweep of its massive tail that damages and knocks back."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Spring Storm",
+                  "description": "Creates a gentle storm that heals allies and damages enemies over time."
+                },
+                {
+                  "name": "Wood's Embrace",
+                  "description": "Trees and plants rise to bind enemies and protect allies."
+                },
+                {
+                  "name": "Dragon's Wisdom",
+                  "description": "Seiryū shares its ancient knowledge, granting allies insight."
+                }
+              ],
+              "unique_skill": {
+                "name": "Rejuvenation",
+                "description": "Seiryū restores an ally or area to perfect condition, healing all damage and removing all corruption."
+              },
+              "ultimate_skill": {
+                "name": "Eastern Gate",
+                "description": "Seiryū opens the Eastern Gate of Heaven, calling forth the energy of spring that blesses allies and curses enemies."
+              }
+            }
+          },
+          {
+            "id": "m6_2",
+            "name": "Genbu",
+            "full_name": "Black Tortoise",
+            "classification": "Myth",
+            "habitat": "The northern mountains of Shinkage",
+            "threat_level": "Extreme",
+            "physical_description": "Genbu is one of the Four Celestial Beasts, the guardian of the North. It appears as a massive tortoise with a serpent coiled around its body. The tortoise part is immense, its shell like a small mountain, covered in ancient runes that glow with protective energy. The serpent has its own head, which rises from the tortoise's back, watching in all directions with piercing eyes.",
+            "lore": "Genbu is the guardian of the North, associated with winter, with water, and with the virtue of wisdom. It represents endurance, protection, and the strength that comes from patience. It has existed since before memory, watching the ages pass from its northern home.",
+            "abilities": {
+              "passive": {
+                "name": "Absolute Defense",
+                "description": "Genbu's shell provides near-immunity to damage. Attacks against it are reduced by 90%, and it regenerates any damage taken over time."
+              },
+              "basic_skills": [
+                {
+                  "name": "Shell Slam",
+                  "description": "Genbu slams its massive shell down, creating an earthquake."
+                },
+                {
+                  "name": "Serpent Strike",
+                  "description": "The serpent strikes with lightning speed, dealing poison damage."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Protective Dome",
+                  "description": "Genbu creates a dome of energy that protects all allies inside."
+                },
+                {
+                  "name": "Winter's Chill",
+                  "description": "The serpent breathes freezing mist, damaging and slowing enemies."
+                },
+                {
+                  "name": "Ancient Runes",
+                  "description": "The runes on Genbu's shell glow, providing various buffs to allies."
+                }
+              ],
+              "unique_skill": {
+                "name": "Endurance",
+                "description": "Genbu shares its endurance with an ally, granting them temporary invulnerability."
+              },
+              "ultimate_skill": {
+                "name": "Northern Gate",
+                "description": "Genbu opens the Northern Gate of Heaven, calling forth the energy of winter that protects allies and freezes enemies."
+              }
+            }
+          },
+          {
+            "id": "m6_3",
+            "name": "Suzaku",
+            "full_name": "Vermilion Bird",
+            "classification": "Myth",
+            "habitat": "The southern volcanoes of Hōraisan",
+            "threat_level": "Extreme",
+            "physical_description": "Suzaku is one of the Four Celestial Beasts, the guardian of the South. It appears as a magnificent phoenix, its feathers the color of living flame—red, orange, and gold that shift and flicker like fire. Its eyes are like burning coals, and its cry sounds like the crackling of a great fire. When it flies, it leaves a trail of flame, and when it lands, the ground itself may catch fire.",
+            "lore": "Suzaku is the guardian of the South, associated with summer, with fire, and with the virtue of propriety. It represents passion, transformation, and the power of renewal. Like all phoenixes, Suzaku can be reborn from its own ashes, making it effectively immortal.",
+            "abilities": {
+              "passive": {
+                "name": "Purifying Flame",
+                "description": "Suzaku's flames deal bonus damage to corrupted beings and heal pure beings. Allies near it are slowly cleansed of negative effects."
+              },
+              "basic_skills": [
+                {
+                  "name": "Flame Wing",
+                  "description": "A sweep of its burning wings that damages and burns enemies."
+                },
+                {
+                  "name": "Phoenix Cry",
+                  "description": "A cry that inspires allies and fears enemies."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Summer's Heat",
+                  "description": "Intensifies the heat in an area, damaging enemies over time."
+                },
+                {
+                  "name": "Rebirth Flame",
+                  "description": "Suzaku can heal allies by touching them with its flame."
+                },
+                {
+                  "name": "Fire Shield",
+                  "description": "Creates a shield of flame around itself or an ally."
+                }
+              ],
+              "unique_skill": {
+                "name": "Purification",
+                "description": "Suzaku's flame burns away all corruption from a target or area."
+              },
+              "ultimate_skill": {
+                "name": "Southern Gate",
+                "description": "Suzaku opens the Southern Gate of Heaven, calling forth purifying flame that burns enemies and heals allies."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "tier": 7,
+        "name": "Immortal",
+        "classification": "Fushi",
+        "description": "Immortal monsters are beings that cannot die by any conventional means. They have existed since before recorded history and will exist until the end of time. They are often worshiped as gods by lesser beings, though they are distinct from true divinities.",
+        "monsters": [
+          {
+            "id": "m7_1",
+            "name": "Hōō",
+            "full_name": "Phoenix",
+            "classification": "Immortal",
+            "habitat": "The highest peaks of Hōraisan",
+            "threat_level": "Variable (benevolent to pure, destructive to corrupt)",
+            "physical_description": "The Hōō is the king of all birds, a phoenix of breathtaking beauty. Its feathers are every color imaginable, arranged in patterns that shift and flow like living art. Its tail is long and flowing, trailing rainbow colors, and its crest rises like a crown of flame. Its eyes are deep and wise, holding the knowledge of countless rebirths.",
+            "lore": "The Hōō is not a single being but a title held by the most powerful phoenix of each age. When the current Hōō feels its time ending, it builds a nest of aromatic wood, sets it on fire, and is consumed—only to rise again from the ashes, reborn and renewed. The Hōō appears only in times of peace and prosperity.",
+            "abilities": {
+              "passive": {
+                "name": "Eternal Rebirth",
+                "description": "If the Hōō is killed, it rises from its own ashes after a time, fully healed. This can only be prevented by destroying its ashes before rebirth completes."
+              },
+              "basic_skills": [
+                {
+                  "name": "Rainbow Feather",
+                  "description": "Fires a feather that deals damage based on the target's alignment (more to evil, less to good)."
+                },
+                {
+                  "name": "Healing Song",
+                  "description": "A song that heals all who hear it."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Rebirth Flame",
+                  "description": "The Hōō's flame can either destroy or heal, depending on its will."
+                },
+                {
+                  "name": "Tears of the Phoenix",
+                  "description": "Tears that cure any disease or curse."
+                },
+                {
+                  "name": "Rainbow Trail",
+                  "description": "Leaves a trail of light that heals allies and damages enemies."
+                }
+              ],
+              "unique_skill": {
+                "name": "Judgment of Beauty",
+                "description": "The Hōō judges a target based on their inner beauty. The beautiful are blessed; the ugly are cursed."
+              },
+              "ultimate_skill": {
+                "name": "Rebirth",
+                "description": "The Hōō sacrifices itself to fully heal and resurrect all allies, then rises again from its ashes."
+              }
+            }
+          },
+          {
+            "id": "m7_2",
+            "name": "Baku",
+            "full_name": "Dream Eater",
+            "classification": "Immortal",
+            "habitat": "The dream realm, occasionally manifesting in Shinsekai",
+            "threat_level": "Low (if approached properly)",
+            "physical_description": "The Baku appears as a strange chimera—body of a bear, trunk of an elephant, eyes of a rhinoceros, tail of an ox, and legs of a tiger. Despite this bizarre combination, it has a certain dignity, moving with the gravity of a creature that understands dreams. Its fur is dark, absorbing light, and its eyes glow softly in darkness.",
+            "lore": "The Baku is a spirit of dreams, called upon by those suffering from nightmares. If you wake from a nightmare and call upon the Baku three times, it will come and eat the bad dream, leaving you to sleep peacefully. But the Baku must be treated with respect.",
+            "abilities": {
+              "passive": {
+                "name": "Dream Walker",
+                "description": "The Baku exists simultaneously in the dream realm and the physical world. It can step between them at will and is immune to effects that target only one realm."
+              },
+              "basic_skills": [
+                {
+                  "name": "Nightmare Bite",
+                  "description": "Bites an enemy, consuming their dreams and dealing mental damage."
+                },
+                {
+                  "name": "Dream Step",
+                  "description": "Steps into dreams, becoming untargetable."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Nightmare Feast",
+                  "description": "The Baku feasts on nearby nightmares, healing itself and damaging enemies."
+                },
+                {
+                  "name": "Peaceful Sleep",
+                  "description": "Puts an ally into a healing sleep, restoring health over time."
+                },
+                {
+                  "name": "Dream Trap",
+                  "description": "Traps an enemy in a nightmare, stunning them."
+                }
+              ],
+              "unique_skill": {
+                "name": "Call of the Baku",
+                "description": "The Baku can be called by those in need. When called, it appears instantly, regardless of distance."
+              },
+              "ultimate_skill": {
+                "name": "Dream Eater's Banquet",
+                "description": "The Baku consumes all dreams in a large area, damaging enemies and healing allies based on the power of their dreams."
+              }
+            }
+          },
+          {
+            "id": "m7_3",
+            "name": "Kirin",
+            "full_name": "Qilin",
+            "classification": "Immortal",
+            "habitat": "Sacred mountains, particularly Hōraisan",
+            "threat_level": "Low (benevolent)",
+            "physical_description": "The Kirin is one of the most beautiful creatures in Zerox Enon, appearing as a chimerical being with the body of a deer, the tail of an ox, the hooves of a horse, and a single horn on its forehead. Its body is covered in scales rather than fur, each scale gleaming like a jewel. Flames dance around its feet, but these flames do not burn—they purify.",
+            "lore": "The Kirin is an omen of great events—the birth of a wise ruler, the founding of a new dynasty, the beginning of a golden age. It appears only in times of peace and justice, and its presence blesses the land with prosperity. Unlike many mythical creatures, the Kirin is utterly benevolent.",
+            "abilities": {
+              "passive": {
+                "name": "Purifying Presence",
+                "description": "The Kirin constantly emits an aura of purity. Corrupted beings near it take damage, while pure beings are healed."
+              },
+              "basic_skills": [
+                {
+                  "name": "Horn of Justice",
+                  "description": "The Kirin's horn glows, striking a target with purifying light."
+                },
+                {
+                  "name": "Flame Step",
+                  "description": "The Kirin moves, leaving purifying flames in its wake."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Blessing of Prosperity",
+                  "description": "The Kirin blesses an area, causing crops to grow and resources to appear."
+                },
+                {
+                  "name": "Wisdom's Gift",
+                  "description": "The Kirin shares its wisdom, granting insight to an ally."
+                },
+                {
+                  "name": "Peaceful Presence",
+                  "description": "The Kirin calms all beings in an area, preventing violence."
+                }
+              ],
+              "unique_skill": {
+                "name": "Judgment of the Just",
+                "description": "The Kirin judges a being. The just are blessed; the unjust are cursed."
+              },
+              "ultimate_skill": {
+                "name": "Golden Age",
+                "description": "The Kirin calls upon the power of perfect harmony, transforming an area into a paradise where all allies are blessed and all enemies are pacified."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "tier": 8,
+        "name": "Divine",
+        "classification": "Shinsei",
+        "description": "Divine monsters are beings that have ascended to godhood or were born as gods. They wield power over aspects of existence and are worshiped by mortals. They are the rulers of the pantheons, the forces that shape reality itself.",
+        "monsters": [
+          {
+            "id": "m8_1",
+            "name": "Ryūjin",
+            "full_name": "Dragon God",
+            "classification": "Divine",
+            "habitat": "The Celestial Sea surrounding Tenryuku",
+            "threat_level": "Absolute",
+            "physical_description": "Ryūjin is the Dragon God of the Sea, one of the most powerful beings in Zerox Enon. He appears as an immense dragon, larger than continents, whose body is made of living water and coral. His scales are like islands, his eyes like suns reflected in the ocean, and his voice is the sound of all the seas at once.",
+            "lore": "Ryūjin is the father of all sea dragons and the ruler of the undersea Dragon Palace. He is a benevolent god, generally, though his moods shift with the tides. He rewards those who respect the sea and punishes those who abuse it. His palace is said to be made of crystal and coral, tended by fish and sea creatures who serve as his court.",
+            "abilities": {
+              "passive": {
+                "name": "Lord of the Sea",
+                "description": "Ryūjin has absolute control over water within his domain. He can create tsunamis, calm storms, or drown entire islands at will."
+              },
+              "basic_skills": [
+                {
+                  "name": "Tidal Wave",
+                  "description": "Creates a massive wave that can destroy fleets."
+                },
+                {
+                  "name": "Coral Prison",
+                  "description": "Traps enemies in growing coral."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Storm Call",
+                  "description": "Summons a hurricane that devastates a wide area."
+                },
+                {
+                  "name": "Dragon Palace",
+                  "description": "Summons his palace, which can serve as a fortress or transport."
+                },
+                {
+                  "name": "Tide Jewel",
+                  "description": "Uses the tide jewels to manipulate water on a massive scale."
+                }
+              ],
+              "unique_skill": {
+                "name": "Judgment of the Deep",
+                "description": "Ryūjin judges those who have wronged the sea. The guilty are dragged to the depths."
+              },
+              "ultimate_skill": {
+                "name": "Ocean's Wrath",
+                "description": "Ryūjin calls upon all the oceans of Zerox Enon to rise against his enemies, flooding continents and reshaping the world."
+              }
+            }
+          },
+          {
+            "id": "m8_2",
+            "name": "Tenjin",
+            "full_name": "God of Scholarship",
+            "classification": "Divine",
+            "habitat": "Shrines throughout Zerox Enon, particularly in Shinsekai",
+            "threat_level": "None (benevolent)",
+            "physical_description": "Tenjin appears as a scholar of great age and wisdom, dressed in the robes of a Heian-era noble. His face is kind but serious, with eyes that have read countless books and seen countless students succeed and fail. In one hand, he carries a scroll; in the other, a brush that writes the fate of scholars.",
+            "lore": "Tenjin was once a mortal scholar and poet named Sugawara no Michizane, who was unfairly exiled and died in disgrace. After his death, a series of disasters befell his enemies, and he was deified to appease his angry spirit. Now, Tenjin is the patron of scholarship, learning, and the academic arts.",
+            "abilities": {
+              "passive": {
+                "name": "Fountain of Knowledge",
+                "description": "Tenjin's presence enhances learning and understanding. Allies near him gain experience faster and learn skills more quickly."
+              },
+              "basic_skills": [
+                {
+                  "name": "Brush Strike",
+                  "description": "A stroke of his brush that writes truth into reality."
+                },
+                {
+                  "name": "Scroll Shield",
+                  "description": "Scrolls form a protective barrier."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Wisdom's Gift",
+                  "description": "Grants knowledge to an ally, temporarily boosting their abilities."
+                },
+                {
+                  "name": "Truth Revealed",
+                  "description": "Strips away lies and deception, revealing truth."
+                },
+                {
+                  "name": "Student's Prayer",
+                  "description": "Answers a prayer for help, providing assistance in times of need."
+                }
+              ],
+              "unique_skill": {
+                "name": "Exile's Judgment",
+                "description": "Tenjin judges those who abuse knowledge. The guilty are cursed with ignorance."
+              },
+              "ultimate_skill": {
+                "name": "Library of Heaven",
+                "description": "Tenjin opens the celestial library, granting all allies access to infinite knowledge and power for a limited time."
+              }
+            }
+          },
+          {
+            "id": "m8_3",
+            "name": "Bishamonten",
+            "full_name": "God of War",
+            "classification": "Divine",
+            "habitat": "The celestial armies of Tenryuku",
+            "threat_level": "Absolute",
+            "physical_description": "Bishamonten appears as a fearsome warrior, clad in elaborate armor and carrying a spear and a pagoda. His face is stern but just, the face of a general who has led armies to victory and mourned every death. He is tall and powerful, his presence inspiring both fear and respect.",
+            "lore": "Bishamonten is one of the Seven Gods of Fortune, the patron of warriors and the protector of holy places. He rewards the brave and punishes the cowardly, and his judgment in matters of honor is absolute. He leads the celestial armies against the forces of chaos and darkness.",
+            "abilities": {
+              "passive": {
+                "name": "Warrior's Blessing",
+                "description": "Bishamonten's presence inspires warriors. Allies near him fight with greater skill and courage."
+              },
+              "basic_skills": [
+                {
+                  "name": "Spear of Justice",
+                  "description": "A thrust of his spear that cannot be blocked."
+                },
+                {
+                  "name": "Pagoda Shield",
+                  "description": "His pagoda expands to form an impenetrable shield."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "General's Command",
+                  "description": "Bishamonten issues orders that allies must obey, granting them bonuses."
+                },
+                {
+                  "name": "Warrior's Judgment",
+                  "description": "He judges a warrior's honor. The honorable are blessed; the dishonorable are cursed."
+                },
+                {
+                  "name": "Honor Guard",
+                  "description": "Summons the spirits of fallen warriors to fight for him."
+                }
+              ],
+              "unique_skill": {
+                "name": "Fearless",
+                "description": "Bishamonten cannot be frightened or intimidated, and he grants this courage to allies."
+              },
+              "ultimate_skill": {
+                "name": "Heaven's Army",
+                "description": "Bishamonten calls upon the full might of the celestial armies, summoning countless warriors to fight for him."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "tier": 9,
+        "name": "Ascended",
+        "classification": "Shōshin",
+        "description": "Ascended beings are those who have transcended even divinity, becoming one with the fundamental forces of existence. They rarely interact with lower beings directly, but their influence shapes all of reality.",
+        "monsters": [
+          {
+            "id": "m9_1",
+            "name": "Amaterasu",
+            "full_name": "Sun Goddess",
+            "classification": "Ascended",
+            "habitat": "The sun itself, occasionally manifesting in Tenryuku",
+            "threat_level": "Absolute (but utterly benevolent)",
+            "physical_description": "Amaterasu is the goddess of the sun, and her true form is the sun itself—a being of such intense light and heat that no mortal can look upon her directly. When she chooses to manifest in a form comprehensible to lesser beings, she appears as a woman of breathtaking beauty, dressed in white and gold, surrounded by radiance so bright it obscures her features.",
+            "lore": "Amaterasu is the ruler of the Celestial Court, the ancestor of the imperial line, and the source of all light and life in Zerox Enon. She is utterly benevolent, wishing only for peace and prosperity for all beings. According to legend, she once retreated into a cave after a quarrel with her brother, plunging the world into darkness.",
+            "abilities": {
+              "passive": {
+                "name": "Source of Light",
+                "description": "Amaterasu is the sun. She radiates light and heat constantly, and darkness cannot exist near her. All beings in her presence are warmed and healed."
+              },
+              "basic_skills": [
+                {
+                  "name": "Sunbeam",
+                  "description": "A beam of pure sunlight that can heal or harm as she wills."
+                },
+                {
+                  "name": "Radiance",
+                  "description": "Her light reveals all truth and strips away all illusion."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Dawn",
+                  "description": "Amaterasu brings the dawn, ending night and restoring energy to all beings."
+                },
+                {
+                  "name": "Sunrise",
+                  "description": "Her rise brings light and life to the world."
+                },
+                {
+                  "name": "Mirror of Truth",
+                  "description": "She shows beings their true selves, which can be enlightening or devastating."
+                }
+              ],
+              "unique_skill": {
+                "name": "Cave Retreat",
+                "description": "Amaterasu can withdraw her light, plunging an area into darkness that only she can see through."
+              },
+              "ultimate_skill": {
+                "name": "Solar Flare",
+                "description": "Amaterasu releases a fraction of her true power, creating a flare that can destroy anything in its path or heal anything in need."
+              }
+            }
+          },
+          {
+            "id": "m9_2",
+            "name": "Tsukiyomi",
+            "full_name": "Moon God",
+            "classification": "Ascended",
+            "habitat": "The moon, occasionally manifesting in Shinkage",
+            "threat_level": "Absolute (but distant)",
+            "physical_description": "Tsukiyomi is the god of the moon, and like his sister Amaterasu, his true form is the celestial body he rules. When he manifests, he appears as a figure of silver and shadow, beautiful and cold, with eyes that reflect the light of the sun without warmth. He is often depicted as a young man in flowing robes, carrying a crescent moon as a weapon or symbol.",
+            "lore": "Tsukiyomi is Amaterasu's brother and the ruler of the night. Unlike his sister, he is distant and aloof, rarely involving himself in mortal affairs. He and Amaterasu were once close, but a terrible event drove them apart—Tsukiyomi killed the goddess of food, and Amaterasu refused to look upon him again.",
+            "abilities": {
+              "passive": {
+                "name": "Night's Veil",
+                "description": "Tsukiyomi's presence brings night. Darkness conceals allies and confuses enemies, and the moon's light reveals hidden things."
+              },
+              "basic_skills": [
+                {
+                  "name": "Moonbeam",
+                  "description": "A beam of moonlight that can reveal truth or deal cold damage."
+                },
+                {
+                  "name": "Crescent Blade",
+                  "description": "A blade shaped like a crescent moon that cuts through anything."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Lunar Phase",
+                  "description": "Tsukiyomi changes the moon's phase, altering reality based on the phase (new moon = concealment, full moon = revelation)."
+                },
+                {
+                  "name": "Night's Blessing",
+                  "description": "Blesses allies with the calm and power of night."
+                },
+                {
+                  "name": "Cold Embrace",
+                  "description": "The cold of space itself, freezing enemies."
+                }
+              ],
+              "unique_skill": {
+                "name": "Separation",
+                "description": "Tsukiyomi isolates a target, separating them from allies and reality itself."
+              },
+              "ultimate_skill": {
+                "name": "Lunar Eclipse",
+                "description": "Tsukiyomi eclipses the sun, plunging the world into temporary night and granting him absolute power over darkness."
+              }
+            }
+          },
+          {
+            "id": "m9_3",
+            "name": "Susanoo",
+            "full_name": "Storm God",
+            "classification": "Ascended",
+            "habitat": "The seas and storms, particularly around Kishima",
+            "threat_level": "Absolute (and unpredictable)",
+            "physical_description": "Susanoo is the god of storms and the sea, Amaterasu and Tsukiyomi's brother. He appears as a wild, untamed figure—muscular and rough, with wild hair and eyes that flash with lightning. He carries a massive sword and often appears drunk or enraged, depending on his mood.",
+            "lore": "Susanoo is the most unpredictable of the three siblings. He was banished from heaven for his wild behavior, but in his exile, he performed great deeds—most notably, slaying the eight-headed serpent Yamata-no-Orochi and founding the imperial line through his descendants. He is both destroyer and creator.",
+            "abilities": {
+              "passive": {
+                "name": "Storm's Heart",
+                "description": "Susanoo is the storm. Lightning strikes near him constantly, damaging enemies randomly, and winds push foes away."
+              },
+              "basic_skills": [
+                {
+                  "name": "Lightning Blade",
+                  "description": "His sword strikes with lightning, dealing massive damage."
+                },
+                {
+                  "name": "Wind Gust",
+                  "description": "A gust of wind that knocks back enemies."
+                }
+              ],
+              "special_skills": [
+                {
+                  "name": "Storm Call",
+                  "description": "Summons a devastating storm."
+                },
+                {
+                  "name": "Sea Rage",
+                  "description": "Churns the sea, creating whirlpools and waves."
+                },
+                {
+                  "name": "Dragon Slayer",
+                  "description": "His sword deals bonus damage to serpents and dragons."
+                }
+              ],
+              "unique_skill": {
+                "name": "Chaos Unleashed",
+                "description": "Susanoo releases his wild nature, becoming unpredictable and gaining random buffs each moment."
+              },
+              "ultimate_skill": {
+                "name": "Heaven's Banishment",
+                "description": "Susanoo banishes a target from heaven, stripping them of divine protection and casting them into chaos."
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

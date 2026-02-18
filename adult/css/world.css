@@ -1,0 +1,348 @@
+/* =========================================
+   WORLD PAGE STYLES
+   Hero, cosmology, continents carousel,
+   pantheons grid, monster teaser
+   ========================================= */
+
+/* Hero Section */
+.hero {
+    height: 100vh;
+    min-height: 600px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: url('https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80') center/cover no-repeat fixed;
+    overflow: hidden;
+}
+
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at center, transparent 0%, rgba(0,0,0,0.7) 100%);
+    z-index: 1;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(108, 92, 231, 0.3) 0%, rgba(253, 121, 168, 0.3) 100%);
+    mix-blend-mode: overlay;
+    z-index: 2;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 3;
+    max-width: 900px;
+    padding: 0 2rem;
+}
+
+.hero-title {
+    font-family: var(--font-display);
+    font-size: clamp(3rem, 10vw, 6rem);
+    font-weight: 900;
+    margin-bottom: 1rem;
+    text-shadow: 0 0 30px rgba(108, 92, 231, 0.5);
+    animation: titleGlow 3s infinite alternate;
+}
+
+@keyframes titleGlow {
+    from { text-shadow: 0 0 20px var(--color-primary); }
+    to { text-shadow: 0 0 40px var(--color-secondary), 0 0 20px var(--color-primary); }
+}
+
+.hero-subtitle {
+    font-size: clamp(1.2rem, 3vw, 1.8rem);
+    margin-bottom: 3rem;
+    opacity: 0.9;
+}
+
+.hero-scroll {
+    animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+    40% { transform: translateY(-20px); }
+    60% { transform: translateY(-10px); }
+}
+
+.scroll-link {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(5px);
+    color: white;
+    font-size: 1.5rem;
+    transition: all var(--transition-normal);
+}
+
+.scroll-link:hover {
+    background: var(--color-primary);
+    transform: scale(1.1);
+}
+
+/* World Intro */
+.world-intro {
+    margin: 4rem 0;
+    padding: 3rem;
+    background: rgba(255,255,255,0.03);
+    border-radius: var(--border-radius-lg);
+    backdrop-filter: blur(10px);
+}
+
+.world-overview p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: rgba(255,255,255,0.9);
+}
+
+/* Cosmology Grid */
+.cosmology-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.cosmology-card {
+    background: rgba(255,255,255,0.03);
+    border-radius: var(--border-radius-md);
+    padding: 1.5rem;
+    border: 1px solid rgba(255,255,255,0.05);
+    transition: all var(--transition-normal);
+    position: relative;
+    overflow: hidden;
+}
+
+.cosmology-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.05), transparent);
+    transition: left 0.5s;
+}
+
+.cosmology-card:hover::before {
+    left: 100%;
+}
+
+.cosmology-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--color-primary-light);
+    box-shadow: 0 10px 30px rgba(108,92,231,0.2);
+}
+
+.cosmology-card .tier {
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--color-primary-light);
+    margin-bottom: 0.5rem;
+}
+
+.cosmology-card h3 {
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+}
+
+.cosmology-card p {
+    color: rgba(255,255,255,0.7);
+    font-size: 0.95rem;
+}
+
+/* Continents Swiper – fixed height */
+.continents-swiper {
+    width: 100%;
+    min-height: 400px;
+    padding: 2rem 0 4rem;
+}
+
+.continent-slide {
+    background: rgba(255,255,255,0.03);
+    border-radius: var(--border-radius-lg);
+    padding: 2rem;
+    border: 1px solid rgba(255,255,255,0.1);
+    height: auto;
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    backdrop-filter: blur(5px);
+}
+
+.continent-slide h3 {
+    font-size: 2rem;
+    color: var(--color-primary-light);
+    margin-bottom: 0.5rem;
+}
+
+.continent-slide .full-name {
+    font-style: italic;
+    color: rgba(255,255,255,0.6);
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+}
+
+.continent-slide .location,
+.continent-slide .influence,
+.continent-slide .capital {
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+}
+
+.continent-slide .influence i,
+.continent-slide .location i,
+.continent-slide .capital i {
+    margin-right: 0.5rem;
+    color: var(--color-secondary);
+}
+
+.continent-slide p {
+    margin-top: 1rem;
+    color: rgba(255,255,255,0.8);
+    line-height: 1.6;
+}
+
+/* Fallback grid if Swiper fails */
+.continents-swiper.swiper-fallback .swiper-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    transform: none !important;
+    width: 100% !important;
+}
+
+.continents-swiper.swiper-fallback .swiper-slide {
+    width: 100% !important;
+    margin-right: 0 !important;
+    height: auto !important;
+}
+
+.continents-swiper.swiper-fallback .swiper-pagination,
+.continents-swiper.swiper-fallback .swiper-button-prev,
+.continents-swiper.swiper-fallback .swiper-button-next {
+    display: none;
+}
+
+/* Pantheons Grid */
+.pantheons-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.pantheon-card {
+    background: rgba(255,255,255,0.02);
+    border-radius: var(--border-radius-md);
+    padding: 2rem;
+    border: 1px solid rgba(255,255,255,0.05);
+    transition: all var(--transition-normal);
+    display: flex;
+    flex-direction: column;
+}
+
+.pantheon-card:hover {
+    background: rgba(108,92,231,0.1);
+    border-color: var(--color-primary);
+}
+
+.pantheon-card h4 {
+    font-size: 1.5rem;
+    color: var(--color-primary-light);
+    margin-bottom: 0.5rem;
+}
+
+.pantheon-card .domain {
+    font-size: 0.9rem;
+    color: var(--color-secondary);
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.pantheon-card .alignment {
+    align-self: flex-start;
+    background: rgba(255,255,255,0.1);
+    padding: 0.3rem 1rem;
+    border-radius: var(--border-radius-full);
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+}
+
+.pantheon-card .ruler {
+    margin: 1rem 0;
+    font-weight: 600;
+    color: var(--color-accent);
+}
+
+.pantheon-card .description {
+    color: rgba(255,255,255,0.7);
+    font-size: 0.95rem;
+    line-height: 1.5;
+    flex: 1;
+}
+
+/* Monster Preview */
+.monster-preview {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.monster-item {
+    background: rgba(0,0,0,0.3);
+    border-radius: var(--border-radius-md);
+    padding: 1.5rem;
+    border-left: 5px solid var(--color-secondary);
+}
+
+.monster-item h4 {
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+    color: var(--color-secondary);
+}
+
+.monster-item .tier {
+    font-size: 0.8rem;
+    background: var(--color-primary);
+    display: inline-block;
+    padding: 0.2rem 0.8rem;
+    border-radius: var(--border-radius-full);
+    margin-bottom: 1rem;
+}
+
+.monster-item p {
+    color: rgba(255,255,255,0.7);
+    font-size: 0.9rem;
+}
+
+.cta-center {
+    text-align: center;
+    margin: 3rem 0;
+}
+
+/* Responsive world */
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 3rem;
+    }
+    .world-intro {
+        padding: 1.5rem;
+    }
+}
