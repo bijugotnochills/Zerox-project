@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heroes of Zerox Enon</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;700;900&display=swap"
+        rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/character.css">
+</head>
+
+<body>
+    <div id="preloader" class="preloader">
+        <div class="spinner"></div>
+        <div class="loader-text">Gathering legends...</div>
+    </div>
+
+    <nav class="navbar navbar--glass" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <i class="fas fa-dragon"></i>
+                <span>Zerox Enon</span>
+            </a>
+            <div class="nav-links desktop-nav">
+                <a href="index.html" class="nav-link"><i class="fas fa-globe"></i> World</a>
+                <a href="character.html" class="nav-link active"><i class="fas fa-users"></i> Characters</a>
+            </div>
+            <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Menu" aria-expanded="false">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Mobile Navigation Overlay -->
+    <div class="mobile-nav-overlay" id="mobile-nav-overlay">
+        <div class="mobile-nav-container">
+            <button class="mobile-nav-close" id="mobile-nav-close" aria-label="Close menu">
+                <i class="fas fa-times"></i>
+            </button>
+            <div class="mobile-nav-links">
+                <a href="index.html" class="mobile-nav-link"><i class="fas fa-globe"></i> World</a>
+                <a href="character.html" class="mobile-nav-link active"><i class="fas fa-users"></i> Characters</a>
+            </div>
+        </div>
+    </div>
+
+    <main class="character-main">
+        <div class="container">
+            <h1 class="page-title" data-aos="fade-up">Heroes of the Convergence</h1>
+
+            <!-- Search & Filter Bar -->
+            <div class="search-filter-bar card-glass" data-aos="fade-up">
+                <div class="search-wrapper">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" id="character-search" placeholder="Search by name, title, nickname..."
+                        class="search-input">
+                </div>
+                <div class="filter-wrapper">
+                    <select id="pantheon-filter" class="filter-select">
+                        <option value="all">All Pantheons</option>
+                    </select>
+                    <select id="gender-filter" class="filter-select">
+                        <option value="all">All Genders</option>
+                        <option value="female">Female</option>
+                        <option value="male">Male</option>
+                    </select>
+                    <button id="reset-filters" class="btn btn--secondary"><i class="fas fa-undo-alt"></i> Reset</button>
+                </div>
+                <div class="view-toggle">
+                    <button id="grid-view-btn" class="view-btn active" title="Grid view"><i
+                            class="fas fa-th"></i></button>
+                    <button id="list-view-btn" class="view-btn" title="List view"><i class="fas fa-list"></i></button>
+                </div>
+            </div>
+
+            <!-- Character Grid/List -->
+            <div id="character-container" class="character-grid">
+                <div class="loader"><i class="fas fa-spinner fa-pulse"></i> Summoning heroes...</div>
+            </div>
+
+            <!-- Pagination -->
+            <div class="pagination" id="pagination"></div>
+        </div>
+    </main>
+
+    <!-- Character Modal -->
+    <div id="character-modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <button class="modal-close" aria-label="Close"><i class="fas fa-times"></i></button>
+            <div class="modal-header">
+                <div class="modal-nav">
+                    <button id="modal-prev" class="modal-nav-btn" aria-label="Previous character"><i
+                            class="fas fa-chevron-left"></i></button>
+                    <h2 id="modal-title" class="modal-title">Character Name</h2>
+                    <button id="modal-next" class="modal-nav-btn" aria-label="Next character"><i
+                            class="fas fa-chevron-right"></i></button>
+                </div>
+                <p id="modal-subtitle" class="modal-subtitle"></p>
+            </div>
+            <div class="modal-body">
+                <!-- Image toggle -->
+                <div class="modal-image-section">
+                    <div class="modal-image-container">
+                        <img id="modal-image" src="" alt="" class="modal-image">
+                        <div class="image-toggle">
+                            <button id="toggle-normal" class="toggle-btn active">Normal</button>
+                            <button id="toggle-real" class="toggle-btn">Real</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <!-- Tabs -->
+                    <div class="modal-tabs">
+                        <button class="tab-btn active" data-tab="lore">Lore & Story</button>
+                        <button class="tab-btn" data-tab="attributes">Attributes</button>
+                        <button class="tab-btn" data-tab="appearance">Appearance</button>
+                        <button class="tab-btn" data-tab="weapon">Weapon & Skills</button>
+                        <button class="tab-btn" data-tab="gallery">Gallery</button>
+                    </div>
+
+                    <!-- Tab panes -->
+                    <div class="tab-pane active" id="tab-lore">
+                        <h3>Lore</h3>
+                        <p id="modal-lore"></p>
+                        <h3>Description</h3>
+                        <p id="modal-description"></p>
+                        <h3>Story</h3>
+                        <div id="modal-story" class="story-parts"></div>
+                    </div>
+                    <div class="tab-pane" id="tab-attributes">
+                        <ul class="attributes-list">
+                            <li><strong>Race:</strong> <span id="modal-race"></span></li>
+                            <li><strong>Powers:</strong> <span id="modal-powers"></span></li>
+                            <li><strong>Speciality:</strong> <span id="modal-speciality"></span></li>
+                        </ul>
+                    </div>
+                    <div class="tab-pane" id="tab-appearance">
+                        <h4>Facial Structure</h4>
+                        <div id="modal-facial" class="appearance-block"></div>
+                        <h4>Upper Body</h4>
+                        <div id="modal-upper" class="appearance-block"></div>
+                        <h4>Lower Body</h4>
+                        <div id="modal-lower" class="appearance-block"></div>
+                        <h4>Clothing</h4>
+                        <div id="modal-clothing" class="appearance-block"></div>
+                    </div>
+                    <div class="tab-pane" id="tab-weapon">
+                        <div class="weapon-detail">
+                            <h3><span id="modal-weapon-name"></span></h3>
+                            <p><strong>Type:</strong> <span id="modal-weapon-type"></span></p>
+                            <p><strong>Aura:</strong> <span id="modal-weapon-aura"></span></p>
+                            <p><strong>Special Feature:</strong> <span id="modal-weapon-feature"></span></p>
+                            <p><strong>Weapon Skills:</strong> <span id="modal-weapon-skills"></span></p>
+                        </div>
+                        <h4>Character Skills</h4>
+                        <div id="modal-skills" class="skills-container"></div>
+                    </div>
+                    <div class="tab-pane" id="tab-gallery">
+                        <div class="swiper gallery-swiper">
+                            <div class="swiper-wrapper" id="gallery-wrapper"></div>
+                            <div class="swiper-pagination"></div>
+                            <div class="swiper-button-prev"></div>
+                            <div class="swiper-button-next"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo"><i class="fas fa-dragon"></i> Zerox Enon</div>
+                <div class="footer-links">
+                    <a href="index.html">World</a>
+                    <a href="character.html">Characters</a>
+                </div>
+                <p class="footer-copy">&copy; <span id="current-year"></span> Realm of Infinite Convergence</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/character.js"></script>
+</body>
+
+</html>
