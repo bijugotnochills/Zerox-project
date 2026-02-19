@@ -7184,6 +7184,131 @@
     }
   },
   {
+    "id": 67,
+    "pantheon_id": 2,
+    "hero_name": "Kurosagi Yaman",
+    "title": "The Twilight Fox",
+    "nickname": "Lonely Guardian of the Borderlands",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/kurosagi/main.png",
+      "character_icon": "assets/images/character/kurosagi/icon.png",
+      "character_image_real": "assets/images/character/kurosagi/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/kurosagi/gallery/1.jpeg",
+        "assets/images/character/kurosagi/gallery/2.jpeg",
+        "assets/images/character/kurosagi/gallery/3.jpeg",
+        "assets/images/character/kurosagi/gallery/4.jpeg",
+        "assets/images/character/kurosagi/gallery/5.jpeg"
+      ]
+    },
+    "lore": "Kurosagi Yaman was not born a warrior. He was born a farmer's son in a small village at the edge of the Spirit Forest, a place where humans and youkai lived in uneasy peace. His mother died bringing him into the world, and his father raised him alone, teaching him to till the soil and read the weather and never, ever go into the forest after dark. But Kurosagi was a curious child, and one evening, chasing a firefly, he crossed the boundary. He didn't go far—just a few steps—but it was enough. He found a fox cub caught in a trap, its leg bleeding, its eyes wide with fear. Without thinking, he freed it, wrapped it in his shirt, and carried it home. His father was furious at first, but when he saw the cub, something softened in his eyes. 'You've made a choice,' he said. 'That cub is no ordinary fox. Look at its tail.' And Kurosagi saw—the cub had two tails. He had saved a young kitsune, a fox spirit, and in kitsune tradition, a life debt must be repaid. That night, the cub's mother came to their home—a magnificent nine-tailed fox whose fur shimmered like moonlight. She thanked Kurosagi for saving her child and offered him a choice: any boon he desired, anything within her power to grant. Kurosagi, who was seven years old and had never wanted anything but a family, looked at his father and said, 'Make it so my father never has to be alone.' The nine-tailed fox was silent for a long moment. Then she smiled—a sad, knowing smile—and said, 'Child, your father will never be alone, for he has you. But I will give you something else, something you do not know you need.' She breathed upon him, and he felt power enter his bones, felt his ears lengthen and sharpen, felt a tail sprout from the base of his spine. 'You are now of my blood,' she said. 'You will live long, fight well, and protect the boundary between our worlds. It is a lonely path, but it is an honorable one. When you have mastered your power, return to the forest, and I will teach you more.' Then she vanished, taking her cub with her, and Kurosagi was left with pointed ears, a single fox tail, and a destiny he had never asked for. His father accepted him, loved him still, and raised him as best he could. But the other villagers did not understand. They saw the ears, the tail, and they whispered: demon child, monster, thing of the forest. Kurosagi learned to hide his features under a large hat and loose clothing, but the damage was done. He was an outsider in his own home. When he was sixteen, his father died of a sickness that swept through the village. Kurosagi buried him alone, under the tree where they used to sit and watch the sunset. Then he walked into the Spirit Forest and did not look back. The nine-tailed fox kept her promise. She trained him for decades—how to use his power, how to fight, how to move between the worlds of humans and spirits. She taught him that his nine tails would grow one by one as he mastered each level of his power, and that when all nine had grown, he would be her equal. She taught him that his purpose was to guard the borderlands, to protect both humans and youkai from those who would harm either, to be the bridge between worlds. She taught him that loneliness was the price of such a path, and that he must accept it or be consumed by it. Kurosagi accepted. He had always been lonely. This was just a different kind. Now, centuries later, Kurosagi Yaman walks the borderlands, his nine tails fully grown, his power unmatched, his heart still carrying the warmth of that seven-year-old boy who only wanted his father not to be alone. He protects villages from rogue youkai, and he protects youkai from fearful humans. He is feared by those who do not know him, respected by those who do, and loved by exactly no one—for he never stays long enough to be loved. His face, framed by his nine flowing tails and pointed fox ears, is ethereally beautiful, ageless, touched by both human warmth and spirit grace. His eyes are the color of amber with flecks of gold, holding centuries of loneliness and the eternal hope that someday, somewhere, he might find a place to belong. He wears the armor of the Shinto era—magnificent samurai plate in deep crimson and black, with gold accents, the design incorporating fox motifs, the helmet leaving his ears free, the armor practical and beautiful. At his hip hangs his twin swords—one forged in the human world, one in the spirit realm—their blades humming with power. And when he moves, nine tails flow behind him like a river of fire, each tipped with a small flame of spiritual light, marking him as what he is: the Twilight Fox, the Lonely Guardian, the bridge between worlds, forever walking the line between light and shadow, never quite belonging to either.",
+    "story": {
+      "part1": "Kurosagi's earliest memory is of his mother's face—or rather, the face he imagined she must have had. His father showed him a small painting, faded with age, of a woman with gentle eyes and a soft smile. 'She gave her life for you,' his father would say every night before bed. 'Never forget that you were worth dying for.' Kurosagi didn't understand what that meant, not then, but he held the words in his heart like a precious stone, warming himself with them on cold nights.",
+      "part2": "His childhood was simple and happy despite their poverty. His father farmed a small plot of land at the edge of the village, growing vegetables and rice, and Kurosagi helped when he could. In the evenings, they would sit on their porch and watch the sun set behind the Spirit Forest, and his father would tell stories of the youkai who lived there—trickster foxes, wise old tanuki, beautiful spirits who sometimes fell in love with humans. 'Are they real?' Kurosagi asked once. His father was quiet for a long moment. 'Real enough,' he said finally. 'But they have their world, and we have ours. It's best to keep them separate.'",
+      "part3": "The firefly that changed everything was brighter than any he had ever seen, its light pulsing like a tiny heartbeat. Kurosagi chased it past the village boundary, past the rice paddies, to the very edge of the Spirit Forest. He knew he shouldn't go in—every child knew the stories—but the firefly was so beautiful, and it was right there, just a few steps inside. He took those steps. He found the fox cub caught in a hunter's trap, its leg bleeding, its eyes wide with terror. It had two tails, though Kurosagi didn't know what that meant then. He only knew it was hurt and afraid. He worked the trap open with his small hands, cut himself on the metal, but didn't stop until the cub was free. It licked his hand once, then limped away into the forest. Kurosagi walked home, bleeding, his shirt torn, and faced his father's fury.",
+      "part4": "But his father's fury melted when he heard the story. He examined Kurosagi's cuts, cleaned them, bandaged them, and then sat him down for the longest talk they ever had. 'That cub was a kitsune,' he said. 'A fox spirit. You saved its life, and in their world, that creates a debt that must be repaid. Its mother will come tonight. Whatever she offers, you must accept—but you must also be careful what you ask for.' That night, the nine-tailed fox came. She was magnificent, terrible, beautiful—her fur shimmering like moonlight on water, her nine tails flowing behind her like a river of stars. She offered Kurosagi any boon he desired. And Kurosagi, who was seven and had never wanted anything but a family, looked at his father and said, 'Make it so my father never has to be alone.' The nine-tailed fox smiled that sad, knowing smile. 'Child, your father will never be alone, for he has you. But I will give you something else.' She breathed upon him, and he felt his ears lengthen, felt a tail sprout, felt power enter his bones. 'You are now of my blood,' she said. 'When you have mastered your power, return to the forest, and I will teach you more.' Then she was gone.",
+      "part5": "The years that followed were the hardest of Kurosagi's life. His father loved him still, held him close, protected him as best he could. But the village was not kind. Children threw stones, called him demon-child. Adults crossed the street when they saw him coming. His father tried to shield him, but he couldn't be everywhere. Kurosagi learned to wear a wide hat that shadowed his face, loose clothing that hid his tail. He learned to move quietly, to avoid attention, to make himself small. He stopped going to the village market. He stopped playing outside. He stayed close to home, close to his father, and counted the days until he could leave. When he was sixteen, his father fell ill—a sudden sickness that swept through the village, taking the old and weak first. Kurosagi nursed him day and night, but there was nothing to be done. On his last night, his father held Kurosagi's hand and said, 'I was never alone. Not once. You gave me that. Thank you, my son.' Then he closed his eyes and did not open them again. Kurosagi buried him alone, under the tree where they used to watch the sunset. Then he walked into the Spirit Forest and did not look back.",
+      "part6": "The nine-tailed fox was waiting for him. She trained him for decades—how to use his power, how to fight, how to move between worlds. She taught him that his tails would grow one by one as he mastered each level of his power, and that each tail would grant him new abilities: strength, speed, magic, wisdom, perception, healing, transformation, spirit sight, and finally, when all nine had grown, the power to bridge worlds. She taught him that his purpose was to guard the borderlands, to protect both humans and youkai from those who would harm either. She taught him that the path was lonely, that he would never truly belong anywhere, and that he must accept this or be consumed by it. Kurosagi accepted. He trained harder than any student she had ever taken, pushing himself past every limit, mastering each new tail through years of discipline and sacrifice. The nine-tailed fox watched him with pride and sorrow, for she knew what he was becoming—something she had not seen in a thousand years: a true guardian, a bridge between worlds, a being of light and shadow who would walk alone forever.",
+      "part7": "Now, centuries later, Kurosagi Yaman walks the borderlands with his nine tails flowing behind him. He has saved countless villages from rogue youkai. He has protected countless youkai from fearful humans. He has been offered homes, titles, even love—but he has accepted none of them. For he knows that to stay is to belong, and to belong is to choose a side, and to choose a side is to abandon his purpose. So he walks. He watches. He protects. Sometimes, on quiet nights, he visits his father's grave, still maintained by the descendants of those who once threw stones at him. He leaves offerings of rice and sake, sits under the tree where they used to watch the sunset, and talks to the wind. He tells his father about the places he's seen, the people he's helped, the youkai he's befriended. He tells him that he's still not alone—not really—because he carries his father's love in his heart, and that is enough. It has to be enough. His face, framed by his nine tails and pointed fox ears, is ethereally beautiful—ageless, serene, touched by both human warmth and spirit grace. His amber eyes hold centuries of loneliness and the eternal hope that someday, somewhere, he might find a place to belong. But if that day never comes, he will still walk, still watch, still protect. Because that is who he is. That is what the nine-tailed fox made him. That is what his father's love sustains. He is Kurosagi Yaman, the Twilight Fox, the Lonely Guardian of the Borderlands, forever walking the line between worlds, forever hoping, forever waiting, forever protecting."
+    },
+    "race": "Human (Kitsune-Touched)",
+    "powers": "Nine Tails (each tail grants different abilities: Strength, Speed, Magic, Wisdom, Perception, Healing, Transformation, Spirit Sight, World Bridging), Fox-Fire Manipulation (blue spiritual flames), Spirit Sense (can see and communicate with spirits), Boundary Walking (can move between human and spirit realms), Immortality (ageless, cannot die of natural causes), Ethereal Beauty (his appearance is unnaturally beautiful, a side effect of kitsune blessing)",
+    "speciality": "Border Guardian & Versatile Combatant",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Amber with flecks of gold, warm yet distant, holding centuries of loneliness and eternal hope",
+        "eye_type": "Large, expressive, slightly tilted, holding both human warmth and spirit grace"
+      },
+      "nose": "Straight, refined, elegant",
+      "lips": "Well-defined, often set in gentle neutral expression, rarely smiling but when he does it transforms his face",
+      "ears": {
+        "ear_type": "Long, pointed fox ears rising from hair, covered in soft golden-brown fur",
+        "ear_color": "Golden-brown with darker tips, inner ear soft cream"
+      },
+      "hair": {
+        "hairstyle": "Long, straight, flowing past shoulders, often tied back partially, silky and well-groomed",
+        "hair_color": "Deep black with subtle blue undertones that catch light"
+      },
+      "face_shape": "Ethereally beautiful, delicate-yet-strong, high cheekbones, gentle jawline, ageless and serene",
+      "complexion": "Fair with warm undertones, almost translucent in certain light, flawless and luminous"
+    },
+    "upper_body": {
+      "body_structure": "Lean and graceful, built for speed and precision, dancer's build, deceptively strong",
+      "arms": "Slender but muscular, clad in armored sleeves of crimson and black with gold accents",
+      "chest": "Magnificent samurai armor of deep crimson and black lacquer, gold accents, sculpted to his form, with fox motif embossed on breastplate—stylized nine-tailed fox in gold",
+      "shoulders": "Armored pauldrons of layered plates in crimson and black, each edged in gold, shaped to suggest fox fur",
+      "waist": "Cinched by wide obi of deep crimson silk embroidered with gold fox patterns, holding his swords"
+    },
+    "lower_body": {
+      "hips": "Elegant, covered by layered armored skirt of crimson and black plates",
+      "legs": "Long, graceful, clad in matching armored greaves of crimson and black with gold accents",
+      "feet": "Traditional samurai boots of lacquered black with gold trim, silent despite armor"
+    },
+    "clothing": {
+      "head": "Long black hair with blue undertones, flowing past shoulders, often partially tied back; long pointed fox ears of golden-brown with darker tips; ethereal face with amber-gold eyes",
+      "upper": "Magnificent samurai armor of deep crimson and black lacquer, gold accents, fox motif breastplate with stylized nine-tailed fox, armored sleeves, pauldrons shaped like fox fur, wide crimson obi with gold embroidery",
+      "lower": "Layered armored skirt of crimson and black plates, matching greaves, traditional black lacquered boots with gold trim",
+      "accessories": "Nine flowing fox tails—golden-brown with white tips, each tipped with small blue spiritual flame, emerging from base of spine; twin swords at hip"
+    },
+    "weapons": [
+      {
+        "name": "Dawn's Shadow",
+        "type": "Katana (Human-Forged)",
+        "aura": "Faint golden light, warm and protective",
+        "special_feature": "Forged in human world by master swordsmith, passed down through generations before coming to Kurosagi. Blade of folded steel with subtle hamon line, hilt wrapped in white ray skin and black cord, guard shaped like stylized fox. When drawn, blade gleams with warm light, effective against physical threats.",
+        "special_skills": [
+          "Mortal Strike",
+          "Boundary Cut"
+        ]
+      },
+      {
+        "name": "Twilight's Edge",
+        "type": "Katana (Spirit-Forged)",
+        "aura": "Cool blue light, ethereal and spiritual",
+        "special_feature": "Forged in spirit realm by nine-tailed fox herself, given to Kurosagi when he mastered his seventh tail. Blade of spirit metal that seems to shift and flow, slightly translucent, hilt wrapped in silver thread, guard shaped like crescent moon. When drawn, blade trails blue fox-fire, effective against spiritual threats.",
+        "special_skills": [
+          "Spirit Sever",
+          "Fox-Fire Slash"
+        ]
+      }
+    ],
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Twin Moon Slash",
+          "description": "Kurosagi draws both swords in a single fluid motion, slashing in a wide arc that strikes all enemies in range with both physical and spiritual damage."
+        },
+        {
+          "name": "Fox-Fire Bolt",
+          "description": "He flicks his wrist, sending a bolt of blue spiritual flame from his tails toward an enemy, dealing damage and marking them with spirit energy."
+        }
+      ],
+      "passive_skill": {
+        "name": "Nine-Tailed Blessing",
+        "description": "Each of Kurosagi's nine tails provides a passive benefit that increases with each tail grown: Strength (damage increase), Speed (movement speed), Magic (ability power), Wisdom (cooldown reduction), Perception (vision range), Healing (health regeneration), Transformation (adaptability), Spirit Sight (reveals hidden enemies), World Bridging (can cross between realms). All nine are active, making him a versatile and unpredictable fighter."
+      },
+      "special_skills": [
+        {
+          "name": "Boundary Walk",
+          "description": "Kurosagi steps between worlds, becoming untargetable and invisible for a brief moment. He can choose to reappear at a nearby location, and his next attack deals bonus damage as he strikes from the boundary."
+        },
+        {
+          "name": "Nine-Tails Fury",
+          "description": "He unleashes his nine tails in a spinning attack, each tail lashing out with spiritual flame, damaging all enemies in range and knocking them back. The flames leave a burning effect that continues to damage over time."
+        },
+        {
+          "name": "Spirit Fox Form",
+          "description": "Kurosagi transforms partially, his features becoming more fox-like, his power increasing. For a duration, his attacks deal bonus spirit damage, his speed increases, and he leaves a trail of fox-fire that damages enemies who follow."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Twilight Fox: Lonely Guardian's Judgment",
+        "description": "Kurosagi's nine tails spread wide, each tip blazing with blue spiritual fire. His eyes glow amber-gold, and for a moment, he is both human and spirit, both here and elsewhere. He moves through the battlefield in a blur of light and shadow, striking every enemy with both Dawn's Shadow and Twilight's Edge simultaneously—each cut dealing both physical and spiritual damage, each wound marked with fox-fire that continues to burn. As the ultimate ends, he returns to his starting position, his tails slowly settling, his expression unchanged—calm, lonely, eternal. He sheathes his swords and waits, as he has always waited, for the next threat to the borderlands, for the next soul to protect, for the next moment when his lonely path will call him forward once more."
+      }
+    }
+  },
+  {
     "id": 100,
     "pantheon_id": 2,
     "hero_name": "Vorlag the Emberhoof",
