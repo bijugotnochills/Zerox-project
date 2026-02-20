@@ -251,17 +251,30 @@ function populateModal(char) {
         modalImage.alt = char.hero_name || '';
     }
 
-    // Lore, description, story
+    // Lore, description
     setText('modal-lore', char.lore || 'No lore available.');
     setText('modal-description', char.description || 'No description.');
+
+    // Story - handle variable number of parts
     const storyDiv = document.getElementById('modal-story');
-    if (char.story) {
-        storyDiv.innerHTML = `
-            <p><strong>Part 1:</strong> ${char.story.part1 || ''}</p>
-            <p><strong>Part 2:</strong> ${char.story.part2 || ''}</p>
-            <p><strong>Part 3:</strong> ${char.story.part3 || ''}</p>
-            <p><strong>Part 4:</strong> ${char.story.part4 || ''}</p>
-        `;
+    if (char.story && typeof char.story === 'object') {
+        // Get all keys that start with 'part' and sort them numerically
+        const partKeys = Object.keys(char.story)
+            .filter(key => key.toLowerCase().startsWith('part'))
+            .sort((a, b) => {
+                const numA = parseInt(a.replace(/\D/g, '')) || 0;
+                const numB = parseInt(b.replace(/\D/g, '')) || 0;
+                return numA - numB;
+            });
+
+        if (partKeys.length > 0) {
+            storyDiv.innerHTML = partKeys.map(key => {
+                const partNumber = key.replace(/\D/g, '');
+                return `<p><strong>Part ${partNumber}:</strong> ${char.story[key]}</p>`;
+            }).join('');
+        } else {
+            storyDiv.innerHTML = '<p>No story parts available.</p>';
+        }
     } else {
         storyDiv.innerHTML = '<p>No story available.</p>';
     }
@@ -341,25 +354,46 @@ function populateModal(char) {
     }
     weaponContainer.innerHTML = weaponsHtml || '<p>No weapon data.</p>';
 
-    // Skills
+    // --- Skills section (fixed to handle arrays for passive and ultimate) ---
     const skills = char.skills || {};
     let skillsHtml = '';
+
+    // Basic skills (always array)
     if (Array.isArray(skills.basic_skills)) {
         skills.basic_skills.forEach(s => {
             if (s) skillsHtml += `<div class="skill-card"><span class="skill-type">Basic</span><strong>${s.name || ''}</strong><p>${s.description || ''}</p></div>`;
         });
     }
+
+    // Passive skills (can be single object or array)
     if (skills.passive_skill) {
-        skillsHtml += `<div class="skill-card"><span class="skill-type">Passive</span><strong>${skills.passive_skill.name || ''}</strong><p>${skills.passive_skill.description || ''}</p></div>`;
+        if (Array.isArray(skills.passive_skill)) {
+            skills.passive_skill.forEach(s => {
+                if (s) skillsHtml += `<div class="skill-card"><span class="skill-type">Passive</span><strong>${s.name || ''}</strong><p>${s.description || ''}</p></div>`;
+            });
+        } else {
+            skillsHtml += `<div class="skill-card"><span class="skill-type">Passive</span><strong>${skills.passive_skill.name || ''}</strong><p>${skills.passive_skill.description || ''}</p></div>`;
+        }
     }
+
+    // Special skills (always array)
     if (Array.isArray(skills.special_skills)) {
         skills.special_skills.forEach(s => {
             if (s) skillsHtml += `<div class="skill-card"><span class="skill-type">Special</span><strong>${s.name || ''}</strong><p>${s.description || ''}</p></div>`;
         });
     }
+
+    // Ultimate skills (can be single object or array)
     if (skills.ultimate_skill) {
-        skillsHtml += `<div class="skill-card"><span class="skill-type">Ultimate</span><strong>${skills.ultimate_skill.name || ''}</strong><p>${skills.ultimate_skill.description || ''}</p></div>`;
+        if (Array.isArray(skills.ultimate_skill)) {
+            skills.ultimate_skill.forEach(s => {
+                if (s) skillsHtml += `<div class="skill-card"><span class="skill-type">Ultimate</span><strong>${s.name || ''}</strong><p>${s.description || ''}</p></div>`;
+            });
+        } else {
+            skillsHtml += `<div class="skill-card"><span class="skill-type">Ultimate</span><strong>${skills.ultimate_skill.name || ''}</strong><p>${skills.ultimate_skill.description || ''}</p></div>`;
+        }
     }
+
     document.getElementById('modal-skills').innerHTML = skillsHtml || '<p>No skill data.</p>';
 
     // Gallery
