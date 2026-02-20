@@ -8839,6 +8839,1114 @@
     }
   },
   {
+    "id": 82,
+    "pantheon_id": 2,
+    "hero_name": "Simhak Ashford",
+    "title": "The Crimson Reaper",
+    "nickname": "Ashford the Awakener",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/simhak/main.png",
+      "character_icon": "assets/images/character/simhak/icon.png",
+      "character_image_real": "assets/images/character/simhak/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/simhak/gallery/1.jpeg",
+        "assets/images/character/simhak/gallery/2.jpeg",
+        "assets/images/character/simhak/gallery/3.jpeg",
+        "assets/images/character/simhak/gallery/4.jpeg",
+        "assets/images/character/simhak/gallery/5.jpeg"
+      ]
+    },
+    "lore": "Simhak Ashford was once the weakest hunter in the Seoul Guild Association—an E-rank nobody who barely survived his first dungeon break. While other hunters wielded powerful skills and rare weapons, Simhak had only his determination and a mysterious system window that appeared to him alone. 'You have been chosen as a Player,' it said. What followed was a journey of relentless growth, brutal challenges, and the discovery of a power that had lain dormant within him for centuries: the power to command the shadows themselves. Now, after clearing the highest difficulty dungeons and defeating beings that gods feared, Simhak stands as the world's only S-rank hunter of a class never seen before—the Shadow Monarch. His aura burns with crimson light, his twin daggers drink the life of his enemies, and the shadows of the fallen rise to fight at his command. He seeks not glory, but the truth of his past life and the reason he was chosen.",
+    "story": {
+      "part1": "Simhak's earliest memory of his old life was pain—the searing agony of a dungeon boss's claw tearing through his side, the cold stone floor of the collapsed temple, and the desperate prayer to any god who would listen. He was the weakest of his party, the one they brought only because someone had to carry supplies. When the boss appeared, they ran, leaving him to die. He should have died. But instead of darkness, he saw light—a translucent blue window hovering before his eyes: 'Critical condition detected. Activating Player System. You have been chosen as a Player. Proceed with the tutorial?' He had no idea what it meant, but he pressed 'Yes' with the last of his strength. When he woke, his wounds were healed, and a new world had opened to him.",
+      "part2": "For months, Simhak lived a double life. By day, he was still an E-rank nobody, mocked by his peers, ignored by the guilds. By night, he entered low-level dungeons alone, completing system quests, leveling up, and learning skills that no other hunter possessed. He discovered he could absorb the shadows of slain monsters, store them in a dimension only he could access, and summon them to fight beside him. His first shadow soldier was a lowly goblin, but to Simhak, it was proof that he was no longer the weakest. He named it 'Igris' after a warrior from a forgotten legend, and together they cleared dungeon after dungeon.",
+      "part3": "The turning point came during the Jeju Island disaster, when an ant queen of unprecedented power emerged from a massive gate, slaughtering every S-rank hunter sent against her. Simhak, still ranked as an A-rank by the guilds, volunteered for the final assault. The other hunters mocked him, but he said nothing. When the ant queen killed the last S-rank and turned to him, Simhak raised his hand and summoned his army—thousands of shadow soldiers, from lowly goblins to the shadows of S-rank hunters who had fallen in the battle. The ant queen fell, and the world watched in stunned silence as the E-rank nobody revealed himself as the true Shadow Monarch.",
+      "part4": "After Jeju, Simhak's power grew exponentially. He entered the hardest dungeons, defeated demons that had terrorized humanity for centuries, and even challenged the gods themselves when they tried to interfere. His system continued to level him up, unlocking new abilities, new shadows, and fragments of memories from a past life. He learned that he was not the first Shadow Monarch—there had been others, and he was their reincarnation, chosen by the system to continue their legacy. The memories were fragmented, but one thing was clear: he had a destiny to fulfill, and it involved a power greater than any god.",
+      "part5": "Now, Simhak Ashford stands at the peak of mortal power, but he is far from satisfied. He has seen glimpses of a higher realm, a place where the true rulers of existence dwell, and he knows that his journey is only beginning. He continues to enter gates, to fight, to grow, not for glory or power, but because the system drives him forward, because the shadows whisper of greater threats, and because somewhere in the depths of his soul, he remembers a promise made in a past life—a promise to protect the weak, to stand against the darkness, and to never, ever be the one left behind again. His twin daggers, forged from the essence of a slain demon lord and blessed by the system itself, hum with crimson energy, and his aura blazes with gold, red, and white—the colors of the monarch he has become.",
+      "part6": "The shadows themselves have become his family. Igris, his first soldier, now commands his shadow army in his absence. Beru, the ant queen's shadow, serves as his personal guard. And countless others, each with their own personalities and memories, follow his every command. They are extensions of his will, and he feels their presence even when they are not summoned. In battle, he is never alone; he is an army of one, a nation of shadows, the Crimson Reaper who walks among mortals.",
+      "part7": "Simhak does not seek fame or recognition, but he has become a legend nonetheless. Hunters whisper his name with a mixture of awe and fear, guilds beg for his alliance, and governments treat him as a walking nuclear deterrent. He accepts none of it, living alone in a modest apartment, training endlessly, and waiting for the next gate to open. He knows that the system will eventually lead him to his final challenge—the true source of the gates, the being who created the system, or perhaps his own past self. Until then, he fights, he grows, and he remembers the words of the first Shadow Monarch: 'Rise, my successor, and claim your throne.' He is Simhak Ashford, the Crimson Reaper, and the shadows are his to command."
+    },
+    "race": "Human (Awakened, Shadow Monarch)",
+    "powers": "Shadow Extraction (can extract shadows from slain enemies to create permanent soldiers), Shadow Army (commands thousands of shadow soldiers simultaneously), Dagger Mastery (wields twin daggers with supernatural precision), Crimson Aura (his presence empowers allies and weakens enemies), Monarch's Domain (creates a zone where shadows are amplified and light is dimmed), Ruler's Authority (can command lesser beings through sheer will), Regeneration (heals rapidly from wounds), Dimensional Storage (accesses a pocket dimension for his army and items)",
+    "speciality": "Necromancy & Shadow Combat",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Deep crimson red with flecks of gold that pulse like embers, holding the cold focus of a predator and the ancient wisdom of countless lifetimes, with vertical slit pupils that contract in battle",
+        "eye_type": "Large, intense, always scanning, framed by dark lashes, with a slight upward tilt that gives him an intimidating gaze"
+      },
+      "nose": "Straight and sharp, with a refined bridge that speaks of noble heritage, slightly flared in battle",
+      "hair": {
+        "hairstyle": "Short, messy, styled upward and back with deliberate spikes, as if constantly wind-swept, with a few strands falling across his forehead",
+        "hair_color": "Jet black with subtle crimson undertones that catch light when his aura flares"
+      },
+      "face_shape": "Sharp and angular, with high cheekbones that cast dramatic shadows, a strong jawline that speaks of determination, and a chin that balances strength with elegance—the face of a man who has stared death in the eye and refused to blink",
+      "complexion": "Fair with a warm undertone, slightly pale from spending too much time in dungeons and shadows, but with a healthy glow that comes from his regeneration"
+    },
+    "upper_body": {
+      "body_structure": "Lean and athletic, built for speed and agility rather than brute strength, with the wiry musculature of a fighter who relies on precision and reflexes, standing at an impressive height with perfect posture",
+      "arms": "Long and lean, corded with defined muscles visible through his fitted attire, covered in faint scars from countless battles, with veins that sometimes pulse with crimson light",
+      "hands": "Slender with long fingers, deceptively strong, wrapped in black fingerless gloves with gold trim that leave his knuckles exposed, each finger bearing a simple gold ring that glows faintly",
+      "chest": "Covered by a form-fitting black turtleneck of advanced combat fabric, over which he wears a sleeveless white and gold vest with intricate patterns resembling shadowy tendrils, the vest tailored to his lean form",
+      "shoulders": "Broad but not bulky, draped in a magnificent long coat of crimson and black that falls to his calves, the coat's collar high and sharp, lined with gold thread that forms geometric patterns, the coat itself seeming to flow like living shadow",
+      "neck": "Long and strong, exposed by the open collar of his turtleneck, showing a thin silver chain with a small ruby pendant that pulses with light",
+      "waist": "Narrow and flexible, cinched by a wide belt of black leather with gold buckles, from which hang his twin dagger sheaths on either hip, along with several small pouches containing system-related items"
+    },
+    "lower_body": {
+      "hips": "Narrow and graceful, allowing for fluid movement",
+      "legs": "Long and lean, clad in fitted black combat trousers with subtle red piping along the seams, tucked into high boots",
+      "feet": "Clad in sleek black combat boots with gold accents and thick treads, the boots reinforced at the toes and heels for kicking, laced with crimson cords"
+    },
+    "clothing": {
+      "head": "His jet-black hair with crimson undertones, styled in messy spikes, no headgear—he prefers to feel the shadows directly",
+      "upper": "Form-fitting black turtleneck of advanced combat fabric; sleeveless white and gold vest with shadowy tendril patterns; magnificent long coat of crimson and black falling to calves with high sharp collar and gold-thread geometric patterns; black fingerless gloves with gold trim; thin silver chain with ruby pendant",
+      "lower": "Fitted black combat trousers with subtle red piping; sleek black combat boots with gold accents and crimson laces",
+      "feet": "Same as above",
+      "accessories": "Wide black leather belt with gold buckles holding twin dagger sheaths and small pouches; several simple gold rings on his fingers; silver chain with ruby pendant; the ruby glows when his power surges"
+    },
+    "weapon": {
+      "name": "Crimson Eclipse (Twin Daggers)",
+      "type": "Legendary Shadow Daggers",
+      "aura": "Swirling crimson red energy with golden sparks, the blades constantly trailing wisps of shadow that seem to reach for enemies, the aura pulsing with each heartbeat",
+      "special_feature": "Simhak wields twin daggers named 'Crimson Eclipse'—each blade a masterpiece of otherworldly craftsmanship. The daggers are identical, each approximately eighteen inches in length, with slightly curved, double-edged blades that taper to wickedly sharp points. The metal is a deep crimson that seems to glow from within, with golden veins running along the fuller like rivers of light. The hilts are wrapped in black leather overlaid with gold wire, providing perfect grip. The guards are simple crosses of white gold, each set with a small ruby that glows in sync with Simhak's power. The pommels are capped with pointed gold ends, weighted for perfect balance. But their true power lies in their connection to Simhak's shadow army. When he channels his energy through them, the blades extend with shadowy projections, allowing him to strike from unexpected angles. They can also phase partially into shadow, bypassing physical defenses. Most importantly, each kill made with these daggers allows Simhak to extract a more powerful shadow from the victim, strengthening his army. The daggers hum with satisfaction when they taste blood, and they are never far from Simhak's hands, always ready to be drawn in an instant.",
+      "special_skills": [
+        "Shadow Slash",
+        "Crimson Thrust",
+        "Dual Execution",
+        "Monarch's Wrath"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Shadow Slash",
+          "description": "Simhak swings one dagger, releasing a crescent of crimson shadow energy that travels forward, damaging enemies in its path and leaving a trail of darkness that slows them."
+        },
+        {
+          "name": "Crimson Thrust",
+          "description": "He lunges forward with blinding speed, both daggers extended, piercing a single target and leaving wounds that bleed shadow, dealing damage over time."
+        },
+        {
+          "name": "Shadow Step",
+          "description": "Simhak dissolves into shadows and reappears behind an enemy, his daggers already swinging. The movement is instantaneous and leaves no trace."
+        }
+      ],
+      "passive_skill": {
+        "name": "Monarch's Domain",
+        "description": "Simhak's mere presence creates a zone of shadow where his power is amplified. Allies within range gain increased speed and damage, while enemies are slowed and have their vision reduced. The shadows themselves seem to writhe with anticipation, and any enemy killed within the domain has a higher chance of yielding a powerful shadow soldier."
+      },
+      "special_skills": [
+        {
+          "name": "Shadow Extraction",
+          "description": "Simhak targets a slain enemy and reaches into their shadow. If successful, he extracts their essence, creating a permanent shadow soldier that joins his army. The soldier retains some of its original abilities and can be summoned at will. The extraction process is visible as tendrils of crimson and gold light pulling a shadowy form from the corpse."
+        },
+        {
+          "name": "Army Summoning",
+          "description": "He raises his hand, and a portal of swirling darkness opens, from which his shadow soldiers emerge—hundreds or thousands of them, depending on the need. They fight independently, following his mental commands, and can overwhelm enemies with sheer numbers."
+        },
+        {
+          "name": "Dual Execution",
+          "description": "Simhak crosses his daggers and spins, creating a vortex of crimson and gold energy that pulls enemies toward him before exploding outward, dealing massive damage to all in range. The attack leaves behind a field of shadow that continues to damage enemies who enter."
+        },
+        {
+          "name": "Ruler's Authority",
+          "description": "He focuses his will on a single enemy, attempting to dominate them. If successful, the enemy is stunned and briefly fights for him, attacking his foes before the control breaks. Against weaker enemies, the domination can be permanent, adding them to his shadow army."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Crimson Reaper: Shadow Monarch's Ascension",
+        "description": "Simhak's eyes blaze with crimson light, his aura exploding outward in waves of gold and red. The sky darkens, and thousands of shadow soldiers rise around him, each one a testament to the enemies he has slain. He draws both daggers and holds them crossed before his face, and the shadows pour into him, merging with his form. For the duration of the ultimate, Simhak becomes the Shadow Monarch incarnate—his body wreathed in living darkness, his daggers extending into massive shadow blades, his speed and power multiplied beyond measure. He moves as a blur of death, each strike summoning a shadow soldier to attack simultaneously, each kill empowering him further. The battlefield becomes his domain, where light cannot penetrate and hope fades. When the ultimate ends, the shadows recede, and Simhak stands alone among the fallen, his daggers dripping with shadow, his crimson eyes slowly dimming. He sheathes his blades, turns, and walks away, leaving behind only whispers of the Crimson Reaper."
+      }
+    }
+  },
+  {
+    "id": 83,
+    "pantheon_id": 1,
+    "hero_name": "Theingzin Dokaran",
+    "title": "The Arcane Detective",
+    "nickname": "Consulting Mage of the Impossible",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/theingzin/main.png",
+      "character_icon": "assets/images/character/theingzin/icon.png",
+      "character_image_real": "assets/images/character/theingzin/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/theingzin/gallery/1.jpeg",
+        "assets/images/character/theingzin/gallery/2.jpeg",
+        "assets/images/character/theingzin/gallery/3.jpeg",
+        "assets/images/character/theingzin/gallery/4.jpeg",
+        "assets/images/character/theingzin/gallery/5.jpeg"
+      ]
+    },
+    "lore": "In a world where magic is as common as breathing, where archmages rule floating cities and spellcasters are born not made, Theingzin Dokaran was an anomaly—a man with no magical talent whatsoever. Born to a humble baker in the lower districts of the great magical metropolis of Aetheria, he was deemed 'magically null' at the age of seven, a condition that should have condemned him to a life of menial labor. But Theingzin possessed something rarer than magic: a mind of such extraordinary deductive power that he could solve mysteries that baffled the greatest archmages. By twelve, he had solved the Crown Prince's assassination case using only logic. By eighteen, he had been appointed as the first non-magical Consulting Mage to the Grand Council. Now, after discovering an ancient technique that allows him to convert his intellectual energy into raw arcane power, Theingzin stands as the most unconventional archmage in history—a man who fights with his mind as much as his magic, who wears the attire of a Victorian detective while wielding spells that rival the gods, and whose orange, white, and royal blue aura burns with the fire of pure intellect.",
+    "story": {
+      "part1": "Theingzin's earliest memory was of his father's bakery—the warmth of the ovens, the smell of fresh bread, and the endless questions that poured from his young mind. Why did the bread rise? Why did the fire burn blue at the bottom and orange at the top? Why did the morning customers smile while the evening customers frowned? His father, a simple man, could not answer, but he encouraged the questions nonetheless. 'You have a gift, my son,' he would say. 'Not everyone sees the world the way you do. Treasure it.' Theingzin did not know then that his gift would one day reshape the world.",
+      "part2": "The day of the magical aptitude test was the worst day of his young life. One by one, the other children stepped forward, and one by one, their latent magic manifested in flashes of color and light. When Theingzin's turn came, he stood in the circle for an hour, but nothing happened. The examiners pronounced him magically null—a fate worse than death in a society built on magic. His mother wept. His father held him close. But Theingzin, even at seven, simply observed. He noted the pity in the examiners' eyes, the relief of the other parents that their children were not him, and the way the light fell through the window at exactly that moment. He filed it all away. He would need it later.",
+      "part3": "The Crown Prince's assassination was the case that changed everything. The greatest archmages of the realm had spent three weeks investigating, using spells of truth-seeking and time-reversal and mind-reading. They found nothing. The Grand Council was in despair. Theingzin, now twelve and working as a messenger boy, happened to deliver a package to the council chambers on the day they were discussing the case. He listened for five minutes, then asked a single question: 'Have you considered that the murderer might have been magically null, like me?' The council laughed. But one old archmage, intrigued, asked him to explain. Theingzin laid out his reasoning—a chain of logic so precise, so irrefutable, that within an hour, they had identified the killer, a magically null servant who had been invisible to magical investigation. The old archmage, Lord Vex, took Theingzin as his protégé that day.",
+      "part4": "For six years, Theingzin studied under Lord Vex, not learning magic—for that was impossible—but learning everything else. He studied the theory of magic, the history of spellcraft, the mathematical foundations of arcane energy. He learned that magic followed rules, that spells were equations, that the universe itself was a puzzle to be solved. He became the greatest magical theorist in history without ever casting a single spell. And then, on his eighteenth birthday, Lord Vex presented him with a gift: an ancient manuscript discovered in a ruin, detailing a technique for converting pure intellectual energy into raw arcane power. 'If magic is the application of will to reality,' Vex said, 'then why should will only come from emotion? Why not from thought itself?' Theingzin studied the manuscript for a year. On his nineteenth birthday, he cast his first spell—a simple light charm—and wept at the beauty of it.",
+      "part5": "Now twenty-four years old, Theingzin Dokaran has become a legend. He has solved cases that baffled the gods themselves, defeated demons using nothing but logic and precisely applied magic, and redefined what it means to be an archmage. His appearance is as unconventional as his methods—he wears the tailored attire of a Victorian detective, complete with long coat and ascot, in his signature colors of orange, white, and royal blue. His hair, styled like a warrior's with spikes reminiscent of the ancient martial artists, frames a face of sharp intelligence and warm humor. His build, athletic and powerful from years of training his body while his mind worked, allows him to fight hand-to-hand when magic is insufficient. And his magic, when unleashed, burns with orange, white, and blue light—the colors of his intellect, his purity of purpose, and his royal standing as the Consulting Mage.",
+      "part6": "His methods are famous: he arrives at a scene, observes for exactly three minutes, then announces the solution with such certainty that none dare doubt him. He has a network of informants across every realm, a photographic memory that forgets nothing, and a deductive process so rapid that it appears as magic even to archmages. He lives in a floating tower filled with books and puzzles and the occasional violin, which he plays to organize his thoughts. He takes cases that no one else can solve—murders by impossible means, thefts from sealed vaults, disappearances that defy logic—and solves them with a combination of brilliant deduction and precisely applied spellcraft.",
+      "part7": "But Theingzin knows that his greatest case lies ahead. The ancient manuscript that gave him magic came with a warning: 'When the nine stars align, the one who thinks shall face the one who is thought.' He does not know what it means, but he has already begun deducing. He has narrowed the possibilities to three, then two, then one. He knows that soon, he will face an enemy that even his mind cannot outthink, a puzzle that even his magic cannot solve. And when that day comes, he will need every ounce of his intellect, every spell in his repertoire, and the help of allies he has not yet met. Until then, he plays his violin, studies his books, and waits for the next impossible case to walk through his door."
+    },
+    "race": "Human (Intellectually Awakened Archmage)",
+    "powers": "Intellectual Conversion (can convert mental energy into raw arcane power), Deductive Spellcraft (spells that gather information and solve puzzles), Elemental Weaving (controls orange fire, white light, and royal blue lightning), Combat Logic (hand-to-hand combat enhanced by predictive deduction), Photographic Memory (remembers everything he has ever seen or read), Probability Calculation (can calculate outcomes in real-time), Arcane Sight (sees magical signatures and traces)",
+    "speciality": "Investigation & Problem-Solving",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Warm amber with flecks of royal blue that shimmer when he's thinking, holding the sharp intelligence of a master detective and the warm humor of a man who finds joy in puzzles, with an almost hypnotic quality that makes people want to tell him the truth",
+        "eye_type": "Large, expressive, slightly hooded, constantly moving as they take in every detail, framed by thick dark lashes and arched eyebrows that dance with his thoughts"
+      },
+      "nose": "Straight and refined, with a slight aristocratic bridge that speaks of his rise from humble beginnings to noble standing",
+      "hair": {
+        "hairstyle": "Voluminous and spiky, styled upward and back in dramatic peaks reminiscent of ancient martial artists, with a few deliberate strands falling across his forehead, giving him a look that is both warrior-like and intellectually disheveled",
+        "hair_color": "Rich chestnut brown with natural golden highlights that catch light, the spikes tipped with subtle orange and blue when his power flares"
+      },
+      "face_shape": "Strong and square with a defined jawline that speaks of determination, high cheekbones that catch light dramatically, and a chin that balances strength with refinement—the face of a man who has risen from nothing to become one of the most powerful beings in existence through sheer intellect",
+      "complexion": "Fair with a warm undertone, slightly tanned from his outdoor investigations, with a few faint laugh lines around his eyes that speak of his appreciation for life's ironies"
+    },
+    "upper_body": {
+      "body_structure": "Athletic and powerful, built like a warrior who trains daily—broad shoulders, defined chest, muscular arms—the result of years of physical training while his mind worked. He moves with the coiled grace of a fighter, every step deliberate and controlled, yet there's an intellectual's subtlety in his gestures.",
+      "arms": "Strong and defined, with visible muscle tone beneath his tailored sleeves, covered in faint calluses from combat training and violin playing, the forearms particularly developed",
+      "hands": "Large and strong with long fingers—the hands of both a fighter and a violinist, capable of crushing stone or playing the most delicate melody, nails kept short and clean, a simple gold band on his right ring finger (a gift from Lord Vex)",
+      "chest": "Covered by a pristine white dress shirt with high collar and French cuffs, over which he wears a tailored royal blue waistcoat with intricate orange thread embroidery forming geometric patterns and arcane symbols, the waistcoat fitted perfectly to his muscular frame",
+      "shoulders": "Broad and powerful, draped in a magnificent long coat of orange and royal blue—the coat falling to his calves, tailored in the Victorian detective style with high collar, wide lapels, and deep pockets, the fabric rich and textured with subtle patterns of interlocking puzzles and mathematical formulae woven in gold thread",
+      "neck": "Strong and columnar, adorned with an orange silk ascot tied in an elaborate knot, tucked neatly into his white shirt collar",
+      "waist": "Narrow and powerful, accentuated by the fitted waistcoat, with a thin gold chain (from his pocket watch) draping across"
+    },
+    "lower_body": {
+      "hips": "Narrow and powerful, allowing fluid movement",
+      "legs": "Long and muscular, clad in tailored royal blue trousers with sharp creases and subtle orange piping along the seams, cut perfectly to his form",
+      "feet": "Clad in polished brown leather boots with orange laces and gold eyelets, the boots reaching mid-calf and fitted perfectly for both city streets and dungeon floors"
+    },
+    "clothing": {
+      "head": "His rich chestnut brown hair with golden highlights, styled in voluminous spikes, no headgear—he prefers to feel the world directly",
+      "upper": "Pristine white dress shirt with high collar and French cuffs; tailored royal blue waistcoat with intricate orange thread embroidery of geometric patterns and arcane symbols; magnificent long coat of orange and royal blue in Victorian detective style with high collar, wide lapels, deep pockets, and subtle patterns of interlocking puzzles and mathematical formulae woven in gold thread; orange silk ascot tied elaborately at his neck",
+      "lower": "Tailored royal blue trousers with sharp creases and subtle orange piping; polished brown leather boots with orange laces and gold eyelets reaching mid-calf",
+      "feet": "Same as above",
+      "accessories": "Thin gold chain from a pocket watch draping across his waistcoat; simple gold band on right ring finger (gift from Lord Vex); a silver pocket watch with orange and blue enamel work depicting a chess board; a leather satchel crossbody bag filled with notebooks, magnifying glass, and various investigative tools; the satchel is brown leather with orange stitching and a royal blue strap"
+    },
+    "weapon": {
+      "name": "Veritas (The Truth)",
+      "type": "Arcane Focus Staff",
+      "aura": "Swirling orange fire, white light, and royal blue lightning that dance around the staff constantly, the three colors intertwining like a braid of pure intellect, casting warm and cool light in equal measure",
+      "special_feature": "Veritas is Theingzin's arcane focus—a staff that appears to be made of polished dark wood but is actually constructed from crystallized intellect, a rare material that responds only to those who can convert thought into power. The staff stands as tall as Theingzin himself, approximately six feet, with a shaft of deep brown-black that seems to contain swirling galaxies of orange, white, and blue light within. The top of the staff is crowned with an elaborate three-pronged design representing the three aspects of his power—orange fire for passion and energy, white light for truth and clarity, royal blue lightning for speed and precision. Each prong is set with a faceted gem: an orange sunstone, a white diamond, and a royal blue sapphire, all three pulsing in harmony with his thoughts. Along the shaft, intricate silver inlay forms patterns of equations, geometric proofs, and arcane symbols that shift and rearrange as he thinks. The staff serves multiple purposes—as a focus for his spells, as a weapon in close combat (the gems can extend into blades), and as a tool for investigation (it can detect magical traces, reveal hidden truths, and even record scenes for later analysis). When not in use, it floats beside him, responding to his will, and when he sleeps, it stands guard, humming with protective energy.",
+      "special_skills": [
+        "Truthseeker's Flame (orange fire)",
+        "Revelation's Light (white light)",
+        "Certainty's Bolt (royal blue lightning)",
+        "Deductive Field (combined aura)"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Orange Ember",
+          "description": "Theingzin channels orange fire from Veritas, sending a bolt of flame at an enemy. The fire deals damage and leaves a trail of warmth that reveals hidden passages or invisible enemies."
+        },
+        {
+          "name": "White Flash",
+          "description": "He releases a burst of white light from Veritas, blinding enemies in a cone before him while simultaneously revealing all hidden objects and magical traps in the area."
+        },
+        {
+          "name": "Blue Spark",
+          "description": "Lightning arcs from Veritas to a single target, dealing damage and stunning them momentarily. The lightning then jumps to reveal any nearby enemies connected by conductive materials."
+        }
+      ],
+      "passive_skill": {
+        "name": "Consulting Mind",
+        "description": "Theingzin's deductive abilities are so powerful that they function passively at all times. He automatically detects lies, reveals hidden enemies within a certain radius, and gains a damage bonus against enemies he has observed for more than a few seconds. His pocket watch, a gift from Lord Vex, also ticks in patterns that warn him of impending danger."
+      },
+      "special_skills": [
+        {
+          "name": "Truthseeker's Flame",
+          "description": "Theingzin channels orange fire through Veritas, creating a swirling vortex of flames that seeks out lies and deception. Enemies caught in the vortex take damage over time and have their illusions stripped away, revealing their true forms. The fire also burns away magical disguises and protective enchantments."
+        },
+        {
+          "name": "Revelation's Light",
+          "description": "He raises Veritas high, and white light explodes outward in all directions, illuminating everything within a massive radius. The light reveals all hidden enemies, traps, secret doors, and magical signatures, and also creates a zone where truth cannot be hidden—enemies within take bonus damage from all sources as their defenses are laid bare."
+        },
+        {
+          "name": "Certainty's Bolt",
+          "description": "Theingzin points Veritas at a single target, and a bolt of royal blue lightning strikes with absolute precision. The bolt cannot miss, ignores all defenses, and deals massive damage. After striking, the lightning reveals the target's weaknesses, increasing damage from all sources for a duration."
+        },
+        {
+          "name": "Deductive Field",
+          "description": "He plants Veritas into the ground and concentrates, creating a field of orange, white, and blue energy that covers a large area. Within the field, Theingzin's intellect is amplified—he can predict enemy movements with perfect accuracy, his spells cast faster and hit harder, and any attempt to deceive him automatically fails. Allies within the field gain increased accuracy and critical chance as he feeds them tactical information telepathically."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Arcane Detective: The Impossible Solved",
+        "description": "Theingzin closes his eyes for a single breath, and when he opens them, they blaze with combined orange, white, and blue light. Veritas rises into the air above him, the three gems spinning rapidly, creating a vortex of swirling energy that expands to cover the entire battlefield. For the duration of the ultimate, Theingzin becomes the embodiment of pure intellect—he sees every possible outcome, predicts every enemy move before it happens, and weaves all three elements together in devastating combinations. His staff splits into three separate floating foci—one orange, one white, one blue—each attacking independently while he directs them with mere thoughts. He moves through the battlefield with the certainty of a man who has already solved the puzzle of this fight, each step perfectly placed, each spell perfectly timed. Enemies cannot surprise him, cannot deceive him, cannot escape him. When the ultimate ends, the three foci merge back into Veritas, and Theingzin lands gently, his expression calm and satisfied. He adjusts his ascot, pulls out his pocket watch to check the time, and says simply, 'Elementary.' He is Theingzin Dokaran, the Arcane Detective, and the impossible is merely a puzzle waiting to be solved."
+      }
+    }
+  },
+  {
+    "id": 84,
+    "pantheon_id": 5,
+    "hero_name": "Glimmermek Sparkfuse",
+    "title": "The Cog King",
+    "nickname": "Inventor of the Plasma Throne",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/glimmermek/main.png",
+      "character_icon": "assets/images/character/glimmermek/icon.png",
+      "character_image_real": "assets/images/character/glimmermek/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/glimmermek/gallery/1.jpeg",
+        "assets/images/character/glimmermek/gallery/2.jpeg",
+        "assets/images/character/glimmermek/gallery/3.jpeg",
+        "assets/images/character/glimmermek/gallery/4.jpeg",
+        "assets/images/character/glimmermek/gallery/5.jpeg"
+      ]
+    },
+    "lore": "In the deepest caverns of the Molten Core Mountains, where geothermal vents power ancient forges and the rocks themselves hum with latent energy, a goblin was born who would change everything. Glimmermek Sparkfuse was not like other goblins—his skin shimmered with an unusual blue-white hue, and his eyes glowed with an amber-blue light that seemed to see through stone itself. While other goblins fought with crude weapons and scrapped over territory, Glimmermek dreamed of machines, of power, of inventions that could lift his people from the darkness. He built his first steam engine at age five, his first electrical generator at ten, and by twenty, he had united the warring goblin tribes under a single banner—not through force, but through the promise of progress. Now the Cog King rules over a kingdom of engineers, his crown a masterpiece of goblin innovation, and his personal weapon—a massive two-handed plasma rifle of his own design—can reduce a fortress to molten slag in seconds. He is small in stature but infinite in intellect, and the other races of the world have learned to respect the blue-skinned king who speaks the language of lightning.",
+    "story": {
+      "part1": "Glimmermek's earliest memory was of fire—not the destructive fire of war, but the controlled fire of the forge where his mother worked. She was one of the few goblins who understood metallurgy, who could look at a lump of ore and see the tool hidden within. She taught young Glimmermek to read the language of metals, to hear the whispers of steam, to dream in gears and pistons. His father, a scout, brought back scraps of dwarven technology from raids, and Glimmermek would spend hours taking them apart and putting them back together, understanding them better than their original creators. The other goblin children mocked his strange blue skin and glowing eyes, but Glimmermek didn't care. He had machines for friends, and they never mocked him.",
+      "part2": "The Great Tribe War began when Glimmermek was fifteen. For generations, the goblin tribes had fought over territory, resources, and ancient grudges that no one remembered. Glimmermek watched as his mother was killed in a raid, her forge destroyed, her body left among the rubble. He felt something then that he had never felt before—not just grief, but purpose. He realized that as long as the tribes fought each other, they would always be weak, always be prey for the larger races. He began to travel between tribes, not as a warrior, but as an inventor. He offered each chieftain something they could not refuse: weapons that would make them unbeatable, machines that would triple their production, lights that would turn night into day. And with each invention, he asked for one thing in return: a promise to talk, to listen, to consider peace.",
+      "part3": "By twenty, Glimmermek had earned the trust of all twelve tribe chieftains. He called them to a great gathering in the Cavern of Echoes, a neutral space where he had installed his greatest invention yet—a massive generator that drew power from the geothermal vents and lit the entire cavern with warm, steady light. For the first time in goblin history, the chieftains sat together without fighting. Glimmermek spoke to them for three days, not about peace or unity, but about possibility. He showed them plans for cities that would rise from the caves, for machines that would let them compete with dwarves and humans, for a future where goblins would be respected rather than feared. At the end of the third day, all twelve chieftains knelt and declared him their king—the first ruler of all goblinkind.",
+      "part4": "The crown was forged from the combined treasures of all twelve tribes—gears from the Geargrinders, crystals from the Glimmershines, copper from the Copperclaws, and a dozen other contributions. Glimmermek designed it himself: an intricate circlet of interlocking gears and cogs, each one moving independently, powered by a tiny crystal that glowed with the same amber-blue light as his eyes. The crown represents not just kingship, but innovation itself—the gears never stop turning, just as goblin minds never stop inventing. When Glimmermek wears it, the crown hums with a gentle energy, and those who see it understand that they are in the presence of something unprecedented: a king who rules through intellect rather than force.",
+      "part5": "The Plasma Rifle took Glimmermek five years to perfect. He needed a weapon worthy of a king, one that would demonstrate goblin superiority without relying on crude force. The result was the 'Starflame Cannon'—a massive two-handed weapon longer than Glimmermek himself, with twin handles that allowed him to control its immense power. The rifle draws energy from a crystal core, superheating gases into plasma and launching them at targets with devastating accuracy. The plasma bolts are blue-white, matching his skin, and they leave trails of ionized light that can be seen for miles. The rifle has settings from 'stun' to 'vaporize,' though Glimmermek prefers the former—he is an inventor, not a destroyer. But when his kingdom is threatened, the Starflame speaks with the voice of a god.",
+      "part6": "Under Glimmermek's rule, the goblin kingdom has flourished. The caverns have been transformed into a marvel of engineering—lighted streets, elevated railways, factories that produce goods rivaling any dwarven craft. Other races, once dismissive of goblins, now come to trade and learn. Glimmermek has established schools where any goblin with an idea can study engineering, has created a council of master inventors to advise him, and has even begun diplomatic relations with the surface kingdoms. He is small, barely reaching the waist of a human, but when he speaks, even kings listen. His white-blue skin and amber-blue eyes have become symbols of goblin pride, and his crown's eternal turning gears remind his people that they are never finished, never satisfied, always improving.",
+      "part7": "But Glimmermek knows that greater challenges lie ahead. The surface kingdoms grow jealous of goblin progress. Ancient enemies stir in the deep places. And somewhere, in the darkness beyond the known world, forces gather that would see all of goblinkind extinguished. The Cog King spends his nights in his workshop, not sleeping, but inventing—new weapons, new defenses, new possibilities. His crown turns endlessly, his eyes glow brighter with each passing year, and his Starflame Cannon hums softly in its charging cradle, ready for the day it will be needed. He is Glimmermek Sparkfuse, King of the Goblins, and he will not let his people fall. Not again. Never again."
+    },
+    "race": "Goblin (Blue-White Variant)",
+    "powers": "Engineering Genius (can build, repair, and understand any machine instantly), Plasma Technology (creates and controls plasma energy), Geothermal Manipulation (draws power from the earth's heat), Electromagnetic Control (can manipulate magnetic fields and electrical currents), Inventor's Intuition (sees solutions to mechanical problems instantly), King's Authority (his presence inspires goblins and commands respect from all engineers), Crystal Energy (his crown's crystal amplifies his natural abilities)",
+    "speciality": "Ranged Combat & Mechanical Engineering",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Striking white with deep amber-blue irises that glow softly, the amber and blue swirling together like molten metal and lightning, holding the infinite curiosity of an inventor and the calm wisdom of a king",
+        "eye_type": "Large and slightly luminous, with a constant look of intelligent assessment, framed by thick lashes, the pupils dilating and contracting with his thoughts"
+      },
+      "nose": "Small and button-like, typical of goblinkind, with a slight upward tilt that gives him an eternally curious expression",
+      "ears": "Large and pointed, curving back from his head, highly mobile and constantly twitching to catch every sound, adorned with small golden gears as earrings",
+      "hair": {
+        "hairstyle": "Thick and slightly wild, standing up in natural spikes, with a few longer strands falling across his forehead, practical and unkempt from hours in the workshop",
+        "hair_color": "Pure white with subtle blue undertones that shimmer when light catches it, like fresh snow under a blue moon"
+      },
+      "face_shape": "Small and angular with high cheekbones, a pointed chin, and the sharp features typical of goblins but refined by intelligence, giving him an almost elfin appearance despite his race",
+      "complexion": "Pale blue-white, like the color of morning ice or the inside of a glacier, smooth and unblemished except for a few small scars from workshop accidents, with faint blue veins visible at his temples"
+    },
+    "upper_body": {
+      "body_structure": "Small and wiry, standing barely four feet tall, but with surprising strength in his compact frame from years of working with heavy machinery, quick and agile with the nimble fingers of a master craftsman",
+      "arms": "Thin but corded with muscle, covered in the same blue-white skin, with a few small burns and scars from workshop mishaps, forearms particularly developed from handling tools",
+      "hands": "Small but incredibly dexterous, with long fingers for a goblin and opposable thumbs that move with precision, nails kept short and clean, fingers stained with oil and metal dust in patterns that never quite wash out",
+      "chest": "Covered by a magnificent royal engineer's tunic of white and blue fabric, the tunic tailored to his small frame with practical pockets and loops for tools, embroidered with golden gears and lightning bolts along the collar and cuffs",
+      "shoulders": "Small but capable, draped with a short cape of royal blue with white trim, the cape fastened by two golden gear-shaped clasps, practical and ceremonial",
+      "neck": "Short and sturdy, mostly hidden by the high collar of his tunic, showing a glimpse of blue-white skin",
+      "waist": "Narrow, cinched by a wide leather belt of deep blue with multiple pouches and tool holders, a small hammer hanging from one side, a wrench from the other"
+    },
+    "lower_body": {
+      "hips": "Small and agile, allowing quick movement",
+      "legs": "Short and slightly bowed, built for stability rather than speed, clad in practical blue trousers with white stitching and reinforced knees",
+      "feet": "Small and wide, clad in sturdy leather boots of deep blue with white soles and brass buckles, the boots reinforced at the toes with metal caps"
+    },
+    "clothing": {
+      "head": "His white hair with blue undertones styled in natural spikes; his magnificent Cog Crown—an intricate circlet of interlocking golden gears and cogs, each one moving independently, powered by a central amber-blue crystal that glows with the same light as his eyes, the gears turning endlessly representing eternal innovation",
+      "upper": "Royal engineer's tunic of white and blue fabric with practical pockets and loops, embroidered with golden gears and lightning bolts along collar and cuffs; short cape of royal blue with white trim fastened by two golden gear-shaped clasps",
+      "lower": "Practical blue trousers with white stitching and reinforced knees; sturdy leather boots of deep blue with white soles and brass buckles, toes capped with metal",
+      "feet": "Same as above",
+      "accessories": "Wide leather belt of deep blue with multiple pouches and tool holders; small hammer hanging from belt; wrench hanging from belt; several golden gear earrings in his large pointed ears; various small tools visible in belt pouches; a pair of protective goggles often pushed up onto his forehead, the goggles brass and crystal with blue tinted lenses"
+    },
+    "weapon": {
+      "name": "Starflame Cannon",
+      "type": "Two-Handed Plasma Rifle",
+      "aura": "Intense blue-white plasma energy that crackles and hums, with occasional arcs of electricity dancing around the barrel, the aura pulsing with each charge cycle, casting stark blue-white light on everything around it",
+      "special_feature": "The Starflame Cannon is Glimmermek's masterpiece—a massive two-handed plasma rifle longer than he is tall, requiring his full small frame to carry and operate. The weapon consists of a long, streamlined barrel of polished blue-white metal, wrapped in copper cooling coils that glow when fired. The stock is reinforced with brass and fitted to Glimmermek's grip, with two handles—one forward, one rear—each wrapped in leather and set with amber crystal activation buttons. At the heart of the weapon, visible through a reinforced crystal window, pulses the plasma core—a swirling orb of blue-white energy that draws power from a crystalline battery in the stock. When fired, the core superheats gases drawn from the air, compressing them into plasma bolts that launch at tremendous velocity. The bolts leave trails of ionized light that can be seen for miles, and impact with the force of a meteor. The rifle has multiple firing modes: single shot for precision, burst for suppression, and continuous beam for demolition. The stock contains a secondary battery that can power the rifle for hours of continuous use, and Glimmermek has designed a backpack generator for extended operations. Despite its size and power, the rifle is perfectly balanced for his small frame, counterweighted and stabilized by internal gyroscopes. When not in use, it floats beside him on a magnetic field generated by his crown's crystal, always ready, always humming with contained power.",
+      "special_skills": [
+        "Plasma Bolt",
+        "Ionized Beam",
+        "Electromagnetic Pulse",
+        "Starfall Barrage"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Plasma Bolt",
+          "description": "Glimmermek fires a single bolt of blue-white plasma from the Starflame Cannon. The bolt travels in a straight line, dealing heavy damage to the first enemy hit and leaving a trail of ionized energy that slows enemies who pass through it."
+        },
+        {
+          "name": "Overcharge Shot",
+          "description": "He charges the cannon for a moment, then releases a larger, more powerful plasma bolt that explodes on impact, damaging all enemies in a small area and leaving the ground superheated for a short time."
+        },
+        {
+          "name": "Magnetic Pull",
+          "description": "Using the electromagnetic field generated by his crown, Glimmermek pulls a distant object or enemy toward him, or pulls himself toward a large metal object, allowing quick repositioning."
+        }
+      ],
+      "passive_skill": {
+        "name": "Inventor's Intuition",
+        "description": "Glimmermek's genius allows him to analyze any mechanical or electrical device instantly, revealing its weaknesses and functions. Enemies with mechanical components (constructs, golems, armored units) are automatically marked, taking bonus damage from his attacks. Additionally, he can repair friendly mechanical units over time and can temporarily disable enemy traps and devices within range."
+      },
+      "special_skills": [
+        {
+          "name": "Plasma Bolt Barrage",
+          "description": "Glimmermek unleashes a rapid series of plasma bolts from the Starflame Cannon, firing in a wide arc. Each bolt seeks a different enemy, prioritizing marked targets, and the barrage continues for several seconds. The bolts leave trails of ionized energy that create a hazardous zone."
+        },
+        {
+          "name": "Ionized Beam",
+          "description": "He charges the cannon to maximum, then releases a continuous beam of blue-white plasma that can be swept across enemies. The beam deals massive damage to all it touches and leaves a trail of superheated air that continues to damage enemies who enter it. The beam can also melt through walls and obstacles."
+        },
+        {
+          "name": "Electromagnetic Pulse",
+          "description": "Glimmermek activates the EMP generator built into his crown, releasing a pulse of electromagnetic energy in all directions. The pulse damages and stuns all mechanical enemies, disables magical constructs temporarily, and drains energy shields. Non-mechanical enemies are unaffected but may have their equipment temporarily disrupted."
+        },
+        {
+          "name": "Cog King's Command",
+          "description": "He raises his hand, and the gears in his crown spin faster, emitting a unique frequency that calls to all goblin-made machines in the area. Turrets activate, doors seal, elevators move—Glimmermek gains temporary control over the environment, able to create barriers, traps, and advantages from existing machinery."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Cog King: Starfall Apocalypse",
+        "description": "Glimmermek's crown's central crystal blazes with intense amber-blue light, and the Starflame Cannon's core pulses in harmony. He plants the cannon on the ground and begins to chant in Goblintongue—a rare sound, for he usually speaks the common tongue. The cannon's barrel extends upward, and the plasma core begins to spin, drawing power from the earth itself through his crown. Then, with a final word, he releases everything. The cannon fires not bolts but a continuous stream of plasma into the sky, which then rains down as hundreds of plasma bolts across the entire battlefield. Each bolt is a star falling, each impact a small sun erupting. The bombardment continues for a full minute, with Glimmermek controlling the flow, directing bolts to priority targets. The battlefield becomes a hellscape of blue-white fire, ionized air, and superheated ground. When the ultimate ends, the cannon cools with a great hiss, and Glimmermek slumps slightly, exhausted but triumphant. He looks at the devastation, adjusts his crown, and says, 'That should hold them.' He is Glimmermek Sparkfuse, the Cog King, and he has just demonstrated why goblins are no longer to be underestimated."
+      }
+    }
+  },
+  {
+    "id": 85,
+    "pantheon_id": 1,
+    "hero_name": "Chroncik",
+    "title": "The World-Shaper",
+    "nickname": "Father of Golems",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/chroncik/main.png",
+      "character_icon": "assets/images/character/chroncik/icon.png",
+      "character_image_real": "assets/images/character/chroncik/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/chroncik/gallery/1.jpeg",
+        "assets/images/character/chroncik/gallery/2.jpeg",
+        "assets/images/character/chroncik/gallery/3.jpeg",
+        "assets/images/character/chroncik/gallery/4.jpeg",
+        "assets/images/character/chroncik/gallery/5.jpeg"
+      ]
+    },
+    "lore": "Before the first gods opened their eyes, before the sun learned to rise, before the oceans knew their tides, there was Chroncik. He was not born of divine womb nor shaped by celestial hands—he was the world's first thought, the consciousness that stirred in the deep earth when the planet itself first dreamed. For eons uncounted, he slumbered in the magma heart of the world, growing, learning, becoming. When the gods finally came, claiming dominion over sky and sea and all that lived, they found Chroncik already there—older than them, stronger than them, patient as stone itself. They offered him worship, offered him thrones among the stars. Chroncik refused. He had no interest in ruling mortals or sitting on golden chairs. He was the earth, and the earth was him. He created the first golems from living stone and gave them purpose: to tend the mountains, to guard the deep places, to remind the world that some things are eternal. Now, after millennia of watching gods rise and fall, Chroncik stirs once more. Something threatens the balance, something that even the gods fear. And the World-Shaper must awaken.",
+    "story": {
+      "part1": "In the time before time, when the universe was young and stars were still learning to burn, a planet coalesced from cosmic dust and elemental forces. It was not special among worlds—neither largest nor smallest, neither closest to its sun nor farthest. But as its core cooled and its crust formed, something unprecedented occurred. The planet dreamed. Deep in its magma heart, where pressure and heat should have precluded consciousness, a thought formed. Not a thought of words or images, but a thought of being—I am. This thought was Chroncik's first memory, and it would be eons before he had another.",
+      "part2": "For millions of years, Chroncik slept and grew, his consciousness slowly expanding through the earth's crust like roots through soil. He felt every earthquake as a twitch, every volcanic eruption as a breath, every mountain rise as a stretch. He learned to love the creatures that burrowed in his soil, the trees that sank roots into his flesh, the rivers that carved canyons through his skin. He was not lonely, for he was everything. The earth was his body, and he was its soul. He did not know that other beings existed beyond him, and for a time, he did not need to know.",
+      "part3": "The gods came in a blaze of light and thunder, descending from the heavens to claim the world as their own. They were magnificent beings—the Sun God with his blazing corona, the Sea Goddess with her endless depths, the Sky Father with his storm-tossed domain. They looked upon the world and saw it empty of rivals, ripe for dominion. But when they reached into the earth to claim its depths, they encountered something they had never felt before: a will older than theirs, a consciousness deeper than any ocean, a power that dwarfed their own. Chroncik stirred from his eons-long slumber and spoke his first word: 'No.'",
+      "part4": "The gods were terrified. They had never encountered anything that could resist them, let alone something that made them feel small. They offered Chroncik worship, offered to raise him above them as the first and greatest god. They promised him thrones of diamond, crowns of starlight, legions of worshippers. Chroncik considered their offer for a hundred years, then refused. 'I have no need of your worship,' he said. 'I have no desire for thrones. I am the earth, and the earth is me. Leave my depths untouched, and I will not trouble your skies.' The gods, relieved that such power did not seek to destroy them, agreed. They retreated to their celestial realms, and Chroncik returned to his slumber.",
+      "part5": "But the gods were not the only beings who coveted the earth's riches. Over the millennia, mortals came—dwarves who mined too deep, mages who sought to harness elemental power, dark forces that wished to corrupt the world's heart. Each time, Chroncik felt their intrusions like splinters in his flesh. And each time, he created golems to deal with them. The first golems were simple things—lumps of animated stone with no will but his. But as the threats grew more sophisticated, so did his creations. He learned to imbue them with fragments of his consciousness, to give them purpose and loyalty, to make them guardians of the deep places. The greatest of these, the Prime Golems, still walk the world, eternal and unchanging, reminders that the earth protects its own.",
+      "part6": "Now, after ten thousand years of slumber, Chroncik awakens to a new threat. Something stirs in the void between worlds, something that even the gods fear. It hungers for the earth's core, for the very essence that gives Chroncik life. For the first time in his existence, the World-Shaper feels something like fear—not for himself, but for his world, for the creatures that burrow in his soil and the trees that root in his flesh. He rises from the magma heart, pulling his consciousness together into a form that mortals can comprehend. He takes the shape of a titan, a being of living stone and molten light, his body a mountain given form, his eyes twin furnaces, his hands capable of shaping continents. In his grip, he carries his only weapon—a great club carved from the first mountain that ever rose, reinforced with the world's oldest stone, pulsing with the heat of the earth's core. He is Chroncik, the World-Shaper, and he will not let his world fall.",
+      "part7": "The golems sense their father's awakening and gather from across the world. They come in all shapes and sizes—some small as children, some large as hills, some shaped like beasts, some like warriors, all united in purpose. They form an army that stretches across valleys, a testament to Chroncik's long guardianship. The gods watch from their celestial thrones, uncertain whether to aid or flee. Mortals feel the earth tremble and pray to whatever deities they worship. And Chroncik, the World-Shaper, the Father of Golems, the oldest consciousness in existence, takes one step, then another, moving toward the threat that would destroy everything he loves. His great club rests on his shoulder, humming with power. His eyes burn with ancient fire. And for the first time in ten thousand years, he speaks to the world: 'I am here. I have always been here. And I will always be here.'"
+    },
+    "race": "Primordial Earth Titan",
+    "powers": "Terrakinesis (absolute control over earth and stone), Golem Creation (can animate stone into loyal servants), Magma Heart (his body generates intense heat and molten rock), Continental Strength (his physical power can shape mountains), Immortal Essence (cannot die as long as the earth exists), Seismic Sense (feels everything that happens on or in the earth), World Voice (can communicate with all stone and earth across the planet)",
+    "speciality": "Terrain Manipulation & Army Command",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Molten gold with swirling orange and red veins like living magma, the irises themselves seeming to flow and shift, holding the ancient patience of stone and the fierce protective fury of the earth's core, with no visible pupils—just endless burning light",
+        "eye_type": "Large and set deep within a face of living stone, framed by cracks that glow with inner fire, radiating both terrible power and ancient wisdom"
+      },
+      "nose": "Broad and strong, more a suggestion of a nose than a human feature, carved from living rock with fissures that glow faintly",
+      "mouth": "Wide and powerful, rarely moving, when it does the voice that emerges is like grinding continents—slow, deep, and absolute",
+      "hair": {
+        "hairstyle": "None—his head is crowned with jagged crystalline formations that rise like a mountain range, each crystal a different color of stone and mineral—quartz white, obsidian black, emerald green, ruby red—all pulsing with inner light",
+        "hair_color": "Varies across the crystalline crown, a spectrum of mineral colors"
+      },
+      "face_shape": "Massive and blocky, like a mountain given human-like features, with a strong brow ridge, deep-set eyes, and a jaw that could crush boulders, the entire face covered in the texture of ancient stone—not smooth but craggy, with veins of crystal and seams of precious ore running through it",
+      "complexion": "Living stone in shades of grey and brown, with veins of molten gold and orange running through like rivers of fire, the surface rough and textured like ancient granite, yet somehow warm to the touch"
+    },
+    "upper_body": {
+      "body_structure": "Colossal—standing over fifty feet tall when fully manifested, with proportions that speak of absolute power: shoulders broader than houses, a chest like a cliff face, arms thicker than ancient oaks, yet somehow graceful in the way only true strength can be. His body is not smooth but craggy, covered in outcroppings of crystal and seams of precious ore.",
+      "arms": "Titanic, covered in the same living stone, with massive boulders for biceps and forearms that could serve as quarry faces, each arm bearing the scars of eons—cracks that have healed, crystal formations that grew over old wounds, veins of molten gold pulsing beneath the surface",
+      "hands": "Enormous, with fingers like stone pillars, each knuckle a boulder, the palms cracked and lined with glowing magma veins, capable of crushing mountains or gently cradling a golem child",
+      "chest": "A massive expanse of living rock, textured with outcroppings and fissures, at its center a great glowing orb of pure magma—his heart, visible through a cage of crystal ribs, pulsing with the rhythm of the earth itself",
+      "shoulders": "Monumental, like mountain peaks, each capped with crystal formations that catch light and throw prismatic reflections, his great club often resting on one",
+      "neck": "Short and thick, more a continuation of his torso than a separate feature, supporting his massive head with ease",
+      "waist": "Broad, transitioning into his lower body, wrapped in a belt of what appears to be living magma that constantly flows and cools and flows again"
+    },
+    "lower_body": {
+      "hips": "Massive and powerful, supporting his titanic frame",
+      "legs": "Like living mountains, each step planting him firmly into the earth, clad in natural stone armor that grows from his body, with knees like boulders and calves like cliffs",
+      "feet": "Enormous, each step leaving impressions that become valleys, the feet themselves covered in crystal formations and glowing with inner fire"
+    },
+    "clothing": {
+      "head": "His crystalline crown of jagged mineral formations—quartz white, obsidian black, emerald green, ruby red—each pulsing with inner light, no headgear needed or possible",
+      "upper": "No clothing in the mortal sense—his body is living stone, but across his chest and shoulders, natural formations create the impression of armor: crystalline plates, mineral deposits, and flowing magma veins that form patterns like ancient runes",
+      "lower": "His lower body continues the stone theme, with a belt of living magma at his waist that constantly flows and cools, creating an eternal cycle of molten light",
+      "feet": "Bare stone, part of his body",
+      "accessories": "The only accessory he carries or needs is his great club, World's End, but across his body, natural crystal formations serve as ornamentation—quartz clusters at his shoulders, ruby veins across his chest, obsidian seams along his arms"
+    },
+    "weapon": {
+      "name": "World's End",
+      "type": "Primordial Great Club",
+      "aura": "Swirling orange and gold magma energy that pulses with the earth's heartbeat, cracks of molten light running along its entire length, the aura itself seeming to make the air shimmer with heat and power",
+      "special_feature": "World's End is not a weapon that was forged—it was grown, shaped from the first mountain that ever rose from the primordial sea. Chroncik pulled it from the earth's crust in the dawn of time, and it has been with him ever since. The club is enormous, proportioned to his titanic frame—over forty feet long, with a head wider than a house. It appears to be made of the densest stone imaginable, dark grey with veins of every mineral that exists running through it—gold, silver, copper, iron, diamond, emerald, ruby—all visible in the club's surface. But the stone is not dead; it pulses with inner light, cracks of molten orange and gold running along its length like rivers of fire. The head of the club is naturally broader, shaped by eons of use, studded with crystal formations that catch light and glow with inner fire. When Chroncik swings World's End, the very air compresses, creating shockwaves that can level mountains. When he plants it on the ground, the earth itself calms, earthquakes ceasing, volcanoes settling. The club is an extension of his will, responding to his thoughts, and it has never been lifted by any other being—not because it is too heavy (though it is), but because it would not allow it. World's End chose Chroncik, as Chroncik chose the world.",
+      "special_skills": [
+        "Mountain-Crushing Strike",
+        "Seismic Wave",
+        "Magma Eruption",
+        "Earth's Calm"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Stone Fist",
+          "description": "Chroncik slams his massive fist into the ground or an enemy, creating a localized earthquake that damages and staggers all nearby foes. The impact sends shockwaves through the earth."
+        },
+        {
+          "name": "Rock Throw",
+          "description": "He tears a chunk of stone from the environment and hurls it at an enemy with devastating force. The boulder deals massive damage and can crush multiple enemies in its path."
+        },
+        {
+          "name": "Earth's Embrace",
+          "description": "Chroncik raises his hand, and stone rises from the ground to form a protective barrier around himself or an ally. The barrier is nearly indestructible and regenerates over time."
+        }
+      ],
+      "passive_skill": {
+        "name": "Heart of the World",
+        "description": "Chroncik is connected to every stone on the planet. He constantly regenerates health when in contact with the earth, and any damage done to him is slowly repaired by the world itself. He can sense everything that happens on or in the ground within a vast radius, and enemies cannot surprise him as long as they stand on earth."
+      },
+      "special_skills": [
+        {
+          "name": "Mountain-Crushing Strike",
+          "description": "Chroncik raises World's End high overhead, the club blazing with orange and gold magma light. He brings it down with the full force of his titanic strength, creating a massive crater and sending shockwaves in all directions. Enemies in the impact zone are crushed, enemies further out are knocked back and stunned. The ground itself becomes difficult terrain."
+        },
+        {
+          "name": "Seismic Wave",
+          "description": "He slams World's End into the ground, sending a visible wave of energy rippling outward. The wave travels for miles, damaging and staggering everything in its path. Buildings crumble, mountains shake, and enemies are thrown from their feet."
+        },
+        {
+          "name": "Golem Army",
+          "description": "Chroncik raises both arms, and the earth around him begins to churn. From the soil, from the rocks, from the very mountains, golems rise—dozens, hundreds, thousands of them, each a loyal servant of the World-Shaper. They vary in size and shape, from small humanoid forms to massive beasts of stone, and they fight as one under his command."
+        },
+        {
+          "name": "Magma Eruption",
+          "description": "He focuses his will on a targeted area, and the ground splits open, releasing a fountain of molten magma from the earth's core. The magma deals massive damage over time, creates barriers of cooled stone, and the light from the eruption empowers Chroncik's other abilities."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "World-Shaper: Awakening of the Deep",
+        "description": "Chroncik plants World's End into the ground and closes his eyes. For a moment, all is still. Then the world begins to tremble—not with fear, but with recognition. The earth recognizes its oldest child, its first thought, its eternal guardian. From every corner of the planet, stone answers his call. Mountains shift, continents groan, and the very crust of the world rises to his command. For the duration of the ultimate, Chroncik becomes one with all stone—he is everywhere and nowhere, his consciousness spread across the entire battlefield. Golems rise endlessly, the ground reshapes itself to hinder enemies and aid allies, magma erupts at his whim, and World's End swings with the force of colliding tectonic plates. He is not fighting; he is reshaping reality itself. When the ultimate ends, the world slowly settles, and Chroncik stands at the center, his crystalline crown blazing, his magma heart pulsing, his great club humming with satisfaction. He has reminded the world—and any gods watching—that some powers are older than divinity itself. He is Chroncik, the World-Shaper, and the earth will always answer."
+      }
+    }
+  },
+  {
+    "id": 86,
+    "pantheon_id": 1,
+    "hero_name": "Ignivia Duskfeather",
+    "title": "The Abyssal Phoenix",
+    "nickname": "Flame of Eternal Dawn",
+    "gender": "female",
+    "images": {
+      "character_image": "assets/images/character/ignivia/main.png",
+      "character_icon": "assets/images/character/ignivia/icon.png",
+      "character_image_real": "assets/images/character/ignivia/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/ignivia/gallery/1.jpeg",
+        "assets/images/character/ignivia/gallery/2.jpeg",
+        "assets/images/character/ignivia/gallery/3.jpeg",
+        "assets/images/character/ignivia/gallery/4.jpeg",
+        "assets/images/character/ignivia/gallery/5.jpeg"
+      ]
+    },
+    "lore": "In the space between stars, where light dies and is reborn, the first phoenixes were born from the death-throes of primordial suns. While her siblings blazed with red and gold, Ignivia was different—her flames burned black and blue, the colors of the void between worlds, of depths so profound that even gods feared to look. The other phoenixes shunned her, calling her corrupted, impure. But they were wrong. Ignivia's flames were not corrupted—they were evolved, a higher form of celestial fire that could burn not just flesh but the very corruption that plagued existence. She descended from the celestial realms to walk among mortals, taking humanoid form to better understand the beings she was meant to protect. Now she wanders the world as a being of breathtaking beauty, her body clad in an elegant gown of midnight blue and silver with minimal armor that accentuates her otherworldly form, her hair a cascade of living flames in shades of deepest blue and black, and her eyes holding the wisdom of dying stars. She alone possesses the power to purify even the darkest titans, to cleanse the corruption that even gods cannot touch. She is Ignivia Duskfeather, the Abyssal Phoenix, and she burns not with destruction, but with the purest form of creation.",
+    "story": {
+      "part1": "The Star-Forge was a place of wonder and terror, where dying suns were dismantled and their essence woven into new life. It was here that the first phoenixes were born, each one emerging from the core of a star that had burned for billions of years. They emerged in a blaze of red and gold, of orange and yellow, the colors of life and fire and renewal. But when the last sun of the first generation collapsed, something unexpected emerged from its dying heart. The flames were not warm and bright—they were deep blue and absolute black, the colors of the void between galaxies, of depths so profound that light itself hesitated to enter. The other phoenixes recoiled. They called it the Abyssal One, the Corrupted Flame, and they cast it out from the Star-Forge. That phoenix was Ignivia, and she would spend her first millennia alone in the darkness, wondering why she was made wrong.",
+      "part2": "In the solitude of the void, Ignivia grew and learned. She discovered that her flames, though different from her siblings', were far more powerful. Where their fire could burn and renew, hers could purify—could touch the deepest corruption and burn it away without harming the innocent beneath. She watched as cosmic horrors, beings of pure malevolence that even the gods feared, devoured entire star systems. And she watched as her siblings' flames splashed harmlessly against their dark hides. When one such horror turned toward a world teeming with life, Ignivia descended for the first time. Her blue-black flames enveloped the creature, and to everyone's surprise—including her own—the horror simply dissolved, its corruption purified, its essence scattered to the void. The other phoenixes watched in stunned silence. The Abyssal One was not corrupted; she was something greater.",
+      "part3": "The Celestial Council, the governing body of all phoenix-kind, summoned Ignivia to stand before them. They expected anger, resentment for her banishment. Instead, they found a being of profound calm and grace. 'I do not blame you,' she told them. 'You feared what you did not understand. But I have found my purpose in the darkness, and it is a noble one.' She asked only for the freedom to walk among mortals, to protect them from the corruptions that even gods could not touch. The Council, humbled by her compassion, not only granted her request but offered her a place among their highest ranks. Ignivia refused. 'I belong in the shadows,' she said, 'where the darkest evils lurk. That is where I am needed most.' And so she descended to the mortal realms, taking a form they could comprehend.",
+      "part4": "Her humanoid form was a masterpiece of celestial design—flawless in every proportion, with features so beautiful that mortals who gazed upon her often forgot to breathe. Her hair became a cascade of living flames, deep blue at the roots fading to absolute black at the tips, each strand moving with a life of its own. Her eyes held the light of dying stars, deep blue with flecks of silver that seemed to contain entire galaxies. Her skin, pale as moonlight, glowed with a faint inner luminescence. She clad herself in a gown of midnight blue silk that flowed like water, with minimal silver armor at her shoulders and waist that accentuated her divine form without weighing her down. She was not trying to be beautiful; she simply was, and mortals worshipped her for it.",
+      "part5": "For centuries, Ignivia walked among mortals, purifying corruptions that no one else could touch. She cleansed a titan that had been twisted by void energy, returning it to its original noble state. She burned away a curse that had plagued a kingdom for a thousand years, leaving the land more fertile than ever before. She faced beings that gods fled from and reduced them to purified essence with a touch of her blue-black flames. And through it all, she remained kind, compassionate, and deeply curious about the mortals she protected. She learned their languages, their customs, their arts. She fell in love with their capacity for both great evil and great good, their endless struggle to choose light over darkness.",
+      "part6": "But her greatest test came when a corruption of unprecedented scale threatened to consume the entire mortal realm. It was not a creature or a curse, but a sickness of the soul itself—a darkness that spread through hatred, that fed on fear, that grew stronger with every act of cruelty. The gods were powerless against it; it was not physical, not magical, but something deeper. The Celestial Council sent word to Ignivia, begging for her aid. She came without hesitation, standing at the heart of the corruption as it tried to consume her. Her blue-black flames blazed brighter than ever before, and for seven days and seven nights, she burned. When the dawn of the eighth day broke, the corruption was gone, and Ignivia stood at its center, weakened but unbroken, her flames dimmer but still burning. She had purified a sickness of the soul itself, something that had never been done before.",
+      "part7": "Now Ignivia rests in the mortal realm, recovering her strength while continuing her quiet guardianship. She has become a legend among those who know of her—the Abyssal Phoenix, the Flame of Eternal Dawn, the only being who can burn away the darkness that even gods cannot touch. She still walks among mortals in her humanoid form, her blue-black hair flowing like living flame, her midnight gown trailing behind her, her minimal silver armor catching light. She speaks little of her past, but her eyes hold the wisdom of dying stars and the warmth of one who has chosen compassion over resentment. She is Ignivia Duskfeather, and her flames are not of destruction, but of the purest form of creation—the power to make things clean again, to restore what was corrupted, to give hope where there was none. She is the Abyssal Phoenix, and she is exactly what she was meant to be."
+    },
+    "race": "Phoenix (Abyssal Variant, Humanoid Form)",
+    "powers": "Abyssal Flames (blue-black fire that purifies corruption at its source), Purification Touch (can cleanse any corruption, curse, or dark influence), Celestial Flight (can fly with wings of blue-black flame), Immortal Resilience (cannot die permanently, will rebirth from ashes), Soul Sight (sees the true nature of any being, unclouded by deception), Dark Flame Manipulation (controls her unique fire with precision), Dusk Form (can become living shadow and flame simultaneously)",
+    "speciality": "Purification & Celestial Combat",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Deep celestial blue with flecks of silver that shimmer like distant stars, the irises themselves seeming to contain swirling galaxies, holding the wisdom of dying suns and the profound compassion of one who has chosen kindness over resentment",
+        "eye_type": "Large, almond-shaped, framed by long dark lashes that catch light, with a slight upward tilt that gives her an eternally wise and gentle expression, pupils that sometimes flicker with blue flame when her power stirs"
+      },
+      "nose": "Small and delicate, perfectly proportioned, with a slight straight bridge that adds to her ethereal beauty",
+      "hair": {
+        "hairstyle": "A magnificent cascade of living flames that flows past her waist and continues to her calves, each strand appearing as actual fire yet silky to the touch, constantly moving with a life of its own, sometimes flowing like water, sometimes flickering like flames, with waves and curls that catch light and create mesmerizing patterns",
+        "hair_color": "Deep midnight blue at the roots, gradually transitioning through shades of darker blue to absolute black at the tips, with occasional silver sparks that dance through like stars in a night sky"
+      },
+      "face_shape": "Perfect oval with high cheekbones that catch light dramatically, a soft jawline that speaks of gentleness, and a small delicate chin—the face of a being so flawlessly beautiful that mortals who gaze upon her often forget to breathe",
+      "complexion": "Pale as moonlight with a faint blue undertone, luminous and flawless, seeming to glow with inner light, smooth as polished marble yet warm to the touch"
+    },
+    "upper_body": {
+      "body_structure": "Tall and statuesque with the proportions of a goddess—long limbs, perfect curves, and a presence that commands attention without demanding it. Her body is both powerful and graceful, the physique of one who has flown across galaxies and stood against cosmic horrors, yet maintained the elegance of a celestial being.",
+      "arms": "Long and elegant, with smooth pale skin that glows faintly, slender yet possessing hidden strength, occasionally flickering with blue flame along their length when she channels power",
+      "hands": "Slender with impossibly graceful fingers, each movement deliberate and beautiful, nails naturally luminescent with a blue-white sheen, capable of both gentle caresses and devastating purification",
+      "chest": "Covered by a magnificent gown of midnight blue silk that drapes elegantly across her form, the fabric seemingly woven from night sky itself with occasional silver threads that sparkle like stars, the bodice modest yet accentuating her divine curves",
+      "shoulders": "Graceful and perfectly proportioned, adorned with minimal silver armor—delicate pauldrons shaped like phoenix feathers that catch light and protect without weighing down, the silver warm and luminescent",
+      "neck": "Long and elegant, like a classical beauty, exposed by the gown's neckline showing smooth luminous skin with a faint blue undertone, sometimes flickering with subtle flame",
+      "waist": "Narrow and flexible, cinched by a delicate silver belt of interwoven phoenix feathers that glows with inner light, the belt serving as her only waist armor"
+    },
+    "lower_body": {
+      "hips": "Graceful and perfectly curved, accentuated by the flowing gown",
+      "legs": "Long and elegant, occasionally visible through slits in her gown, showing smooth luminous skin, her legs possessing the strength of one who has stood against cosmic forces",
+      "feet": "Slender and elegant, usually bare or in delicate silver sandals that barely touch the ground, her feet leaving faint traces of blue flame where she walks"
+    },
+    "clothing": {
+      "head": "Her magnificent hair of living blue-black flames cascading past her waist, no headpiece needed or possible—her flames are crown enough",
+      "upper": "A magnificent gown of midnight blue silk that seems woven from night sky itself, with silver threads that sparkle like stars throughout, the bodice modest yet accentuating her divine form, with a neckline that reveals her graceful collarbones and the faint blue glow of her skin; minimal silver armor at her shoulders in the form of delicate phoenix-feather pauldrons",
+      "lower": "The gown flows to the ground in layers of translucent midnight blue fabric, with occasional slits that reveal glimpses of her long elegant legs, the hem trailing behind her like a river of night",
+      "feet": "Delicate silver sandals with thin straps that wrap elegantly around her ankles, or bare feet when she chooses to feel the earth",
+      "accessories": "A delicate silver belt of interwoven phoenix feathers at her waist; thin silver bracelets on both wrists set with tiny blue gemstones that glow; a single silver chain around her neck with a teardrop sapphire that pulses with inner light; small silver earrings shaped like falling stars on her ears"
+    },
+    "weapon": {
+      "name": "Duskfire (Her Abyssal Flames)",
+      "type": "Living Purifying Fire",
+      "aura": "Swirling deep blue and absolute black flames that radiate intense cold and profound heat simultaneously, with occasional silver sparks dancing through like stars, the aura itself seeming to purify the air around it, leaving a trail of cleansing light",
+      "special_feature": "Ignivia's weapon is not a separate implement—it is her very essence, the abyssal flames that burn within her and respond to her will. Unlike normal phoenix fire that is warm and bright, Duskfire is a paradox—it burns cold and hot simultaneously, its blue-black light seeming to absorb illumination while also casting its own ethereal glow. When she wields it, the flames can take any form she desires—a whip of purifying energy, a shield of consuming darkness, a rain of cleansing sparks, or simply an aura that surrounds her, burning away corruption that comes too close. The flames have the unique property of being able to distinguish between corruption and innocence—they burn the taint without harming the bearer, purify curses without damaging the cursed, and can even cleanse spiritual sickness that has no physical manifestation. Against titans and external beings, Duskfire is especially potent, capable of purifying corruptions that have festered for eons. The flames are also a part of her very being; when she is calm, they flicker gently like a hearth fire; when she is angered, they blaze with the intensity of a dying star; when she is compassionate, they warm without burning. They are an extension of her soul, and they respond to her emotions as much as her will.",
+      "special_skills": [
+        "Purifying Touch",
+        "Abyssal Whip",
+        "Cleansing Rain",
+        "Duskfire Shield",
+        "Titan's Bane"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Duskfire Spark",
+          "description": "Ignivia flicks her wrist, sending a spark of blue-black flame at an enemy. The spark deals damage and begins purifying any corruption or dark influence on the target, dealing additional damage over time to corrupted beings."
+        },
+        {
+          "name": "Purifying Touch",
+          "description": "She reaches out and touches an ally or herself, her flames washing over them. The touch heals, removes all curses and negative effects, and leaves a lingering protection against further corruption."
+        },
+        {
+          "name": "Dusk Step",
+          "description": "Ignivia dissolves into a swirl of blue-black flames and shadows, reappearing at a targeted location. While moving, she is untargetable and leaves a trail of purifying fire."
+        }
+      ],
+      "passive_skill": {
+        "name": "Abyssal Heart",
+        "description": "Ignivia's very presence purifies the area around her. Corruption, curses, and dark influences weaken within her radius, and allies slowly recover from negative effects. Her flames also reveal hidden corruption, making invisible enemies or concealed dark magic visible. Additionally, her beauty and grace are so profound that enemies sometimes hesitate before attacking her, giving her a moment's advantage."
+      },
+      "special_skills": [
+        {
+          "name": "Abyssal Whip",
+          "description": "Ignivia extends her arm, and her flames form a long whip of blue-black fire. She lashes out at enemies in a wide arc, dealing damage and purifying corruption with each strike. The whip can also wrap around enemies, holding them in place while the flames burn away their darkness."
+        },
+        {
+          "name": "Cleansing Rain",
+          "description": "She raises her arms, and her flames ascend into the sky, then fall back to earth as a gentle rain of blue-black sparks. The rain covers a large area, healing allies, purifying corruption, and damaging dark beings with every spark that touches them. The rain lingers for a duration, creating a zone of purity."
+        },
+        {
+          "name": "Duskfire Shield",
+          "description": "Ignivia wraps herself or an ally in a protective cocoon of blue-black flames. The shield absorbs damage and reflects a portion back at attackers, while continuously purifying any corruption that tries to affect the protected target."
+        },
+        {
+          "name": "Titan's Bane",
+          "description": "She focuses her flames into a concentrated beam of purifying energy directed at a single powerful target. The beam deals massive damage to corrupted beings, with especially potent effect against titans, external entities, and ancient corruptions. The beam continues for several seconds, and Ignivia can slowly sweep it across multiple targets."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Abyssal Phoenix: Eternal Dawn",
+        "description": "Ignivia's eyes blaze with intense silver light, and her entire form erupts in a pillar of blue-black flame that reaches toward the heavens. Her hair rises and spreads like wings of living fire, her gown billows as if caught in a celestial wind, and from her back, magnificent wings of pure blue-black flame unfurl—each feather individually formed of living fire, their span wide enough to shadow cities. For the duration of the ultimate, Ignivia ascends to her true phoenix form while maintaining her humanoid shape, becoming a being of pure purifying flame. She flies across the battlefield, her wings trailing cleansing fire, each beat sending waves of blue-black light in all directions. Every enemy touched by her flames is damaged and purified of corruption; every ally touched is healed and protected. Titans and external beings find their ancient corruptions burning away, their dark powers weakening with each passing moment. When she passes over corrupted ground, it becomes pure again; when she flies through dark magic, it dissipates. She is the dawn that follows eternal night, the flame that burns away all shadow. When the ultimate ends, she descends gently, her wings folding back into her form, her flames dimming to their usual gentle flicker. She stands at the center of a battlefield made pure, her expression serene, her eyes holding the wisdom of dying stars and the warmth of one who has given everything to protect those who cannot protect themselves. She is Ignivia Duskfeather, the Abyssal Phoenix, and she has done what she was born to do."
+      }
+    }
+  },
+  {
+    "id": 87,
+    "pantheon_id": 4,
+    "hero_name": "Pyralis Embervein",
+    "title": "The Pale Flame Outcast",
+    "nickname": "White-Horned Scholar",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/pyralis/main.png",
+      "character_icon": "assets/images/character/pyralis/icon.png",
+      "character_image_real": "assets/images/character/pyralis/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/pyralis/gallery/1.jpeg",
+        "assets/images/character/pyralis/gallery/2.jpeg",
+        "assets/images/character/pyralis/gallery/3.jpeg",
+        "assets/images/character/pyralis/gallery/4.jpeg",
+        "assets/images/character/pyralis/gallery/5.jpeg"
+      ]
+    },
+    "lore": "In the obsidian citadels of the Abyssal Reach, where demons are forged in the fires of malice and hatred, Pyralis was born wrong. His flames did not burn with the crimson of rage, the orange of cruelty, or the purple of cunning—they blazed pure white, the color of divine light, of mercy, of things that should not exist in demonkind. His horns grew not in the jagged spikes of his brethren but in elegant spirals that caught light like polished ivory, and his hair shone like spun gold, a stark contrast to the black and crimson of his kin. The demon lords looked upon him and saw not a son but an aberration, a creature whose very existence mocked their nature. They cast him out, into the mortal realm, expecting him to perish. But Pyralis did not perish. He found refuge in a monastery of forgotten scholars, where he devoured ancient texts and mastered the art of incantation. Now he walks the world as a being of contradictions—a demon with the heart of a scholar, white flames that heal as easily as they harm, and amber eyes that hold only compassion. He seeks not revenge but understanding, not power but purpose, and his magic circles weave stories of a world where even demons can find redemption.",
+    "story": {
+      "part1": "The birthing pits of the Abyssal Reach were no place for mercy. Pyralis emerged from the flames of creation not with a roar but with a question: 'Why am I here?' The demon midwives recoiled, for his flames were white as fresh snow, his horns elegant spirals rather than jagged weapons, his hair golden as the sun that their realm never saw. They summoned the Lords of the Abyss, who stared at the infant demon with a mixture of disgust and something they dared not name—fear. For white fire was the flame of angels, of divine beings, of everything their kind had sworn to destroy. They could not kill him, for some ancient law forbade the slaying of newborns, so they cast him through a rift into the mortal world, expecting the sun itself to end what they could not.",
+      "part2": "Pyralis landed in a haystack outside a monastery dedicated to forgotten knowledge. The monks found him, a demon infant with white flames and golden hair, and they too feared him at first. But the abbot, a man named Theron who had seen much of the world's cruelty, looked into the child's amber eyes and saw not malice but curiosity, not hunger for destruction but thirst for understanding. 'He is what he is,' Theron said, 'and what he is may not be what they made him.' The monks took him in, raising him as one of their own, teaching him to read and write, to question and learn, to channel his strange flames into patterns of meaning rather than destruction.",
+      "part3": "As Pyralis grew, so did his understanding. He devoured the monastery's library—scrolls of ancient magic, tomes of forgotten history, treatises on the nature of good and evil. He learned that his white fire was not a curse but a gift, a flame that could purify rather than corrupt, heal rather than harm. He practiced incantations until the words flowed from him like breath, wove magic circles so intricate that they seemed alive, and discovered that his demonic heritage gave him an affinity for fire that no human could match. By the time he reached adulthood, he had surpassed his teachers, becoming the most skilled scholar-mage the monastery had ever produced.",
+      "part4": "But the outside world was not as accepting as his monastic family. When he first ventured into human lands, seeking knowledge the monastery lacked, he was met with screams and torches. They saw his horns, his flames, his otherworldly beauty, and they saw only a demon. He fled, heart heavy, and for the first time understood the full weight of his exile. He was too gentle for the Abyss, too demonic for the mortal world, belonging nowhere, accepted by no one. He retreated to the monastery, but the monks were aging, dying, and soon he would be alone again.",
+      "part5": "It was during this time of despair that Pyralis made a discovery that would change everything. In the deepest vaults of the monastery, he found a collection of texts about the Primordial Flames—the original fires from which all creation sprang. According to these texts, the first fire was white, the color of pure potential, of life before it was corrupted by rage or hatred or fear. His flames were not an aberration; they were a return to origin, a echo of the world's first dawn. He was not wrong; he was ancient, primordial, closer to creation itself than any demon or angel. The realization did not bring him joy, but it brought him peace. He was not a mistake. He was something rare, something precious, and he would honor that by living as purely as his flames burned.",
+      "part6": "Now Pyralis walks the world as a seeker of knowledge and a helper of the helpless. He appears at the edges of villages, offering healing to the sick and wisdom to the lost. His white flames can cauterize wounds without pain, purify water without boiling, warm the cold without burning. His magic circles weave complex patterns of protection and restoration, and his incantations are sung in a voice so gentle that even the fearful stop to listen. He wears the robes of a high archmage scholar—deep crimson and gold, the colors of knowledge and wisdom, with minimal armor that speaks of his peaceful nature. His horns, those elegant spirals, are adorned with small golden rings that chime softly when he moves. His golden hair frames a face of such noble beauty that artists have tried and failed to capture it. And his amber eyes, so human, so gentle, hold only compassion for the world that fears him.",
+      "part7": "He has heard rumors of others like him—beings caught between worlds, neither fully accepted nor completely rejected. The brothers Lian Chen and Shen Wu, the ethereal Lunaea, even the ancient Chroncik. He wonders if they might understand him, if they might see past his demonic heritage to the scholar within. He does not seek them out, for he has learned not to hope, but he does not flee from the possibility either. For now, he continues his solitary journey, his white flames flickering gently in the darkness, his magic circles weaving stories of redemption, his amber eyes watching the world with infinite patience and infinite compassion. He is Pyralis Embervein, the Pale Flame Outcast, and he waits for the day when the world might be ready to see him as he truly is."
+    },
+    "race": "Demon (Primordial White Flame Variant)",
+    "powers": "White Flame Manipulation (pure white fire that can heal or harm, purify or destroy), Incantation Mastery (spells woven through spoken word), Magic Circle Weaving (creates intricate circles of power for various effects), Primordial Affinity (his flames connect to the original fires of creation), Scholar's Knowledge (vast understanding of magical theory and history), Compassion's Aura (his gentle nature calms hostility and inspires trust), Horn Resonance (his horns channel and amplify magical energy)",
+    "speciality": "Magical Theory & Purification Magic",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Warm amber with flecks of gold that catch light like honey, holding the gentle curiosity of a scholar and the profound compassion of one who has known rejection yet chosen kindness, framed by dark lashes that give him an eternally soft expression",
+        "eye_type": "Large, almond-shaped, completely human in appearance—no demonic slits or glowing, just warm, intelligent, endlessly kind eyes that make even the fearful pause"
+      },
+      "nose": "Straight and refined, with a noble bridge that speaks of ancient lineage, neither too sharp nor too soft",
+      "hair": {
+        "hairstyle": "Long and flowing, past his shoulders, with soft waves that catch light like spun gold, often left loose to frame his noble face, with a few strands sometimes tucked behind his elegant horns",
+        "hair_color": "Brilliant golden yellow, like sunlight made solid, warm and luminous, a stark contrast to his demonic heritage"
+      },
+      "horns": {
+        "horn_type": "Two magnificent horns that rise from his temples in elegant spirals, curving back and slightly upward like those of a ram but more refined, each horn smooth and polished, catching light with a pearlescent sheen",
+        "horn_color": "Pale ivory with subtle golden veins running through them, adorned with small golden rings that slide and chime softly with his movements"
+      },
+      "face_shape": "Noble and refined, with high cheekbones that catch light dramatically, a strong yet gentle jawline, and a chin that balances authority with kindness—the face of a scholar-king, not a demon lord, with features that speak of ancient nobility rather than monstrous heritage",
+      "complexion": "Pale with a warm undertone, almost luminous, smooth and flawless like polished marble, showing no signs of his demonic origin except for the horns that crown his head"
+    },
+    "upper_body": {
+      "body_structure": "Tall and lean, built for grace rather than brute force, with the dignified posture of a lifetime spent in study—shoulders straight, head held high, movements deliberate and elegant. Despite his scholarly nature, there is a hidden strength in his frame, the resilience of one who has survived exile and solitude.",
+      "arms": "Long and elegant, clad in the flowing sleeves of his archmage robes, with hands that emerge from the fabric—slender, graceful, fingers that have turned countless pages and woven countless magic circles",
+      "hands": "Slender with long fingers, incredibly graceful, the nails clean and naturally luminous, capable of the most delicate magical gestures, each finger bearing a simple golden ring engraved with arcane symbols",
+      "chest": "Covered by magnificent archmage scholar robes of deep crimson and gold, the fabric rich and textured, embroidered with intricate patterns of flames and magical circles in gold thread, the robes fitted yet flowing",
+      "shoulders": "Straight and dignified, draped in the layered fabric of his robes, with minimal armor visible—small golden pauldrons etched with protective runes, more decorative than defensive",
+      "neck": "Long and elegant, exposed by the robes' collar, showing smooth pale skin with a faint golden undertone",
+      "waist": "Narrow, cinched by a wide belt of deep crimson leather with gold embroidery, from which hang small pouches containing scrolls and components, and a book of incantations"
+    },
+    "lower_body": {
+      "hips": "Narrow and graceful, allowing fluid movement",
+      "legs": "Long and elegant, clad in flowing crimson robes that fall to his ankles, with gold-thread embroidery along the seams, occasionally parting to reveal glimpses of his dignified stride",
+      "feet": "Clad in soft leather boots of deep crimson with gold stitching, practical for travel yet elegant in design, the soles worn from countless miles walked in search of knowledge"
+    },
+    "clothing": {
+      "head": "His magnificent golden hair flowing past his shoulders; his elegant spiraling ivory horns with golden veins and adorned with small golden rings that chime softly",
+      "upper": "Magnificent archmage scholar robes of deep crimson and gold—the inner robe of soft crimson silk, the outer robe of richer crimson fabric with intricate gold-thread embroidery of flames and magical circles, long flowing sleeves that drape elegantly, a high collar that frames his neck; minimal armor in the form of small golden pauldrons on his shoulders etched with protective runes",
+      "lower": "Flowing crimson robes continuing to his ankles with gold-thread embroidery along the seams, over soft leather boots of deep crimson with gold stitching",
+      "feet": "Same as above",
+      "accessories": "Wide belt of deep crimson leather with gold embroidery holding small scroll pouches and a book of incantations; several simple golden rings on his fingers each engraved with arcane symbols; small golden rings adorning his horns that chime softly; a pendant of polished white gold at his neck shaped like an open book"
+    },
+    "weapon": {
+      "name": "Veritas Scriptum (The Written Truth)",
+      "type": "Incantation & Magic Circles",
+      "aura": "Gentle white flame that pulses softly with each incantation, surrounded by shimmering golden magical circles that rotate and shift, the aura itself warm and comforting rather than threatening",
+      "special_feature": "Pyralis does not carry a conventional weapon—his power lies in his voice and his will, in the ancient incantations he has mastered and the intricate magic circles he weaves. When he fights, he speaks, and his words become reality. Each incantation is a carefully constructed phrase in the Primordial Tongue, the language of creation itself, and when uttered, it calls forth white flames that respond to his intent. He can heal with a whisper, shield with a verse, or unleash devastating power with a spoken stanza. But his true mastery lies in his magic circles—complex geometric patterns woven from white fire and golden light that hang in the air, rotating slowly, each line and curve a component of a spell. He can create circles of protection that surround allies, circles of binding that trap enemies, circles of revelation that uncover hidden truths, and circles of purification that cleanse corruption. The circles can be layered, combined, and triggered in sequence, creating effects of incredible complexity. When he channels his full power, multiple circles orbit him simultaneously, each one a different spell waiting to be activated, their combined light casting his noble features in an ethereal glow. His incantations are sung in a voice of such gentle beauty that even enemies sometimes pause to listen, and his circles weave stories of hope and redemption in the air around him.",
+      "special_skills": [
+        "Incantation of Healing",
+        "Circle of Binding",
+        "Verse of Protection",
+        "Stanza of Purification",
+        "Primordial Chant"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "White Spark",
+          "description": "Pyralis speaks a single word, and a spark of white flame flies from his fingertip. The spark can heal an ally for a small amount or damage an enemy with purifying fire, depending on his intent."
+        },
+        {
+          "name": "Circle of Warding",
+          "description": "He traces a small circle in the air with his finger, and a golden ring of light appears, floating before an ally. The circle absorbs a portion of incoming damage before fading."
+        },
+        {
+          "name": "Gentle Whisper",
+          "description": "Pyralis speaks a calming phrase, and his voice carries on the wind, soothing a single enemy's aggression and reducing their damage output for a short time."
+        }
+      ],
+      "passive_skill": {
+        "name": "Scholar's Compassion",
+        "description": "Pyralis's gentle nature and scholarly wisdom affect all who encounter him. Allies near him gradually recover from mental effects and have their magical abilities enhanced. Enemies near him find their aggression dampened and their hatred cooled, making them less effective in combat. His presence also reveals hidden magical effects and illuminates invisible threats, for his white flame seeks truth."
+      },
+      "special_skills": [
+        {
+          "name": "Incantation of Healing",
+          "description": "Pyralis speaks a lengthy verse in the Primordial Tongue, his voice rising and falling like music. White flames erupt from his hands and flow toward all allies in range, healing them for a significant amount and removing all negative effects. The healing continues for a short time after the incantation ends."
+        },
+        {
+          "name": "Circle of Binding",
+          "description": "He traces an intricate geometric pattern in the air, and a large circle of golden light appears beneath his enemies. Chains of white fire rise from the circle, wrapping around all enemies within and holding them in place. The chains also burn with purifying flame, damaging corrupted beings over time."
+        },
+        {
+          "name": "Verse of Protection",
+          "description": "Pyralis recites a protective stanza, and multiple circles of white and gold light form around himself and his allies. Each circle absorbs damage and reflects a portion back at attackers, and they can be layered for additional protection."
+        },
+        {
+          "name": "Stanza of Purification",
+          "description": "He sings a haunting melody, and white flames spread outward in waves, washing over everything in range. The flames purify corruption, cleanse curses, dispel dark magic, and heal the land itself. Against corrupted beings, the flames deal massive damage while leaving the innocent untouched."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Pale Flame Outcast: Primordial Chant",
+        "description": "Pyralis closes his eyes and begins to sing—not in any language mortals know, but in the Primordial Tongue, the language spoken at the dawn of creation when the first white flames kindled. His voice rises, pure and beautiful, and the air itself seems to listen. Around him, magic circles begin to form—dozens, then hundreds, each one a different spell, each one glowing with white and gold light. They spiral outward, covering the battlefield, rotating in complex harmony. For the duration of the ultimate, Pyralis becomes a living orchestra of magic, each circle activating in sequence to heal allies, protect the innocent, bind enemies, and purify corruption. His white flames blaze brighter than ever before, casting their gentle light on everything. Enemies find their dark powers weakening, their hatred dissolving, their aggression cooling. Allies feel hope rising, wounds healing, courage strengthening. When the final note fades and the last circle dissolves, Pyralis stands at the center, his amber eyes open, his noble face serene, his golden hair and ivory horns catching the last traces of white light. He speaks one word—'Peace'—and means it with his entire being. He is Pyralis Embervein, the Pale Flame Outcast, and he has shown the world that even a demon can be gentle, even fire can be kind, even an outcast can find purpose in compassion."
+      }
+    }
+  },
+  {
+    "id": 88,
+    "pantheon_id": 4,
+    "hero_name": "Zar'rak the Shadowpaw",
+    "title": "The Last Shadow Leopard",
+    "nickname": "Blood-Eyed Traitor",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/zarrak/main.png",
+      "character_icon": "assets/images/character/zarrak/icon.png",
+      "character_image_real": "assets/images/character/zarrak/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/zarrak/gallery/1.jpeg",
+        "assets/images/character/zarrak/gallery/2.jpeg",
+        "assets/images/character/zarrak/gallery/3.jpeg",
+        "assets/images/character/zarrak/gallery/4.jpeg",
+        "assets/images/character/zarrak/gallery/5.jpeg"
+      ]
+    },
+    "lore": "In the mist-shrouded jungles of the eastern continent, where ancient trees touch clouds and shadows move with purpose, there lived the Shadow Leopard tribe—a proud people of feline warriors who worshipped the moon and walked the line between beast and man. Zar'rak was their prince, son of the chieftain, born under an eclipse with fur the color of midnight touched by purple undertones and eyes like fresh blood. The elders whispered that he was marked by destiny, that he would lead their people to an age of glory. But destiny is a cruel mistress. When Zar'rak left his tribe to journey to the sacred mountains, seeking the power and name that would make him worthy of his birthright, a rival tribe—the Crimson Leopards—descended upon his people. They showed no mercy, no honor. By the time Zar'rak returned, his village was ash, his people were bones, and the laughter of his enemies echoed in the empty valleys. Something died in him that day. The benevolent prince, the hopeful heir, was replaced by something cold, something hungry, something willing to make any pact for the power to avenge. He descended into the demon realms and made a deal with the lords of the abyss: his soul for the strength to destroy his enemies. Now Zar'rak walks the world as a monster wrapped in a monster's skin, his spear thirsting for blood, his red eyes seeing only vengeance, his once-gentle heart beating only for destruction. He is the last Shadow Leopard, and he will make the world burn before he joins his people in death.",
+    "story": {
+      "part1": "Zar'rak's earliest memory was of his mother's purr—a deep, rumbling vibration that shook his small feline body as she groomed his fur with her rough tongue. She would tell him stories of the great Shadow Leopards of old, warriors whose claws could rend mountains and whose roars could shake the heavens. 'You have the blood of kings,' she would whisper, her golden eyes warm with love. 'You will do great things, my son.' His father, Chieftain Korr, was a stern but fair leader, teaching Zar'rak the ways of the spear, the code of honor, the sacred duty to protect their people. The tribe lived in harmony with the jungle, taking only what they needed, giving thanks to the spirits for every kill. It was a good life, a peaceful life, and young Zar'rak loved every moment of it.",
+      "part2": "The coming-of-age ritual was sacred among the Shadow Leopards. When a young warrior reached fifteen winters, they must journey to the Spirit Peaks, survive alone for one full cycle of the moon, and return with a name earned through deed. Zar'rak was fourteen when he left, eager to prove himself, to earn a name that would make his parents proud. His mother embraced him, her purr vibrating against his chest. His father placed a hand on his shoulder and said, 'Come back a man, my son. Come back a leader.' Zar'rak promised he would. He did not know it would be the last promise he ever kept.",
+      "part3": "The Spirit Peaks were brutal, but Zar'rak was strong. He survived blizzards, stalked by mountain cats, and the crushing loneliness of the high places. He earned his name on the twenty-third day, when he slew a frost-drake that had terrorized the peaks for centuries, driving his spear through its heart as it breathed its frozen death upon him. He returned to the jungle victorious, his heart swelling with pride, his mind already composing the words he would say to his father. But when he reached the valley where his village had stood, there was only silence. The trees were blackened. The huts were ash. And the bones—so many bones—lay scattered like forgotten leaves.",
+      "part4": "He found the marks of the Crimson Leopards carved into the sacred stone—their symbol, a bleeding sun, a taunt to any who survived. They had come while the warriors were away, while the elders and women and children were vulnerable. They had shown no honor, no mercy, no quarter. Zar'rak walked among the bones of his people for three days, searching for his mother, his father, his friends. He found his mother's necklace, a simple thing of bone and feather, clutched in the skeletal hand of a child he had played with. Something inside him cracked. Then it shattered. Then it died.",
+      "part5": "He did not weep. He did not rage. He simply turned and walked toward the mountains, toward the rift that led to the demon realms. He had heard stories of the deals that could be made there—power for a price, vengeance for a soul. He descended into the abyss, through layers of fire and shadow, until he stood before the Demon Lord Malagar, a being of immense power whose throne was made of skulls. 'I know why you have come,' Malagar said, his voice like grinding stone. 'You want power. You want revenge. You want to make them suffer as you have suffered.' Zar'rak met his gaze, his red eyes burning. 'Yes.' 'And what will you give in return?' 'Everything.' The Demon Lord smiled, and the pact was sealed.",
+      "part6": "Zar'rak emerged from the abyss transformed. His fur, once midnight black with hints of purple, now seemed to absorb light itself, the purple undertones swirling like living shadows. His red eyes blazed with an inner fire that never dimmed. His claws, already formidable, now could cut through steel. And his spear—the weapon his father had given him on his tenth birthday—had been reforged in demon fire, its head now a massive halberd-like blade that thirsted for blood. He returned to the lands of the Crimson Leopards and showed them what true slaughter meant. He did not simply kill them; he hunted them, one by one, making each death a lesson in terror. By the time the moon had cycled twice, the Crimson Leopard tribe was no more—every man, woman, and child, every warrior and elder, every living soul, wiped from existence. Zar'rak stood in the center of their ruined village, his spear dripping, his heart empty, and realized that vengeance brought no peace, no healing, no return of what was lost. He was alone. Truly, completely, eternally alone.",
+      "part7": "Now Zar'rak walks the world as a mercenary of death, selling his spear to demon lords and dark powers, for he no longer cares for honor or cause. His once-benevolent heart has curdled into something cold and calculating, but deep beneath the layers of rage and sorrow, a small ember of the prince he might have been still flickers. It is this ember that makes him dangerous—not because it might rekindle, but because it reminds him of what he lost, and that reminder fuels his endless, aimless fury. He wears the savage chieftain attire of his people—leather armor adorned with bone ornaments, each bone a memory of a life he failed to protect. His spear, named 'Soul Drinker,' never leaves his side, its halberd head always gleaming, always hungry. His red eyes scan every horizon, seeking enemies, seeking purpose, seeking perhaps an end. He works with demon kind now, for they are the only ones who do not flinch at what he has become. They understand the cold logic of vengeance, the mathematics of pain. And Zar'rak, the last Shadow Leopard, the Blood-Eyed Traitor, walks among them, a monster among monsters, waiting for the day when the killing finally means something—or when someone finally has the strength to end him."
+    },
+    "race": "Leopard-Folk (Shadow Leopard Tribe, Demon-Touched)",
+    "powers": "Feline Agility (supernatural speed, reflexes, and climbing ability), Shadow Meld (can blend into darkness, becoming nearly invisible), Demon-Touched Strength (enhanced physical power from his pact), Blood Scent (can track any wounded creature for miles), Predator's Instinct (always aware of threats and ambushes), Soul Drinker Bond (his spear is connected to his soul and grows stronger with each kill), Red-Eyed Fury (when enraged, his physical abilities multiply)",
+    "speciality": "Brutal Melee Combat & Hunting",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Deep crimson red that seems to glow with inner fire, the irises cat-like with vertical slit pupils, holding the cold fury of one who has lost everything and the hollow emptiness that comes after vengeance is complete",
+        "eye_type": "Large, feline, with a slight upward tilt, constantly scanning, predatory, missing nothing, framed by dark fur that makes the red seem to burn brighter"
+      },
+      "nose": "Flat and feline, black and leathery, twitching constantly to catch scents, with two small slits rather than prominent nostrils",
+      "mouth": "Wide with sharp fangs visible even when closed, the canines longer than the other teeth, giving him a permanent predatory expression",
+      "hair": "None—his head is covered in the same sleek dark fur as his body, with a distinctive mane-like ridge of longer fur running from the crown of his head down his neck and between his shoulder blades, this ridge striped with darker purple",
+      "ears": "Large, pointed feline ears set high on his head, constantly rotating to catch sounds, tufted with slightly longer fur at the tips, one ear notched from a battle scar",
+      "face_shape": "Feline yet unmistakably intelligent—broad at the brow, narrowing to a strong jaw, with prominent whisker pads and whiskers that twitch with emotion, the face of a predator who was once civilized",
+      "complexion": "Sleek dark fur covering his entire face, the color of midnight with deep purple undertones that shift and shimmer in light, creating patterns like shadows moving over his features"
+    },
+    "upper_body": {
+      "body_structure": "Lean and powerfully built, designed for speed and explosive power rather than brute bulk—the physique of an apex predator, with long limbs, a flexible spine, and muscles that coil and release like springs. He moves with a fluid grace that is mesmerizing and terrifying.",
+      "arms": "Long and corded with lean muscle, covered in the same dark purple-black fur, the forearms particularly developed from years of spear training, claws retractable at his fingertips that extend when he fights",
+      "hands": "Large and powerful, with thick pads on the palms, fingers tipped with sharp black claws that can extend or retract at will, the backs of his hands showing the same dark fur",
+      "chest": "Covered by a savage chieftain's leather armor—a cuirass of hardened dark leather shaped to his form, reinforced with strips of bone lashed with leather cord, the bone ornaments carved with tribal symbols and memories of his lost people, the leather itself dark and scarred from countless battles",
+      "shoulders": "Protected by pauldrons of layered leather and bone, each pauldron adorned with long bone spikes that add to his intimidating silhouette, the bones yellowed with age and polished smooth",
+      "neck": "Thick and powerful, mostly hidden by the high collar of his leather armor, showing glimpses of dark fur",
+      "waist": "Narrow and flexible, cinched by a wide belt of dark leather from which hang various trophies—the bones of enemies, small pouches, and the tools of a hunter"
+    },
+    "lower_body": {
+      "hips": "Narrow and powerful, allowing fluid movement",
+      "legs": "Long and powerfully muscled, built for sprinting and leaping, clad in leather leggings reinforced with bone plates at the thighs and knees, the leggings laced with leather cord, his fur visible at the joints",
+      "feet": "Large and padded, more paw-like than human, with sharp claws at the toes, clad in leather boots designed to protect while allowing his natural agility, the boots reinforced with bone at the ankles"
+    },
+    "clothing": {
+      "head": "His dark purple-black fur with the distinctive mane-like ridge of longer fur running from crown to between his shoulder blades, striped with darker purple; his large pointed feline ears with tufted tips, one notched; his face with its prominent whiskers",
+      "upper": "Savage chieftain's leather armor—a cuirass of hardened dark leather shaped to his form, reinforced with bone strips lashed with leather cord, the bones carved with tribal symbols of his lost people; pauldrons of layered leather and bone with long bone spikes at the shoulders; the entire ensemble dark, scarred, and battle-worn",
+      "lower": "Leather leggings reinforced with bone plates at thighs and knees, laced with leather cord, showing glimpses of his dark fur at the joints; leather boots with bone reinforcement at the ankles, padded for silent movement",
+      "feet": "Same as above",
+      "accessories": "Wide leather belt with bone buckle holding various trophies—the finger bones of enemies, small pouches containing herbs and sharpening stones, a small carved idol of his tribe's moon goddess (the only remnant of his people he still carries); a necklace of large feline claws (each claw from a fallen tribe member) strung on leather cord; bone earrings hanging from his ears; leather cord wrapped around his wrists and forearms"
+    },
+    "weapon": {
+      "name": "Soul Drinker",
+      "type": "Massive Halberd-Headed Spear",
+      "aura": "Faint purple-black shadow energy that coils around the weapon like living smoke, with occasional pulses of crimson light that seem to beat like a heart, the aura growing stronger when enemies are near",
+      "special_feature": "Soul Drinker is a weapon of terrible beauty and greater terror. It is a massive spear, a full head taller than Zar'rak himself, its shaft forged from demon-blessed dark wood wrapped in leather and reinforced with iron bands. But its head is the true masterpiece of destruction—a massive halberd-like blade that combines the piercing point of a spear with the sweeping arc of an axe. The blade is forged from dark steel that seems to absorb light, its edge forever sharp, its surface etched with demonic runes that pulse with crimson light. Below the main blade, a heavy axe-head curves forward, perfect for cleaving through armor and bone. Opposite the axe, a stout hook curves back, designed for catching enemy weapons or pulling riders from mounts. The entire head is massive, almost absurdly so, yet Zar'rak wields it with the ease of a much lighter weapon, the demonic pact giving him strength beyond his natural limits. When he fights, Soul Drinker leaves trails of shadow and blood, and each kill makes the weapon stronger, the runes burning brighter, the hunger growing. The spear is connected to Zar'rak's soul—he can summon it to his hand from anywhere, feel its presence even when it's not in his grip, and draw strength from the lives it has taken. It is his partner in slaughter, his only companion, the instrument of his endless vengeance.",
+      "special_skills": [
+        "Shadow Thrust",
+        "Crimson Cleave",
+        "Soul Drain",
+        "Hunter's Leap",
+        "Blood Pact Strike"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Shadow Thrust",
+          "description": "Zar'rak lunges forward with supernatural speed, Soul Drinker extending like a shadow. The thrust pierces deep, dealing heavy damage and leaving a wound that bleeds shadow, making the enemy easier to track."
+        },
+        {
+          "name": "Crimson Cleave",
+          "description": "He sweeps Soul Drinker in a wide arc, the axe-head blazing with crimson light. All enemies in range are slashed and knocked back, and the wounds continue to bleed over time."
+        },
+        {
+          "name": "Hunter's Pounce",
+          "description": "Zar'rak springs forward with feline agility, closing the distance to an enemy instantly. The pounce ends with a powerful strike that staggers the target."
+        }
+      ],
+      "passive_skill": {
+        "name": "Last of His Kind",
+        "description": "Zar'rak carries the weight of his entire extinct tribe. He moves faster when outnumbered, deals bonus damage to enemies who have allies nearby (as he hunts the group that killed his people), and can sense the presence of other feline beings. His red eyes also allow him to see in complete darkness and track by heat."
+      },
+      "special_skills": [
+        {
+          "name": "Shadow Meld",
+          "description": "Zar'rak steps into any shadow and vanishes completely, becoming untargetable and invisible. He can move through shadows while hidden and can emerge for a devastating surprise attack that deals bonus damage."
+        },
+        {
+          "name": "Soul Drain",
+          "description": "He drives Soul Drinker deep into an enemy and activates the demonic runes. The weapon drains life force from the target, healing Zar'rak for a portion of the damage dealt and empowering his next attack."
+        },
+        {
+          "name": "Hunter's Leap",
+          "description": "Zar'rak crouches, then explodes upward in a massive leap, able to reach high ledges or distant enemies. He can then come crashing down on a target, the impact of his landing damaging all nearby enemies."
+        },
+        {
+          "name": "Blood Pact Strike",
+          "description": "He activates his demonic pact, his red eyes blazing brighter, his muscles swelling slightly. For a short time, his attacks deal bonus damage and have lifesteal, and his speed increases dramatically. After the effect ends, he is briefly weakened—the price of demonic power."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Last Shadow Leopard: Extinction's Vengeance",
+        "description": "Zar'rak's red eyes blaze with such intense crimson light that they seem to bleed fire. His fur darkens until he is almost invisible, the purple undertones swirling like living shadows. He raises Soul Drinker high, and the weapon responds, its demonic runes exploding with bloody light, the shadow aura expanding to cover the battlefield. For the duration of the ultimate, Zar'rak becomes the apex predator he was always meant to be—he moves too fast to track, strikes too hard to block, and hunts with the cold precision of extinction given form. Each kill empowers him further, each strike drains life from his enemies, and his shadow meld becomes instantaneous, allowing him to flicker in and out of darkness with each attack. He is no longer a warrior; he is a force of nature, a reminder of the tribe that was destroyed and the monster it created. When the ultimate ends, he stands alone among the fallen, Soul Drinker dripping, his red eyes slowly dimming. He looks at the carnage, feels nothing, and walks away, his tail the last thing to disappear into the shadows. He is Zar'rak the Shadowpaw, the Blood-Eyed Traitor, and he has done what he was made to do."
+      }
+    }
+  },
+  {
+    "id": 89,
+    "pantheon_id": 1,
+    "hero_name": "Aurek Stormwind",
+    "title": "The Skyward Knight",
+    "nickname": "Winged Guardian of the Eastern Skies",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/aurek/main.png",
+      "character_icon": "assets/images/character/aurek/icon.png",
+      "character_image_real": "assets/images/character/aurek/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/aurek/gallery/1.jpeg",
+        "assets/images/character/aurek/gallery/2.jpeg",
+        "assets/images/character/aurek/gallery/3.jpeg",
+        "assets/images/character/aurek/gallery/4.jpeg",
+        "assets/images/character/aurek/gallery/5.jpeg"
+      ]
+    },
+    "lore": "In the age when gods walked among mortals, when the Eastern skies were ruled by the great celestial birds, a being was born of two worlds. Aurek Stormwind is the son of Garuda, the divine eagle of Hindu mythology, and the blessed heir of Horus, the falcon-headed god of Egyptian skies. But unlike his divine ancestors, Aurek chose a different path—not as a god to be worshipped, but as a knight to serve. He descended from the celestial realms and took up the oath of a royal knight in the ancient courts of Britain, blending the majesty of Eastern divinity with the chivalric code of the West. His armor is a magnificent fusion—the winged helmet of Horus, the breastplate of a British knight, all in resplendent yellow and green, the colors of the sun and the living earth. His wings, armored with golden plates, can carry him across continents in a single day. His shield bears the emblem of both his lineages, and his warhammer, filled with the fury of the wind, can summon storms with every swing. He is Aurek Stormwind, the Skyward Knight, and he protects the mortal realm from threats that would tear it apart.",
+    "story": {
+      "part1": "Aurek's earliest memory was not of his mother's face, but of wind—the endless, rushing wind of the celestial realms where he was born. His father, Garuda, was the king of birds, a being of such immense power that he could block out the sun with his wings. His mother, a celestial priestess of the Horus lineage, raised him in the temples of the sky, teaching him the ancient ways of the falcon gods. From birth, Aurek was destined for greatness, but he was also marked by conflict—his two lineages, Hindu and Egyptian, had ancient rivalries that threatened to tear him apart. He spent his childhood shuttling between two worlds, never fully belonging to either, learning the ways of both.",
+      "part2": "When Aurek came of age, he was given a choice by the celestial councils: embrace one lineage fully and become a god of that pantheon, or be cast out from both. Aurek refused to choose. 'I am both,' he declared, 'and I will be neither if it means denying half of myself.' The councils were furious, but they could not deny his power. They stripped him of his divine status but could not strip him of his divine blood. Cast out from the celestial realms, Aurek fell to the mortal world, landing in the misty hills of ancient Britain. He was alone, confused, and more mortal than he had ever been.",
+      "part3": "It was there that he encountered a wounded knight of the Round Table, a man named Sir Gawain, who had been left for dead after a battle with Saxon invaders. Aurek, still possessing his healing winds, mended the knight's wounds and carried him back to Camelot on his armored wings. King Arthur himself came out to meet the winged stranger, and when he heard Aurek's story, he offered him a place among his knights. 'You have the heart of a knight,' Arthur said. 'You seek not power, but purpose. Stay with us, and you will find both.' Aurek accepted, and for the first time in his existence, he belonged.",
+      "part4": "As a Knight of the Round Table, Aurek flourished. He learned the chivalric code, the arts of war, the value of oaths and honor. He befriended the greatest knights of the age—Lancelot, Gawain, Percival—and fought alongside them in countless battles. His divine heritage made him nearly unstoppable; his armored wings carried him above enemy lines, his wind-filled warhammer shattered shields and helmets, and his shield, bearing the combined symbols of Garuda and Horus, turned aside even the strongest blows. He became known as the Skyward Knight, the only knight who could take to the air, and he was beloved by all of Camelot.",
+      "part5": "But his past could not stay buried forever. The celestial councils, seeing his success among mortals, grew jealous and fearful. They sent emissaries demanding his return, and when he refused, they sent warriors to drag him back. Aurek fought them, his hammer against divine weapons, his shield against celestial magic, his wings against the very winds of heaven. In the final battle, atop the highest tower of Camelot, he faced a combined force of Garuda's eagle warriors and Horus's falcon guard. He defeated them all, but the cost was great—his closest friend, Sir Gawain, fell defending his back, taking a blow meant for Aurek. As Gawain died in his arms, Aurek swore an oath that would define the rest of his existence: he would protect the mortal realm from all threats, divine or otherwise, for as long as he lived. He would be the shield between humanity and the jealous gods.",
+      "part6": "Now Aurek Stormwind walks the world as a wandering knight, no longer bound to any court but still bound by his oath. His armor, yellow and green, is polished to a mirror shine, the winged helmet of Horus concealing his face, the breastplate of British design bearing the scars of countless battles. His wings, armored with golden plates, fold against his back when not in use but can spread to their full span in an instant. His shield, round and mighty, bears the combined symbols of his heritage—the eagle of Garuda and the falcon of Horus, intertwined with the cross of chivalry. His warhammer, named 'Stormbringer,' hums with contained wind, ready to unleash hurricanes with every swing. His eyes, when visible, burn with brown fire—the color of earth, of mortality, of the world he has chosen to protect.",
+      "part7": "He has heard rumors of others like him—beings of divine heritage walking among mortals, protecting them from forces they cannot comprehend. The phoenix Ignivia, the titan Chroncik, the demon Pyralis with his white flames. He wonders if they might be allies, if together they could form a shield that even the gods could not pierce. For now, he continues his solitary vigil, appearing where the supernatural threatens the natural, his hammer calling down the winds, his wings carrying him to where he is needed most. He is Aurek Stormwind, the Skyward Knight, and he will keep his oath until the end of days."
+    },
+    "race": "Celestial Hybrid (Garuda-Horus lineage, Mortal-Bound)",
+    "powers": "Wind Manipulation (controls air and storms through his warhammer), Armored Flight (his wings can carry him at incredible speeds), Divine Heritage (resistant to both divine and mortal weapons), Stormbringer's Fury (his hammer can summon hurricanes, tornados, and gale-force winds), Shield of Two Heavens (his shield blocks both physical and magical attacks), Eagle's Sight (can see for miles with perfect clarity), Falcon's Speed (moves with blinding quickness in combat)",
+    "speciality": "Aerial Combat & Protective Warfare",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Deep brown that burns with inner fire like smoldering embers, the irises seeming to contain flecks of gold that catch light, holding the fierce determination of a warrior and the ancient wisdom of his divine lineage",
+        "eye_type": "Large and intense, framed by dark lashes, with a slight upward tilt that gives him an eternally vigilant expression, the pupils sometimes contracting to slits when he focuses on distant targets"
+      },
+      "nose": "Straight and strong, with a noble bridge that speaks of his divine ancestry, slightly aquiline like a bird of prey",
+      "hair": {
+        "hairstyle": "Short and practical, kept neat beneath his winged helmet, with a few strands often escaping to frame his face, the color a rich dark brown with golden highlights that catch light",
+        "hair_color": "Rich dark brown with natural golden highlights, like the feathers of an eagle"
+      },
+      "ears": "Human in shape, often hidden by his hair and helmet",
+      "face_shape": "Strong and noble, with high cheekbones, a firm jawline, and a chin that speaks of determination—the face of a knight who has seen countless battles and emerged with honor intact, carrying both the severity of a warrior and the gentleness of a protector",
+      "complexion": "Fair with a warm undertone, slightly tanned from years of flying under the sun, showing a few faint scars from battles that came too close"
+    },
+    "upper_body": {
+      "body_structure": "Tall and powerfully built, with the broad shoulders of a warrior and the lean muscle of a flyer—a physique designed for both strength and speed, capable of wielding a heavy warhammer one-handed while maneuvering through the air with grace",
+      "arms": "Strong and well-muscled, clad in golden-yellow plate armor with green accents at the joints, the armor articulated to allow full range of motion, showing glimpses of chainmail beneath at the gaps",
+      "hands": "Large and strong, clad in armored gauntlets of yellow and green, the fingers articulated to allow a firm grip on both hammer and shield, the gauntlets etched with feather patterns",
+      "chest": "Covered by a magnificent British-style plate breastplate in brilliant yellow with green trim, the metal polished to a mirror shine, embossed with intricate patterns of wings and feathers, a green sash crossing from shoulder to hip bearing the emblem of the Round Table",
+      "shoulders": "Protected by large pauldrons of yellow plate with green accents, each pauldron shaped to suggest folded wings, the edges trimmed with gold",
+      "back": "His most magnificent feature—a pair of enormous wings that emerge from between his shoulder blades, each wing fully armored with articulated golden plates that cover the upper half while leaving the primary feathers free for flight, the wings spanning twenty feet when fully extended, folding neatly against his back when not in use",
+      "neck": "Strong and columnar, protected by a high gorget of yellow plate that rises to meet his winged helmet",
+      "waist": "Narrow and powerful, cinched by a wide belt of green leather with gold buckle, from which hang various pouches and his hammer's holster"
+    },
+    "lower_body": {
+      "hips": "Narrow and powerful, allowing fluid movement",
+      "legs": "Long and strong, clad in yellow plate armor greaves with green accents at the knees and shins, over chainmail leggings that protect while allowing flexibility, the armor etched with the same feather patterns as his arms",
+      "feet": "Clad in articulated yellow plate sabatons with green accents, designed to accommodate landings from great heights, the soles reinforced with extra padding"
+    },
+    "clothing": {
+      "head": "A magnificent winged helmet in the style of Horus—yellow plate with green accents, shaped to resemble the head of a falcon with a prominent beak-like visor that can be raised or lowered, two magnificent wings sweeping back from the temples, the helmet adorned with small green gemstones at the eyes, leaving only his burning brown eyes visible when fully worn",
+      "upper": "Full British-style plate armor in brilliant yellow with green trim—breastplate embossed with wing and feather patterns, pauldrons shaped like folded wings, articulated arm guards with green accents, gauntlets etched with feather designs, chainmail visible at joints, a green sash with Round Table emblem crossing from shoulder to hip",
+      "lower": "Yellow plate greaves with green accents at knees and shins, over chainmail leggings, articulated sabatons on feet",
+      "feet": "Same as above",
+      "accessories": "Wide green leather belt with gold buckle at waist; various pouches on belt; his magnificent armored wings; his shield, 'Aegis of Two Heavens,' on his left arm; his warhammer, 'Stormbringer,' in his right hand or holstered at his belt"
+    },
+    "weapon": {
+      "name": "Stormbringer (Warhammer) & Aegis of Two Heavens (Shield)",
+      "type": "Wind-Filled Warhammer and Divine Shield",
+      "aura": "Swirling green and gold wind energy constantly spirals around Stormbringer, with occasional lightning-like sparks of yellow light, while Aegis radiates a soft golden protective aura that shimmers like sunlight on clouds",
+      "special_feature": "Aurek wields two legendary weapons in perfect harmony. STORMBRINGER is a massive warhammer of celestial design—its haft is forged from ancient oak blessed by the winds of heaven, wrapped in green leather and reinforced with golden bands. The head is enormous, a block of enchanted steel on one side and a curved spike on the other, both etched with wind-runes that pulse with green light. But the true power lies within—the hammer contains a captured storm, a living vortex of wind that responds to Aurek's will. With each swing, it releases gale-force winds, summons lightning, or creates devastating shockwaves. The hammer hums constantly with contained power, and when Aurek channels his full strength through it, the winds howl and the very air seems to bend to his command. AEGIS OF TWO HEAVENS is his shield, a magnificent round shield of golden metal with green trim, large enough to protect his entire torso. Its surface is embossed with the intertwined symbols of Garuda's eagle and Horus's falcon, surrounded by the cross of chivalry. The shield is not merely physical protection—it radiates a divine aura that can deflect magical attacks, and when Aurek raises it, a shimmering golden barrier extends to protect those behind him. Together, hammer and shield make him a mobile fortress, capable of both devastating offense and impenetrable defense.",
+      "special_skills": [
+        "Wind Hammer Strike",
+        "Gale Force Blast",
+        "Storm Call",
+        "Aegis Barrier",
+        "Heaven's Shield Wall"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Wind Hammer Strike",
+          "description": "Aurek swings Stormbringer in a devastating arc, the hammer trailing green wind energy. Enemies struck are damaged and knocked back by the force of the blow, with a chance to be briefly stunned."
+        },
+        {
+          "name": "Gale Force Blast",
+          "description": "He points Stormbringer and releases a concentrated blast of wind that travels in a straight line, damaging all enemies in its path and pushing them back. The blast can also clear obstacles or create openings."
+        },
+        {
+          "name": "Aegis Block",
+          "description": "Aurek raises his shield, and a golden barrier forms before him, absorbing incoming damage for a short time and protecting allies behind him."
+        }
+      ],
+      "passive_skill": {
+        "name": "Skyward Guardian",
+        "description": "Aurek's divine heritage and knightly oath make him a natural protector. When he is airborne, his damage and defense increase. When he is near allies he has sworn to protect, he gains bonus resistance and his presence inspires courage, reducing fear effects on nearby allies. His eagle's sight allows him to see enemies from great distances, and his falcon's speed lets him react to threats before they fully manifest."
+      },
+      "special_skills": [
+        {
+          "name": "Storm Call",
+          "description": "Aurek raises Stormbringer high, and the sky responds. Dark clouds gather, and lightning begins to strike around him. For a duration, enemies in a large area are periodically struck by lightning, and Aurek's wind attacks are empowered. The storm follows him as he moves."
+        },
+        {
+          "name": "Heaven's Shield Wall",
+          "description": "He plants Aegis on the ground and channels his divine power through it. A massive golden barrier expands from the shield, covering a wide area. Allies within are protected from all damage for a short time, and enemies who try to enter are repelled by holy wind."
+        },
+        {
+          "name": "Winged Charge",
+          "description": "Aurek spreads his armored wings and launches forward at incredible speed, becoming a blur of yellow and green light. He can fly through enemy lines, damaging all he passes through, and end his charge with a devastating hammer strike."
+        },
+        {
+          "name": "Divine Wind",
+          "description": "He spins Stormbringer above his head, creating a vortex of wind that pulls enemies toward him while also deflecting incoming projectiles. When the vortex reaches its peak, he slams the hammer down, releasing the stored wind in a devastating radial explosion."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Skyward Knight: Judgment of the Two Heavens",
+        "description": "Aurek's brown eyes blaze with golden fire, and his armored wings spread to their full twenty-foot span, each feather catching light and gleaming. He raises Stormbringer high, and the hammer's captured storm explodes outward, darkening the sky with swirling clouds. He raises Aegis, and the shield's golden aura expands to cover the entire battlefield. For the duration of the ultimate, Aurek becomes a force of divine judgment—he flies at impossible speeds, his hammer calling down lightning with every strike, his shield protecting every ally within range. The winds themselves fight for him, pushing enemies back, lifting them into the air, hurling them against each other. He moves through the battlefield like a golden-green blur, untouchable, unstoppable, the embodiment of the oath he swore over Gawain's body. When the ultimate ends, the clouds part, the winds calm, and Aurek lands gently, his wings folding, his hammer cooling, his shield dimming. He looks at the battlefield, at the enemies defeated and the allies safe, and nods once—the nod of a knight who has kept his oath. He is Aurek Stormwind, the Skyward Knight, and the heavens themselves fight at his command."
+      }
+    }
+  },
+  {
+    "id": 90,
+    "pantheon_id": 3,
+    "hero_name": "Shenlong Xu",
+    "title": "The Enlightened Fist",
+    "nickname": "Silver-Handed Ascetic",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/shenlong/main.png",
+      "character_icon": "assets/images/character/shenlong/icon.png",
+      "character_image_real": "assets/images/character/shenlong/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/shenlong/gallery/1.jpeg",
+        "assets/images/character/shenlong/gallery/2.jpeg",
+        "assets/images/character/shenlong/gallery/3.jpeg",
+        "assets/images/character/shenlong/gallery/4.jpeg",
+        "assets/images/character/shenlong/gallery/5.jpeg"
+      ]
+    },
+    "lore": "In the mist-shrouded mountains of the eastern realm, where clouds kiss ancient peaks and the wind carries the whispers of enlightened masters, there lived a child born under a sign that had not been seen for ten thousand years. Shenlong Xu was found as an infant on the steps of the Jade Temple, wrapped in silk embroidered with silver thread, his tiny hands already adorned with rings that seemed to grow from his very flesh. The monks who raised him knew immediately that he was no ordinary child—his eyes held the wisdom of ages, and his presence radiated a peace that could calm raging storms. As he grew, so did his power, until he could move mountains with a gesture and heal the dying with a touch. But Shenlong sought not power, but understanding. He renounced his position as the temple's chosen one and embarked on a journey of enlightenment, seeking the truth of his origins and the purpose of his existence. Now, after decades of wandering and meditation, he has achieved a state of being that transcends mortal understanding—a living Buddha in a world of martial strife, his silver rings glowing with ancient power, his ethereal face inspiring awe in all who behold him, his long silken hair flowing like a river of moonlight. He fights not for glory or vengeance, but to maintain the balance between the martial world and the path of enlightenment, using his ring-imbued fists to guide rather than destroy.",
+    "story": {
+      "part1": "The night Shenlong was found, the Jade Temple's protective formation blazed with silver light so bright that monks woke from their meditations thinking the dawn had come early. Abbot Feng, a man who had lived three hundred years and seen countless miracles, was the first to reach the temple steps. There, wrapped in silk that seemed woven from moonlight itself, lay an infant no more than a day old. But it was the child's hands that made the abbot gasp—each tiny finger bore a ring of pure silver, not placed there but grown from the skin, as if the rings were part of his very being. The abbot lifted the child and felt a wave of peace wash over him so profound that he wept. 'This one,' he whispered, 'is touched by the cosmos itself.'",
+      "part2": "Shenlong grew up in the Jade Temple, surrounded by monks who taught him the ways of martial arts, meditation, and the pursuit of enlightenment. But even as a child, he surpassed his teachers. By seven, he could meditate for seven days without moving. By twelve, his martial forms were flawless, each movement a prayer made physical. By eighteen, he had achieved a state of enlightenment that most monks spend lifetimes seeking. The rings on his fingers—five on each hand, ten in total—began to glow with soft silver light, and he discovered that each ring held a different power: compassion, wisdom, patience, diligence, and peace on his right hand; strength, protection, healing, clarity, and transcendence on his left. He was the living embodiment of the temple's highest ideals, and the monks looked at him with a mixture of pride and awe.",
+      "part3": "But Shenlong was troubled. Despite his achievements, he felt a pull toward something beyond the temple walls, a calling he could not name. The abbot, seeing the conflict in his eyes, called him to his chambers. 'You have learned all we can teach you,' the old man said. 'But enlightenment cannot be found in a single place. You must walk the world, see its suffering and its beauty, and find your own path. Go, my son. And when you have found what you seek, return to us.' Shenlong knelt, touched his forehead to the floor, and left the next morning, his silver rings gleaming in the dawn light, his long hair flowing behind him like a banner of peace.",
+      "part4": "For twenty years, Shenlong wandered. He walked through war-torn kingdoms and used his healing rings to mend the wounded. He climbed the highest mountains and meditated in caves where ancient masters had attained enlightenment. He sat in marketplaces and listened to the stories of common folk, learning the wisdom of ordinary life. He encountered martial artists of every school, and when they challenged him, he did not fight—he simply moved, flowing around their attacks like water around stone, his rings glowing softly, until they understood that true strength lies not in victory but in peace. His reputation grew, not as a warrior, but as a sage, a living Buddha whose presence alone could calm the most violent hearts.",
+      "part5": "But peace is not always possible. When a demonic cult threatened to destroy a village that had sheltered him, Shenlong faced a choice: stand aside and let evil triumph, or fight and risk compromising his enlightenment. He chose to fight, but in his own way. He did not strike to kill; he struck to disarm, to pacify, to guide. His rings blazed with silver light as he moved among the cultists, each touch of his hands releasing waves of calming energy, each gesture redirecting violence into peace. When the battle ended, not a single life had been lost, but the cultists had laid down their weapons and wept, their darkness lifted by his touch. It was then that Shenlong understood his purpose: he was not meant to be a passive sage, but an active guardian—one who uses the martial arts not for destruction, but for protection, not for victory, but for peace.",
+      "part6": "Now Shenlong Xu walks the world as a living legend. His face, ethereal and flawless, inspires awe in all who behold it—artists have tried for years to capture his beauty and failed, for it is not merely physical but spiritual, a radiance that comes from within. His long silken hair flows past his waist, white as mountain snow with silver undertones that catch light like moonlight on water. His attire is simple yet noble—the robes of a high cultivator, white and silver, leaving his arms bare to display the ten silver rings that adorn his fingers, each one pulsing with ancient power. He wears minimal clothing, as befits one who has transcended material attachments, but what he wears is of the finest silk, embroidered with silver thread in patterns of clouds and lotus blossoms. Silver ornaments adorn his person—bracelets on his wrists, a torc at his neck, earrings that catch light—each one a gift from those he has helped, each one carrying the prayers and gratitude of countless souls.",
+      "part7": "He has heard of others who walk similar paths—beings of immense power who use their gifts to protect rather than dominate. The Skyward Knight Aurek, the Abyssal Phoenix Ignivia, the Pale Flame Outcast Pyralis. He wonders if their paths might one day cross, if together they might form a fellowship of guardians that could protect the world from threats too great for any one being. For now, he continues his solitary journey, his silver rings glowing softly, his long hair flowing in the wind, his ethereal face turned toward the horizon. He seeks no enemies, but he fears none. He desires no power, but he possesses it in abundance. He is Shenlong Xu, the Enlightened Fist, the Silver-Handed Ascetic, and his mere presence is a blessing upon the world."
+    },
+    "race": "Human (Enlightened Ascetic, Ring-Blessed)",
+    "powers": "Ten Silver Rings (each ring grants a different power—right hand: compassion, wisdom, patience, diligence, peace; left hand: strength, protection, healing, clarity, transcendence), Enlightened Movement (moves with perfect grace, impossible to hit unless he wills it), Aura of Peace (his presence calms hostility and inspires enlightenment), Martial Perfection (all martial arts forms flow through him effortlessly), Healing Touch (can mend wounds and cure illnesses), Spiritual Sight (sees the true nature of all beings), Transcendent State (can temporarily elevate his consciousness beyond mortal limits)",
+    "speciality": "Defensive Combat & Spiritual Guidance",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Deep silver-blue like moonlight on a winter lake, with flecks of gold that appear when he uses his powers, holding the infinite compassion of a thousand enlightened masters and the gentle wisdom of one who has transcended desire",
+        "eye_type": "Large, almond-shaped, slightly downturned at the outer corners giving him an eternally serene expression, framed by long silver-white lashes that catch light, the pupils sometimes seeming to contain entire galaxies"
+      },
+      "nose": "Straight and refined, perfectly proportioned, with a slight bridge that speaks of noble heritage",
+      "hair": {
+        "hairstyle": "Extremely long, flowing past his waist and continuing to his calves, silky and straight as waterfall, often left loose to cascade around him like a river of moonlight, occasionally gathered with a simple silver cord when practicing martial forms",
+        "hair_color": "Pure white with subtle silver undertones that shimmer and shift, catching light like fresh snow under a full moon"
+      },
+      "ears": "Small and refined, adorned with small silver earrings shaped like lotus blossoms",
+      "face_shape": "Perfect oval with high cheekbones that catch light dramatically, a soft yet defined jawline, and a small delicate chin—a face of such transcendent beauty that it has been known to bring warriors to their knees not in fear, but in awe, the face of a living Buddha walking among mortals",
+      "complexion": "Flawless pale ivory with a faint silver luminescence, like moonlight made flesh, smooth as polished jade and radiating a soft inner glow"
+    },
+    "upper_body": {
+      "body_structure": "Tall and gracefully built, with the lean musculature of one who has mastered both meditation and martial arts—not bulky but perfectly proportioned, each movement flowing into the next with the inevitability of water finding its level, his body a testament to the harmony of physical and spiritual perfection",
+      "arms": "Long and elegant, bare from the shoulders down, showing smooth pale skin with that same silver luminescence, the muscles defined but not prominent, moving with liquid grace, his most striking feature being his hands with their ten silver rings",
+      "hands": "Slender with impossibly long fingers, each movement a prayer made physical, the skin flawless and luminous, and on each finger a ring of pure silver—ten rings in total, each one a different design representing its power: compassion (a lotus), wisdom (an open eye), patience (a mountain), diligence (a flame), peace (a still lake), strength (a mountain peak), protection (a shield), healing (a flowering branch), clarity (a crystal), transcendence (a bird in flight)—each ring glowing softly with its own light",
+      "chest": "Bare, showing his flawless pale skin with its silver luminescence, the definition of his chest subtle yet present, a testament to years of martial practice without the bulk of a warrior",
+      "shoulders": "Graceful and perfectly proportioned, bare, allowing full range of motion for his martial forms",
+      "neck": "Long and elegant, adorned with a silver torc of intricate design—interwoven lotus blossoms and clouds, with a small teardrop moonstone at the center that pulses with soft light",
+      "waist": "Narrow and flexible, wrapped in a simple white silk sash that holds his lower robes, the sash embroidered with silver thread in patterns of enlightenment"
+    },
+    "lower_body": {
+      "hips": "Narrow and graceful, allowing fluid movement",
+      "legs": "Long and elegant, clad in loose white silk trousers that flow like water when he moves, gathered at the ankles, the fabric so fine it's almost translucent, showing the faint outline of his perfect form beneath",
+      "feet": "Slender and elegant, usually bare, his feet calloused from years of walking but perfectly formed, each toe adorned with a small silver ring, his steps leaving no mark on the ground"
+    },
+    "clothing": {
+      "head": "His magnificent long white silver hair cascading past his waist like a river of moonlight; small silver lotus blossom earrings at his ears",
+      "upper": "Bare chest showing his flawless luminous skin; his ten silver rings on his fingers—five on each hand, each uniquely designed and glowing with its own power; a silver torc at his neck with interwoven lotus and cloud patterns and a teardrop moonstone",
+      "lower": "Loose white silk trousers that flow to his ankles, gathered at the ankles, the fabric so fine it's almost translucent, embroidered with subtle silver thread in patterns of enlightenment along the seams",
+      "feet": "Bare, his feet adorned with small silver rings on each toe",
+      "accessories": "Ten silver rings on his fingers (five per hand); small silver lotus earrings; silver torc with moonstone at his neck; several thin silver bracelets on his wrists; a simple white silk sash at his waist with silver enlightenment embroidery; his entire form radiating a soft silver aura"
+    },
+    "weapon": {
+      "name": "The Ten Rings of Enlightenment",
+      "type": "Ancient Power Rings (Worn on Fingers)",
+      "aura": "Soft silver light that pulses gently from each ring, the ten auras intertwining around his hands and arms like living mandalas, occasionally shimmering with hints of gold when he channels their full power",
+      "special_feature": "Shenlong's weapons are the ten silver rings that adorn his fingers, each one an ancient artifact of unimaginable power, said to have been forged by the first enlightened being at the dawn of creation. The rings are not worn but grown, fused with his very flesh, responding to his will as naturally as his own fingers. Each ring has a unique design representing its power, and together they form a complete system of spiritual and martial ability. On his RIGHT HAND: the thumb ring of COMPASSION (lotus design) allows him to feel the suffering of others and ease their pain; the index ring of WISDOM (open eye) grants him perfect understanding of any situation; the middle ring of PATIENCE (mountain) makes him immovable in both body and spirit; the ring finger ring of DILIGENCE (flame) empowers his attacks with focused intensity; the little finger ring of PEACE (still lake) calms all hostility around him. On his LEFT HAND: the thumb ring of STRENGTH (mountain peak) grants him physical power beyond normal limits; the index ring of PROTECTION (shield) creates barriers of silver light; the middle ring of HEALING (flowering branch) mends wounds and cures illness; the ring finger ring of CLARITY (crystal) reveals truth and dispels illusion; the little finger ring of TRANSCENDENCE (bird in flight) allows him to momentarily rise beyond mortal constraints. When he fights, the rings glow with silver light, and each strike carries the power of the ring he channels. He can use them individually or in combination, weaving their powers together in complex sequences that are as beautiful as they are effective. His martial arts are not about destruction—each movement is a meditation, each strike a prayer, each block a blessing. To fight Shenlong is to experience enlightenment, whether one wishes it or not.",
+      "special_skills": [
+        "Compassion's Touch (healing)",
+        "Wisdom's Gaze (truth-seeking)",
+        "Patience's Mountain (immovability)",
+        "Diligence's Flame (focused strikes)",
+        "Peace's Stillness (calming aura)",
+        "Strength's Peak (power strikes)",
+        "Protection's Shield (barriers)",
+        "Healing's Bloom (restoration)",
+        "Clarity's Light (revelation)",
+        "Transcendence's Flight (temporal elevation)",
+        "Ten-Ring Harmony (all rings combined)"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Compassion's Touch",
+          "description": "Shenlong touches an ally with his right thumb, the lotus ring glowing softly. The ally is healed for a moderate amount and any pain or suffering they feel is eased."
+        },
+        {
+          "name": "Strength's Peak",
+          "description": "He channels power through his left thumb ring, his fist glowing with silver light. His next unarmed strike deals bonus damage and can stagger even massive enemies."
+        },
+        {
+          "name": "Peace's Stillness",
+          "description": "Shenlong raises his right hand, the still lake ring pulsing. All enemies within range feel their aggression cool, reducing their damage output and attack speed for a short time."
+        }
+      ],
+      "passive_skill": {
+        "name": "Enlightened Presence",
+        "description": "Shenlong's very existence radiates peace and wisdom. Allies near him gradually recover from mental effects, have their spiritual cultivation enhanced, and feel their doubts and fears dissolve. Enemies near him find their bloodlust cooling, their hatred fading, and have difficulty committing to violent acts. His silver aura also reveals hidden truths, making invisible enemies visible and exposing deception."
+      },
+      "special_skills": [
+        {
+          "name": "Wisdom's Gaze",
+          "description": "Shenlong touches his right index ring, and his silver-blue eyes flash with golden light. For a short time, he can see the true nature of all beings and situations—enemy weaknesses are revealed, illusions are pierced, and the best path forward becomes clear. Allies near him also gain increased accuracy and critical chance as he guides them."
+        },
+        {
+          "name": "Protection's Shield",
+          "description": "He raises his left hand, and the shield ring blazes with silver light. A dome of protective energy expands around himself and his chosen allies, absorbing all incoming damage for a duration. The dome also reflects a portion of the damage back at attackers as pure enlightenment, calming their violent intentions."
+        },
+        {
+          "name": "Diligence's Flame",
+          "description": "Shenlong touches his right ring finger, and his entire form becomes wreathed in soft silver flames. For a duration, his attacks are faster, his movements quicker, and each strike carries the focused intensity of enlightenment, dealing bonus damage and leaving targets momentarily enlightened (reducing their desire to fight)."
+        },
+        {
+          "name": "Healing's Bloom",
+          "description": "He spreads both hands, and flowering branches of silver light extend from his healing ring, touching all allies in range. Wounds close, illnesses fade, and even spiritual damage is mended. The healing continues for a short time after the initial touch."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Enlightened Fist: Ten-Ring Harmony",
+        "description": "Shenlong Xu closes his eyes and brings his hands together, palm to palm, the ten silver rings aligning in perfect harmony. For a single breath, all is still. Then his eyes open, blazing with silver-gold light, and all ten rings activate simultaneously. From his right hand: compassion, wisdom, patience, diligence, and peace flow outward in waves of silver light. From his left hand: strength, protection, healing, clarity, and transcendence join the harmony. The ten powers intertwine, forming a living mandala of light that expands to cover the entire battlefield. For the duration of the ultimate, Shenlong becomes the embodiment of enlightenment—he moves with impossible grace, each gesture a prayer, each step a blessing. Enemies find their violence neutralized, their hatred dissolved, their darkness lifted—not through force, but through the overwhelming power of peace. Allies feel their spirits elevated, their wounds healed, their doubts erased. And Shenlong himself floats at the center of it all, his long silver hair flowing like a river of light, his ethereal face serene, his ten rings blazing with the combined power of a thousand enlightened masters. When the ultimate ends, the light fades slowly, and Shenlong descends gently to the ground, his rings dimming to their usual soft glow. He looks at those around him, his silver-blue eyes holding only compassion, and speaks one word: 'Peace.' He is Shenlong Xu, the Enlightened Fist, and he has shown the world what true power looks like."
+      }
+    }
+  },
+  {
     "id": 100,
     "pantheon_id": 2,
     "hero_name": "Vorlag the Emberhoof",
