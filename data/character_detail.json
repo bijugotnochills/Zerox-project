@@ -65,7 +65,10 @@
       "type": "Ornate Staff",
       "aura": "Soft blue luminescence",
       "special_feature": "Head shaped like blooming flower or crystalline cage, pale ivory material with golden filigree spiraling up length",
-      "special_skills": ["Celestial Flare", "Starlight Ward"]
+      "special_skills": [
+        "Celestial Flare",
+        "Starlight Ward"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -168,7 +171,10 @@
       "type": "Ornate Parasol",
       "aura": "Shimmering luminescence",
       "special_feature": "Deep indigo and turquoise canopy, golden ribs, brilliant yellow sunburst center, polished wood and gold handle",
-      "special_skills": ["Mist Veil", "Water Shield"]
+      "special_skills": [
+        "Mist Veil",
+        "Water Shield"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -271,7 +277,10 @@
       "type": "Mechanical Parasol",
       "aura": "Shimmering protective energy",
       "special_feature": "Rich dark emerald green canopy with thick white lace trim, golden structural ribs terminating in ornate points, complex mechanical framework of silver and gold on underside",
-      "special_skills": ["Barrier Bloom", "Gear Shield"]
+      "special_skills": [
+        "Barrier Bloom",
+        "Gear Shield"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -374,7 +383,10 @@
       "type": "Traditional Wagasa (Oil-paper Umbrella)",
       "aura": "Whimsical mystical energy",
       "special_feature": "Vibrant solid crimson red canopy, simple dark wood or bamboo handle",
-      "special_skills": ["Feline Pounce", "Tail Swipe"]
+      "special_skills": [
+        "Feline Pounce",
+        "Tail Swipe"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -477,7 +489,10 @@
       "type": "Traditional Oil-paper Umbrella",
       "aura": "Celebratory mysticism, faint ethereal glow",
       "special_feature": "Large, deep velvety indigo blue exterior, complex web of dark wooden ribs, heavy magical focal point",
-      "special_skills": ["Lantern Flare", "Firework Burst"]
+      "special_skills": [
+        "Lantern Flare",
+        "Firework Burst"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -580,7 +595,10 @@
       "type": "Ornate Oil-paper Umbrella",
       "aura": "Calm yet formidable watery shimmer",
       "special_feature": "Large, deep muted teal canopy with visible dark wood ribbing, small bright red tassels hanging from rib tips",
-      "special_skills": ["Tidal Wave", "Ice Shard"]
+      "special_skills": [
+        "Tidal Wave",
+        "Ice Shard"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -683,7 +701,10 @@
       "type": "Stylized Umbrella",
       "aura": "Warm, cheerful luminescence",
       "special_feature": "Oversized cheerful yellow canopy, complex white and silver internal frame, warm orange-gold curved handle",
-      "special_skills": ["Purifying Rain", "Color Burst"]
+      "special_skills": [
+        "Purifying Rain",
+        "Color Burst"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -786,7 +807,10 @@
       "type": "Magical Lotus Parasol",
       "aura": "Soft golden luminescence",
       "special_feature": "Polished jade-green stalk, canopy of oversized luminous purple lotus petals, soft golden light emanating from center, long flowing yellow tassels and jade beads",
-      "special_skills": ["Moonbeam", "Lotus Shield"]
+      "special_skills": [
+        "Moonbeam",
+        "Lotus Shield"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -889,7 +913,10 @@
       "type": "Traditional Wagasa with Talismans",
       "aura": "Silent protective aura, golden shimmer",
       "special_feature": "Large deep magenta canopy, ribs decorated with hanging yellow paper ofuda inscribed with red mystical calligraphy, complex dark wood radial spoke pattern interior",
-      "special_skills": ["Talisman Blast", "Warding Circle"]
+      "special_skills": [
+        "Talisman Blast",
+        "Warding Circle"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -992,7 +1019,10 @@
       "type": "Magical Cosmic Parasol",
       "aura": "Soft multi-colored light",
       "special_feature": "Canopy a swirling vortex of deep magenta, vibrant purple, and electric blue shaped like stylized shell or cosmic whirlpool; long ornate golden staff with glowing teal orb; small teal crystals floating from edges",
-      "special_skills": ["Star Shower", "Nebula Shield"]
+      "special_skills": [
+        "Star Shower",
+        "Nebula Shield"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -1095,7 +1125,10 @@
       "type": "Ornate Combat Parasol",
       "aura": "Warm golden glow",
       "special_feature": "Complex dark navy canopy with large stylized pink floral pattern outlined in glowing teal, ribs extending into sharp gold-tipped spikes, pristine curved white J-shaped handle",
-      "special_skills": ["Solar Flare", "Radiant Shield"]
+      "special_skills": [
+        "Solar Flare",
+        "Radiant Shield"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -1198,7 +1231,10 @@
       "type": "Ethereal Butterfly Wings (Self)",
       "aura": "Prismatic shimmer, sparkles and light motes",
       "special_feature": "Six distinct sections with sunset-to-cosmic gradient, framed by sharp golden translucent edges like crystalline blades; two magical orbs (warm gold and cold blue) as familiars",
-      "special_skills": ["Prism Blast", "Dimensional Shift"]
+      "special_skills": [
+        "Prism Blast",
+        "Dimensional Shift"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -1301,7 +1337,10 @@
       "type": "Celestial Spheres",
       "aura": "Swirling halo of light",
       "special_feature": "Radiant fiery golden orb with three-legged crow/phoenix (sun); cooling pale blue and violet lunar ring with dragon/crescent (moon)",
-      "special_skills": ["Solar Flare", "Lunar Freeze"]
+      "special_skills": [
+        "Solar Flare",
+        "Lunar Freeze"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -1404,7 +1443,10 @@
       "type": "Ornate Staff with Cage Head",
       "aura": "Fierce violet-magenta aura",
       "special_feature": "Dark twisted purple wood/metal like petrified vines, head is purple wrought-iron birdcage glowing with aura, containing glowing multifaceted green gemstone or heart",
-      "special_skills": ["Thorn Whip", "Soul Leech"]
+      "special_skills": [
+        "Thorn Whip",
+        "Soul Leech"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -1507,7 +1549,10 @@
       "type": "Ornate Solar Staff",
       "aura": "Divine golden radiance",
       "special_feature": "Polished white marble/pale gold shaft, large circular sun-like headpiece with floating glowing hexagonal orange crystal, jagged golden ring with curved spikes, small wing-like golden extensions",
-      "special_skills": ["Solar Beam", "Radiant Ward"]
+      "special_skills": [
+        "Solar Beam",
+        "Radiant Ward"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -1610,7 +1655,10 @@
       "type": "Floating Censer",
       "aura": "Multi-colored aura of violet, magenta, cyan, with crystalline sparks",
       "special_feature": "Delicate gold diamond-shaped handle, large jagged crystalline lotus suspended without tether, pulsing with intense energy",
-      "special_skills": ["Crystal Shower", "Ley Line Surge"]
+      "special_skills": [
+        "Crystal Shower",
+        "Ley Line Surge"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -1713,7 +1761,10 @@
       "type": "Serpentine Staff with Lantern",
       "aura": "Soft golden and cyan glow",
       "special_feature": "Polished gold staff shaped like long winding eastern dragon, glowing cyan thread from dragon's mouth holding heavy ornate censer/lantern of translucent jade crystal shaped like flaming lotus, long pink and gold silk tassel",
-      "special_skills": ["Stone Gaze", "Tranquil Wave"]
+      "special_skills": [
+        "Stone Gaze",
+        "Tranquil Wave"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -1816,7 +1867,10 @@
       "type": "Celestial Staff + Floating Orrery",
       "aura": "Soft golden glow, blue energy",
       "special_feature": "White and gold celestial metal staff with large circular head housing glowing swirling blue energy orb, crystalline fragments floating; left hand manipulates floating golden orrery of concentric rings",
-      "special_skills": ["Star Bolt", "Gravity Well"]
+      "special_skills": [
+        "Star Bolt",
+        "Gravity Well"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -1919,7 +1973,10 @@
       "type": "Floating Tome + Wand",
       "aura": "Pinkish-purple energy, floating glyphs",
       "special_feature": "Massive grimoire bound in heavy gold and purple leather, pages overflowing with raw magical light and floating glyphs; slender golden wand pulsing with energy",
-      "special_skills": ["Shadow Lash", "Glyph Blast"]
+      "special_skills": [
+        "Shadow Lash",
+        "Glyph Blast"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -2022,7 +2079,10 @@
       "type": "Raw Dark Energy",
       "aura": "Oppressive violet and magenta, trailing ethereal smoke",
       "special_feature": "Raw viscous dark energy manifests as swirling whip-like lash or magical orb of concentrated power",
-      "special_skills": ["Abyssal Lash", "Soulfire Orb"]
+      "special_skills": [
+        "Abyssal Lash",
+        "Soulfire Orb"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -2125,7 +2185,10 @@
       "type": "Monumental Polearm",
       "aura": "White-hot intensity, molten light bleeding from seams",
       "special_feature": "Dark metal shaft inlaid with gold runes, massive multi-pronged head of golden plates and glowing energy shaped like dragon or phoenix head",
-      "special_skills": ["Solar Cleave", "Blazing Charge"]
+      "special_skills": [
+        "Solar Cleave",
+        "Blazing Charge"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -2228,7 +2291,10 @@
       "type": "Floating Crystalline Lantern",
       "aura": "Powerful swirling golden light and pink magical particles, stardust trail",
       "special_feature": "Gold and purple craftsmanship, central glowing amethyst core encased in gold ribbing, decorative curved finial",
-      "special_skills": ["Lantern Glow", "Stardust Shower"]
+      "special_skills": [
+        "Lantern Glow",
+        "Stardust Shower"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -2331,7 +2397,10 @@
       "type": "Futuristic Microphone Stand",
       "aura": "Digital glitch-like aura, pink energy",
       "special_feature": "Sleek polished gold pole, high-tech microphone encased in geometric pink-glowing crystal housing",
-      "special_skills": ["Power Chord", "Glitch Wave"]
+      "special_skills": [
+        "Power Chord",
+        "Glitch Wave"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -2434,7 +2503,10 @@
       "type": "Mechanical Combat Gloves",
       "aura": "Prismatic holographic light, yellow to neon pink to teal starlight",
       "special_feature": "Heavy mechanical gloves with golden crystalline claw-like knuckle protrusions, capable of manifesting sharp four-pointed star-shaped energy blades and projectiles",
-      "special_skills": ["Star Shuriken", "Crystal Fist"]
+      "special_skills": [
+        "Star Shuriken",
+        "Crystal Fist"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -2537,7 +2609,10 @@
       "type": "Massive Energy Blade",
       "aura": "Jagged lightning-like, cyan and yellow trails",
       "special_feature": "Wide serrated blade of translucent lime-green crystalline material glowing with internal yellowish-orange heat, ornate hilt with large stylized mechanical eye/core surrounded by jagged crimson and gold teeth-like structures",
-      "special_skills": ["Corporate Slash", "Overtime Drive"]
+      "special_skills": [
+        "Corporate Slash",
+        "Overtime Drive"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -2640,7 +2715,10 @@
       "type": "Gargantuan Single-Edged Battle Axe",
       "aura": "Violet necrotic energy, ghostly purple flame",
       "special_feature": "Black iron and gold, axe head with intricate demonic face carvings and swirling patterns, blade edge wreathed in ghostly purple flame",
-      "special_skills": ["Demonic Cleave", "Spectral Slam"]
+      "special_skills": [
+        "Demonic Cleave",
+        "Spectral Slam"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -2743,7 +2821,10 @@
       "type": "Two-Handed Polearm",
       "aura": "Intense golden heat, drifting ash and sparks",
       "special_feature": "Etched gold shaft glowing with internal heat, head complex mechanical-looking crescent of golden metal housing core of swirling fire like captured sun/miniature supernova",
-      "special_skills": ["Solar Spin", "Flame Strike"]
+      "special_skills": [
+        "Solar Spin",
+        "Flame Strike"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -2846,7 +2927,10 @@
       "type": "Three-Pronged Ritual Dagger/Trident",
       "aura": "Turquoise energy",
       "special_feature": "Central blade broad and crystalline, two outer prongs curving outward like stylized waves or horns, dark ornate hilt with glowing green orb at pommel",
-      "special_skills": ["Spirit Jab", "Oni Rush"]
+      "special_skills": [
+        "Spirit Jab",
+        "Oni Rush"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -2949,7 +3033,10 @@
       "type": "Massive Heavy-Bladed Sword",
       "aura": "Subtle shimmer",
       "special_feature": "Unique flamberge/serrated edge rippling like frozen waves, dull matte steel grey blade, wide flat profile, dark utilitarian hilt",
-      "special_skills": ["Serrated Slash", "360-Degree Parry"]
+      "special_skills": [
+        "Serrated Slash",
+        "360-Degree Parry"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -3052,7 +3139,10 @@
       "type": "Arcane Dual-Blade/Transforming Polearm",
       "aura": "Neon blue electricity and swirling violet mist, ghost trails, glowing droplets",
       "special_feature": "Deep indigo metal with edges of ethereal translucent cyan energy like liquid starlight, curved jagged blade with tooth-like serrations, glowing blue orb at guard center",
-      "special_skills": ["Dimensional Slash", "Void Lash"]
+      "special_skills": [
+        "Dimensional Slash",
+        "Void Lash"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -3155,7 +3245,10 @@
       "type": "Massive Over-Sized Broadsword",
       "aura": "Powerful fiery aura, embers, digital glitch particles",
       "special_feature": "Jagged blade with glowing orange and yellow core pulsating like molten lava, hilt encased in golden dragon-head guard, spine with mechanical fin-like protrusions",
-      "special_skills": ["Dragon Slash", "Flame Breath"]
+      "special_skills": [
+        "Dragon Slash",
+        "Flame Breath"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -3258,7 +3351,10 @@
       "type": "Twin Rapier-Style Swords",
       "aura": "Radiant golden-red, sparkles and light motes",
       "special_feature": "Incredibly long slender blades glowing with internal heat, polished silver near hilt to molten translucent orange-yellow at tips, massive ornate white and gold filigree hilts with large heart-shaped teal gems, long translucent golden ribbons",
-      "special_skills": ["Joyful Stab", "Healing Slash"]
+      "special_skills": [
+        "Joyful Stab",
+        "Healing Slash"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -3361,7 +3457,10 @@
       "type": "Twin-Bladed Polearm / Massive Curved Glaive",
       "aura": "Soft celestial blue, floating white feathers",
       "special_feature": "Hilt adorned with large realistic black feathers fanning out like raven's wing, blade dark matte steel with subtle blueish tint",
-      "special_skills": ["Feather Step", "Shadow Strike"]
+      "special_skills": [
+        "Feather Step",
+        "Shadow Strike"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -3464,7 +3563,10 @@
       "type": "Dual Elegant Longswords",
       "aura": "Faint radiant golden light",
       "special_feature": "Blades not traditional steel but forged from translucent glowing amber/golden energy, heavy gold hilts with classic cross-guard design",
-      "special_skills": ["Cable Pull", "Wing Slash"]
+      "special_skills": [
+        "Cable Pull",
+        "Wing Slash"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -3567,7 +3669,10 @@
       "type": "Twin-Bladed Energy Katar / Gauntlet-Dagger",
       "aura": "Crystalline cyan energy",
       "special_feature": "Blade translucent and jagged resembling shard of collapsed star, humming with high-frequency vibration; four floating golden diamond drones",
-      "special_skills": ["Energy Slash", "Drone Strike"]
+      "special_skills": [
+        "Energy Slash",
+        "Drone Strike"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -3670,7 +3775,10 @@
       "type": "Cursed Violet Fire",
       "aura": "Dark violet, ghostly supernatural intensity, crackling malevolent energy",
       "special_feature": "Manifestation of lineage curse, wreathes around hands and body, can be shaped into projectiles or enhance strikes",
-      "special_skills": ["Flame Punch", "Scum Gale"]
+      "special_skills": [
+        "Flame Punch",
+        "Scum Gale"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -3773,7 +3881,10 @@
       "type": "Massive Energy Greatsword",
       "aura": "Cyan and violet, shimmering heat distortion, digital particles",
       "special_feature": "No solid blade—hyper-stabilized translucent energy pane, cyan edge to deep violet core, frame of dark heavy industrial alloy with modular notches and glowing circuitry",
-      "special_skills": ["Energy Cleave", "Phase Slash"]
+      "special_skills": [
+        "Energy Cleave",
+        "Phase Slash"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -3876,7 +3987,10 @@
       "type": "Pyrokinesis",
       "aura": "Violent swirling orange and yellow flames, dense liquid-like fire",
       "special_feature": "Manifested through right-hand Kusanagi Glove, can be shaped into projectiles or enhance strikes",
-      "special_skills": ["Flame Shot", "Crow Bite"]
+      "special_skills": [
+        "Flame Shot",
+        "Crow Bite"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -3979,7 +4093,10 @@
       "type": "Energy Blade",
       "aura": "Brilliant neon-yellow energy light",
       "special_feature": "Blade translucent and pulse-like as if forged from pure solidified electricity, dark matte-finished composite hilt with cyan-blue handguard, thin glowing blue energy cord/tether from pommel",
-      "special_skills": ["Data Slash", "Phase Strike"]
+      "special_skills": [
+        "Data Slash",
+        "Phase Strike"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -4082,7 +4199,10 @@
       "type": "High-Tech Skateboard",
       "aura": "Cyan light trails",
       "special_feature": "Dark carbon-fiber texture, glowing neon-green 'Mobile Legends' logo underside, translucent glowing cyan wheels leaving streaks of light",
-      "special_skills": ["Board Flip", "Grind Line"]
+      "special_skills": [
+        "Board Flip",
+        "Grind Line"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -4185,7 +4305,10 @@
       "type": "Long-Barreled Sleek Black Firearm",
       "aura": "Orange and red light streaks",
       "special_feature": "Deployable from back-mounted system, integrated with bike's speed for charged shots",
-      "special_skills": ["Speed Shot", "Drift Tackle"]
+      "special_skills": [
+        "Speed Shot",
+        "Drift Tackle"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -4288,7 +4411,10 @@
       "type": "Spectral Lightning Dragon",
       "aura": "Jagged brilliant blue lightning",
       "special_feature": "Massive spectral dragon made of pure blue energy and dark shadows, gaping maw of jagged teeth, glowing white eyes, looms behind her",
-      "special_skills": ["Lightning Bolt", "Dragon Strike"]
+      "special_skills": [
+        "Lightning Bolt",
+        "Dragon Strike"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -4391,7 +4517,10 @@
       "type": "Living Dragon Spirit",
       "aura": "Golden and green shimmer, glowing white eyes",
       "special_feature": "Brilliant green and gold scaled body, mane of fiery red fur, fierce expressive head with golden antlers and glowing white eyes, curls around shoulders and back",
-      "special_skills": ["Dragon Roar", "Spirit Claw"]
+      "special_skills": [
+        "Dragon Roar",
+        "Spirit Claw"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -4494,7 +4623,10 @@
       "type": "Supernatural Staff",
       "aura": "Fiery orange glow, embers",
       "special_feature": "Dark indestructible alloy with glowing molten etchings, both ends capped with heavy spear-like blades glowing with fiery heat shaped like stylized flames/dragon tongues, center dark grip",
-      "special_skills": ["Staff Spin", "Extended Strike"]
+      "special_skills": [
+        "Staff Spin",
+        "Extended Strike"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -4597,7 +4729,10 @@
       "type": "Crystalline Golden Dagger",
       "aura": "Fierce violet and crimson nebular energy swirling like cosmic smoke",
       "special_feature": "Geometric and sharp, levitates above palm, pulsates with energy that bleeds off into air, exists between dimensions",
-      "special_skills": ["Temporal Slash", "Paradox Cut"]
+      "special_skills": [
+        "Temporal Slash",
+        "Paradox Cut"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -4701,14 +4836,20 @@
         "type": "Katana",
         "aura": "Faint, shimmering heat haze of shadow energy",
         "special_feature": "Black diamond-wrap hilt (tsuka) over a lighter undertone, simple circular handguard (tsuba), blade sheathed in a dark, unadorned scabbard.",
-        "special_skills": ["Shadow Strike", "Silent Moon Cut"]
+        "special_skills": [
+          "Shadow Strike",
+          "Silent Moon Cut"
+        ]
       },
       {
         "name": "Kuroi Claw",
         "type": "Mechanical Gauntlet",
         "aura": "None, purely mechanical",
         "special_feature": "Dark metal gauntlet on the left forearm with three sharp, forward-protruding prongs, designed for close-quarters combat or grappling.",
-        "special_skills": ["Grappling Hook", "Prong Strike"]
+        "special_skills": [
+          "Grappling Hook",
+          "Prong Strike"
+        ]
       }
     ],
     "skills": {
@@ -4814,14 +4955,20 @@
         "type": "Colossal Battle Axe",
         "aura": "Visible, radiant golden aura",
         "special_feature": "Intricate celestial filigree on the axe head, a glowing core of pure light at its center, haft forged from divine metal.",
-        "special_skills": ["Sundering Strike", "Radiant Cleave"]
+        "special_skills": [
+          "Sundering Strike",
+          "Radiant Cleave"
+        ]
       },
       {
         "name": "Aegis of the Valiant",
         "type": "Ornate Tower Shield",
         "aura": "Faint shimmer of protective energy",
         "special_feature": "Tall, rectangular shield colored dark blue with intricate gold inlay, depicting scenes of heroic last stands.",
-        "special_skills": ["Impenetrable Wall", "Shield Charge"]
+        "special_skills": [
+          "Impenetrable Wall",
+          "Shield Charge"
+        ]
       }
     ],
     "skills": {
@@ -4926,7 +5073,10 @@
       "type": "Hybrid Violin-Case Heavy Cannon",
       "aura": "Intense fiery orange or golden light emanating from internal chambers when charged",
       "special_feature": "Massive metallic silver and dark gunmetal frame intricately designed with mechanical parts, gears, and structural supports that mimic the shape of a violin; decorative elements of musical notes and orchestral motifs etched into the surface.",
-      "special_skills": ["Piercing Note", "Crescendo Blast"]
+      "special_skills": [
+        "Piercing Note",
+        "Crescendo Blast"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -5039,7 +5189,10 @@
         "type": "Foxfire Familiar",
         "description": "A small, hovering flame of golden-orange energy that floats near his left shoulder, acting as a living spirit companion and manifestation of his Kitsune power."
       },
-      "special_skills": ["Petal Dance Thrust", "Foxfire Slash"]
+      "special_skills": [
+        "Petal Dance Thrust",
+        "Foxfire Slash"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -5144,7 +5297,10 @@
       "type": "Ornate Yari Spear",
       "aura": "Faint luminous golden glow emanating from gold inlays, pulsing with qi energy",
       "special_feature": "Long, dark wood or metal shaft wrapped in spiral grip pattern; massive complex spearhead of dark steel/obsidian-like material with central double-edged blade flanked by smaller curved blades near base (trident-like silhouette); intricately engraved with gold inlays that seem to hum with internal energy.",
-      "special_skills": ["Piercing Dragon Thrust", "Crescent Sweep"]
+      "special_skills": [
+        "Piercing Dragon Thrust",
+        "Crescent Sweep"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -5249,14 +5405,20 @@
         "type": "Monstrous Rifle Cannon",
         "aura": "Crackling purple energy along barrel coils",
         "special_feature": "Massive dark metal casing with purple energy coils running along barrel, glowing with inner violet light; brown leather or wood stock; fires concentrated beams of shadow energy.",
-        "special_skills": ["Void Shot", "Shadow Burst"]
+        "special_skills": [
+          "Void Shot",
+          "Shadow Burst"
+        ]
       },
       {
         "name": "Duskbringer",
         "type": "Futuristic Revolver",
         "aura": "Faint purple luminescence",
         "special_feature": "Gold-plated, intricately designed, fires magical projectiles rather than conventional bullets; cylinder seems to contain swirling purple energy instead of cartridges.",
-        "special_skills": ["Cursed Round", "Twilight Fan"]
+        "special_skills": [
+          "Cursed Round",
+          "Twilight Fan"
+        ]
       }
     ],
     "skills": {
@@ -5362,7 +5524,10 @@
       "type": "Colossal Crystal Greatsword",
       "aura": "Soft blue aura emanating from translucent blade",
       "special_feature": "Massive blade comprised of glowing blue crystal similar to chest shard; appears as shattered, reassembled shards held together by energy; hilt and crossguard of warm polished bronze/gold metal with sharp angular aesthetic; translucent crystal glows with inner light.",
-      "special_skills": ["Crystal Cleave", "Shattered Strike"]
+      "special_skills": [
+        "Crystal Cleave",
+        "Shattered Strike"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -5466,7 +5631,10 @@
       "type": "Animated Sacred Linens (fused to body)",
       "aura": "Swirling dust and mystical force, dark teal energy trails",
       "special_feature": "Long bandages of dark teal and navy blue extending from elbows, patterned with intricate golden triangles and serrated designs; move with fluid, chaotic energy; can stretch, wrap, bind, and crush; create vortexes of sand and force when in motion.",
-      "special_skills": ["Grasping Wraps", "Sand Vortex"]
+      "special_skills": [
+        "Grasping Wraps",
+        "Sand Vortex"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -5570,14 +5738,20 @@
         "type": "Massive Twin Blade",
         "aura": "Swirling wind energy, faint blue-white trails",
         "special_feature": "Thick dull-colored steel blade with intricate hilt matching purple/gold armor theme; etched with names of Voidspire cult raid locations; channels wind for extended reach.",
-        "special_skills": ["Gale Slash", "Wind Lunge"]
+        "special_skills": [
+          "Gale Slash",
+          "Wind Lunge"
+        ]
       },
       {
         "name": "Fury",
         "type": "Massive Twin Blade",
         "aura": "Swirling wind energy, faint blue-white trails",
         "special_feature": "Matching blade to Sorrow, twin in design and function; together they create devastating aerial combinations.",
-        "special_skills": ["Tempest Combo", "Cyclone Spin"]
+        "special_skills": [
+          "Tempest Combo",
+          "Cyclone Spin"
+        ]
       }
     ],
     "skills": {
@@ -5688,7 +5862,10 @@
       "type": "Ornate Spear/Halberd",
       "aura": "Warm golden-white luminescence",
       "special_feature": "Massive white metal and gold shaft; large double-edged blade at top gleaming with inner light; intricately carved with scenes of dragons protecting mortals; the entire weapon glows with same warm aura as Aurelius's eyes; hums with protective energy rather than destructive menace.",
-      "special_skills": ["Solar Thrust", "Blessing of Dawn"]
+      "special_skills": [
+        "Solar Thrust",
+        "Blessing of Dawn"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -5804,7 +5981,10 @@
       "type": "Magical Artifact",
       "aura": "Golden dust particles and warm amber light",
       "special_feature": "Intricately designed floating cornucopia, spilling over with endless fruits, berries, and wheat; acts as focus for Nimue's harvest magic; can conjure food, healing essences, and protective barriers of woven golden light.",
-      "special_skills": ["Harvest Blessing", "Golden Shower"]
+      "special_skills": [
+        "Harvest Blessing",
+        "Golden Shower"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -5920,7 +6100,10 @@
       "type": "Bladed Chakram/Fan Hybrid",
       "aura": "Intense orange, red, and purple flames, embers and energy particles trailing",
       "special_feature": "Massive weapon with sharp curved edges glowing with celestial fire; held in reverse grip; appears enchanted or forged from magical materials; the flames respond to Feineir's emotions and Kaelthar's presence, burning hotter when the tiger fights alongside her.",
-      "special_skills": ["Crimson Slash", "Eclipse Spin"]
+      "special_skills": [
+        "Crimson Slash",
+        "Eclipse Spin"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -6025,14 +6208,20 @@
         "type": "Futuristic Katana (Energy Blade)",
         "aura": "Vibrant neon green radiance, trails of light, air distortion around blade",
         "special_feature": "Sleek black hilt with intricate green circuitry patterns; blade composed of condensed neon energy rather than solid metal; hums with power; edge glows with intense green light.",
-        "special_skills": ["Resonance Slash", "Phase Strike"]
+        "special_skills": [
+          "Resonance Slash",
+          "Phase Strike"
+        ]
       },
       {
         "name": "Whisperwind",
         "type": "Futuristic Katana (Energy Blade)",
         "aura": "Vibrant neon green radiance, trails of light, air distortion around blade",
         "special_feature": "Matching blade to Wailsong, twin in design and function; together they create devastating combinations and can resonate with each other for enhanced cutting power.",
-        "special_skills": ["Silent Edge", "Twin Resonance"]
+        "special_skills": [
+          "Silent Edge",
+          "Twin Resonance"
+        ]
       }
     ],
     "skills": {
@@ -6142,7 +6331,10 @@
       "aura": "Crackling purple-white lightning, electrical discharge, intense kinetic wind",
       "special_feature": "Massive ancient tome bound in purple leather with silver runes; hovers beside her with pages turning automatically in response to her will; contains forbidden storm magic; acts as focus for her tempest weaving; channels and amplifies her natural lightning affinity.",
       "secondary": "Zephyra herself is the weapon—lightning weaves directly from her hands and body, making her a living conduit of storm energy.",
-      "special_skills": ["Lightning Lash", "Thunder Crash"]
+      "special_skills": [
+        "Lightning Lash",
+        "Thunder Crash"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -6258,7 +6450,10 @@
           "Petal Arrow (slow)"
         ]
       },
-      "special_skills": ["Petal Shot", "Blossom Bind"]
+      "special_skills": [
+        "Petal Shot",
+        "Blossom Bind"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -6478,7 +6673,11 @@
       "type": "Colossal Waraxe",
       "aura": "Trails of blue fire and void shadow, the two energies combining and swirling around the blade",
       "special_feature": "Axe head twice the size of Korgrath's own massive head, forged from fused remains of orcish waraxe and demonic blade. Orcish steel dark and practical, demonic metal black with red veins pulsing with inner fire, merged into single brutal form. Massive curved crescent blade gleaming with unnatural sharpness, tiny blue flames licking along its length. Opposite blade, heavy wickedly sharp spike for piercing armor. Axe head adorned with orcish runes of strength and battle on one side, demonic sigils of fire and destruction on the other, both glowing faintly. Haft thick as a small tree, wrapped in blackened leather and iron bands, ending in heavy iron pommel shaped like demon's skull with eye sockets burning blue fire.",
-      "special_skills": ["Cleaving Strike", "Fire Burst", "Soul Sunder"]
+      "special_skills": [
+        "Cleaving Strike",
+        "Fire Burst",
+        "Soul Sunder"
+      ]
     },
     "skills": {
       "basic_skills": [
@@ -6832,7 +7031,11 @@
         "type": "Magical Whip",
         "aura": "Radiant golden light, chains of energy",
         "special_feature": "Twenty feet of braided golden light strands woven with enchanted leather, entire length glowing with warm radiance. Handle of white metal wrapped in gold, set with large sunstone pulsing with light. When cracked, releases bursts of light that bind enemies with golden energy chains. Can lash to strike, light burning those who harm innocent. Can wrap around allies to pull from danger. Extension of his will, responds to thoughts. When not in use, coils at hip with dimmed light.",
-        "special_skills": ["Binding Chains", "Light Lash", "Protective Pull"]
+        "special_skills": [
+          "Binding Chains",
+          "Light Lash",
+          "Protective Pull"
+        ]
       }
     ],
     "skills": {
@@ -7054,14 +7257,20 @@
         "type": "Katana (Human-Forged)",
         "aura": "Faint golden light, warm and protective",
         "special_feature": "Forged in human world by master swordsmith, passed down through generations before coming to Kurosagi. Blade of folded steel with subtle hamon line, hilt wrapped in white ray skin and black cord, guard shaped like stylized fox. When drawn, blade gleams with warm light, effective against physical threats.",
-        "special_skills": ["Mortal Strike", "Boundary Cut"]
+        "special_skills": [
+          "Mortal Strike",
+          "Boundary Cut"
+        ]
       },
       {
         "name": "Twilight's Edge",
         "type": "Katana (Spirit-Forged)",
         "aura": "Cool blue light, ethereal and spiritual",
         "special_feature": "Forged in spirit realm by nine-tailed fox herself, given to Kurosagi when he mastered his seventh tail. Blade of spirit metal that seems to shift and flow, slightly translucent, hilt wrapped in silver thread, guard shaped like crescent moon. When drawn, blade trails blue fox-fire, effective against spiritual threats.",
-        "special_skills": ["Spirit Sever", "Fox-Fire Slash"]
+        "special_skills": [
+          "Spirit Sever",
+          "Fox-Fire Slash"
+        ]
       }
     ],
     "skills": {
@@ -11213,6 +11422,241 @@
     }
   },
   {
+    "id": 101,
+    "pantheon_id": 1,
+    "hero_name": "Ivory Leospur",
+    "title": "The Pale Shadow",
+    "nickname": "Wraith of the Shattered Peaks",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/ivory/main.png",
+      "character_icon": "assets/images/character/ivory/icon.png",
+      "character_image_real": "assets/images/character/ivory/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/ivory/gallery/1.jpeg",
+        "assets/images/character/ivory/gallery/2.jpeg",
+        "assets/images/character/ivory/gallery/3.jpeg",
+        "assets/images/character/ivory/gallery/4.jpeg",
+        "assets/images/character/ivory/gallery/5.jpeg"
+      ]
+    },
+    "lore": "In the crystalline heights of the Argent Peaks, where the moons kiss the earth, there existed a sanctuary. This was the Prismatic Valley, home to the Luminaurans, a race of beings who were living conduits of pure, benevolent light. They were led by the wise Council of Lumin, and their greatest joy was the annual Festival of Radiance, where they would weave the moonlight into shimmering, ephemeral art. Among them lived a young couple, Orin and Lyra, who were blessed with a son they named Leospur, for he was born under a rare convergence of stars that painted his fur with the patterns of a celestial leopard. His childhood was filled with light, laughter, and the loving warmth of his people.<br>But shadow ever seeks to devour the light. From the sun-scorched lands beyond the mountains came the Solarith, a legion of zealots who worshipped a brutal, unyielding sun god. Led by the High Inquisitor, Kael Umbra, they despised the gentle, multifaceted light of the Luminaurans, seeing it as a heresy against their single, scorching truth. They descended upon the Prismatic Valley not with a declaration of war, but with a whisper of betrayal. Kael had secretly corrupted a young, disillusioned Luminauran, promising him power. This traitor, Veil, lowered the valley's protective barriers.<br>The massacre that followed was swift and absolute. The Solarith's weapons, forged in their relentless sun, drank the light from the Luminaurans, leaving nothing but cold, grey husks. Young Leospur, hiding in a crevasse as his mother had taught him, watched in silent, frozen horror. He saw his father, Orin, stand defiantly before the Council chambers, his own light forming a shield, only to be pierced by a hundred blades. He saw his mother, Lyra, run towards their home, a desperate look on her face—looking for him—before Kael Umbra himself struck her down with a searing blade of pure heat. The light in her eyes didn't just fade; it was extinguished, snuffed out like a candle in a hurricane. Leospur, barely a cub, witnessed the total annihilation of his world, his people, and his family. He was the sole survivor, hidden not by courage, but by the paralyzing terror of a child. When the last Solarith war horn faded and the silence returned, he crawled out from his hiding place into a world of ash and silence. The light was gone. Only the pale, unforgiving moons remained to bear witness. He was alone. The light within him, once a source of joy, curdled into a cold, silent flame of vengeance. He made a pact with the night itself: he would become a shadow so deep, so terrifying, that no light would ever be extinguished again.",
+    "description": "Ivory Leospur is a figure sculpted from moonlight and loss. He stands tall and lean, a humanoid form with the unmistakable, powerful grace of a great cat. His lithe frame is covered in a coat of immaculate, snow-white fur, which is disrupted only by the faintest, most ethereal pattern of darker, ash-grey leopard spots. These are not stark, but subtle, like shadows cast by clouds on a snowy field. His physique is a study in coiled tension, a predator's body built for explosive speed and silent, deadly precision rather than brute force. His face is sharp and angular, framed by a strong jaw and high cheekbones, giving him a haunting, aristocratic beauty that is perpetually shadowed by grief. His eyes are his most tragic feature: large, feline, and of a pale, luminous silver, they seem to hold the reflected light of a dead world. They are beautiful, but devoid of warmth, always searching, always watching, haunted by the final moments of his people. A thin, noble scar runs from above his left eyebrow, through his eye (which is clouded and blind), and down to his cheek—a permanent reminder of his failure to save his mother. On his head, his ears are those of a leopard, large, mobile, and tufted with the finest silver hairs, constantly swiveling to catch every whisper of sound. His hair, if it can be called that, is a short, silvery-white mane that runs from the crown of his head down the back of his neck, becoming slightly longer and more pronounced between his shoulder blades. Twin horns, not of a dragon, but of a predator's fierce beauty, sweep back from his temples. They are not bone, but a crystalline substance, like frozen moonlight, pale and translucent, tapering to razor-sharp points. His most distinctive feature is his tail—long, powerful, and sinuous, covered in the same pristine white fur, which he uses for balance with breathtaking agility and can wield with surprising force. He wears no traditional armor, but a high-collared cloak of living shadow that seems to be woven from the darkness itself. It clings to his shoulders and flows behind him like a second tail, insulating him from the world and allowing him to merge with the night. The rest of his attire is a simple, form-fitting tunic and pants of matte black, a stark canvas for his pale form. He moves in utter silence, a ghost in the moonlight, a creature of vengeance forged in the fires of tragedy.",
+    "story": {
+      "part1": "Leospur was not born a shadow, but a child of light. The Prismatic Valley was a utopia, a hidden realm where his people, the Luminaurans, lived in harmony. They were not just peaceful; they were artists of light, their very existence a celebration of its many forms. His father, Orin, was a Keeper of Histories, recording their legacy in light-woven tapestries. His mother, Lyra, was a Lumina Weaver, creating breathtaking sculptures from captured moonbeams. Leospur's childhood was idyllic, filled with lessons on light-bending and shadow-play, his parents' laughter echoing through the crystal caves.",
+      "part2": "The Festival of Radiance was the valley's most sacred night, when the three moons aligned and bathed the land in a tripled glow. It was on such a night of ultimate celebration that the Solarith struck. The young Leospur was separated from his parents in the initial chaos. Following his mother's desperate, telepathic command, he fled to a secret cleft in the valley wall, a place he and his friends used for hide-and-seek. From his dark perch, he watched the festival grounds become a slaughterhouse. He saw his father form a final, desperate barrier of light at the Council chambers, buying time for the elders, only to be overwhelmed. He saw his mother, glowing with a fierce, protective light, run through the panicked crowds. She was searching for him. He almost cried out, but his voice was stolen by terror. He watched as a tall figure in scorched armor, Kael Umbra, caught up to her. He saw her turn, her light flaring, and for a moment, she looked directly at his hiding place. A flicker of relief, a silent command to stay hidden, crossed her face. Then Kael's sun-forged blade pierced her heart. The light in her eyes, the light that was her very soul, died. Leospur's world ended in that moment, not with a bang, but with a silent, silver scream trapped in his throat.",
+      "part3": "He does not know how long he stayed in that crevasse. He emerged to a world of silence and grey ash. The bodies of his people were like statues, their light forever gone. He walked through the ruins of his home, his paw-steps the only sound. He found his mother's last, unfinished sculpture—a beautiful, complex weave of captured moonlight depicting their family. It was shattered, its light spilling out and fading into nothing. In the center of the valley, he found the Council of Lumin, their bodies forming a circle, their hands clasped. They had tried to pool their remaining light, to create a final, desperate defense. It had failed. But as Leospur approached, a faint, warm pulse emanated from them. The last remnant of their collective will, a final gift, reached out and touched him. It wasn't power, but a purpose: *Survive. Remember. Ensure this never happens again.*",
+      "part4": "For years, Leospur wandered the desolate peaks, a feral child surviving on instinct and grief. He was found and taken in by a reclusive order of martial monks who lived in a monastery carved into the sheer cliffs on the far side of the mountains—the Silent Fangs. They were masters of Kage-no-Ki, the 'Way of the Shadow,' a discipline that taught its followers to use darkness, silence, and inner stillness as weapons. They saw in the traumatized cub a perfect, empty vessel, his soul already steeped in the very principles they taught. He was a prodigy. His grief was a fuel that knew no limits. He learned to move without a whisper, to strike from perfect ambush, to use his natural feline agility to become a blur of death. But most importantly, he learned to meditate, to control the fractured light within him, bending it not outwards as his people did, but inwards, turning it into a cold, internal sun that fueled his unbreakable will.",
+      "part5": "After two decades of training, the master of the Silent Fangs, an ancient being known only as 'The Whisper,' declared Leospur's training complete. He had surpassed all others, becoming one with the shadow. But The Whisper also saw the dangerous flaw in his creation: Leospur's heart was a fortress of ice, with no room for anything but his mission. He was given a name by the monks—'Ivory Leospur'—a tribute to his color and his predator's spirit. He was also given the Cloak of Night, a ceremonial garment of the order that had been imbued for centuries with the essence of shadow. When he donned it, it bonded to him, becoming a part of his being. He then left the monastery, not with gratitude, but with silent purpose. He was no longer a lost cub. He was the Pale Shadow.",
+      "part6": "His first act was to hunt the traitor, Veil. The corrupted Luminauran had been granted a position as a minor official in the Solarith's sprawling, sun-blasted capital. Leospur stalked him for weeks, learning his every habit, his every fear. He didn't just want to kill him; he wanted him to understand. On the night of a new moon, when the darkness was absolute, he struck. He did not use his claws. He simply appeared before Veil in his chambers, the Cloak of Night billowing around him, his single, silver eye gleaming in the dark. He said nothing, only stared. For an hour, he stood there, a silent, unmoving specter, while Veil wept and begged and confessed. When the first ray of dawn touched the horizon, Leospur spoke his first words in decades. 'My mother's light is gone. Now, so is yours.' He vanished, and Veil, driven mad by terror, threw himself from the highest tower of the city. The Solarith had a new, terrifying legend. A white ghost was hunting them.",
+      "part7": "Now, Ivory Leospur walks the line between the mortal realms and the shadows. He has no home, no family, no joy. His only purpose is to ensure that no other child has to watch their world burn. He is a one-man war against the forces of tyranny and those who would snuff out light for their own gain. He does not seek allies, for he trusts no one. He does not seek thanks, for he feels he deserves none. He is a necessary monster, a product of the very evil he fights. When he appears, a pale silhouette against the darkness, it is a sign that for the wicked, judgment has arrived. He is Ivory Leospur, the Pale Shadow, the last light of a dead world, and his vigil will never end."
+    },
+    "race": "Luminauran (Last of his kind)",
+    "powers": "Umbrageous Form (can merge with and become one with shadows, allowing for invisibility and silent movement), Lunar Clarity (his senses are preternaturally sharp, especially at night, able to track a scent for weeks and hear a whisper from a mile away), Kinetic Absorption (can absorb kinetic energy from attacks, making him incredibly difficult to hurt and using that energy to enhance his own speed and strength), Shadow Weaving (can manipulate the Cloak of Night, shaping it into solid constructs like whips, barriers, or simple tools), Predator's Grace (his leopard-like physique grants him superhuman agility, balance, and speed, able to scale sheer surfaces and land from any height without a sound), Fractured Light (the remnants of his people's power allow him to create a blinding flash of pale light, disorienting enemies and leaving after-images in their vision)",
+    "speciality": "Stealth, Psychological Warfare, & Precision Elimination",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "One is a luminous, haunting silver that seems to glow faintly in the dark. The other, his left, is a milky, clouded white—blind, a permanent scar from the night of the massacre. This blind eye gives him an unnerving, asymmetrical gaze that unsettles all who meet it.",
+        "eye_type": "Large, almond-shaped, feline. His good eye is wide and unblinking, missing nothing. His blind eye is a constant, tragic reminder of his past."
+      },
+      "snout": "He has a feline muzzle, not a snout. It is refined and sharp, with a small, dark, leathery nose at the tip. It twitches constantly, analyzing scents.",
+      "whiskers": "Long, elegant, and pure white, they are incredibly sensitive, used for sensing air currents and navigating in absolute darkness. They frame his muzzle like silver filaments.",
+      "hair": {
+        "hairstyle": "A short, sleek, silvery-white mane that starts at his crown and runs down the back of his neck, thickening slightly between his shoulders. It's always immaculate, almost as if carved from light.",
+        "hair_color": "Silvery-white, like fresh snowfall under a full moon."
+      },
+      "horns": {
+        "horn_type": "Two horns sweep back from his temples. They are not bone, but a crystalline structure, like shards of frozen moonlight. They are smooth, translucent, and taper to razor-sharp points.",
+        "horn_color": "Pale, translucent white, with a faint, internal shimmer."
+      },
+      "ears": "Large, feline, and highly mobile, set on the sides of his head. They are covered in short white fur with longer silver tufts at the tips. They are constantly moving, independently of each other, tracking every sound.",
+      "face_shape": "Lean, angular, and aristocratic. High cheekbones and a strong jawline create a face of severe beauty, perpetually shadowed by an expression of profound, icy grief."
+    },
+    "upper_body": {
+      "body_structure": "Lean, wiry, and impossibly toned. He is not bulky, but every muscle is defined and speaks of explosive power. His frame is built for speed, agility, and silent, flowing movement, like a river in the dark.",
+      "arms": "Long and powerful, covered in the same pristine white fur. They end in deceptively strong hands.",
+      "hands": "His hands are his primary weapons. They are large for his frame, with long, dexterous fingers tipped with retractable claws of pure, pearlescent white. The claws are naturally sharp, but he also keeps them meticulously honed. His palms and fingertips are covered in tough, black pads, ensuring a silent grip on any surface.",
+      "chest": "His chest is lean and covered in the same short white fur, with the faint, dark-grey leopard spots most visible here. The Cloak of Night covers his shoulders and upper chest, but glimpses of his pale form are visible.",
+      "shoulders": "His shoulders are the anchor point for the Cloak of Night. They are deceptively broad and powerful, providing the foundation for his climbing and striking strength.",
+      "neck": "Long and powerful, allowing for a wide range of motion and silent communication through subtle movements."
+    },
+    "lower_body": {
+      "hips": "Lean and powerful, his center of gravity is incredibly low, contributing to his perfect balance.",
+      "legs": "His legs are perhaps his most powerful feature. They are long and heavily muscled, built for launching himself incredible distances, climbing vertical surfaces, and moving with explosive speed. They are covered in the same white fur and spotted pattern.",
+      "tail": "His tail is a remarkable appendage—longer than his body, incredibly strong, and prehensile. Covered in the same pristine white fur, he uses it for balance, as a rudder when running or jumping, and can even use it to disarm opponents or deliver a powerful, whipping strike. Its tip is a darker, ash-grey."
+    },
+    "clothing": "He wears a form-fitting tunic and pants of a matte, non-reflective black material that allows for maximum freedom of movement. Over this, his most iconic possession: the Cloak of Night. It is a high-collared cloak that seems to be made of living shadow. It is weightless, soundless, and responds to his will, billowing dramatically or clinging close to his form. It helps him meld with darkness and can be shaped into simple constructs.",
+    "accessories": "His only accessories are practical: a simple, black leather harness across his chest that holds a few specialized, non-metallic tools (lockpicks, a small grappling line woven from his own shed fur and shadow-stuff), and a single, small, smooth white stone tied to a thin cord around his neck. It is the only remnant of his mother's final sculpture, warm to his touch even in the coldest night.",
+    "weapon": {
+      "name": "The Pale Shadow (Himself)",
+      "type": "Natural Weaponry & Psychological Terror",
+      "aura": "He doesn't have a typical aura of light or power. Instead, he projects an aura of profound, unsettling cold and silence. The air around him feels heavy and still. Sounds seem to be muffled in his presence. It's the aura of a tomb.",
+      "special_feature": "Ivory Leospur's greatest weapon is not a blade or a spell, but the terror he instills. He is a master of psychological warfare. He will stalk a target for weeks, letting them see fleeting glimpses of a white shape in the corner of their eye, a whisper of movement in the shadows. He will leave single, white claw marks on their doorposts. He will let their own fear and guilt build a prison far more effective than any physical cell. When he finally strikes, it is always from behind, from the darkness, without a sound. His physical combat is a terrifying extension of this. He uses his superhuman agility to dodge and weave, never staying in one place. He uses his claws not just to slash, but to disarm and disable with precision, targeting tendons and weapon hands. He uses his tail to trip and ensnare. His fighting style is a fluid, silent dance of death, a whirlwind of white fur and shadow that leaves his opponents disoriented and bleeding before they even register his presence. He only delivers a killing blow when he is certain his target understands why they are dying. For him, justice is not just an act; it is an experience for the condemned. He is the living embodiment of their worst nightmare, a ghost made of grief and vengeance.",
+      "special_skills": [
+        "Shadow Meld (invisibility in darkness)",
+        "Silent Pounce (instant, undetectable closing strike)",
+        "Whirlwind Claw (rapid, multi-target slashing attack)",
+        "Tail Trip (non-lethal takedown)",
+        "Cloak Constructs (using shadow cloak for whips, shields, or binds)",
+        "Lunar Sense (enhanced tracking and perception at night)"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Shadow Slash",
+          "description": "Leospur phases partially through a shadow to deliver a swift, two-clawed strike to an unsuspecting enemy before melting back into the darkness."
+        },
+        {
+          "name": "Pale Glare",
+          "description": "He channels a fraction of his fractured light into his good eye, causing it to flare with a blinding silver light. Enemies who meet his gaze are momentarily stunned and disoriented."
+        },
+        {
+          "name": "Leap and Land",
+          "description": "He performs a powerful, silent leap directly onto an opponent, using his weight and momentum to drive them to the ground, pinning them with his weight while his claws rest at their throat."
+        }
+      ],
+      "passive_skill": {
+        "name": "Haunted Vigil",
+        "description": "Ivory Leospur is incapable of being surprised. His hyper-aware senses and constant state of alertness mean he is always watching, always listening. Furthermore, his tragic aura sows unease in enemies, subtly decreasing their combat effectiveness the longer they are in his presence. The memory of his people's death fuels his unyielding resolve, making him immune to fear-based effects."
+      },
+      "special_skills": [
+        {
+          "name": "Wraith Dance",
+          "description": "Leospur becomes a blur of motion, using his incredible speed and agility to strike multiple enemies in rapid succession. He weaves between them, a white phantom, leaving shallow but numerous claw wounds before reappearing in a pool of shadow, seemingly untouched."
+        },
+        {
+          "name": "Cloak of Binding",
+          "description": "He commands the Cloak of Night to unravel and surge forward, solidifying into several inky-black tendrils that lash out and bind the limbs of his enemies, holding them fast."
+        },
+        {
+          "name": "Crippling Gouge",
+          "description": "With a precise, focused strike, Leospur aims for a specific target—the tendon of a sword-arm, the hamstring of a runner. The attack deals significant damage and applies a severe, debilitating wound that cripples the enemy's movement or attack capabilities."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Pale Judgment: The Longest Night",
+        "description": "Ivory Leospur's single, silver eye flares with an intense, cold light. He throws his head back, and a silent, psychic scream erupts from him. This is not a physical attack, but a psychological one. He forcibly projects the memory of the Prismatic Valley massacre into the mind of a single target. For a few, agonizing seconds, the enemy is trapped in his worst memory—the terror, the helplessness, the overwhelming grief and loss of watching everyone they love die. They are paralyzed, living through his personal hell. When the vision ends, they are left broken, weeping, and utterly defenseless, their will to fight shattered. Leospur then simply approaches them, his face a mask of cold sorrow. He speaks no words. He only looks at them with his haunted eyes, a silent judge delivering a final, personal verdict. Then, the shadows consume them both, and when they part, the enemy is simply gone, leaving only the faint scent of snow and the lingering feeling of profound dread. The Pale Shadow has passed judgment, and the night has claimed another soul."
+      }
+    }
+  },
+  {
+    "id": 102,
+    "pantheon_id": 1,
+    "hero_name": "Kakzin Berotz",
+    "title": "The Void-Born Sentinel",
+    "nickname": "Last Son of the Dying Star",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/kakzin/main.png",
+      "character_icon": "assets/images/character/kakzin/icon.png",
+      "character_image_real": "assets/images/character/kakzin/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/kakzin/gallery/1.jpeg",
+        "assets/images/character/kakzin/gallery/2.jpeg",
+        "assets/images/character/kakzin/gallery/3.jpeg",
+        "assets/images/character/kakzin/gallery/4.jpeg",
+        "assets/images/character/kakzin/gallery/5.jpeg"
+      ]
+    },
+    "lore": "In the unfathomable depths of the Andromeda galaxy, where light grows tired and time flows like cold honey, there existed a world called Xylos. It was not a planet of fire and fury, but of profound silence and crystalline thought. Its inhabitants, the Xylosians, were beings of immense mental and cosmic power, their bodies composed of living obsidian that shimmered with internal starlight. They were a race of philosophers and guardians, watching over cosmic leylines and maintaining the delicate gravitational balance of their sector. For eons, they thrived in their quiet, magnificent cities that spiraled up into the purple-black sky of their twin suns—one a dying red giant, the other a fierce blue dwarf. From this union of old and new, hot and cold, Kakzin Berotz was born. His name in the ancient Xylosian tongue means 'He Who Stands Against the Void,' a name of great hope and destiny.
+
+But the void does not appreciate being stood against. A cosmic anomaly known as the 'Nexus Null'—a sentient, ravenous tear in the fabric of reality—drifted into the Xylosian system. It did not attack with ships or armies. It simply... consumed. It unraveled the gravitational bonds of their twin suns, forcing them into a catastrophic collision. Kakzin, then a young adult by Xylosian standards, watched from a observation platform as his world ended. He saw the red giant and the blue dwarf embrace in a death spiral, their light merging into a blinding, beautiful, and utterly terrible white flare that vaporized the crystalline spires of his home. He felt the psychic screams of his people—his father, the Chief Astronomer, calmly calculating the end; his mother, a Keeper of Memories, desperately trying to preserve their history in a final psychic broadcast—as their consciousnesses were ripped apart and scattered into the cosmic winds. He was flung out into the void, his body encased in a fragment of his world's core, a black, gravity-defying stone that served as his vessel for a journey of a thousand years. He drifted, frozen and unconscious, until his pod was pulled into the gravitational well of a small, blue planet called Earth. He was found by a reclusive astrophysicist, Dr. Aris Thorne, who recognized the object not as a meteor, but as a tomb. When he finally managed to open it, he found not a corpse, but a being of impossible density and silence, who opened eyes that held the light of a dead galaxy. Kakzin had awoken to a new world, the last witness to a genocide committed by the universe itself. He does not smile. He does not hope. He simply exists, carrying the weight of a dead world and the cold, implacable duty to ensure that the void takes no more. He is not a savior; he is a sentinel. A monument. The Last Son of a Dying Star.","description": "Kakzin Berotz is a figure of monumental stillness and terrifying potential. He stands at an imposing seven feet tall, his body a perfect fusion of a cosmic being and an idealized humanoid form. His skin is not flesh, but a smooth, semi-reflective material that resembles polished black obsidian, yet it yields like warm skin to the touch. Deep within this dark surface, a faint network of veins pulses with a soft, silver-white light—the remnants of his people's stellar energy, like the last embers of a forgotten fire. His physique is not bulky like a bodybuilder's, but rather perfectly proportioned and densely compacted, as if his entire mass has been compressed by a black hole's gravity. Every muscle is sharply defined beneath his obsidian skin, but they speak more of coiled, unstoppable force than of mere strength. His face is classically handsome but utterly alien in its perfection and stillness—high cheekbones, a strong jaw, a straight nose, and lips set in a permanent, neutral line. His most striking feature is his eyes: they are large and completely white, with no visible iris or pupil, and they emit a soft, ethereal glow, like twin full moons. They hold no warmth, only a deep, ancient sadness and an unnerving, penetrating awareness. His hair is long, flowing, and a stark, luminous silver-white, defying gravity slightly as if influenced by his personal gravitational field, cascading past his shoulders like a frozen waterfall. He does not possess ears in the human sense, but rather subtle, elegant ridges on the sides of his head that allow him to perceive gravitational waves and vibrations across the entire spectrum. His attire is minimalist and functional: he wears a form-fitting suit of black, non-reflective material that covers him from his neck to his feet, with subtle silver piping along the seams that echoes the starlight in his veins. Over this, draped across his shoulders and hanging down his back, is a long, heavy cape. It is not cloth, but a woven metallic fabric of deep charcoal grey, so dark it seems to absorb light, and it hangs with the weight of a lead sheet, moving not with the wind but only with his will. On his chest, there is no family crest, but a faint, spiral-shaped marking—the symbol of the Xylosian cosmic alignment—that glows with a soft silver light when he uses his powers. He is barefoot, his feet also composed of the same obsidian material, and he walks without making a sound, as if the very gravity around him bends to cushion his steps. He is a living statue, a piece of a dead world given form, radiating an aura of profound solitude and immense, contained power.",
+    "story": {
+      "part1": "Kakzin's earliest memories are not of play, but of learning. Xylosian children were taught through psychic immersion, their minds linked to the vast data-crystals of the Grand Library. He learned the history of a thousand races, the physics of collapsing stars, and the philosophy of cosmic balance before he could physically walk. His father, Vorzun Berotz, was a stern but loving figure, teaching him to read the gravitational signatures of distant objects. His mother, Lyra-Xyl, was a being of warmth and light, filling their crystalline home with psychic melodies and recorded memories of Xylosian triumphs.",
+      "part2": "The day of the Convergence was a day of celebration. The red giant sun, Xylos-Prime, and the blue dwarf, Xylos-Secondary, were at their closest orbital point, a phenomenon that occurred every ten thousand years and bathed their world in a beautiful purple light. Kakzin, at 50 years old (still an adolescent by their standards), was on the Grand Observatory Spire with his father. They were monitoring the event when Vorzun's expression changed. He saw a gravitational anomaly—a point of absolute nothingness—drifting towards their suns. It was the Nexus Null. The celebration turned to panic in an instant.",
+      "part3": "Kakzin was not saved by his parents in a heroic last act. He was saved by bureaucratic protocol. As the Chief Astronomer's son, he had been designated a 'Keeper of the Seed' in case of cosmic catastrophe. His father, with tears streaming down his obsidian face—a sight Kakzin had never seen and will never forget—forcibly placed him in the Core-Capsule, a vessel designed to preserve a single Xylosian. 'You are the memory now, Kakzin,' his father said, his psychic voice calm even as the world screamed. 'You are Xylos.' The capsule sealed, and the last thing Kakzin saw through the tiny viewport was his parents, standing hand in hand on the spire, watching the end together.",
+      "part4": "The thousand-year journey through the void was a frozen nightmare. He was in a state of suspended animation, but his mind was semi-aware, trapped in a loop of the last psychic broadcasts from his world. He heard the final thoughts of billions—fear, acceptance, love, rage—etched forever into his psyche. He arrived on Earth not as a baby, but as a fully grown, traumatized god, his mind a graveyard of a civilization. Dr. Aris Thorne, the man who found him, became his first and only friend on this new world, a patient, quiet man who asked no questions and simply offered a place to exist.",
+      "part5": "For the first decade on Earth, Kakzin did nothing. He sat in Thorne's observatory, watching the stars, learning human languages and customs through radio waves and television signals he absorbed psychically. He felt the pull of Earth's gravity, so weak compared to his home, and realized the full extent of his powers. He could manipulate gravity itself, a gift all Xylosians had, but amplified by his unique birth under the twin suns. He could fly by negating his own mass, could create fields of crushing force, could even perceive the gravitational echoes of the past.",
+      "part6": "His first intervention was not heroic, but personal. Dr. Thorne's observatory was attacked by corporate raiders seeking to seize his land. Kakzin, hearing the distress in the old man's psychic signature, simply appeared between the raiders and his friend. He did not fight. He simply looked at them, his white eyes glowing, and subtly increased the gravity around them. They fell to their knees, unable to move, pinned by the weight of their own bodies. He held them there for an hour, until the authorities came, never speaking a word. The legend of the 'Silent Sentinel' was born.",
+      "part7": "Now, Kakzin Berotz exists as a protector, but on his own terms. He does not patrol cities or stop petty crime. He watches for the big threats—the cosmic horrors, the world-ending cataclysms, the echoes of the void that remind him of the Nexus Null. He is a ghost, appearing only when the stakes are absolute. He carries the grief of a billion souls, and it has forged him into something beyond heroism. He is a warning. He is a promise. He is the last line of defense against the darkness that consumed his world, and he will not fail again, because he cannot. There is no one left to remember him if he does. He is Kakzin Berotz, the Void-Born Sentinel, and his vigil is eternal."
+    },
+    "race": "Xylosian (Last of his kind)",
+    "powers": "Gravitational Manipulation (can increase, decrease, and distort gravity at will), Void-Flight (negates his own mass to fly at incredible speeds through space), Density Control (can make himself as light as air or as dense as a collapsing star), Cosmic Awareness (can perceive gravitational waves and disturbances across the planet and beyond), Kinetic Absorption (his body absorbs and disperses kinetic energy, making him nearly invulnerable), Void Energy Projection (can release absorbed energy as concussive blasts of dark, gravity-warping force), Stellar Ember Healing (the residual energy of his dying star within him allows him to heal rapidly in solitude)",
+    "speciality": "Cosmic Defense & Planetary-Scale Crisis Intervention",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Pure, luminous white with no visible iris or pupil, glowing softly like twin moons, radiating an ancient sadness and unnerving awareness",
+        "eye_type": "Large, almond-shaped, set deep within his obsidian face, unblinking and eternally watchful"
+      },
+      "nose": "Straight and perfectly proportioned, human-like in structure but made of smooth obsidian material",
+      "lips": "Set in a permanent, neutral line, neither frowning nor smiling, the color of dark stone with a faint silver undertone",
+      "hair": {
+        "hairstyle": "Long, flowing hair that cascades past his shoulders, defying gravity slightly as if floating in zero-G, each strand distinct and luminous",
+        "hair_color": "Stark, luminous silver-white, like frozen starlight or the filament of a dying star"
+      },
+      "ears": "Not present; instead, subtle, elegant ridges curve along the sides of his head where ears would be, allowing him to perceive gravitational vibrations",
+      "face_shape": "Classically handsome, high cheekbones, strong jaw, perfect symmetry, but utterly alien in its stillness and perfection"
+    },
+    "upper_body": {
+      "body_structure": "Imposing and perfectly proportioned at seven feet tall, his physique is densely compacted as if compressed by immense gravity. Not bulky, but every muscle is sharply defined beneath his obsidian skin, speaking of coiled, unstoppable force.",
+      "arms": "Long and powerful, covered in the same smooth obsidian material, with faint silver-white veins pulsing beneath the surface",
+      "hands": "Large hands with long, elegant fingers, each finger tipped with a slightly darker, denser obsidian nail that is incredibly hard. His palms are smooth and emit a faint warmth.",
+      "chest": "Broad and powerful, the obsidian skin here is thickest, with the spiral-shaped Xylosian cosmic alignment symbol faintly visible at its center, glowing silver when his powers are active",
+      "shoulders": "Wide and powerful, draped by his heavy metallic cape, the muscles beneath perfectly defined",
+      "neck": "Strong and columnar, supporting his head with the stillness of a statue"
+    },
+    "lower_body": {
+      "hips": "Narrow and powerful, tapering to his legs, maintaining the perfect proportions of his form",
+      "legs": "Long, powerful legs, densely muscled, covered in obsidian with visible silver vein networks",
+      "feet": "Barefoot, composed of the same obsidian material, with perfectly formed toes. He walks without a sound, as if gravity cushions each step."
+    },
+    "clothing": "He wears a form-fitting, full-body suit of matte black, non-reflective material that covers him from neck to feet. The suit is seamless and appears to be a second skin. Subtle silver piping runs along the seams, following the lines of his muscles and echoing the starlight in his veins. Over this, draped across his broad shoulders and hanging down to his calves, is a heavy, long cape made of a woven metallic fabric of deep charcoal grey. The cape is not cloth; it has the weight and texture of fine chainmail but drapes like silk, and it hangs with unnatural stillness, moving only with his will. On his chest, the suit has a faint, spiral-shaped marking—the Xylosian symbol of cosmic alignment—that glows with soft silver light when he uses his powers.",
+    "accessories": "His only accessory is a small, palm-sized fragment of Xylosian core crystal, smooth and black with internal silver flecks, which he keeps in a small pocket inside his suit, against his chest. It is the only physical remnant of his world, and it hums with a faint, imperceptible vibration that only he can feel.",
+    "weapon": {
+      "name": "The Graviton Core (Himself)",
+      "type": "Gravitational Manipulation & Void Energy",
+      "aura": "He radiates a subtle, barely visible aura of distorted space. The air around him shimmers faintly, and light seems to bend slightly as it passes near his body. In moments of power, this aura becomes visible as a dark, rippling distortion, like heat haze over asphalt but cold and absorbing light.",
+      "special_feature": "Kakzin's body is the weapon. He does not carry external arms. His power is the fundamental force of gravity itself, and he wields it with the precision of a surgeon and the force of a collapsing star. He can create localized gravity wells that crush objects into dust, or he can negate gravity entirely to float effortlessly. By increasing his personal density to impossible levels, he becomes an unstoppable force, able to punch through mountains or stand unmoved before any assault. He can project this force outward as 'void blasts'—concussive waves of dark energy that warp space as they travel, appearing as rippling, shadowy distortions that leave targets feeling as if they've been hit by a moon. His cosmic awareness allows him to sense gravitational disturbances across the planet, making him a perfect early warning system against cosmic threats. In combat, he is silent and methodical. He does not taunt or roar. He simply moves, his white eyes fixed on his target, and the very weight of the world bends to his will. His fighting style is minimalistic: a raised hand to pin an enemy with gravity, a gesture to deflect incoming projectiles, a clenched fist to release a blast of void energy. When he truly unleashes his power, the area around him becomes a zone of distorted reality, where up is down, light bends, and the air itself feels heavy as water. He is not a brawler; he is a force of nature, as inevitable and impersonal as a black hole.",
+      "special_skills": [
+        "Gravity Crush (localized high-gravity field)",
+        "Void Blast (concussive dark energy projection)",
+        "Density Shift (personal invulnerability or intangibility)",
+        "Gravitational Wave Sense (cosmic awareness)",
+        "Stellar Flight (high-speed space travel)",
+        "Null Field (area-of-effect gravity distortion)"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Weight of the World",
+          "description": "Kakzin gestures with one hand, and a single target is suddenly subjected to five times Earth's gravity. They are pinned in place, unable to move, their own body weight crushing them toward the ground."
+        },
+        {
+          "name": "Void Push",
+          "description": "He extends his palm, releasing a concussive wave of dark, gravity-warping energy that blasts enemies away from him, knocking them back and disorienting them with the sudden shift in pressure."
+        },
+        {
+          "name": "Obsidian Fist",
+          "description": "Increasing his density to that of a small planet, he delivers a single, devastating punch. The strike is slow but utterly unstoppable, capable of shattering reinforced structures and sending enemies flying."
+        }
+      ],
+      "passive_skill": {
+        "name": "Echoes of Xylos",
+        "description": "Kakzin's mind is a library of a dead world. He is immune to psychic attacks, as his consciousness is already a fortress built from the screams of a billion souls. His cosmic awareness constantly monitors gravitational shifts, warning him of impending dangers. The weight of his grief makes him impervious to fear or intimidation, and his presence alone can unsettle enemies, as they subconsciously feel the void he carries within him."
+      },
+      "special_skills": [
+        {
+          "name": "Gravitational Vortex",
+          "description": "Kakzin raises both hands, creating a localized singularity. A swirling, dark vortex appears in the sky or on the ground, pulling all enemies within range toward its center. They are helplessly dragged together, then crushed by the collapsing gravity well."
+        },
+        {
+          "name": "Stellar Shroud",
+          "description": "He releases the stored energy within him, cloaking his body in a visible aura of silver-white starlight. For a duration, his speed and power are amplified, his void blasts become more potent, and his very touch infuses targets with disorienting cosmic energy."
+        },
+        {
+          "name": "Tectonic Stamp",
+          "description": "Kakzin rises into the air and then descends, landing with his full, density-increased weight onto the ground. The impact sends out a shockwave in all directions, cracking the earth, toppling enemies, and creating a crater of distorted rock and gravity."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Nexus Null: Echo of Annihilation",
+        "description": "Kakzin Berotz's white eyes flare with an agonizing, brilliant light, and for the first time, a sound escapes him—a low, resonant hum that vibrates through the very bones of all who hear it. He rises into the air, his charcoal cape spreading wide like the wings of a dark angel, and the space around him begins to warp violently. He reaches deep into the core of his being, into the trauma of his world's ending, and pulls forth a fraction of the Nexus Null's consuming power. A sphere of absolute, light-devouring darkness forms in his hands, a miniature void that seems to scream with the echoes of a billion lost souls. He then releases it. The sphere drifts forward, not fast, but inevitably. It does not explode; it simply expands, creating a zone of nullification where gravity ceases to exist, where matter is pulled apart at the atomic level, and where light itself is consumed. Enemies caught within this field are not blasted; they are unmade, their bodies stretched and torn by tidal forces before being scattered as cosmic dust. When the ultimate ends, Kakzin descends slowly, his glow dimmed, his expression more haunted than ever. He has used the memory of his people's death as a weapon, and it has cost him a piece of his soul each time. He lands, silent, and simply looks at the devastation with those luminous white eyes, a god who carries hell within him, forever the Last Son of a Dying Star."
+      }
+    }
+  },
+  {
     "id": 150,
     "pantheon_id": 2,
     "hero_name": "Vorlag the Emberhoof",
@@ -11283,7 +11727,10 @@
       "type": "Gargantuan Warhammer",
       "aura": "Fierce molten orange and yellow energy radiating from cracks, heat distortion around weapon",
       "special_feature": "Crafted from dark volcanic metal, exceptionally large head with sharp prismatic edges and structural reinforcement like crumbling fortress wall; glowing fissures run through the metal; thick reinforced handle; appears to contain elemental fire/earth magic at its core.",
-      "special_skills": ["Seismic Smash", "Magma Eruption"]
+      "special_skills": [
+        "Seismic Smash",
+        "Magma Eruption"
+      ]
     },
     "skills": {
       "basic_skills": [
