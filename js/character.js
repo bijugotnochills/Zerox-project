@@ -286,14 +286,34 @@ function populateModal(char) {
 
     // Facial structure
     const f = char.facial_structure || {};
-    const eyes = f.eyes || {};
-    const hair = f.hair || {};
-    setHtml('modal-facial', `
+    let facialHtml = '';
+
+    if (f.mask) {
+        // Character wears a mask – display mask details
+        const mask = f.mask;
+        facialHtml += `<p><strong>Mask Name:</strong> ${mask.name || 'Unknown'}</p>`;
+        facialHtml += `<p><strong>Material:</strong> ${mask.material || ''}</p>`;
+        facialHtml += `<p><strong>Forehead:</strong> ${mask.forehead || ''}</p>`;
+        facialHtml += `<p><strong>Eyes:</strong> ${mask.eyes || ''}</p>`;
+        facialHtml += `<p><strong>Nose:</strong> ${mask.nose || ''}</p>`;
+        facialHtml += `<p><strong>Mouth:</strong> ${mask.mouth || ''}</p>`;
+        if (mask.tusks) facialHtml += `<p><strong>Tusks:</strong> ${mask.tusks}</p>`;
+        if (mask.surface) facialHtml += `<p><strong>Surface:</strong> ${mask.surface}</p>`;
+        // Add any other mask properties here
+    } else {
+        // Normal facial features
+        const eyes = f.eyes || {};
+        const hair = f.hair || {};
+        facialHtml = `
         <p><strong>Eyes:</strong> ${eyes.eye_color || 'Unknown'} (${eyes.eye_type || ''})</p>
         <p><strong>Nose:</strong> ${f.nose || ''}</p>
         <p><strong>Hair:</strong> ${hair.hairstyle || ''} (${hair.hair_color || ''})</p>
         <p><strong>Face Shape:</strong> ${f.face_shape || ''}</p>
-    `);
+    `;
+        // Optional: include ears if present
+        if (f.ears) facialHtml += `<p><strong>Ears:</strong> ${f.ears}</p>`;
+    }
+    setHtml('modal-facial', facialHtml);
 
     // Upper body
     const u = char.upper_body || {};
