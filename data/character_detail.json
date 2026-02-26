@@ -1697,7 +1697,7 @@
   },
   {
     "id": 17,
-    "pantheon_id": 2,
+    "pantheon_id": 3,
     "hero_name": "Devata",
     "title": "The Temple Guardian Spirit",
     "nickname": "Lotus of Angkor",
@@ -3605,7 +3605,7 @@
   },
   {
     "id": 35,
-    "pantheon_id": 1,
+    "pantheon_id": 5,
     "hero_name": "Nova",
     "title": "The Cosmic Vanguard",
     "nickname": "Star Sentinel",
@@ -4453,7 +4453,7 @@
   },
   {
     "id": 43,
-    "pantheon_id": 1,
+    "pantheon_id": 5,
     "hero_name": "Shen",
     "title": "The New Year Dragon Spirit",
     "nickname": "Festival Guardian",
@@ -4665,7 +4665,7 @@
   },
   {
     "id": 45,
-    "pantheon_id": 1,
+    "pantheon_id": 5,
     "hero_name": "Chronos",
     "title": "The Chronomantic Guardian",
     "nickname": "Keeper of Time",
@@ -4771,7 +4771,7 @@
   },
   {
     "id": 46,
-    "pantheon_id": 3,
+    "pantheon_id": 2,
     "hero_name": "Kakuo",
     "title": "The Shadow's Edge",
     "nickname": "Umbra Wolf",
@@ -4889,7 +4889,7 @@
   },
   {
     "id": 47,
-    "pantheon_id": 2,
+    "pantheon_id": 1,
     "hero_name": "Brynhild",
     "title": "The Golden Valkyrie",
     "nickname": "Shield-Maiden of the North",
@@ -5008,7 +5008,7 @@
   },
   {
     "id": 48,
-    "pantheon_id": 1,
+    "pantheon_id": 5,
     "hero_name": "Sorin",
     "title": "The Phantom Virtuoso",
     "nickname": "Requiem",
@@ -5231,7 +5231,7 @@
   },
   {
     "id": 50,
-    "pantheon_id": 2,
+    "pantheon_id": 3,
     "hero_name": "Ryoken",
     "title": "The Unbroken Spear",
     "nickname": "Azure Dragon's Heir",
@@ -5791,7 +5791,7 @@
   },
   {
     "id": 55,
-    "pantheon_id": 2,
+    "pantheon_id": 1,
     "hero_name": "Aurelius Drakon",
     "title": "The Golden Martyr",
     "nickname": "Dragon's Mercy",
@@ -5904,7 +5904,7 @@
   },
   {
     "id": 56,
-    "pantheon_id": 2,
+    "pantheon_id": 3,
     "hero_name": "Nimue Harvestglen",
     "title": "The Autumn Witch",
     "nickname": "Keeper of Falling Leaves",
@@ -6142,7 +6142,7 @@
   },
   {
     "id": 58,
-    "pantheon_id": 2,
+    "pantheon_id": 5,
     "hero_name": "Sikenzo Waratta",
     "title": "The Neon Ghost",
     "nickname": "Blade of the Broken Code",
@@ -6373,7 +6373,7 @@
   },
   {
     "id": 60,
-    "pantheon_id": 2,
+    "pantheon_id": 3,
     "hero_name": "Bloomf",
     "title": "The Eternal Blossom",
     "nickname": "Spring's Heart",
@@ -6716,7 +6716,7 @@
   },
   {
     "id": 63,
-    "pantheon_id": 2,
+    "pantheon_id": 5,
     "hero_name": "Seraphine",
     "title": "The Godslayer",
     "nickname": "Twilight's Equilibrium",
@@ -6838,7 +6838,7 @@
   },
   {
     "id": 64,
-    "pantheon_id": 2,
+    "pantheon_id": 1,
     "hero_name": "Aelira",
     "title": "The Silver Star",
     "nickname": "Dawnweaver",
@@ -7421,7 +7421,7 @@
   },
   {
     "id": 69,
-    "pantheon_id": 2,
+    "pantheon_id": 4,
     "hero_name": "Malachar",
     "title": "The Obsidian Scourge",
     "nickname": "Green Fire's Heart",
@@ -7525,7 +7525,7 @@
   },
   {
     "id": 70,
-    "pantheon_id": 2,
+    "pantheon_id": 1,
     "hero_name": "Meiling",
     "title": "The Jade Emperor",
     "nickname": "Son of the Forgotten Sky",
@@ -8069,7 +8069,7 @@
   },
   {
     "id": 74,
-    "pantheon_id": 2,
+    "pantheon_id": 5,
     "hero_name": "Caelan Emberwick",
     "title": "The Hearthfire Prodigy",
     "nickname": "Ember-Kindled",
@@ -8692,7 +8692,7 @@
   },
   {
     "id": 79,
-    "pantheon_id": 3,
+    "pantheon_id": 5,
     "hero_name": "Lunaea Vespera",
     "title": "The Twilight Archer",
     "nickname": "Shadow-Bow of Dusk",
@@ -10174,6 +10174,130 @@
     }
   },
   {
+    "id": 91,
+    "pantheon_id": 2,
+    "hero_name": "Valogueneir Kimpatsu",
+    "title": "The First Vampire",
+    "nickname": "Crimson Crow of the Eternal Night",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/valogueneir/main.png",
+      "character_icon": "assets/images/character/valogueneir/icon.png",
+      "character_image_real": "assets/images/character/valogueneir/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/valogueneir/gallery/1.jpeg",
+        "assets/images/character/valogueneir/gallery/2.jpeg",
+        "assets/images/character/valogueneir/gallery/3.jpeg",
+        "assets/images/character/valogueneir/gallery/4.jpeg",
+        "assets/images/character/valogueneir/gallery/5.jpeg"
+      ]
+    },
+    "lore": "Before the first vampire clans, before the bloodlines and the covens, before the legends that would terrify generations, there was Valogueneir Kimpatsu. He was not born of darkness—he was driven into it. In an age when kingdoms rose and fell on the whims of nobles, Valogueneir was a young lord of exceptional beauty and gentle heart, married to his beloved wife Amara and father to their infant son Lysander. Their household was modest but happy, until the day the king's advisors cast envious eyes upon their lands. False charges were brought, accusations of treason and dark magic, and in a single night, soldiers descended upon their manor. Valogueneir was away, negotiating trade agreements in a distant city. He returned to find his wife violated and murdered, his son's broken body in the garden, and his home reduced to ash. His screams echoed through the valley, reaching the ears of an ancient being that dwelt in the depths of the world—the first vampire, a creature of such power that it had slumbered since before humanity's dawn. It offered Valogueneir a choice: die in grief, or become something new, something that could never be hurt again, something that would make the kings of men tremble. Valogueneir accepted. He drank the ancient blood and rose as the first of a new kind—a vampire who feared no light, thirsted not for human blood, and could take the form of a crow rather than a bat. Now, after centuries of existence, he hunts not men, but the demons that whisper cruelty into human hearts. He is Valogueneir Kimpatsu, the Crimson Crow, the First Vampire, and his amber hair and ruby eyes hide a grief as deep as eternity.",
+    "description": "He stands in the ruined garden where his family died, his tall slender form silhouetted against the full moon, his magnificent long amber permed hair cascading past his shoulders in soft voluminous waves that catch the moonlight like spun gold touched by sunset, each perfect curl moving slightly in the night breeze. His perfect oval face with its soft features and high cheekbones is turned toward the two graves beneath the ancient tree, his large almond-shaped ruby red eyes that sparkle like cut gems holding both the warmth of the loving husband he once was and the cold eternity of what he has become, tears of crimson light not quite falling from their corners. The elaborate royal vampire robes of deepest crimson and black velvet flow around him, the silver and gold embroidery of crows in flight and crescent moons catching the moonlight, and the multiple gold chains at his neck with their ruby and onyx settings gleam against the white silk of his ruffled shirt. At his shoulders, the gold crow-head clasps with their ruby eyes seem to watch the graves with him, and on his slender fingers, the numerous rings—the large signet ring with his lost house crest, the ruby ring on his left index, the golden bands—catch light and throw it back in tiny reflections. Around him, hundreds of crows perch in absolute silence on every ruined wall, every branch, every surface, their ruby eyes reflecting the moonlight, watching over their master and the graves he will never abandon. He does not move, does not speak, simply stands in eternal vigil, his form occasionally dissolving at the edges into a swirl of black feathers before reforming, as if even his physical presence cannot decide whether to stay or to join them in death. Those who have glimpsed him speak of a grief so profound that it becomes a physical presence, a weight in the air that makes breathing difficult, a sorrow so deep that it threatens to drown anyone who comes too close. He is often found in this garden, at this grave, beneath this tree, but sometimes he walks the world, hunting the demons that whisper cruelty into human hearts, his crows his only companions, his ruby eyes the last thing many evil beings ever see. He is Valogueneir Kimpatsu, the First Vampire, and his love for his lost family is the only light in his immortal darkness.",
+    "story": {
+      "part1": "Valogueneir Kimpatsu was born the second son of a minor noble house in a kingdom whose name has long been forgotten. His elder brother inherited the lands and titles, leaving Valogueneir with a small manor, a few fields, and the freedom to pursue his own path. He chose love. At a festival celebrating the harvest, he met Amara, a merchant's daughter with laughter like wind chimes and eyes that held the warmth of a thousand suns. They married within the year, and when their son Lysander was born, Valogueneir held the infant in his arms and wept with joy. Those were the happiest years of his life—simple, peaceful, perfect. He had no ambition for power or wealth; he had everything he needed within the walls of his modest home.",
+      "part2": "The king's advisor, a man named Mordred whose cruelty was matched only by his greed, had long coveted the fertile lands that bordered Valogueneir's manor. He fabricated evidence of treason, claimed that Valogueneir was plotting with neighboring kingdoms, and convinced the aging king to sign a warrant for the household's execution. Valogueneir, oblivious to the danger, had traveled to the capital to negotiate a trade agreement that would benefit his tenants. He was three days away when Mordred's soldiers descended upon his home.",
+      "part3": "He returned on the fourth day, riding through the gates with gifts for his wife and son. The gates hung broken. The house was ash. And in the garden, beneath the tree where Lysander had taken his first steps, he found them. Amara's body bore the marks of unspeakable violence. Little Lysander, barely two years old, had been thrown against the wall, his small form crumpled like discarded cloth. Valogueneir fell to his knees and screamed until his voice gave out, then screamed in silence until the stars wheeled overhead and dawn began to break. He did not know how long he knelt there, but when he finally rose, something inside him had died—and something else had awakened.",
+      "part4": "He carried their bodies to the crypt behind the ruined manor and buried them with his own hands, speaking words of love and grief and a promise: 'I will find those who did this. I will make them understand what they have taken. And when I am done, there will be no trace of them left in this world.' He walked into the mountains, into the caves where no man had ventured, seeking the ancient power that legend said dwelled in the darkness. For seven days he descended, through caverns of crystal and tunnels of obsidian, until he reached the heart of the world. There, in a chamber of absolute black, he found it—the First Vampire, a being of such ancient power that it had slept since before humanity's first cities. It spoke in his mind: 'I know why you have come. I know your grief, your rage, your hunger for justice. I offer you a choice: die here, alone, and join your family in death, or drink of my blood and become something new. You will walk in sunlight, for I have conquered it. You will thirst not for human blood, for that is a lesser hunger. You will become a hunter of the darkness that lurks in human hearts, the demonic whispers that drive men to cruelty. Choose.' Valogueneir chose.",
+      "part5": "He drank, and the transformation was agony beyond anything he had imagined—every cell of his body died and was reborn, his blood turned to liquid fire, his heart stopped and started again with a new rhythm. When it was over, he rose as the first of his kind. He found that he could transform into a crow, his consciousness spreading into the flock of birds that had gathered in the cavern. He found that sunlight did not burn him, for the ancient vampire's blood had conquered that weakness. He found that human blood held no appeal—his hunger was for something deeper, the demonic essence that corrupted human hearts and drove them to evil. He emerged from the mountain a new being, and he began his hunt.",
+      "part6": "Mordred died first, a year after the transformation. Valogueneir spent months learning his habits, his defenses, his fears. He appeared to Mordred in dreams as a crow with ruby eyes, drove him slowly mad with anticipation. When he finally struck, it was in the king's own court, in front of all the nobles who had laughed at Mordred's jokes. He descended from the rafters in a whirlwind of black feathers, took human form for just a moment—long enough for Mordred to see the face of the man he had wronged—and then drained not his blood, but the demonic essence that had corrupted his soul. Mordred did not die; he simply became... empty, a hollow shell with no will, no cruelty, no nothing. He spent the rest of his life as a drooling simpleton, and Valogueneir considered that justice enough.",
+      "part7": "Now, centuries later, Valogueneir Kimpatsu walks the world as a legend whispered among those who know of the supernatural. He is known as the First Vampire, the Crimson Crow, the Lord of the Eternal Night. His appearance is that of a young man in his mid-twenties, impossibly handsome with a flawless, almost cute face that belies the ancient grief within. His amber hair, long and beautifully permed, cascades in soft waves past his shoulders, catching light like spun gold touched by sunset. His eyes sparkle like cut rubies, deep crimson with flecks of diamond light, holding both the warmth of the man he once was and the cold eternity of what he has become. He dresses like the king he might have been—elaborate robes of deepest crimson and black, embroidered with silver and gold thread in patterns of crows and moonlight, layered with velvet and silk, adorned with countless ornaments: rings on every finger, chains of precious metal, a signet ring bearing the crest of his lost house, a brooch in the shape of a crow in flight. He carries no weapon, for he needs none—his hands, his eyes, his very presence are weapons enough. He hunts now not for revenge, but for purpose, seeking out the demonic influences that corrupt humanity and draining them from their hosts, leaving behind people who can choose good or evil for themselves. He is immune to sunlight, free of the thirst for human blood, and forever bound to the grief that made him. He is Valogueneir Kimpatsu, the First Vampire, and he watches over humanity from the shadows, a guardian born of tragedy, a king without a kingdom, a crow forever circling the memories of what he lost."
+    },
+    "race": "Primordial Vampire (Crow-Transformed)",
+    "powers": "Crow Transformation (can become a flock of crows or a single crow at will), Sunlight Immunity (unharmed by any light), Demonic Blood Thirst (feeds on demonic essence, not human blood), Ruby Eyes (can see the demonic corruption in any being), Immortal Longevity (does not age), Enhanced Strength and Speed (far beyond human limits), Crow Communication (can speak with and command crows), Grief Aura (his presence evokes the sadness of lost love, disarming enemies), Regeneration (heals rapidly from wounds)",
+    "speciality": "Demon Hunting & Psychological Warfare",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Deep crimson red that sparkles like cut rubies with flecks of diamond-bright light, holding both the warmth of the loving husband he once was and the cold eternity of what he has become, with an almost hypnotic quality that draws people in while warning them of the danger within",
+        "eye_type": "Large, almond-shaped, framed by long dark lashes that catch light, with a slight downward tilt that gives him a perpetually melancholic expression, the pupils sometimes seeming to shift and swirl when he uses his powers"
+      },
+      "nose": "Small and refined, perfectly proportioned, with a slight straight bridge that adds to his aristocratic beauty",
+      "hair": {
+        "hairstyle": "Long and magnificently permed, cascading past his shoulders in soft, voluminous waves that catch light like spun gold touched by sunset, each curl perfectly defined yet natural-looking, the kind of hair that artists spend lifetimes trying to capture",
+        "hair_color": "Rich amber with golden undertones, like honey warmed by sunlight, with subtle darker streaks that add depth and dimension, the color shifting slightly in different lights"
+      },
+      "ears": "Small and refined, adorned with small gold earrings shaped like crow feathers",
+      "face_shape": "Perfect oval with soft features that give him an almost cute appearance despite his ancient nature—high cheekbones that catch light, a gentle jawline that speaks of kindness rather than severity, and a small delicate chin, all combining to create a face of such flawless beauty that it inspires both awe and protectiveness in those who behold it",
+      "complexion": "Flawless pale ivory with a faint rosy undertone, like porcelain warmed by candlelight, smooth and luminous without a single blemish, radiating a soft inner glow"
+    },
+    "upper_body": {
+      "body_structure": "Tall and slender with the graceful build of aristocracy—long limbs, elegant posture, and a presence that commands attention without effort. His body is not muscular but perfectly proportioned, moving with the fluid grace of one who has had centuries to perfect every gesture.",
+      "arms": "Long and elegant, clad in the voluminous sleeves of his royal robes, the fabric rich with embroidery, his hands emerging from the cuffs like works of art",
+      "hands": "Slender with impossibly long fingers, each movement deliberate and graceful, the skin flawless and pale, adorned with numerous rings—a large signet ring bearing his lost house's crest on his right hand, a ruby ring on his left index, golden bands on several fingers, each one an antique of considerable value and history",
+      "chest": "Covered by magnificent royal robes of deepest crimson and black velvet, layered over a silk shirt of pure white with ruffled collar, the robes embroidered with silver and gold thread in intricate patterns of crows in flight and crescent moons",
+      "shoulders": "Graceful and straight, draped in the heavy fabric of his outer robe which is fastened at the shoulders with ornate gold clasps shaped like crow heads with ruby eyes",
+      "neck": "Long and elegant, adorned with multiple gold chains of varying lengths, some set with small rubies, others with black onyx, the longest chain bearing a pendant of a crow with spread wings crafted from blackened silver",
+      "waist": "Narrow, cinched by a wide belt of black leather overlaid with gold scales, from which hang various ornamental chains and a small velvet pouch"
+    },
+    "lower_body": {
+      "hips": "Narrow and graceful",
+      "legs": "Long and elegant, clad in tight black silk trousers that disappear into his boots, the fabric rich and smooth",
+      "feet": "Clad in tall black leather boots with gold trim and small heels, the boots polished to a mirror shine, embroidered with gold thread in patterns of crow feathers along the sides"
+    },
+    "clothing": {
+      "head": "His magnificent long amber permed hair cascading past his shoulders in soft waves; small gold crow-feather earrings at his ears",
+      "upper": "Layered royal robes of deepest crimson and black velvet over a white silk shirt with ruffled collar—the inner robe of crimson silk embroidered with gold thread, the outer robe of black velvet embroidered with silver crows and moons, fastened at shoulders with gold crow-head clasps set with ruby eyes; numerous gold chains at his neck of varying lengths with ruby and onyx settings, the longest bearing a blackened silver crow pendant",
+      "lower": "Tight black silk trousers disappearing into tall black leather boots with gold trim and small heels, the boots embroidered with gold crow-feather patterns",
+      "feet": "Same as above",
+      "accessories": "Multiple rings on his slender fingers—a large signet ring with his lost house crest on right hand, a ruby ring on left index, several golden bands; gold chains at neck with ruby and onyx; blackened silver crow pendant; gold crow-head clasps at shoulders; gold earrings shaped like crow feathers; a wide black leather belt with gold scales at his waist; a small velvet pouch hanging from his belt containing mementos of his wife and son"
+    },
+    "weapon": {
+      "name": "Sanguine Crown (His Vampiric Powers)",
+      "type": "Innate Abilities Channeled Through His Body",
+      "aura": "Soft crimson light tinged with gold that pulses gently around him, occasionally shifting to deep purple-black when he draws on his darker powers, with tiny sparkles of light that resemble distant stars or the glitter of rubies",
+      "special_feature": "Valogueneir carries no physical weapon—his body and his ancient powers are weapon enough. His primary abilities manifest through his hands, his eyes, and his transformation. When he fights, his hands can extend into shadowy claws that drain demonic essence, his ruby eyes can freeze enemies with a glance, and his body can dissolve into a flock of crows at will. The Sanguine Crown is not a single power but the sum of all his vampiric abilities, each one refined over centuries of existence. He can summon crows from miles around to do his bidding, see through their eyes, and use them as extensions of his will. His ruby eyes can perceive the demonic corruption in any being, seeing it as dark tendrils within the soul. His touch can drain that corruption, leaving the host purified but exhausted. In combat, he moves with supernatural grace, each gesture a perfect economy of motion, his hands leaving trails of crimson light. When he transforms into a crow, he becomes a single bird or a flock, able to pass through the smallest openings, to observe without being observed, to strike from unexpected directions. And when he unleashes his full power, his form becomes a whirlwind of feathers and crimson light, a manifestation of grief and vengeance that terrifies even demons.",
+      "special_skills": [
+        "Crow Storm",
+        "Ruby Gaze",
+        "Essence Drain",
+        "Shadow Claws",
+        "Grief Aura"
+      ]
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Crow Strike",
+          "description": "Valogueneir extends his hand, and a crow made of shadow and crimson light shoots forward to strike an enemy. The crow deals damage and leaves a mark that allows him to track the target."
+        },
+        {
+          "name": "Ruby Gaze",
+          "description": "His eyes flash with deep crimson light, locking onto a single enemy. The target is briefly paralyzed by the intensity of his gaze, unable to move or attack for a moment."
+        },
+        {
+          "name": "Feather Step",
+          "description": "He dissolves into a swirl of crow feathers and reappears at a nearby location, untargetable during the movement and leaving behind a momentary distraction."
+        }
+      ],
+      "passive_skill": {
+        "name": "Eternal Grief",
+        "description": "Valogueneir carries the weight of his lost family always. His presence evokes a profound sadness in those who behold him, making enemies hesitate before striking and reducing their combat effectiveness. Allies near him feel protected, as if his ancient sorrow creates a barrier against harm. Additionally, he can sense the location of any being with strong demonic corruption within a large radius."
+      },
+      "special_skills": [
+        {
+          "name": "Crow Storm",
+          "description": "Valogueneir's form explodes into a swirling storm of crows—hundreds of them, each one a piece of his consciousness. The crows fill a large area, attacking enemies continuously, obscuring vision, and carrying his essence to any point within the storm. He can reform anywhere among the flock."
+        },
+        {
+          "name": "Essence Drain",
+          "description": "He reaches out and touches an enemy, his hand becoming shadowy and insubstantial. He drains the demonic essence from them, dealing massive damage to corrupted beings and healing himself for a portion. Against pure enemies, the effect is less damaging but still leaves them weakened."
+        },
+        {
+          "name": "Shadow Claws",
+          "description": "His hands transform into shadowy claws wreathed in crimson light. For a duration, his melee attacks deal bonus damage, ignore armor, and drain a small amount of essence with each strike, healing him over time."
+        },
+        {
+          "name": "Crow's Memory",
+          "description": "Valogueneir closes his eyes and reaches out to every crow within miles. He can see through their eyes, hear through their ears, and move his consciousness between them. This grants him and his allies perfect vision of a huge area and reveals all hidden enemies."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "First Vampire: Elegy of the Lost",
+        "description": "Valogueneir's ruby eyes blaze with such intense crimson light that they seem to bleed fire. His amber hair rises as if caught in an ethereal wind, each perfect curl streaming behind him. His form dissolves not into crows, but into pure memory—the memory of his wife's laughter, his son's first steps, the warmth of his home before the flames. For the duration of the ultimate, the battlefield becomes saturated with his grief, and every enemy feels the weight of what was taken from him. Demonic beings are particularly affected, their corruption burning away under the intensity of pure, human sorrow. He moves through the battlefield as both man and memory, each touch not harming but overwhelming—enemies find themselves weeping, dropping their weapons, turning on each other as the grief becomes too much to bear. Crows fill the sky, their calls forming a mournful elegy that echoes across the battlefield. When the ultimate ends, Valogueneir reforms at the center, his eyes dimmer, his expression one of profound exhaustion mixed with something like peace. He has shared his burden, if only for a moment, and the world is a little lighter for it. He is Valogueneir Kimpatsu, the First Vampire, and his grief is both his curse and his greatest power."
+      }
+    }
+  },
+  {
     "id": 92,
     "pantheon_id": 5,
     "hero_name": "Jasper Cole",
@@ -10293,130 +10417,6 @@
       "ultimate_skill": {
         "name": "Hollyhawk: Judgment & Mercy Descend",
         "description": "Jasper Cole's emerald eyes blaze with golden light, and for a moment, the boyish grin fades, replaced by something ancient and terrible—the face of a hunter who has seen generations of darkness and refused to blink. He draws both weapons, Verdant Judgment in one hand, Crimson Mercy in the other, and for a single breath, he holds them crossed before his face. Then he moves—a blur of red and green, of plasma and shot, of holy light and silver death. He dances through the battlefield, firing and slashing in perfect harmony, each shot finding a demonic heart, each slash cleaving through corrupted flesh. The plasma of Crimson Mercy leaves trails of red light that hang in the air like ribbons, and the shots of Verdant Judgment release bursts of green holy light that illuminate the darkness. Enemies cannot track him, cannot predict him, cannot escape him. When the ultimate ends, he stands at the center of the carnage, his weapons smoking, his scarf trailing behind him, his hat somehow still perfectly in place. He grins that boyish grin, tips his hat to the survivors, and says, 'Judgment and mercy, folks. That's the deal.' He is Jasper Cole, the Crimson & Verdant Hunter, and the demons have learned to fear the boy with the baby face."
-      }
-    }
-  },
-  {
-    "id": 91,
-    "pantheon_id": 4,
-    "hero_name": "Valogueneir Kimpatsu",
-    "title": "The First Vampire",
-    "nickname": "Crimson Crow of the Eternal Night",
-    "gender": "male",
-    "images": {
-      "character_image": "assets/images/character/valogueneir/main.png",
-      "character_icon": "assets/images/character/valogueneir/icon.png",
-      "character_image_real": "assets/images/character/valogueneir/real.jpeg",
-      "hero_gallery": [
-        "assets/images/character/valogueneir/gallery/1.jpeg",
-        "assets/images/character/valogueneir/gallery/2.jpeg",
-        "assets/images/character/valogueneir/gallery/3.jpeg",
-        "assets/images/character/valogueneir/gallery/4.jpeg",
-        "assets/images/character/valogueneir/gallery/5.jpeg"
-      ]
-    },
-    "lore": "Before the first vampire clans, before the bloodlines and the covens, before the legends that would terrify generations, there was Valogueneir Kimpatsu. He was not born of darkness—he was driven into it. In an age when kingdoms rose and fell on the whims of nobles, Valogueneir was a young lord of exceptional beauty and gentle heart, married to his beloved wife Amara and father to their infant son Lysander. Their household was modest but happy, until the day the king's advisors cast envious eyes upon their lands. False charges were brought, accusations of treason and dark magic, and in a single night, soldiers descended upon their manor. Valogueneir was away, negotiating trade agreements in a distant city. He returned to find his wife violated and murdered, his son's broken body in the garden, and his home reduced to ash. His screams echoed through the valley, reaching the ears of an ancient being that dwelt in the depths of the world—the first vampire, a creature of such power that it had slumbered since before humanity's dawn. It offered Valogueneir a choice: die in grief, or become something new, something that could never be hurt again, something that would make the kings of men tremble. Valogueneir accepted. He drank the ancient blood and rose as the first of a new kind—a vampire who feared no light, thirsted not for human blood, and could take the form of a crow rather than a bat. Now, after centuries of existence, he hunts not men, but the demons that whisper cruelty into human hearts. He is Valogueneir Kimpatsu, the Crimson Crow, the First Vampire, and his amber hair and ruby eyes hide a grief as deep as eternity.",
-    "description": "He stands in the ruined garden where his family died, his tall slender form silhouetted against the full moon, his magnificent long amber permed hair cascading past his shoulders in soft voluminous waves that catch the moonlight like spun gold touched by sunset, each perfect curl moving slightly in the night breeze. His perfect oval face with its soft features and high cheekbones is turned toward the two graves beneath the ancient tree, his large almond-shaped ruby red eyes that sparkle like cut gems holding both the warmth of the loving husband he once was and the cold eternity of what he has become, tears of crimson light not quite falling from their corners. The elaborate royal vampire robes of deepest crimson and black velvet flow around him, the silver and gold embroidery of crows in flight and crescent moons catching the moonlight, and the multiple gold chains at his neck with their ruby and onyx settings gleam against the white silk of his ruffled shirt. At his shoulders, the gold crow-head clasps with their ruby eyes seem to watch the graves with him, and on his slender fingers, the numerous rings—the large signet ring with his lost house crest, the ruby ring on his left index, the golden bands—catch light and throw it back in tiny reflections. Around him, hundreds of crows perch in absolute silence on every ruined wall, every branch, every surface, their ruby eyes reflecting the moonlight, watching over their master and the graves he will never abandon. He does not move, does not speak, simply stands in eternal vigil, his form occasionally dissolving at the edges into a swirl of black feathers before reforming, as if even his physical presence cannot decide whether to stay or to join them in death. Those who have glimpsed him speak of a grief so profound that it becomes a physical presence, a weight in the air that makes breathing difficult, a sorrow so deep that it threatens to drown anyone who comes too close. He is often found in this garden, at this grave, beneath this tree, but sometimes he walks the world, hunting the demons that whisper cruelty into human hearts, his crows his only companions, his ruby eyes the last thing many evil beings ever see. He is Valogueneir Kimpatsu, the First Vampire, and his love for his lost family is the only light in his immortal darkness.",
-    "story": {
-      "part1": "Valogueneir Kimpatsu was born the second son of a minor noble house in a kingdom whose name has long been forgotten. His elder brother inherited the lands and titles, leaving Valogueneir with a small manor, a few fields, and the freedom to pursue his own path. He chose love. At a festival celebrating the harvest, he met Amara, a merchant's daughter with laughter like wind chimes and eyes that held the warmth of a thousand suns. They married within the year, and when their son Lysander was born, Valogueneir held the infant in his arms and wept with joy. Those were the happiest years of his life—simple, peaceful, perfect. He had no ambition for power or wealth; he had everything he needed within the walls of his modest home.",
-      "part2": "The king's advisor, a man named Mordred whose cruelty was matched only by his greed, had long coveted the fertile lands that bordered Valogueneir's manor. He fabricated evidence of treason, claimed that Valogueneir was plotting with neighboring kingdoms, and convinced the aging king to sign a warrant for the household's execution. Valogueneir, oblivious to the danger, had traveled to the capital to negotiate a trade agreement that would benefit his tenants. He was three days away when Mordred's soldiers descended upon his home.",
-      "part3": "He returned on the fourth day, riding through the gates with gifts for his wife and son. The gates hung broken. The house was ash. And in the garden, beneath the tree where Lysander had taken his first steps, he found them. Amara's body bore the marks of unspeakable violence. Little Lysander, barely two years old, had been thrown against the wall, his small form crumpled like discarded cloth. Valogueneir fell to his knees and screamed until his voice gave out, then screamed in silence until the stars wheeled overhead and dawn began to break. He did not know how long he knelt there, but when he finally rose, something inside him had died—and something else had awakened.",
-      "part4": "He carried their bodies to the crypt behind the ruined manor and buried them with his own hands, speaking words of love and grief and a promise: 'I will find those who did this. I will make them understand what they have taken. And when I am done, there will be no trace of them left in this world.' He walked into the mountains, into the caves where no man had ventured, seeking the ancient power that legend said dwelled in the darkness. For seven days he descended, through caverns of crystal and tunnels of obsidian, until he reached the heart of the world. There, in a chamber of absolute black, he found it—the First Vampire, a being of such ancient power that it had slept since before humanity's first cities. It spoke in his mind: 'I know why you have come. I know your grief, your rage, your hunger for justice. I offer you a choice: die here, alone, and join your family in death, or drink of my blood and become something new. You will walk in sunlight, for I have conquered it. You will thirst not for human blood, for that is a lesser hunger. You will become a hunter of the darkness that lurks in human hearts, the demonic whispers that drive men to cruelty. Choose.' Valogueneir chose.",
-      "part5": "He drank, and the transformation was agony beyond anything he had imagined—every cell of his body died and was reborn, his blood turned to liquid fire, his heart stopped and started again with a new rhythm. When it was over, he rose as the first of his kind. He found that he could transform into a crow, his consciousness spreading into the flock of birds that had gathered in the cavern. He found that sunlight did not burn him, for the ancient vampire's blood had conquered that weakness. He found that human blood held no appeal—his hunger was for something deeper, the demonic essence that corrupted human hearts and drove them to evil. He emerged from the mountain a new being, and he began his hunt.",
-      "part6": "Mordred died first, a year after the transformation. Valogueneir spent months learning his habits, his defenses, his fears. He appeared to Mordred in dreams as a crow with ruby eyes, drove him slowly mad with anticipation. When he finally struck, it was in the king's own court, in front of all the nobles who had laughed at Mordred's jokes. He descended from the rafters in a whirlwind of black feathers, took human form for just a moment—long enough for Mordred to see the face of the man he had wronged—and then drained not his blood, but the demonic essence that had corrupted his soul. Mordred did not die; he simply became... empty, a hollow shell with no will, no cruelty, no nothing. He spent the rest of his life as a drooling simpleton, and Valogueneir considered that justice enough.",
-      "part7": "Now, centuries later, Valogueneir Kimpatsu walks the world as a legend whispered among those who know of the supernatural. He is known as the First Vampire, the Crimson Crow, the Lord of the Eternal Night. His appearance is that of a young man in his mid-twenties, impossibly handsome with a flawless, almost cute face that belies the ancient grief within. His amber hair, long and beautifully permed, cascades in soft waves past his shoulders, catching light like spun gold touched by sunset. His eyes sparkle like cut rubies, deep crimson with flecks of diamond light, holding both the warmth of the man he once was and the cold eternity of what he has become. He dresses like the king he might have been—elaborate robes of deepest crimson and black, embroidered with silver and gold thread in patterns of crows and moonlight, layered with velvet and silk, adorned with countless ornaments: rings on every finger, chains of precious metal, a signet ring bearing the crest of his lost house, a brooch in the shape of a crow in flight. He carries no weapon, for he needs none—his hands, his eyes, his very presence are weapons enough. He hunts now not for revenge, but for purpose, seeking out the demonic influences that corrupt humanity and draining them from their hosts, leaving behind people who can choose good or evil for themselves. He is immune to sunlight, free of the thirst for human blood, and forever bound to the grief that made him. He is Valogueneir Kimpatsu, the First Vampire, and he watches over humanity from the shadows, a guardian born of tragedy, a king without a kingdom, a crow forever circling the memories of what he lost."
-    },
-    "race": "Primordial Vampire (Crow-Transformed)",
-    "powers": "Crow Transformation (can become a flock of crows or a single crow at will), Sunlight Immunity (unharmed by any light), Demonic Blood Thirst (feeds on demonic essence, not human blood), Ruby Eyes (can see the demonic corruption in any being), Immortal Longevity (does not age), Enhanced Strength and Speed (far beyond human limits), Crow Communication (can speak with and command crows), Grief Aura (his presence evokes the sadness of lost love, disarming enemies), Regeneration (heals rapidly from wounds)",
-    "speciality": "Demon Hunting & Psychological Warfare",
-    "facial_structure": {
-      "eyes": {
-        "eye_color": "Deep crimson red that sparkles like cut rubies with flecks of diamond-bright light, holding both the warmth of the loving husband he once was and the cold eternity of what he has become, with an almost hypnotic quality that draws people in while warning them of the danger within",
-        "eye_type": "Large, almond-shaped, framed by long dark lashes that catch light, with a slight downward tilt that gives him a perpetually melancholic expression, the pupils sometimes seeming to shift and swirl when he uses his powers"
-      },
-      "nose": "Small and refined, perfectly proportioned, with a slight straight bridge that adds to his aristocratic beauty",
-      "hair": {
-        "hairstyle": "Long and magnificently permed, cascading past his shoulders in soft, voluminous waves that catch light like spun gold touched by sunset, each curl perfectly defined yet natural-looking, the kind of hair that artists spend lifetimes trying to capture",
-        "hair_color": "Rich amber with golden undertones, like honey warmed by sunlight, with subtle darker streaks that add depth and dimension, the color shifting slightly in different lights"
-      },
-      "ears": "Small and refined, adorned with small gold earrings shaped like crow feathers",
-      "face_shape": "Perfect oval with soft features that give him an almost cute appearance despite his ancient nature—high cheekbones that catch light, a gentle jawline that speaks of kindness rather than severity, and a small delicate chin, all combining to create a face of such flawless beauty that it inspires both awe and protectiveness in those who behold it",
-      "complexion": "Flawless pale ivory with a faint rosy undertone, like porcelain warmed by candlelight, smooth and luminous without a single blemish, radiating a soft inner glow"
-    },
-    "upper_body": {
-      "body_structure": "Tall and slender with the graceful build of aristocracy—long limbs, elegant posture, and a presence that commands attention without effort. His body is not muscular but perfectly proportioned, moving with the fluid grace of one who has had centuries to perfect every gesture.",
-      "arms": "Long and elegant, clad in the voluminous sleeves of his royal robes, the fabric rich with embroidery, his hands emerging from the cuffs like works of art",
-      "hands": "Slender with impossibly long fingers, each movement deliberate and graceful, the skin flawless and pale, adorned with numerous rings—a large signet ring bearing his lost house's crest on his right hand, a ruby ring on his left index, golden bands on several fingers, each one an antique of considerable value and history",
-      "chest": "Covered by magnificent royal robes of deepest crimson and black velvet, layered over a silk shirt of pure white with ruffled collar, the robes embroidered with silver and gold thread in intricate patterns of crows in flight and crescent moons",
-      "shoulders": "Graceful and straight, draped in the heavy fabric of his outer robe which is fastened at the shoulders with ornate gold clasps shaped like crow heads with ruby eyes",
-      "neck": "Long and elegant, adorned with multiple gold chains of varying lengths, some set with small rubies, others with black onyx, the longest chain bearing a pendant of a crow with spread wings crafted from blackened silver",
-      "waist": "Narrow, cinched by a wide belt of black leather overlaid with gold scales, from which hang various ornamental chains and a small velvet pouch"
-    },
-    "lower_body": {
-      "hips": "Narrow and graceful",
-      "legs": "Long and elegant, clad in tight black silk trousers that disappear into his boots, the fabric rich and smooth",
-      "feet": "Clad in tall black leather boots with gold trim and small heels, the boots polished to a mirror shine, embroidered with gold thread in patterns of crow feathers along the sides"
-    },
-    "clothing": {
-      "head": "His magnificent long amber permed hair cascading past his shoulders in soft waves; small gold crow-feather earrings at his ears",
-      "upper": "Layered royal robes of deepest crimson and black velvet over a white silk shirt with ruffled collar—the inner robe of crimson silk embroidered with gold thread, the outer robe of black velvet embroidered with silver crows and moons, fastened at shoulders with gold crow-head clasps set with ruby eyes; numerous gold chains at his neck of varying lengths with ruby and onyx settings, the longest bearing a blackened silver crow pendant",
-      "lower": "Tight black silk trousers disappearing into tall black leather boots with gold trim and small heels, the boots embroidered with gold crow-feather patterns",
-      "feet": "Same as above",
-      "accessories": "Multiple rings on his slender fingers—a large signet ring with his lost house crest on right hand, a ruby ring on left index, several golden bands; gold chains at neck with ruby and onyx; blackened silver crow pendant; gold crow-head clasps at shoulders; gold earrings shaped like crow feathers; a wide black leather belt with gold scales at his waist; a small velvet pouch hanging from his belt containing mementos of his wife and son"
-    },
-    "weapon": {
-      "name": "Sanguine Crown (His Vampiric Powers)",
-      "type": "Innate Abilities Channeled Through His Body",
-      "aura": "Soft crimson light tinged with gold that pulses gently around him, occasionally shifting to deep purple-black when he draws on his darker powers, with tiny sparkles of light that resemble distant stars or the glitter of rubies",
-      "special_feature": "Valogueneir carries no physical weapon—his body and his ancient powers are weapon enough. His primary abilities manifest through his hands, his eyes, and his transformation. When he fights, his hands can extend into shadowy claws that drain demonic essence, his ruby eyes can freeze enemies with a glance, and his body can dissolve into a flock of crows at will. The Sanguine Crown is not a single power but the sum of all his vampiric abilities, each one refined over centuries of existence. He can summon crows from miles around to do his bidding, see through their eyes, and use them as extensions of his will. His ruby eyes can perceive the demonic corruption in any being, seeing it as dark tendrils within the soul. His touch can drain that corruption, leaving the host purified but exhausted. In combat, he moves with supernatural grace, each gesture a perfect economy of motion, his hands leaving trails of crimson light. When he transforms into a crow, he becomes a single bird or a flock, able to pass through the smallest openings, to observe without being observed, to strike from unexpected directions. And when he unleashes his full power, his form becomes a whirlwind of feathers and crimson light, a manifestation of grief and vengeance that terrifies even demons.",
-      "special_skills": [
-        "Crow Storm",
-        "Ruby Gaze",
-        "Essence Drain",
-        "Shadow Claws",
-        "Grief Aura"
-      ]
-    },
-    "skills": {
-      "basic_skills": [
-        {
-          "name": "Crow Strike",
-          "description": "Valogueneir extends his hand, and a crow made of shadow and crimson light shoots forward to strike an enemy. The crow deals damage and leaves a mark that allows him to track the target."
-        },
-        {
-          "name": "Ruby Gaze",
-          "description": "His eyes flash with deep crimson light, locking onto a single enemy. The target is briefly paralyzed by the intensity of his gaze, unable to move or attack for a moment."
-        },
-        {
-          "name": "Feather Step",
-          "description": "He dissolves into a swirl of crow feathers and reappears at a nearby location, untargetable during the movement and leaving behind a momentary distraction."
-        }
-      ],
-      "passive_skill": {
-        "name": "Eternal Grief",
-        "description": "Valogueneir carries the weight of his lost family always. His presence evokes a profound sadness in those who behold him, making enemies hesitate before striking and reducing their combat effectiveness. Allies near him feel protected, as if his ancient sorrow creates a barrier against harm. Additionally, he can sense the location of any being with strong demonic corruption within a large radius."
-      },
-      "special_skills": [
-        {
-          "name": "Crow Storm",
-          "description": "Valogueneir's form explodes into a swirling storm of crows—hundreds of them, each one a piece of his consciousness. The crows fill a large area, attacking enemies continuously, obscuring vision, and carrying his essence to any point within the storm. He can reform anywhere among the flock."
-        },
-        {
-          "name": "Essence Drain",
-          "description": "He reaches out and touches an enemy, his hand becoming shadowy and insubstantial. He drains the demonic essence from them, dealing massive damage to corrupted beings and healing himself for a portion. Against pure enemies, the effect is less damaging but still leaves them weakened."
-        },
-        {
-          "name": "Shadow Claws",
-          "description": "His hands transform into shadowy claws wreathed in crimson light. For a duration, his melee attacks deal bonus damage, ignore armor, and drain a small amount of essence with each strike, healing him over time."
-        },
-        {
-          "name": "Crow's Memory",
-          "description": "Valogueneir closes his eyes and reaches out to every crow within miles. He can see through their eyes, hear through their ears, and move his consciousness between them. This grants him and his allies perfect vision of a huge area and reveals all hidden enemies."
-        }
-      ],
-      "ultimate_skill": {
-        "name": "First Vampire: Elegy of the Lost",
-        "description": "Valogueneir's ruby eyes blaze with such intense crimson light that they seem to bleed fire. His amber hair rises as if caught in an ethereal wind, each perfect curl streaming behind him. His form dissolves not into crows, but into pure memory—the memory of his wife's laughter, his son's first steps, the warmth of his home before the flames. For the duration of the ultimate, the battlefield becomes saturated with his grief, and every enemy feels the weight of what was taken from him. Demonic beings are particularly affected, their corruption burning away under the intensity of pure, human sorrow. He moves through the battlefield as both man and memory, each touch not harming but overwhelming—enemies find themselves weeping, dropping their weapons, turning on each other as the grief becomes too much to bear. Crows fill the sky, their calls forming a mournful elegy that echoes across the battlefield. When the ultimate ends, Valogueneir reforms at the center, his eyes dimmer, his expression one of profound exhaustion mixed with something like peace. He has shared his burden, if only for a moment, and the world is a little lighter for it. He is Valogueneir Kimpatsu, the First Vampire, and his grief is both his curse and his greatest power."
       }
     }
   },
@@ -10548,7 +10548,7 @@
   },
   {
     "id": 94,
-    "pantheon_id": 2,
+    "pantheon_id": 4,
     "hero_name": "Jianlu Kian",
     "title": "The Four-Fisted Elemental",
     "nickname": "Storm-Heart of the Northern Wastes",
@@ -10929,7 +10929,7 @@
   },
   {
     "id": 97,
-    "pantheon_id": 3,
+    "pantheon_id": 1,
     "hero_name": "Kailash Vajran",
     "title": "The Onyx God of Annihilation",
     "nickname": "Purple-Eyed Destroyer",
@@ -11657,7 +11657,7 @@
   },
   {
     "id": 103,
-    "pantheon_id": 1,
+    "pantheon_id": 5,
     "hero_name": "Crimson Sentinel",
     "title": "The People's Vanguard",
     "nickname": "Knight of the Neon Dawn",
@@ -12007,7 +12007,7 @@
   },
   {
     "id": 106,
-    "pantheon_id": 1,
+    "pantheon_id": 5,
     "hero_name": "Shiku Moki",
     "title": "The Sapphire Streak, The Gentleman of Velocity",
     "nickname": "The Detective Who Outruns Time",
@@ -12122,7 +12122,7 @@
   },
   {
     "id": 107,
-    "pantheon_id": 1,
+    "pantheon_id": 5,
     "hero_name": "Piujingyi Faonda",
     "title": "The Neon Phantom, The Holographic Hacker",
     "nickname": "Ghost in the Wires",
@@ -13357,7 +13357,7 @@
   },
   {
     "id": 117,
-    "pantheon_id": 1,
+    "pantheon_id": 2,
     "hero_name": "Ronzer Vonsalgi",
     "title": "The Silver Wolf of a Thousand Blades",
     "nickname": "The Last Prince of the Howling Court",
@@ -13484,7 +13484,7 @@
   },
   {
     "id": 118,
-    "pantheon_id": 1,
+    "pantheon_id": 4,
     "hero_name": "Seseei Furhana",
     "title": "Pride • The Peacock Empress",
     "nickname": "She Who Refused to Kneel",
@@ -13611,7 +13611,7 @@
   },
   {
     "id": 119,
-    "pantheon_id": 1,
+    "pantheon_id": 4,
     "hero_name": "Kukiun Seinbad",
     "title": "Greed • The Golden Centipede",
     "nickname": "He Who Hoards the Sun",
@@ -13738,7 +13738,7 @@
   },
   {
     "id": 120,
-    "pantheon_id": 1,
+    "pantheon_id": 4,
     "hero_name": "Gehani Filal",
     "title": "Wrath • The Crimson Scorpion",
     "nickname": "She Whose Sting Is Never Forgotten",
@@ -13865,7 +13865,7 @@
   },
   {
     "id": 121,
-    "pantheon_id": 1,
+    "pantheon_id": 4,
     "hero_name": "Forfota Luigena",
     "title": "Envy • The Sapphire Serpent",
     "nickname": "She Who Covets the Stars",
@@ -13992,7 +13992,7 @@
   },
   {
     "id": 122,
-    "pantheon_id": 1,
+    "pantheon_id": 4,
     "hero_name": "Hijyogen Sensi",
     "title": "Lust • The Rose-Tailed Demon",
     "nickname": "He Who Whispers in Dreams",
@@ -14119,7 +14119,7 @@
   },
   {
     "id": 123,
-    "pantheon_id": 1,
+    "pantheon_id": 4,
     "hero_name": "Tetilan Murgasta",
     "title": "Gluttony • The Emerald Toad",
     "nickname": "He Who Devours Worlds",
@@ -14246,7 +14246,7 @@
   },
   {
     "id": 124,
-    "pantheon_id": 1,
+    "pantheon_id": 4,
     "hero_name": "Umestra Felondra",
     "title": "Sloth • The Violet Sloth",
     "nickname": "He Who Dreams Eternally",
@@ -14373,7 +14373,7 @@
   },
   {
     "id": 125,
-    "pantheon_id": 1,
+    "pantheon_id": 4,
     "hero_name": "Vergasuis Motred",
     "title": "The Obsidian Throne, King of Demons",
     "nickname": "He Who Grants Desires and Collects Souls",
@@ -14499,8 +14499,8 @@
     }
   },
   {
-    "id": 150,
-    "pantheon_id": 2,
+    "id": 126,
+    "pantheon_id": 4,
     "hero_name": "Vorlag the Emberhoof",
     "title": "The Burning Labyrinth",
     "nickname": "Hammer of the Earthcore",
