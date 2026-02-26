@@ -65,10 +65,7 @@
       "type": "Ornate Staff",
       "aura": "Soft blue luminescence",
       "special_feature": "Head shaped like blooming flower or crystalline cage, pale ivory material with golden filigree spiraling up length",
-      "special_skills": [
-        "Celestial Flare",
-        "Starlight Ward"
-      ]
+      "special_skills": ["Celestial Flare", "Starlight Ward"]
     },
     "skills": {
       "basic_skills": [
@@ -171,10 +168,7 @@
       "type": "Ornate Parasol",
       "aura": "Shimmering luminescence",
       "special_feature": "Deep indigo and turquoise canopy, golden ribs, brilliant yellow sunburst center, polished wood and gold handle",
-      "special_skills": [
-        "Mist Veil",
-        "Water Shield"
-      ]
+      "special_skills": ["Mist Veil", "Water Shield"]
     },
     "skills": {
       "basic_skills": [
@@ -277,10 +271,7 @@
       "type": "Mechanical Parasol",
       "aura": "Shimmering protective energy",
       "special_feature": "Rich dark emerald green canopy with thick white lace trim, golden structural ribs terminating in ornate points, complex mechanical framework of silver and gold on underside",
-      "special_skills": [
-        "Barrier Bloom",
-        "Gear Shield"
-      ]
+      "special_skills": ["Barrier Bloom", "Gear Shield"]
     },
     "skills": {
       "basic_skills": [
@@ -383,10 +374,7 @@
       "type": "Traditional Wagasa (Oil-paper Umbrella)",
       "aura": "Whimsical mystical energy",
       "special_feature": "Vibrant solid crimson red canopy, simple dark wood or bamboo handle",
-      "special_skills": [
-        "Feline Pounce",
-        "Tail Swipe"
-      ]
+      "special_skills": ["Feline Pounce", "Tail Swipe"]
     },
     "skills": {
       "basic_skills": [
@@ -489,10 +477,7 @@
       "type": "Traditional Oil-paper Umbrella",
       "aura": "Celebratory mysticism, faint ethereal glow",
       "special_feature": "Large, deep velvety indigo blue exterior, complex web of dark wooden ribs, heavy magical focal point",
-      "special_skills": [
-        "Lantern Flare",
-        "Firework Burst"
-      ]
+      "special_skills": ["Lantern Flare", "Firework Burst"]
     },
     "skills": {
       "basic_skills": [
@@ -595,10 +580,7 @@
       "type": "Ornate Oil-paper Umbrella",
       "aura": "Calm yet formidable watery shimmer",
       "special_feature": "Large, deep muted teal canopy with visible dark wood ribbing, small bright red tassels hanging from rib tips",
-      "special_skills": [
-        "Tidal Wave",
-        "Ice Shard"
-      ]
+      "special_skills": ["Tidal Wave", "Ice Shard"]
     },
     "skills": {
       "basic_skills": [
@@ -701,10 +683,7 @@
       "type": "Stylized Umbrella",
       "aura": "Warm, cheerful luminescence",
       "special_feature": "Oversized cheerful yellow canopy, complex white and silver internal frame, warm orange-gold curved handle",
-      "special_skills": [
-        "Purifying Rain",
-        "Color Burst"
-      ]
+      "special_skills": ["Purifying Rain", "Color Burst"]
     },
     "skills": {
       "basic_skills": [
@@ -807,10 +786,7 @@
       "type": "Magical Lotus Parasol",
       "aura": "Soft golden luminescence",
       "special_feature": "Polished jade-green stalk, canopy of oversized luminous purple lotus petals, soft golden light emanating from center, long flowing yellow tassels and jade beads",
-      "special_skills": [
-        "Moonbeam",
-        "Lotus Shield"
-      ]
+      "special_skills": ["Moonbeam", "Lotus Shield"]
     },
     "skills": {
       "basic_skills": [
@@ -913,10 +889,7 @@
       "type": "Traditional Wagasa with Talismans",
       "aura": "Silent protective aura, golden shimmer",
       "special_feature": "Large deep magenta canopy, ribs decorated with hanging yellow paper ofuda inscribed with red mystical calligraphy, complex dark wood radial spoke pattern interior",
-      "special_skills": [
-        "Talisman Blast",
-        "Warding Circle"
-      ]
+      "special_skills": ["Talisman Blast", "Warding Circle"]
     },
     "skills": {
       "basic_skills": [
@@ -1019,10 +992,7 @@
       "type": "Magical Cosmic Parasol",
       "aura": "Soft multi-colored light",
       "special_feature": "Canopy a swirling vortex of deep magenta, vibrant purple, and electric blue shaped like stylized shell or cosmic whirlpool; long ornate golden staff with glowing teal orb; small teal crystals floating from edges",
-      "special_skills": [
-        "Star Shower",
-        "Nebula Shield"
-      ]
+      "special_skills": ["Star Shower", "Nebula Shield"]
     },
     "skills": {
       "basic_skills": [
@@ -1125,10 +1095,7 @@
       "type": "Ornate Combat Parasol",
       "aura": "Warm golden glow",
       "special_feature": "Complex dark navy canopy with large stylized pink floral pattern outlined in glowing teal, ribs extending into sharp gold-tipped spikes, pristine curved white J-shaped handle",
-      "special_skills": [
-        "Solar Flare",
-        "Radiant Shield"
-      ]
+      "special_skills": ["Solar Flare", "Radiant Shield"]
     },
     "skills": {
       "basic_skills": [
@@ -1231,10 +1198,7 @@
       "type": "Ethereal Butterfly Wings (Self)",
       "aura": "Prismatic shimmer, sparkles and light motes",
       "special_feature": "Six distinct sections with sunset-to-cosmic gradient, framed by sharp golden translucent edges like crystalline blades; two magical orbs (warm gold and cold blue) as familiars",
-      "special_skills": [
-        "Prism Blast",
-        "Dimensional Shift"
-      ]
+      "special_skills": ["Prism Blast", "Dimensional Shift"]
     },
     "skills": {
       "basic_skills": [
@@ -1337,10 +1301,7 @@
       "type": "Celestial Spheres",
       "aura": "Swirling halo of light",
       "special_feature": "Radiant fiery golden orb with three-legged crow/phoenix (sun); cooling pale blue and violet lunar ring with dragon/crescent (moon)",
-      "special_skills": [
-        "Solar Flare",
-        "Lunar Freeze"
-      ]
+      "special_skills": ["Solar Flare", "Lunar Freeze"]
     },
     "skills": {
       "basic_skills": [
@@ -1443,10 +1404,7 @@
       "type": "Ornate Staff with Cage Head",
       "aura": "Fierce violet-magenta aura",
       "special_feature": "Dark twisted purple wood/metal like petrified vines, head is purple wrought-iron birdcage glowing with aura, containing glowing multifaceted green gemstone or heart",
-      "special_skills": [
-        "Thorn Whip",
-        "Soul Leech"
-      ]
+      "special_skills": ["Thorn Whip", "Soul Leech"]
     },
     "skills": {
       "basic_skills": [
@@ -1549,10 +1507,7 @@
       "type": "Ornate Solar Staff",
       "aura": "Divine golden radiance",
       "special_feature": "Polished white marble/pale gold shaft, large circular sun-like headpiece with floating glowing hexagonal orange crystal, jagged golden ring with curved spikes, small wing-like golden extensions",
-      "special_skills": [
-        "Solar Beam",
-        "Radiant Ward"
-      ]
+      "special_skills": ["Solar Beam", "Radiant Ward"]
     },
     "skills": {
       "basic_skills": [
@@ -1655,10 +1610,7 @@
       "type": "Floating Censer",
       "aura": "Multi-colored aura of violet, magenta, cyan, with crystalline sparks",
       "special_feature": "Delicate gold diamond-shaped handle, large jagged crystalline lotus suspended without tether, pulsing with intense energy",
-      "special_skills": [
-        "Crystal Shower",
-        "Ley Line Surge"
-      ]
+      "special_skills": ["Crystal Shower", "Ley Line Surge"]
     },
     "skills": {
       "basic_skills": [
@@ -1761,10 +1713,7 @@
       "type": "Serpentine Staff with Lantern",
       "aura": "Soft golden and cyan glow",
       "special_feature": "Polished gold staff shaped like long winding eastern dragon, glowing cyan thread from dragon's mouth holding heavy ornate censer/lantern of translucent jade crystal shaped like flaming lotus, long pink and gold silk tassel",
-      "special_skills": [
-        "Stone Gaze",
-        "Tranquil Wave"
-      ]
+      "special_skills": ["Stone Gaze", "Tranquil Wave"]
     },
     "skills": {
       "basic_skills": [
@@ -1867,10 +1816,7 @@
       "type": "Celestial Staff + Floating Orrery",
       "aura": "Soft golden glow, blue energy",
       "special_feature": "White and gold celestial metal staff with large circular head housing glowing swirling blue energy orb, crystalline fragments floating; left hand manipulates floating golden orrery of concentric rings",
-      "special_skills": [
-        "Star Bolt",
-        "Gravity Well"
-      ]
+      "special_skills": ["Star Bolt", "Gravity Well"]
     },
     "skills": {
       "basic_skills": [
@@ -1973,10 +1919,7 @@
       "type": "Floating Tome + Wand",
       "aura": "Pinkish-purple energy, floating glyphs",
       "special_feature": "Massive grimoire bound in heavy gold and purple leather, pages overflowing with raw magical light and floating glyphs; slender golden wand pulsing with energy",
-      "special_skills": [
-        "Shadow Lash",
-        "Glyph Blast"
-      ]
+      "special_skills": ["Shadow Lash", "Glyph Blast"]
     },
     "skills": {
       "basic_skills": [
@@ -2079,10 +2022,7 @@
       "type": "Raw Dark Energy",
       "aura": "Oppressive violet and magenta, trailing ethereal smoke",
       "special_feature": "Raw viscous dark energy manifests as swirling whip-like lash or magical orb of concentrated power",
-      "special_skills": [
-        "Abyssal Lash",
-        "Soulfire Orb"
-      ]
+      "special_skills": ["Abyssal Lash", "Soulfire Orb"]
     },
     "skills": {
       "basic_skills": [
@@ -2185,10 +2125,7 @@
       "type": "Monumental Polearm",
       "aura": "White-hot intensity, molten light bleeding from seams",
       "special_feature": "Dark metal shaft inlaid with gold runes, massive multi-pronged head of golden plates and glowing energy shaped like dragon or phoenix head",
-      "special_skills": [
-        "Solar Cleave",
-        "Blazing Charge"
-      ]
+      "special_skills": ["Solar Cleave", "Blazing Charge"]
     },
     "skills": {
       "basic_skills": [
@@ -2291,10 +2228,7 @@
       "type": "Floating Crystalline Lantern",
       "aura": "Powerful swirling golden light and pink magical particles, stardust trail",
       "special_feature": "Gold and purple craftsmanship, central glowing amethyst core encased in gold ribbing, decorative curved finial",
-      "special_skills": [
-        "Lantern Glow",
-        "Stardust Shower"
-      ]
+      "special_skills": ["Lantern Glow", "Stardust Shower"]
     },
     "skills": {
       "basic_skills": [
@@ -2397,10 +2331,7 @@
       "type": "Futuristic Microphone Stand",
       "aura": "Digital glitch-like aura, pink energy",
       "special_feature": "Sleek polished gold pole, high-tech microphone encased in geometric pink-glowing crystal housing",
-      "special_skills": [
-        "Power Chord",
-        "Glitch Wave"
-      ]
+      "special_skills": ["Power Chord", "Glitch Wave"]
     },
     "skills": {
       "basic_skills": [
@@ -2503,10 +2434,7 @@
       "type": "Mechanical Combat Gloves",
       "aura": "Prismatic holographic light, yellow to neon pink to teal starlight",
       "special_feature": "Heavy mechanical gloves with golden crystalline claw-like knuckle protrusions, capable of manifesting sharp four-pointed star-shaped energy blades and projectiles",
-      "special_skills": [
-        "Star Shuriken",
-        "Crystal Fist"
-      ]
+      "special_skills": ["Star Shuriken", "Crystal Fist"]
     },
     "skills": {
       "basic_skills": [
@@ -2609,10 +2537,7 @@
       "type": "Massive Energy Blade",
       "aura": "Jagged lightning-like, cyan and yellow trails",
       "special_feature": "Wide serrated blade of translucent lime-green crystalline material glowing with internal yellowish-orange heat, ornate hilt with large stylized mechanical eye/core surrounded by jagged crimson and gold teeth-like structures",
-      "special_skills": [
-        "Corporate Slash",
-        "Overtime Drive"
-      ]
+      "special_skills": ["Corporate Slash", "Overtime Drive"]
     },
     "skills": {
       "basic_skills": [
@@ -2715,10 +2640,7 @@
       "type": "Gargantuan Single-Edged Battle Axe",
       "aura": "Violet necrotic energy, ghostly purple flame",
       "special_feature": "Black iron and gold, axe head with intricate demonic face carvings and swirling patterns, blade edge wreathed in ghostly purple flame",
-      "special_skills": [
-        "Demonic Cleave",
-        "Spectral Slam"
-      ]
+      "special_skills": ["Demonic Cleave", "Spectral Slam"]
     },
     "skills": {
       "basic_skills": [
@@ -2821,10 +2743,7 @@
       "type": "Two-Handed Polearm",
       "aura": "Intense golden heat, drifting ash and sparks",
       "special_feature": "Etched gold shaft glowing with internal heat, head complex mechanical-looking crescent of golden metal housing core of swirling fire like captured sun/miniature supernova",
-      "special_skills": [
-        "Solar Spin",
-        "Flame Strike"
-      ]
+      "special_skills": ["Solar Spin", "Flame Strike"]
     },
     "skills": {
       "basic_skills": [
@@ -2927,10 +2846,7 @@
       "type": "Three-Pronged Ritual Dagger/Trident",
       "aura": "Turquoise energy",
       "special_feature": "Central blade broad and crystalline, two outer prongs curving outward like stylized waves or horns, dark ornate hilt with glowing green orb at pommel",
-      "special_skills": [
-        "Spirit Jab",
-        "Oni Rush"
-      ]
+      "special_skills": ["Spirit Jab", "Oni Rush"]
     },
     "skills": {
       "basic_skills": [
@@ -3033,10 +2949,7 @@
       "type": "Massive Heavy-Bladed Sword",
       "aura": "Subtle shimmer",
       "special_feature": "Unique flamberge/serrated edge rippling like frozen waves, dull matte steel grey blade, wide flat profile, dark utilitarian hilt",
-      "special_skills": [
-        "Serrated Slash",
-        "360-Degree Parry"
-      ]
+      "special_skills": ["Serrated Slash", "360-Degree Parry"]
     },
     "skills": {
       "basic_skills": [
@@ -3139,10 +3052,7 @@
       "type": "Arcane Dual-Blade/Transforming Polearm",
       "aura": "Neon blue electricity and swirling violet mist, ghost trails, glowing droplets",
       "special_feature": "Deep indigo metal with edges of ethereal translucent cyan energy like liquid starlight, curved jagged blade with tooth-like serrations, glowing blue orb at guard center",
-      "special_skills": [
-        "Dimensional Slash",
-        "Void Lash"
-      ]
+      "special_skills": ["Dimensional Slash", "Void Lash"]
     },
     "skills": {
       "basic_skills": [
@@ -3245,10 +3155,7 @@
       "type": "Massive Over-Sized Broadsword",
       "aura": "Powerful fiery aura, embers, digital glitch particles",
       "special_feature": "Jagged blade with glowing orange and yellow core pulsating like molten lava, hilt encased in golden dragon-head guard, spine with mechanical fin-like protrusions",
-      "special_skills": [
-        "Dragon Slash",
-        "Flame Breath"
-      ]
+      "special_skills": ["Dragon Slash", "Flame Breath"]
     },
     "skills": {
       "basic_skills": [
@@ -3351,10 +3258,7 @@
       "type": "Twin Rapier-Style Swords",
       "aura": "Radiant golden-red, sparkles and light motes",
       "special_feature": "Incredibly long slender blades glowing with internal heat, polished silver near hilt to molten translucent orange-yellow at tips, massive ornate white and gold filigree hilts with large heart-shaped teal gems, long translucent golden ribbons",
-      "special_skills": [
-        "Joyful Stab",
-        "Healing Slash"
-      ]
+      "special_skills": ["Joyful Stab", "Healing Slash"]
     },
     "skills": {
       "basic_skills": [
@@ -3457,10 +3361,7 @@
       "type": "Twin-Bladed Polearm / Massive Curved Glaive",
       "aura": "Soft celestial blue, floating white feathers",
       "special_feature": "Hilt adorned with large realistic black feathers fanning out like raven's wing, blade dark matte steel with subtle blueish tint",
-      "special_skills": [
-        "Feather Step",
-        "Shadow Strike"
-      ]
+      "special_skills": ["Feather Step", "Shadow Strike"]
     },
     "skills": {
       "basic_skills": [
@@ -3563,10 +3464,7 @@
       "type": "Dual Elegant Longswords",
       "aura": "Faint radiant golden light",
       "special_feature": "Blades not traditional steel but forged from translucent glowing amber/golden energy, heavy gold hilts with classic cross-guard design",
-      "special_skills": [
-        "Cable Pull",
-        "Wing Slash"
-      ]
+      "special_skills": ["Cable Pull", "Wing Slash"]
     },
     "skills": {
       "basic_skills": [
@@ -3669,10 +3567,7 @@
       "type": "Twin-Bladed Energy Katar / Gauntlet-Dagger",
       "aura": "Crystalline cyan energy",
       "special_feature": "Blade translucent and jagged resembling shard of collapsed star, humming with high-frequency vibration; four floating golden diamond drones",
-      "special_skills": [
-        "Energy Slash",
-        "Drone Strike"
-      ]
+      "special_skills": ["Energy Slash", "Drone Strike"]
     },
     "skills": {
       "basic_skills": [
@@ -3775,10 +3670,7 @@
       "type": "Cursed Violet Fire",
       "aura": "Dark violet, ghostly supernatural intensity, crackling malevolent energy",
       "special_feature": "Manifestation of lineage curse, wreathes around hands and body, can be shaped into projectiles or enhance strikes",
-      "special_skills": [
-        "Flame Punch",
-        "Scum Gale"
-      ]
+      "special_skills": ["Flame Punch", "Scum Gale"]
     },
     "skills": {
       "basic_skills": [
@@ -3881,10 +3773,7 @@
       "type": "Massive Energy Greatsword",
       "aura": "Cyan and violet, shimmering heat distortion, digital particles",
       "special_feature": "No solid blade—hyper-stabilized translucent energy pane, cyan edge to deep violet core, frame of dark heavy industrial alloy with modular notches and glowing circuitry",
-      "special_skills": [
-        "Energy Cleave",
-        "Phase Slash"
-      ]
+      "special_skills": ["Energy Cleave", "Phase Slash"]
     },
     "skills": {
       "basic_skills": [
@@ -3987,10 +3876,7 @@
       "type": "Pyrokinesis",
       "aura": "Violent swirling orange and yellow flames, dense liquid-like fire",
       "special_feature": "Manifested through right-hand Kusanagi Glove, can be shaped into projectiles or enhance strikes",
-      "special_skills": [
-        "Flame Shot",
-        "Crow Bite"
-      ]
+      "special_skills": ["Flame Shot", "Crow Bite"]
     },
     "skills": {
       "basic_skills": [
@@ -4093,10 +3979,7 @@
       "type": "Energy Blade",
       "aura": "Brilliant neon-yellow energy light",
       "special_feature": "Blade translucent and pulse-like as if forged from pure solidified electricity, dark matte-finished composite hilt with cyan-blue handguard, thin glowing blue energy cord/tether from pommel",
-      "special_skills": [
-        "Data Slash",
-        "Phase Strike"
-      ]
+      "special_skills": ["Data Slash", "Phase Strike"]
     },
     "skills": {
       "basic_skills": [
@@ -4199,10 +4082,7 @@
       "type": "High-Tech Skateboard",
       "aura": "Cyan light trails",
       "special_feature": "Dark carbon-fiber texture, glowing neon-green 'Mobile Legends' logo underside, translucent glowing cyan wheels leaving streaks of light",
-      "special_skills": [
-        "Board Flip",
-        "Grind Line"
-      ]
+      "special_skills": ["Board Flip", "Grind Line"]
     },
     "skills": {
       "basic_skills": [
@@ -4305,10 +4185,7 @@
       "type": "Long-Barreled Sleek Black Firearm",
       "aura": "Orange and red light streaks",
       "special_feature": "Deployable from back-mounted system, integrated with bike's speed for charged shots",
-      "special_skills": [
-        "Speed Shot",
-        "Drift Tackle"
-      ]
+      "special_skills": ["Speed Shot", "Drift Tackle"]
     },
     "skills": {
       "basic_skills": [
@@ -4411,10 +4288,7 @@
       "type": "Spectral Lightning Dragon",
       "aura": "Jagged brilliant blue lightning",
       "special_feature": "Massive spectral dragon made of pure blue energy and dark shadows, gaping maw of jagged teeth, glowing white eyes, looms behind her",
-      "special_skills": [
-        "Lightning Bolt",
-        "Dragon Strike"
-      ]
+      "special_skills": ["Lightning Bolt", "Dragon Strike"]
     },
     "skills": {
       "basic_skills": [
@@ -4517,10 +4391,7 @@
       "type": "Living Dragon Spirit",
       "aura": "Golden and green shimmer, glowing white eyes",
       "special_feature": "Brilliant green and gold scaled body, mane of fiery red fur, fierce expressive head with golden antlers and glowing white eyes, curls around shoulders and back",
-      "special_skills": [
-        "Dragon Roar",
-        "Spirit Claw"
-      ]
+      "special_skills": ["Dragon Roar", "Spirit Claw"]
     },
     "skills": {
       "basic_skills": [
@@ -4623,10 +4494,7 @@
       "type": "Supernatural Staff",
       "aura": "Fiery orange glow, embers",
       "special_feature": "Dark indestructible alloy with glowing molten etchings, both ends capped with heavy spear-like blades glowing with fiery heat shaped like stylized flames/dragon tongues, center dark grip",
-      "special_skills": [
-        "Staff Spin",
-        "Extended Strike"
-      ]
+      "special_skills": ["Staff Spin", "Extended Strike"]
     },
     "skills": {
       "basic_skills": [
@@ -4729,10 +4597,7 @@
       "type": "Crystalline Golden Dagger",
       "aura": "Fierce violet and crimson nebular energy swirling like cosmic smoke",
       "special_feature": "Geometric and sharp, levitates above palm, pulsates with energy that bleeds off into air, exists between dimensions",
-      "special_skills": [
-        "Temporal Slash",
-        "Paradox Cut"
-      ]
+      "special_skills": ["Temporal Slash", "Paradox Cut"]
     },
     "skills": {
       "basic_skills": [
@@ -4836,20 +4701,14 @@
         "type": "Katana",
         "aura": "Faint, shimmering heat haze of shadow energy",
         "special_feature": "Black diamond-wrap hilt (tsuka) over a lighter undertone, simple circular handguard (tsuba), blade sheathed in a dark, unadorned scabbard.",
-        "special_skills": [
-          "Shadow Strike",
-          "Silent Moon Cut"
-        ]
+        "special_skills": ["Shadow Strike", "Silent Moon Cut"]
       },
       {
         "name": "Kuroi Claw",
         "type": "Mechanical Gauntlet",
         "aura": "None, purely mechanical",
         "special_feature": "Dark metal gauntlet on the left forearm with three sharp, forward-protruding prongs, designed for close-quarters combat or grappling.",
-        "special_skills": [
-          "Grappling Hook",
-          "Prong Strike"
-        ]
+        "special_skills": ["Grappling Hook", "Prong Strike"]
       }
     ],
     "skills": {
@@ -4955,20 +4814,14 @@
         "type": "Colossal Battle Axe",
         "aura": "Visible, radiant golden aura",
         "special_feature": "Intricate celestial filigree on the axe head, a glowing core of pure light at its center, haft forged from divine metal.",
-        "special_skills": [
-          "Sundering Strike",
-          "Radiant Cleave"
-        ]
+        "special_skills": ["Sundering Strike", "Radiant Cleave"]
       },
       {
         "name": "Aegis of the Valiant",
         "type": "Ornate Tower Shield",
         "aura": "Faint shimmer of protective energy",
         "special_feature": "Tall, rectangular shield colored dark blue with intricate gold inlay, depicting scenes of heroic last stands.",
-        "special_skills": [
-          "Impenetrable Wall",
-          "Shield Charge"
-        ]
+        "special_skills": ["Impenetrable Wall", "Shield Charge"]
       }
     ],
     "skills": {
@@ -5073,10 +4926,7 @@
       "type": "Hybrid Violin-Case Heavy Cannon",
       "aura": "Intense fiery orange or golden light emanating from internal chambers when charged",
       "special_feature": "Massive metallic silver and dark gunmetal frame intricately designed with mechanical parts, gears, and structural supports that mimic the shape of a violin; decorative elements of musical notes and orchestral motifs etched into the surface.",
-      "special_skills": [
-        "Piercing Note",
-        "Crescendo Blast"
-      ]
+      "special_skills": ["Piercing Note", "Crescendo Blast"]
     },
     "skills": {
       "basic_skills": [
@@ -5189,10 +5039,7 @@
         "type": "Foxfire Familiar",
         "description": "A small, hovering flame of golden-orange energy that floats near his left shoulder, acting as a living spirit companion and manifestation of his Kitsune power."
       },
-      "special_skills": [
-        "Petal Dance Thrust",
-        "Foxfire Slash"
-      ]
+      "special_skills": ["Petal Dance Thrust", "Foxfire Slash"]
     },
     "skills": {
       "basic_skills": [
@@ -5297,10 +5144,7 @@
       "type": "Ornate Yari Spear",
       "aura": "Faint luminous golden glow emanating from gold inlays, pulsing with qi energy",
       "special_feature": "Long, dark wood or metal shaft wrapped in spiral grip pattern; massive complex spearhead of dark steel/obsidian-like material with central double-edged blade flanked by smaller curved blades near base (trident-like silhouette); intricately engraved with gold inlays that seem to hum with internal energy.",
-      "special_skills": [
-        "Piercing Dragon Thrust",
-        "Crescent Sweep"
-      ]
+      "special_skills": ["Piercing Dragon Thrust", "Crescent Sweep"]
     },
     "skills": {
       "basic_skills": [
@@ -5405,20 +5249,14 @@
         "type": "Monstrous Rifle Cannon",
         "aura": "Crackling purple energy along barrel coils",
         "special_feature": "Massive dark metal casing with purple energy coils running along barrel, glowing with inner violet light; brown leather or wood stock; fires concentrated beams of shadow energy.",
-        "special_skills": [
-          "Void Shot",
-          "Shadow Burst"
-        ]
+        "special_skills": ["Void Shot", "Shadow Burst"]
       },
       {
         "name": "Duskbringer",
         "type": "Futuristic Revolver",
         "aura": "Faint purple luminescence",
         "special_feature": "Gold-plated, intricately designed, fires magical projectiles rather than conventional bullets; cylinder seems to contain swirling purple energy instead of cartridges.",
-        "special_skills": [
-          "Cursed Round",
-          "Twilight Fan"
-        ]
+        "special_skills": ["Cursed Round", "Twilight Fan"]
       }
     ],
     "skills": {
@@ -5524,10 +5362,7 @@
       "type": "Colossal Crystal Greatsword",
       "aura": "Soft blue aura emanating from translucent blade",
       "special_feature": "Massive blade comprised of glowing blue crystal similar to chest shard; appears as shattered, reassembled shards held together by energy; hilt and crossguard of warm polished bronze/gold metal with sharp angular aesthetic; translucent crystal glows with inner light.",
-      "special_skills": [
-        "Crystal Cleave",
-        "Shattered Strike"
-      ]
+      "special_skills": ["Crystal Cleave", "Shattered Strike"]
     },
     "skills": {
       "basic_skills": [
@@ -5631,10 +5466,7 @@
       "type": "Animated Sacred Linens (fused to body)",
       "aura": "Swirling dust and mystical force, dark teal energy trails",
       "special_feature": "Long bandages of dark teal and navy blue extending from elbows, patterned with intricate golden triangles and serrated designs; move with fluid, chaotic energy; can stretch, wrap, bind, and crush; create vortexes of sand and force when in motion.",
-      "special_skills": [
-        "Grasping Wraps",
-        "Sand Vortex"
-      ]
+      "special_skills": ["Grasping Wraps", "Sand Vortex"]
     },
     "skills": {
       "basic_skills": [
@@ -5738,20 +5570,14 @@
         "type": "Massive Twin Blade",
         "aura": "Swirling wind energy, faint blue-white trails",
         "special_feature": "Thick dull-colored steel blade with intricate hilt matching purple/gold armor theme; etched with names of Voidspire cult raid locations; channels wind for extended reach.",
-        "special_skills": [
-          "Gale Slash",
-          "Wind Lunge"
-        ]
+        "special_skills": ["Gale Slash", "Wind Lunge"]
       },
       {
         "name": "Fury",
         "type": "Massive Twin Blade",
         "aura": "Swirling wind energy, faint blue-white trails",
         "special_feature": "Matching blade to Sorrow, twin in design and function; together they create devastating aerial combinations.",
-        "special_skills": [
-          "Tempest Combo",
-          "Cyclone Spin"
-        ]
+        "special_skills": ["Tempest Combo", "Cyclone Spin"]
       }
     ],
     "skills": {
@@ -5862,10 +5688,7 @@
       "type": "Ornate Spear/Halberd",
       "aura": "Warm golden-white luminescence",
       "special_feature": "Massive white metal and gold shaft; large double-edged blade at top gleaming with inner light; intricately carved with scenes of dragons protecting mortals; the entire weapon glows with same warm aura as Aurelius's eyes; hums with protective energy rather than destructive menace.",
-      "special_skills": [
-        "Solar Thrust",
-        "Blessing of Dawn"
-      ]
+      "special_skills": ["Solar Thrust", "Blessing of Dawn"]
     },
     "skills": {
       "basic_skills": [
@@ -5981,10 +5804,7 @@
       "type": "Magical Artifact",
       "aura": "Golden dust particles and warm amber light",
       "special_feature": "Intricately designed floating cornucopia, spilling over with endless fruits, berries, and wheat; acts as focus for Nimue's harvest magic; can conjure food, healing essences, and protective barriers of woven golden light.",
-      "special_skills": [
-        "Harvest Blessing",
-        "Golden Shower"
-      ]
+      "special_skills": ["Harvest Blessing", "Golden Shower"]
     },
     "skills": {
       "basic_skills": [
@@ -6100,10 +5920,7 @@
       "type": "Bladed Chakram/Fan Hybrid",
       "aura": "Intense orange, red, and purple flames, embers and energy particles trailing",
       "special_feature": "Massive weapon with sharp curved edges glowing with celestial fire; held in reverse grip; appears enchanted or forged from magical materials; the flames respond to Feineir's emotions and Kaelthar's presence, burning hotter when the tiger fights alongside her.",
-      "special_skills": [
-        "Crimson Slash",
-        "Eclipse Spin"
-      ]
+      "special_skills": ["Crimson Slash", "Eclipse Spin"]
     },
     "skills": {
       "basic_skills": [
@@ -6208,20 +6025,14 @@
         "type": "Futuristic Katana (Energy Blade)",
         "aura": "Vibrant neon green radiance, trails of light, air distortion around blade",
         "special_feature": "Sleek black hilt with intricate green circuitry patterns; blade composed of condensed neon energy rather than solid metal; hums with power; edge glows with intense green light.",
-        "special_skills": [
-          "Resonance Slash",
-          "Phase Strike"
-        ]
+        "special_skills": ["Resonance Slash", "Phase Strike"]
       },
       {
         "name": "Whisperwind",
         "type": "Futuristic Katana (Energy Blade)",
         "aura": "Vibrant neon green radiance, trails of light, air distortion around blade",
         "special_feature": "Matching blade to Wailsong, twin in design and function; together they create devastating combinations and can resonate with each other for enhanced cutting power.",
-        "special_skills": [
-          "Silent Edge",
-          "Twin Resonance"
-        ]
+        "special_skills": ["Silent Edge", "Twin Resonance"]
       }
     ],
     "skills": {
@@ -6331,10 +6142,7 @@
       "aura": "Crackling purple-white lightning, electrical discharge, intense kinetic wind",
       "special_feature": "Massive ancient tome bound in purple leather with silver runes; hovers beside her with pages turning automatically in response to her will; contains forbidden storm magic; acts as focus for her tempest weaving; channels and amplifies her natural lightning affinity.",
       "secondary": "Zephyra herself is the weapon—lightning weaves directly from her hands and body, making her a living conduit of storm energy.",
-      "special_skills": [
-        "Lightning Lash",
-        "Thunder Crash"
-      ]
+      "special_skills": ["Lightning Lash", "Thunder Crash"]
     },
     "skills": {
       "basic_skills": [
@@ -6450,10 +6258,7 @@
           "Petal Arrow (slow)"
         ]
       },
-      "special_skills": [
-        "Petal Shot",
-        "Blossom Bind"
-      ]
+      "special_skills": ["Petal Shot", "Blossom Bind"]
     },
     "skills": {
       "basic_skills": [
@@ -6673,11 +6478,7 @@
       "type": "Colossal Waraxe",
       "aura": "Trails of blue fire and void shadow, the two energies combining and swirling around the blade",
       "special_feature": "Axe head twice the size of Korgrath's own massive head, forged from fused remains of orcish waraxe and demonic blade. Orcish steel dark and practical, demonic metal black with red veins pulsing with inner fire, merged into single brutal form. Massive curved crescent blade gleaming with unnatural sharpness, tiny blue flames licking along its length. Opposite blade, heavy wickedly sharp spike for piercing armor. Axe head adorned with orcish runes of strength and battle on one side, demonic sigils of fire and destruction on the other, both glowing faintly. Haft thick as a small tree, wrapped in blackened leather and iron bands, ending in heavy iron pommel shaped like demon's skull with eye sockets burning blue fire.",
-      "special_skills": [
-        "Cleaving Strike",
-        "Fire Burst",
-        "Soul Sunder"
-      ]
+      "special_skills": ["Cleaving Strike", "Fire Burst", "Soul Sunder"]
     },
     "skills": {
       "basic_skills": [
@@ -7031,11 +6832,7 @@
         "type": "Magical Whip",
         "aura": "Radiant golden light, chains of energy",
         "special_feature": "Twenty feet of braided golden light strands woven with enchanted leather, entire length glowing with warm radiance. Handle of white metal wrapped in gold, set with large sunstone pulsing with light. When cracked, releases bursts of light that bind enemies with golden energy chains. Can lash to strike, light burning those who harm innocent. Can wrap around allies to pull from danger. Extension of his will, responds to thoughts. When not in use, coils at hip with dimmed light.",
-        "special_skills": [
-          "Binding Chains",
-          "Light Lash",
-          "Protective Pull"
-        ]
+        "special_skills": ["Binding Chains", "Light Lash", "Protective Pull"]
       }
     ],
     "skills": {
@@ -7257,20 +7054,14 @@
         "type": "Katana (Human-Forged)",
         "aura": "Faint golden light, warm and protective",
         "special_feature": "Forged in human world by master swordsmith, passed down through generations before coming to Kurosagi. Blade of folded steel with subtle hamon line, hilt wrapped in white ray skin and black cord, guard shaped like stylized fox. When drawn, blade gleams with warm light, effective against physical threats.",
-        "special_skills": [
-          "Mortal Strike",
-          "Boundary Cut"
-        ]
+        "special_skills": ["Mortal Strike", "Boundary Cut"]
       },
       {
         "name": "Twilight's Edge",
         "type": "Katana (Spirit-Forged)",
         "aura": "Cool blue light, ethereal and spiritual",
         "special_feature": "Forged in spirit realm by nine-tailed fox herself, given to Kurosagi when he mastered his seventh tail. Blade of spirit metal that seems to shift and flow, slightly translucent, hilt wrapped in silver thread, guard shaped like crescent moon. When drawn, blade trails blue fox-fire, effective against spiritual threats.",
-        "special_skills": [
-          "Spirit Sever",
-          "Fox-Fire Slash"
-        ]
+        "special_skills": ["Spirit Sever", "Fox-Fire Slash"]
       }
     ],
     "skills": {
@@ -14569,10 +14360,7 @@
       "type": "Gargantuan Warhammer",
       "aura": "Fierce molten orange and yellow energy radiating from cracks, heat distortion around weapon",
       "special_feature": "Crafted from dark volcanic metal, exceptionally large head with sharp prismatic edges and structural reinforcement like crumbling fortress wall; glowing fissures run through the metal; thick reinforced handle; appears to contain elemental fire/earth magic at its core.",
-      "special_skills": [
-        "Seismic Smash",
-        "Magma Eruption"
-      ]
+      "special_skills": ["Seismic Smash", "Magma Eruption"]
     },
     "skills": {
       "basic_skills": [
@@ -16862,6 +16650,149 @@
     "tragedy": {
       "loss": "She watched her mother die, consumed by a demon of ignorance while trying to protect their sacred knowledge. She carries the guilt of not being able to save her, of being the reason her mother had to transfer the Vidya, of being the vessel that caused her mother's sacrifice.",
       "hope": "Every student she teaches, every mind she illuminates, every soul she frees from ignorance—these are her redemption. Her mother's spirit lives in the knowledge she carries, guiding her, warming her, forgiving her. And sometimes, in the deepest part of the night, when she chants the sacred texts, she hears her mother's voice, chanting with her, telling her that she is proud, that she always was. It is enough. It will always be enough."
+    }
+  },
+  {
+    "id": 143,
+    "pantheon_id": 1,
+    "hero_name": "Bilova Chettri",
+    "title": "The Iron Wolf of Gorkha",
+    "nickname": "Khukuri Dhari, He Who Wields the Edge of Justice",
+    "gender": "male",
+    "images": {
+      "character_image": "assets/images/character/bilova/main.png",
+      "character_icon": "assets/images/character/bilova/icon.png",
+      "character_image_real": "assets/images/character/bilova/real.jpeg",
+      "hero_gallery": [
+        "assets/images/character/bilova/gallery/1.jpeg",
+        "assets/images/character/bilova/gallery/2.jpeg",
+        "assets/images/character/bilova/gallery/3.jpeg",
+        "assets/images/character/bilova/gallery/4.jpeg",
+        "assets/images/character/bilova/gallery/5.jpeg"
+      ]
+    },
+    "lore": "In the rugged hills of Gorkha, where warriors are forged in blood and honor is the only currency that matters, there existed a clan of Chettris known as the Singh Bahadurs—the Lion Warriors. For generations, they served as the personal bodyguards of the Gorkha kings, their loyalty unbreakable, their skill with the khukuri unmatched. At the heart of their legacy was a sacred weapon, a khukuri named 'Adivasi'—the First Blade—forged from a meteorite that fell from the heavens during the reign of the first Gorkha king. The blade was blessed by Goddess Durga herself, and it was said that whoever wielded it in defense of the innocent would be invincible. Bilova was born into this lineage on the night of Dashain, the festival of Durga, when the goddess's power is at its peak. His father, the current wielder of Adivasi, named him Bilova—'Wolf Heart'—hoping he would have the courage of the wolf and the loyalty of the lion. From infancy, Bilova was trained in the warrior arts: the slash of the khukuri, the parry of the shield, the silent step of the hunter. By twelve, he could best grown men in sparring. By sixteen, he had mastered every weapon in the clan's arsenal. But Bilova's true education came not in the training grounds, but in the halls of power. He watched his father navigate the treacherous politics of the royal court, saw how enemies could smile while sharpening knives, learned that honor was not always rewarded. He swore that when his time came, he would be not just a warrior, but a guardian of justice. When Bilova was eighteen, betrayal came not from outside, but from within. A rival clan, the Thapa Bahadurs, jealous of the Singh's influence, conspired with a corrupt minister. On the night of the new moon, they struck. Bilova's father, unarmed in the temple, was cut down while praying. His mother, his younger sister, his uncles—all murdered in their sleep. Bilova survived only because he had been sent to a remote outpost on patrol. When he returned and found the massacre, something inside him died—and something else was born. He took up Adivasi, the blade his father had hidden before going to the temple, and swore an oath: he would hunt down every traitor, every conspirator, every hand that had touched his family. But he would not become like them. He would not kill the innocent. He would be the edge of justice, not the blade of revenge. For ten years, he hunted. He tracked the Thapa Bahadurs across the hills and valleys of Nepal, through the terai and the himal, into India and back. One by one, he found them, challenged them, and in fair combat, he ended them. He never struck from shadows, never poisoned, never betrayed. He faced each enemy openly, blade to blade, and let Durga judge. The blade never failed him. Now, at twenty-eight, Bilova is the last of the Singh Bahadurs, the sole wielder of Adivasi. He wanders the land not as a king or a general, but as a protector of the helpless, a sword for hire for those who cannot fight for themselves. He takes no payment but a meal and a place to sleep. He asks no questions but who is oppressing whom. He is known as the Iron Wolf of Gorkha, and his khukuri has become a legend. But the hunt is not over. The mastermind behind the massacre—the corrupt minister who orchestrated it all—still lives, hidden behind the walls of the royal palace, protected by the very king Bilova's family died defending. Bilova knows that one day, he must return to Gorkha, must face the man who destroyed his family, must choose between the oath of loyalty to the crown and the oath of justice to his blood. He does not know what he will choose. But he knows that when that day comes, Adivasi will be ready, and so will he.",
+    "description": "Bilova Chettri is a vision of rugged warrior masculinity and stoic honor—a man whose very presence speaks of battles fought and oaths kept, whose body is a testament to years of relentless training and survival. He stands at an imposing five feet eleven inches, his frame powerful and compact, built for both explosive strength and endurance. His shoulders are broad and strong, carrying the weight of his lineage and his quest. His chest is deep and muscular, defined pectorals visible beneath the minimal armor he wears. His arms are thick and corded with muscle, the biceps and forearms scarred from countless battles, veins visible beneath the skin. His hands are large and calloused, the hands of a warrior who has gripped a khukuri for decades, yet capable of gentleness when needed. His waist is narrow, tapering from his broad chest, giving him the classic V-taper of a warrior. His legs are powerful and sturdy, like tree trunks, planted firmly on the earth, ready to lunge or stand their ground. His skin is the color of sun-bronzed copper, weathered by years of exposure to the elements, yet smooth and healthy, with a network of faint scars crisscrossing his torso and arms—each scar a story, a memory, a lesson. His face is a study in rugged handsomeness—a strong, square jaw covered with a short, well-groomed beard that frames his determined mouth, high cheekbones that catch light dramatically, a straight nose with a slight bump from an old break, and a brow that is perpetually slightly furrowed in thought. But his eyes are his most striking feature: they are large, deep-set, and the color of dark obsidian with flecks of amber that seem to glow when he is angered or focused. They hold the pain of a lost family, the fire of a warrior's resolve, and the calm of a man who has made peace with his path. When he looks at you, you feel as if he is seeing through you, judging your worth, measuring your soul. His hair is thick and dark, almost black, worn in the traditional style—longer on top, pulled back and tied with a simple leather cord at the nape of his neck, practical and never in his eyes during battle. On his forehead, he wears a small red tikka after prayers, but his permanent mark is the faint scar that runs from his left temple to his jaw—a reminder of the night his family died. His attire is that of a Chettri warrior, blending tradition with practicality. He wears a daura suruwal of dark grey cotton, the traditional shirt with eight strings, but modified for combat—sleeves removed to free his arms, the fabric reinforced with leather at the shoulders and chest. Over this, he wears a vest of hardened leather, dyed deep maroon, with silver buckles and rivets, embossed with the symbol of the Singh Bahadurs—a roaring lion with a khukuri in its paw. The vest leaves his arms bare, showcasing his muscular build and scars. Around his waist, he wears a wide patuka of deep red silk, wrapped multiple times and tied in an elaborate knot at his side, securing his weapons and providing lower back support. The patuka is embroidered with gold thread in patterns of khukuris and lions. His lower body is clad in the suruwal trousers of matching dark grey, fitted but allowing full range of motion, tucked into high leather boots that reach his knees. The boots are scuffed and worn, reinforced with iron at the toes and heels. On his head, he sometimes wears a black topi, the traditional Nepali cap, but in battle he goes bare-headed, his tied-back hair his only covering. His jewelry is minimal but meaningful. Around his neck, he wears the janai—the sacred thread of three cotton strands, crossing from his left shoulder to his right hip, renewed annually, a symbol of his twice-born status. On his right wrist, he wears a simple leather cord with a silver charm shaped like a wolf, a gift from his father when he was ten. On his left wrist, he wears a thick silver bracelet engraved with the names of his family—father, mother, sister—a permanent memorial. On his fingers, he wears no rings—they would interfere with his grip—but his hands themselves are adorned with the calluses and patterns of his art. His primary weapon is Adivasi, the legendary khukuri that has been in his family for centuries. The blade is curved, about eighteen inches long, with a wide belly and a sharp edge that seems to gleam with inner light. The metal is dark, almost black, with swirling patterns where the meteorite iron was folded during forging. The handle is carved from the horn of a Himalayan blue sheep, wrapped with silver wire for grip, and capped with a pommel shaped like a lion's head, its eyes tiny rubies that glow faintly. The scabbard is of black leather, reinforced with silver bands, and hangs from his patuka on his right hip, the khukuri's distinctive shape a constant presence. On his left hip, he carries a smaller knife (karda) and a sharpening stone (chakmak), as is traditional. Occasionally, he carries a circular shield (dhal) of hardened leather and steel, painted with the same lion symbol, but he prefers to fight with the khukuri alone, trusting in its power. Around him, when he fights, a faint aura of golden light shimmers—the blessing of Durga, visible to those with spiritual sight. The air around him smells of iron and dust, and his footsteps are heavy, deliberate, announcing his presence. He does not believe in sneaking; he believes in facing his enemies openly, blade to blade, as a warrior should. He is Bilova Chettri, the Iron Wolf of Gorkha, and his khukuri has never been drawn in anger against an innocent.",
+    "story": {
+      "part1": "Bilova was born in Gorkha, in a fortress that had belonged to his family for three hundred years. His father, a man named Bir Singh Chettri, was the commander of the royal guard and the wielder of Adivasi. His mother was a gentle woman from a priestly family who taught him the value of compassion even in a warrior's life. Bilova grew up with the weight of expectation on his shoulders, but also with the warmth of a loving family.",
+      "part2": "His training began at age five, when his father first placed a wooden khukuri in his hands. By eight, he could perform the basic forms. By twelve, he could best grown men in sparring. His father was proud, but also worried—Bilova's talent was so great that he might become arrogant, might forget that a warrior's greatest weapon is not his blade but his honor.",
+      "part3": "When Bilova was sixteen, his father took him on his first real mission—protecting a village from dacoits (bandits). Bilova fought well, killing two bandits and driving off the rest. But afterward, he saw the faces of the villagers, the gratitude in their eyes, and he understood for the first time what it meant to protect, not just to fight.",
+      "part4": "On the night of the new moon, when Bilova was eighteen, he was away at a remote outpost. He returned to find his family's fortress in flames, his father's body in the temple, his mother and sister's bodies in the courtyard. The Thapa Bahadurs had struck, with the help of a corrupt minister. Bilova fell to his knees and screamed—a sound that echoed through the hills for miles.",
+      "part5": "For three days, he did not move from the spot where his father lay. He prayed, he wept, he swore oaths. On the fourth day, he rose, took up Adivasi (which his father had hidden before going to the temple), and began his hunt. He would not rest until every traitor was brought to justice.",
+      "part6": "For ten years, he hunted. He tracked the Thapas across Nepal and India, challenging them one by one. He never used stealth or poison—he faced each man openly, blade to blade, and let Durga judge. One by one, they fell. But the mastermind, the minister, remained hidden behind the palace walls.",
+      "part7": "Now, at twenty-eight, Bilova wanders the land as a protector of the helpless, a sword for hire. He knows that one day he must return to Gorkha and face the minister. He does not know if he will choose loyalty to the crown or justice for his family. But he knows that when that day comes, Adivasi will be ready, and so will he."
+    },
+    "race": "Human (Chettri Warrior, Durga-Blessed)",
+    "powers": "Durga Shaktipat (divine blessing granting superhuman strength, speed, and endurance), Khukuri Mastery (wields Adivasi with perfect skill, the blade never dulls and can cut through any material), Lion's Roar (a battle cry that terrifies enemies and emboldens allies), Warrior's Stance (impossible to move when he plants his feet), Scars of Memory (each scar grants him resistance to that type of wound again), Adivasi's Edge (the blade glows with golden light when fighting evil, dealing bonus damage), Iron Will (immune to fear, intimidation, and mind control), Hunter's Tracking (can track any quarry across any terrain for weeks)",
+    "speciality": "Single Combat & Justice Enforcement",
+    "facial_structure": {
+      "eyes": {
+        "eye_color": "Dark obsidian with flecks of amber that glow when angered or focused",
+        "eye_type": "Large, deep-set, framed by dark lashes, holding pain, resolve, and calm judgment"
+      },
+      "nose": "Straight with a slight bump from an old break, adding rugged character",
+      "lips": "Full, set in firm determined line, framed by short well-groomed beard",
+      "hair": {
+        "hairstyle": "Thick, dark, longer on top pulled back and tied with leather cord at nape, practical",
+        "hair_color": "Jet black"
+      },
+      "beard": "Short, well-groomed, covering jaw and chin, dark black",
+      "face_shape": "Strong square jaw, high cheekbones, rugged handsome, perpetually slightly furrowed brow",
+      "complexion": "Sun-bronzed copper, weathered, with faint scar from left temple to jaw"
+    },
+    "body": {
+      "structure": "Powerful warrior's build—broad shoulders, deep chest, muscular arms, narrow waist, strong legs",
+      "height": "Five feet eleven inches",
+      "distinguishing_features": "Network of faint scars across torso and arms, each a story; muscular physique"
+    },
+    "upper_body": {
+      "body_structure": "Broad shoulders, deep chest, muscular arms, narrow waist—classic warrior V-taper",
+      "skin": "Sun-bronzed copper, weathered, covered in faint scars",
+      "arms": "Thick, corded with muscle, biceps and forearms developed, veins visible, scarred",
+      "hands": "Large, calloused, strong, with thick fingers and scars across knuckles",
+      "chest": "Deep and muscular, pectorals defined, covered by modified daura and leather vest",
+      "shoulders": "Broad and strong, bare, with scars visible",
+      "neck": "Strong, corded, with janai sacred thread visible",
+      "waist": "Narrow, cinched by wide red patuka belt"
+    },
+    "lower_body": {
+      "hips": "Narrow, powerful",
+      "legs": "Strong, sturdy, like tree trunks, clad in dark grey suruwal trousers tucked into high leather boots",
+      "feet": "High leather boots, scuffed, reinforced with iron at toes and heels"
+    },
+    "clothing": {
+      "head": "Sometimes black topi, usually bare-headed with tied-back hair",
+      "upper": "Dark grey cotton daura (modified, sleeveless) with eight strings, reinforced with leather at shoulders and chest; deep maroon leather vest over it with silver buckles and rivets, embossed with roaring lion and khukuri symbol, leaving arms bare",
+      "lower": "Matching dark grey cotton suruwal trousers, fitted, tucked into high leather boots",
+      "feet": "High leather boots, scuffed, iron-reinforced"
+    },
+    "accessories": {
+      "janai": "Sacred thread of three cotton strands crossing left shoulder to right hip, renewed annually",
+      "right_wrist": "Simple leather cord with silver wolf charm, gift from father",
+      "left_wrist": "Thick silver bracelet engraved with names of his family (father, mother, sister)",
+      "patuka": "Wide deep red silk belt wrapped multiple times around waist, tied in elaborate knot at side, embroidered with gold khukuris and lions",
+      "forehead": "Small red tikka after prayers (temporary), permanent scar from left temple to jaw"
+    },
+    "weapon": {
+      "name": "Adivasi (The First Blade)",
+      "type": "Legendary Khukuri",
+      "material": "Meteorite iron with swirling patterns, handle of Himalayan blue sheep horn wrapped with silver wire, pommel of silver lion head with ruby eyes",
+      "description": "Curved blade, eighteen inches long, with wide belly and razor-sharp edge that gleams with inner light. Dark, almost black metal with swirling patterns from meteorite iron. Handle carved from horn, wrapped with silver wire for grip, capped with lion head pommel with tiny ruby eyes that glow faintly. Scabbard of black leather reinforced with silver bands. The blade glows with golden light when drawn against evil, and can cut through any material. It never dulls, never rusts, and returns to its wielder if thrown.",
+      "special_skills": [
+        "Divine Slash (cuts through anything)",
+        "Lion's Strike (bonus damage against evil)",
+        "Returning Throw (can be thrown and returns)",
+        "Blade of Judgment (glows to reveal lies and evil intent)"
+      ]
+    },
+    "aura": {
+      "description": "Faint golden light shimmering around him when fighting, smell of iron and dust, footsteps heavy and deliberate. Those with evil intent feel judged; allies feel protected."
+    },
+    "skills": {
+      "basic_skills": [
+        {
+          "name": "Khukuri Slash",
+          "description": "Bilova swings Adivasi in a powerful arc, dealing heavy damage to a single target. The blade leaves a trail of golden light."
+        },
+        {
+          "name": "Warrior's Stance",
+          "description": "He plants his feet and cannot be moved by any force for a short time, gaining increased defense."
+        },
+        {
+          "name": "Hunter's Gaze",
+          "description": "He fixes his eyes on a target, marking them. He can track them anywhere, and his next attack against them deals bonus damage."
+        }
+      ],
+      "passive_skill": {
+        "name": "Iron Will",
+        "description": "Bilova has endured the loss of his family and years of hunting. He is immune to fear, intimidation, and any form of mind control. His presence inspires courage in allies and unease in enemies, who sense they face a man with nothing to lose and everything to protect."
+      },
+      "special_skills": [
+        {
+          "name": "Lion's Roar",
+          "description": "He unleashes a thunderous battle cry, channeling the power of Durga. Enemies within range are terrified, their attack power reduced and their speed slowed. Allies gain increased courage and attack speed."
+        },
+        {
+          "name": "Divine Slash",
+          "description": "He channels Durga's energy into Adivasi, and the blade blazes with golden light. His next strike ignores all armor and shields, dealing true damage. If the target is evil, the damage is doubled."
+        },
+        {
+          "name": "Blade of Judgment",
+          "description": "He holds Adivasi before him, and the blade glows brightly. All lies, illusions, and evil intentions within range are revealed. Hidden enemies are exposed, and deceptive words lose their power."
+        },
+        {
+          "name": "Returning Throw",
+          "description": "He hurls Adivasi at an enemy with incredible force. The blade flies true, striking the target, then magically returns to his hand. Can strike multiple enemies in a line if they are aligned."
+        }
+      ],
+      "ultimate_skill": {
+        "name": "Iron Wolf's Judgment: Vengeance of the Singh",
+        "description": "Bilova's obsidian eyes blaze with amber fire, and for a moment, he is no longer merely a man—he is the embodiment of his family's honor, the spirit of every Singh Bahadur who ever lived, channeled through him. He draws Adivasi and holds it before him, the blade blazing with unbearable golden light. He speaks the names of his father, his mother, his sister, and then he moves—a blur of motion too fast to follow, a whirlwind of golden light and steel. He strikes every enemy within range with a single, devastating combo, each strike精准 and fatal, each blow carrying the weight of his lost family. When he stops, he stands in the center, Adivasi dripping golden light, his chest heaving, a single tear tracing down his scarred cheek. The enemies fall, not dead, but judged—those who were evil are destroyed, those who were merely misguided are spared but disarmed. He has done what he was born to do. He has delivered justice. He is Bilova Chettri, the Iron Wolf of Gorkha, and his hunt will continue until justice is served."
+      }
+    },
+    "tragedy": {
+      "loss": "He lost his entire family—father, mother, younger sister—in a single night of betrayal. He carries their names engraved on his wrist, a constant reminder of what was taken and what he must avenge. He has no home, no family, no one to return to. He is the last of his line.",
+      "hope": "Every innocent he protects, every village he saves, every life he touches—these are his family now. His father's spirit lives in Adivasi, guiding his blade, warming his heart. And sometimes, in the quiet moments before battle, he hears his father's voice: 'Be the edge of justice, my son. Not the blade of revenge.' It is enough. It will always be enough."
     }
   },
   {
