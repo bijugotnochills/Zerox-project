@@ -1,0 +1,1018 @@
+[
+    {
+        "id": 118,
+        "pantheon_id": 4,
+        "hero_name": "Seseei Furhana",
+        "title": "Pride • The Peacock Empress",
+        "nickname": "She Who Refused to Kneel",
+        "gender": "female",
+        "images": {
+            "character_image": "assets/images/character/seseei/main.png",
+            "character_icon": "assets/images/character/seseei/icon.png",
+            "character_image_real": "assets/images/character/seseei/real.jpeg",
+            "hero_gallery": [
+                "assets/images/character/seseei/gallery/1.jpeg",
+                "assets/images/character/seseei/gallery/2.jpeg",
+                "assets/images/character/seseei/gallery/3.jpeg",
+                "assets/images/character/seseei/gallery/4.jpeg",
+                "assets/images/character/seseei/gallery/5.jpeg"
+            ]
+        },
+        "lore": "In the opulent courts of the Ming dynasty, there lived a woman whose beauty was said to outshine the sun itself. Seseei Furhana was the daughter of a wealthy merchant, blessed with a face that poets crossed oceans to describe and a spirit that refused to bow to any man. She was courted by princes, begged by nobles, but she rejected them all, for she believed herself worthy of nothing less than an emperor. When the emperor himself came seeking her hand, she looked upon him and saw not greatness, but a man made small by his own power. She refused him. The emperor's pride was wounded beyond repair. He accused her family of treason, had them executed before her eyes, and sentenced her to life as a courtesan, to be used and discarded by the very nobles she had once rejected. For years, she endured, but her pride did not break. It calcified into something harder than diamond. On the night she was to be given to the cruelest of the emperor's generals, she called out into the void, offering anything, everything, for the power to never be humiliated again. Vergasuis answered. He appeared before her in her cell, a figure of shadow and flame, and offered her a deal: she would become the embodiment of Pride itself, a being so magnificent that none would dare look upon her without awe. In exchange, she would serve him for eternity. She accepted without hesitation. The transformation was agonizing. Her body twisted and grew, sprouting a dozen peacock tails of impossible beauty, each eye on each feather containing the soul of one who had wronged her. Her arms became clawed, her legs those of a great bird of prey, but her face remained untouched, more beautiful than ever, now framed by a crown of golden feathers. She rose from her cell and walked through the palace, and all who saw her fell to their knees, not from fear, but from the overwhelming majesty of her presence. The emperor, when she found him, could not even speak. He simply knelt, and she placed a single claw on his head, absorbing his soul into her tails. Now, Seseei rules her own domain within the demon realm, a palace of mirrors where she can admire herself from every angle. She is vain, imperious, and utterly convinced of her own superiority. Yet beneath the layers of pride lies the ghost of a woman who was humiliated beyond bearing, who chose power over dignity because dignity had been stripped from her. She is Seseei Furhana, the Peacock Empress, and she will never kneel again.",
+        "description": "Seseei Furhana is a vision of terrifying beauty and impossible majesty. She stands at a regal five feet ten inches, her humanoid form lean and elegant, but from the waist down, her legs are those of a great bird of prey—powerful, scaled, and ending in massive, curved talons that can rend steel. Her arms are human in shape but covered in fine, golden-brown feathers, ending in three-fingered hands with sharp claws. But her most spectacular feature is her tail—or rather, tails. A dozen immense peacock tails fan out behind her in a breathtaking display, each one larger and more magnificent than any mortal peacock. The feathers are a stunning array of deep oranges, rich browns, and jet blacks, with the iconic eyespots glowing with an inner, golden-orange light. Each eye contains the shimmering, trapped soul of one who wronged her, their faces visible as tiny, tormented expressions within the feather's pattern. The tails flow and shift constantly, rustling with a sound like silk and whispers. Above the waist, she is perfection. Her face is classical Chinese beauty at its finest—high, elegant cheekbones, a straight, delicate nose, full lips painted the color of ripe pomegranates, and a smooth, flawless complexion the color of warm honey. Her eyes are large, almond-shaped, and the color of deep, burning amber, with vertical slit pupils like a bird of prey, holding an eternal, imperious gaze that makes lesser beings instinctively look away. Her hair is a magnificent cascade of jet-black silk, so long it falls past her waist, intricately styled with golden pins and ornaments, and woven through it are small, golden feathers that match her tails. From the crown of her head, a fan of golden-brown feathers sweeps back like a natural tiara, framing her face and adding to her regal appearance. Her attire is a fusion of Ming dynasty court elegance and demonic grandeur. She wears a form-fitting dress of the finest orange silk, embroidered with golden thread in patterns of peacock feathers and clouds, the dress leaving her shoulders bare and flowing to just above where her human form meets her avian lower body. Golden armlets encircle her upper arms, and wide golden cuffs adorn her wrists, all intricately carved with peacock motifs. Around her neck, she wears a magnificent collar of gold and orange gemstones, with a single, large amber teardrop resting at her throat. Golden chains with tiny bells hang from her waist, chiming softly with her every movement. Her weapons are as magnificent as she is. In her hands, she carries the Sunken Fan, a folding fan of immense size, its ribs carved from polished jade and its paper painted with scenes of her former life, now imbued with demonic power. When opened, it can unleash devastating gusts of golden-orange energy or create illusions of breathtaking beauty to captivate her enemies. At her side, she wears the Talon of Rejection, a curved dagger forged from one of her own talons, honed to impossible sharpness, able to cut through pride itself and leave enemies broken and humbled. She moves with the fluid grace of a dancer, each gesture deliberate and magnificent, her tails flowing behind her like a living tapestry. She is Seseei Furhana, and the world is her mirror.",
+        "story": {
+            "part1": "Seseei's childhood was one of adoration and privilege. Her father, a wealthy merchant in Nanjing, doted on her, and she grew up believing she was the center of the universe. She was educated in poetry, music, and the arts, and her beauty was praised by all who saw her. She learned early that her face was a weapon, and she wielded it with precision.",
+            "part2": "The emperor's proposal should have been the culmination of her life. But when she looked upon him, she saw not a god, but a man made small by his own power. She refused him, not out of strategy, but out of genuine belief that she deserved better. She did not understand that power does not forgive rejection.",
+            "part3": "The night her family was executed, she was forced to watch. Her father's head rolled to her feet, and still she did not weep. Something inside her froze, turned to ice and fire. She was taken to the courtesan house, and her education in humiliation began.",
+            "part4": "For three years, she endured. She learned to smile when she wanted to scream, to flatter when she wanted to kill. She became the most sought-after courtesan in the empire, but inside, she was building a fortress of pride so high that no insult could ever reach her again.",
+            "part5": "The night she was to be given to the general, she felt the walls finally crack. She would rather die. She called out to any power that would listen, and Vergasuis answered. He offered her pride made manifest, power absolute, in exchange for her eternal service. She accepted, and her transformation began.",
+            "part6": "When she rose from her cell, her tails spreading behind her for the first time, she felt no pain, only power. She walked through the palace, and all who saw her fell to their knees. She found the emperor in his throne room, and for the first time, she saw fear in his eyes. She placed a single claw on his head and absorbed his soul, adding him to her tails. It was not enough. It would never be enough.",
+            "part7": "Now, in her palace of mirrors, Seseei rules as the embodiment of Pride. She watches her reflection constantly, not from vanity alone, but because she needs to remind herself that she exists, that she is real, that she is magnificent. The souls in her tails whisper to her, reminding her of every humiliation, every slight. She will never stop collecting them, for her pride is a bottomless well that can never be filled. She is Seseei Furhana, and she is perfect."
+        },
+        "race": "Demon Sin (Pride) • Former Human",
+        "powers": "Aura of Majesty (her presence alone forces lesser beings to kneel or look away, overwhelmed by her magnificence), Soul Feathers (each of her twelve tails contains a trapped soul she can consult, draw power from, or release as a tormented spirit), Pride Empowerment (her power grows exponentially when she is admired, acknowledged, or when she humiliates others), Peacock Illusions (can create breathtaking illusions of beauty and grandeur that captivate and confuse enemies), Amber Gaze (her burning amber eyes can see through false pride and pretense, revealing the insecurities of others), Sunken Fan Mastery (wields the fan to control winds and create illusions), Talon of Rejection Mastery (the dagger cuts through pride and confidence, leaving enemies broken)",
+        "speciality": "Psychological Domination, Illusion Weaving, Soul Manipulation",
+        "facial_structure": {
+            "eyes": {
+                "eye_color": "Deep, burning amber with vertical slit pupils like a bird of prey, holding an eternal, imperious gaze that makes lesser beings instinctively look away",
+                "eye_type": "Large, almond-shaped, framed by thick lashes and elegant brows, constantly assessing, judging, finding wanting"
+            },
+            "nose": "Straight and delicate, classical Chinese beauty, perfectly proportioned",
+            "lips": "Full and painted the color of ripe pomegranates, often curved in a slight, knowing smile that speaks of absolute certainty in her own superiority",
+            "hair": {
+                "hairstyle": "A magnificent cascade of jet-black silk, so long it falls past her waist, intricately styled with golden pins and ornaments, with small golden feathers woven throughout",
+                "hair_color": "Jet black with subtle golden undertones"
+            },
+            "ears": "Small and delicate, adorned with small golden earrings shaped like peacock feathers",
+            "face_shape": "Oval with high elegant cheekbones, a straight delicate nose, and a soft but defined chin, classical Chinese beauty at its finest"
+        },
+        "upper_body": {
+            "body_structure": "Lean and elegant above the waist, her humanoid form graceful and poised, every movement deliberate and magnificent",
+            "arms": "Human in shape but covered in fine golden-brown feathers, elegant and strong, ending in three-fingered hands with sharp, curved claws that are always perfectly manicured",
+            "hands": "Her hands are elegant but deadly, the three long fingers tipped with sharp golden-brown claws that she can extend or retract at will. She uses them with precision, whether to hold her fan or to rend flesh.",
+            "chest": "Slender and elegant, covered by her form-fitting orange silk dress that leaves her shoulders bare, the fabric embroidered with golden peacock feathers",
+            "shoulders": "Elegant and bare, often adorned with golden chains or jewelry, the fine golden-brown feathers beginning just below her shoulders",
+            "neck": "Long and graceful, adorned with the magnificent gold and amber collar, the single teardrop amber resting at her throat"
+        },
+        "lower_body": {
+            "hips": "Where her human form ends, her avian lower body begins, a seamless transition from silk-clad waist to powerful bird legs",
+            "legs": "Her legs are those of a great bird of prey—powerful, scaled in patterns of orange and brown, and ending in massive, curved talons that can rend steel. The scales have a subtle iridescence.",
+            "feet": "Not feet, but massive talons, each toe tipped with a claw as long as a dagger, capable of crushing stone or delicately holding a flower"
+        },
+        "clothing": "Seseei wears a form-fitting dress of the finest orange silk, embroidered with golden thread in patterns of peacock feathers and clouds. The dress leaves her shoulders bare and flows to just above where her human form meets her avian lower body. Golden armlets encircle her upper arms, and wide golden cuffs adorn her wrists. A magnificent collar of gold and orange gemstones rests at her throat, with a large amber teardrop pendant. Golden chains with tiny bells hang from her waist.",
+        "accessories": "Golden pins and ornaments in her hair; small golden feathers woven through her hair; golden armlets and cuffs intricately carved with peacock motifs; the gold and amber collar; golden waist chains with tiny bells; her two legendary weapons.",
+        "weapon": [
+            {
+                "name": "Sunken Fan",
+                "type": "Jade and Paper Folding Fan",
+                "aura": "A shimmering golden-orange aura emanates from the fan, with visible heat haze distortions. When opened, it releases waves of warm, golden light and the sound of wind through feathers.",
+                "special_feature": "The Sunken Fan is a folding fan of immense size, its twelve ribs carved from polished jade of the deepest green, each rib etched with scenes from Seseei's former life as a courtesan. The paper is painted with exquisite detail, showing her family's execution, her years of servitude, and her transformation. The fan is imbued with demonic power that allows Seseei to control winds, create devastating gusts, and weave illusions of breathtaking beauty. When fully opened and swept forward, it can unleash a cyclone of golden-orange energy that scatters enemies and leaves them disoriented. When closed, it can be used as a deadly striking weapon, the jade ribs hard as steel.",
+                "special_skills": [
+                    "Peacock's Breath (a gust of golden wind that knocks back enemies)",
+                    "Illusion Garden (creates a stunning illusory landscape to captivate enemies)",
+                    "Cyclone of Pride (a devastating whirlwind of golden energy)",
+                    "Feather Storm (releases a flurry of illusory golden feathers that confuse and blind)"
+                ]
+            },
+            {
+                "name": "Talon of Rejection",
+                "type": "Curved Dagger",
+                "aura": "A faint, pulsing amber glow emanates from the blade, and those who look upon it feel a sudden, sharp sting of humiliation and inadequacy.",
+                "special_feature": "The Talon of Rejection is a curved dagger forged from one of Seseei's own talons, shed during her transformation and honed to impossible sharpness by the fires of the demon realm. The blade is a translucent golden-brown, like amber, and curves gracefully like a bird's claw. The hilt is wrapped in black leather and capped with a small golden peacock head. The dagger's power is not just physical; a single cut from the Talon of Rejection pierces the target's pride and confidence, leaving them feeling suddenly inadequate, humiliated, and broken. It can cut through arrogance like a knife through silk, reducing even the proudest warrior to a state of shame and self-doubt.",
+                "special_skills": [
+                    "Pride's End (a cut that shatters confidence and self-worth)",
+                    "Humiliation Strike (leaves target feeling exposed and ashamed)",
+                    "Talon Rend (a powerful slashing attack that bleeds golden light)",
+                    "Soul Gouge (a precise strike that can extract a single memory of humiliation)"
+                ]
+            }
+        ],
+        "skills": {
+            "basic_skills": [
+                {
+                    "name": "Imperious Glare",
+                    "description": "Seseei fixes her burning amber eyes on a single target. The weight of her majestic presence and absolute certainty in her own superiority forces the target to hesitate, look away, or even kneel."
+                },
+                {
+                    "name": "Feather Dance",
+                    "description": "She flicks her wrist, and a flurry of golden feathers materializes from her fan or her tails, swirling around an enemy, distracting them and obscuring their vision."
+                },
+                {
+                    "name": "Talon Parry",
+                    "description": "She uses the Talon of Rejection to deflect an incoming attack, the dagger's edge leaving a trail of amber light. The attacker feels a sudden sting of inadequacy, even if the parry was successful."
+                }
+            ],
+            "passive_skill": {
+                "name": "Peacock's Majesty",
+                "description": "Seseei radiates an aura of overwhelming pride and magnificence at all times. Mortals and lesser demons find it difficult to meet her gaze, speak in her presence, or act against her. This aura grows stronger the more she is admired or acknowledged, feeding her power. Those who manage to resist her aura are immediately noted as threats or potential additions to her tail collection."
+            },
+            "special_skills": [
+                {
+                    "name": "Garden of Vanity",
+                    "description": "Seseei opens the Sunken Fan fully and sweeps it before her, creating a breathtaking illusory garden filled with golden peacocks, blooming flowers, and mirrors reflecting infinite versions of herself. Enemies caught in the garden become captivated, lost in the beauty, unable to act as they are overwhelmed by the sheer magnificence."
+                },
+                {
+                    "name": "Soul Peacock",
+                    "description": "She draws upon one of the souls trapped in her tails, releasing it as a spectral peacock of golden-orange light. The soul-peacock attacks her enemies, not with physical force, but by pecking at their insecurities and humiliations, leaving them psychologically wounded."
+                },
+                {
+                    "name": "Pride's Harvest",
+                    "description": "Seseei selects a target and, with the Talon of Rejection, makes a precise cut that extracts their proudest memory—their greatest triumph, their most cherished achievement. The memory is absorbed into her tails, and the target is left feeling hollow and diminished, as if they have lost a part of themselves."
+                }
+            ],
+            "ultimate_skill": {
+                "name": "Pride's Judgment: The Peacock's Mirror",
+                "description": "Seseei Furhana's amber eyes blaze with the light of a thousand suns, and all twelve of her magnificent peacock tails fan out behind her in a breathtaking display, each eye on each feather glowing with intense golden-orange light. She opens the Sunken Fan fully and holds it before her face, its painted scenes shimmering and shifting. She speaks a single word: 'Mirror.' In that moment, a massive, invisible mirror of pure pride manifests before her. It does not reflect physical appearance; it reflects the soul. Every enemy who looks upon it sees themselves as Seseei sees them—flawed, inadequate, laughable in their pretensions. Their greatest insecurities are magnified and projected back at them. The proud warrior sees himself as a coward. The beautiful courtesan sees herself as ugly. The powerful emperor sees himself as a fool. The psychological devastation is absolute. While enemies are broken by their own reflections, Seseei moves through them, her talons clicking on the ground, her tails flowing behind her. She touches each one gently with the Talon of Rejection, and with each touch, she absorbs their pride, their confidence, their self-worth, adding it to her own endless well. When the mirror fades, the enemies are left as hollow shells, their pride stripped away, while Seseei stands at the center, more magnificent than ever, her tails gleaming with new souls. She snaps her fan closed with a sharp crack and smiles her imperious smile. She is Seseei Furhana. She is Pride. And she has seen herself reflected in their broken souls, and found herself perfect."
+            }
+        }
+    },
+    {
+        "id": 119,
+        "pantheon_id": 4,
+        "hero_name": "Kukiun Seinbad",
+        "title": "Greed • The Golden Centipede",
+        "nickname": "He Who Hoards the Sun",
+        "gender": "male",
+        "images": {
+            "character_image": "assets/images/character/kukiun/main.png",
+            "character_icon": "assets/images/character/kukiun/icon.png",
+            "character_image_real": "assets/images/character/kukiun/real.jpeg",
+            "hero_gallery": [
+                "assets/images/character/kukiun/gallery/1.jpeg",
+                "assets/images/character/kukiun/gallery/2.jpeg",
+                "assets/images/character/kukiun/gallery/3.jpeg",
+                "assets/images/character/kukiun/gallery/4.jpeg",
+                "assets/images/character/kukiun/gallery/5.jpeg"
+            ]
+        },
+        "lore": "In the bustling port city of Quanzhou during the height of the Silk Road trade, there lived a merchant named Kukiun Seinbad whose name was spoken with both envy and contempt. He was not born to wealth; he was the son of a poor fisherman, and he had learned early that the world gave nothing freely. His first memory was of hunger, of watching his mother divide a single fish among six children while his father worked himself to death on a boat they did not own. He swore then that he would never be hungry again, that he would own everything, that nothing would ever be taken from him. He started small, trading trinkets, then spices, then silk, then gems. With each transaction, his wealth grew, and with each coin, his hunger grew larger. He discovered that he did not just want money; he wanted the feeling of having, of possessing, of owning. He wanted to hold the world in his hands and know that it was his. He became infamous for his ruthlessness. He would buy entire fleets and then raise prices so high that villages starved. He would acquire land and then evict the families who had farmed it for generations. He was rich beyond measure, but he was also hated beyond reason. One night, a coalition of rival merchants, tired of his monopolies, hired assassins to burn his warehouse—the warehouse where he kept not just his goods, but his ledgers, his contracts, his proof of ownership. He watched from a distance as the flames consumed everything he had spent his life acquiring. The loss was not just financial; it was existential. Without his possessions, who was he? He felt himself crumbling, dissolving into the nothing he had been as a child. In his despair, he called out to any power that would listen, offering anything for the ability to keep, to hold, to never lose again. Vergasuis appeared, a shadow with eyes like molten gold. He offered Kukiun the power of Greed itself: he would become a being who could acquire endlessly, whose very body would be a hoard, in exchange for eternal service. Kukiun accepted. His body twisted and elongated, sprouting dozens of segmented arms, each ending in a grasping hand, his lower body becoming that of a giant centipede with countless legs, each leg tipped with a golden claw. His skin took on a golden-yellow hue, and his eyes became black voids with pinpricks of gold light. But his face remained human, and strangely handsome, with a knowing smile that never faded. He rose from the ashes of his warehouse and began to acquire once more, but now his hoard was not of gold, but of souls, of secrets, of power itself. He is Kukiun Seinbad, the Golden Centipede, and he will never let go.",
+        "description": "Kukiun Seinbad is a nightmare of acquisition made flesh, a being whose very form is designed to grasp, hold, and never release. He stands at an elongated seven feet in his human upper body, but his full length, including his centipede lower body, can stretch to over twenty feet. From the waist up, he is deceptively normal—almost handsome. His face is that of a charming, roguish merchant, with warm golden-brown skin, a straight nose, full lips always curved in a knowing, slightly greedy smile, and eyes that are deep black voids with tiny pinpricks of gold light deep within, like stars in an empty sky. They hold an eternal, calculating hunger, always assessing value, always seeking more. His hair is a sleek, dark brown, almost black, pulled back into a neat, short queue at the nape of his neck, in the style of a successful merchant. But from the waist down, his humanity ends. His lower body is that of a giant centipede, segmented into dozens of sections, each segment a rich, gleaming yellow-gold with black stripes, hard as armor. From each segment sprout a pair of legs, each leg long and jointed, ending in a razor-sharp golden claw designed for grasping. Dozens of legs, dozens of claws, all moving in a mesmerizing, undulating wave as he moves. But his most disturbing feature is his arms—or rather, his multitude of arms. From his human torso, a dozen additional arms sprout, arranged in two rows down his sides, each arm fully formed, each ending in a three-fingered hand with long, grasping fingers and golden claws. They are constantly moving, constantly reaching, constantly grasping at the air, as if trying to hold onto something invisible. In his primary hands, the two largest ones at his shoulders, he carries his legendary weapons: the Scales of Avarice and the Golden Ledger. The Scales of Avarice are a pair of massive, ornate scales, their arms forged from black iron inlaid with gold, their pans made of polished obsidian. They do not weigh gold; they weigh the value of anything—souls, secrets, years of life—and can determine the precise worth of any transaction. The Golden Ledger is a massive book bound in what appears to be human skin, its pages made of gold leaf, its cover encrusted with gems. It records every deal he has ever made, every soul he has acquired, and with a touch, he can call forth any contract and enforce its terms. His attire is that of a wealthy merchant, but twisted by his demonic nature. He wears a long robe of golden-yellow silk, embroidered with black centipede motifs and symbols of wealth, the robe open at the front to reveal his multiple arms. A wide belt of gold links cinches his waist, from which hang countless small pouches and bags, each containing a fragment of his hoard. On his head, he wears a simple black cap, a merchant's cap, but with a golden pin shaped like a centipede. He moves with a strange, flowing gait, his centipede body undulating, his multiple arms reaching and grasping, his human face smiling its eternal, greedy smile. He is Kukiun Seinbad, and everything has a price.",
+        "story": {
+            "part1": "Kukiun's earliest memories are of hunger. His father's death left his mother with six children and no income. He learned to steal before he learned to walk, to trade before he learned to read. He discovered that the world was a marketplace, and those who did not buy were sold.",
+            "part2": "His first successful trade was at age twelve, swapping a stolen loaf of bread for two loaves, then those for a small fish, then that for a handful of coins. He felt the weight of those coins in his palm and knew he had found his purpose.",
+            "part3": "By twenty, he owned a small fleet of trading ships. By thirty, he was the richest man in Quanzhou. But with each acquisition, his hunger grew. He did not want wealth; he wanted the feeling of having, the security of possession. He wanted to own everything so that nothing could ever be taken from him again.",
+            "part4": "His ruthlessness became legendary. He would buy entire harvests and let villages starve, then buy the villages when the families could not pay their debts. He evicted farmers from land their families had worked for centuries. He was rich and hated, and he did not care.",
+            "part5": "The night his warehouse burned, he watched from a distance, feeling his entire life turn to ash. The ledgers, the contracts, the proof of ownership—all gone. Without them, he was nothing, just the son of a fisherman again. He felt himself dissolving.",
+            "part6": "He called out into the void, and Vergasuis answered. The demon king offered him a deal: eternal service in exchange for the power to never lose again, to acquire endlessly, to hold forever. Kukiun accepted, and his body transformed into the grasping, reaching thing he had always been inside.",
+            "part7": "Now, Kukiun rules his own domain, a labyrinthine vault filled with the souls and secrets he has acquired. His multiple arms are never still, always reaching, always grasping. He makes deals with mortals and demons alike, always ensuring that he profits, that he acquires. But the hunger never stops. There is never enough. He is Kukiun Seinbad, and he will own everything, eventually."
+        },
+        "race": "Demon Sin (Greed) • Former Human",
+        "powers": "Value Sight (can see the precise monetary, spiritual, or emotional value of anything and anyone), Contract Enforcement (any deal he makes is magically binding, and he can enforce its terms across any distance), Multiple Grasping Limbs (his twelve arms allow him to perform multiple tasks simultaneously, fight with overwhelming numbers, or simply hold more things), Centipede Mobility (his elongated body allows him to move with surprising speed and climb any surface), Golden Claws (all his hands and feet end in golden claws that can rend flesh and grasp souls), Scales of Avarice Mastery (the scales weigh the value of anything), Golden Ledger Mastery (the book records and enforces all his deals)",
+        "speciality": "Deal-Making, Acquisition, Soul Trading, Multi-Tasking Combat",
+        "facial_structure": {
+            "eyes": {
+                "eye_color": "Deep black voids with tiny pinpricks of gold light deep within, like stars in an empty sky, holding an eternal, calculating hunger that misses nothing of value",
+                "eye_type": "Large, round, set in a handsome face, constantly moving, assessing, weighing"
+            },
+            "nose": "Straight and well-proportioned, the nose of a successful merchant, slightly broad at the bridge",
+            "lips": "Full and always curved in a knowing, slightly greedy smile, the color of warm terracotta, never fading even in battle",
+            "hair": {
+                "hairstyle": "Sleek, dark brown, almost black, pulled back into a neat, short queue at the nape of his neck in the style of a successful merchant",
+                "hair_color": "Dark brown, almost black"
+            },
+            "ears": "Normal human ears, adorned with small gold earrings shaped like coins",
+            "face_shape": "Handsome and roguish, with a charming, approachable quality that belies his demonic nature"
+        },
+        "upper_body": {
+            "body_structure": "From the waist up, he is deceptively normal, almost handsome, his torso broad and merchant-like, but from his sides sprout a dozen additional arms in two rows, constantly moving",
+            "arms": "He has fourteen arms in total—the two primary ones at his shoulders and twelve smaller ones arranged in two rows down his sides. Each arm is fully formed, muscled, and ends in a three-fingered hand with long, grasping fingers and golden claws.",
+            "hands": "His hands are numerous and always moving. The primary hands are larger and stronger, used for wielding his weapons. The secondary hands are slightly smaller but just as dexterous, constantly reaching, grasping, counting, holding.",
+            "chest": "Broad and merchant-like, covered by his golden-yellow silk robe embroidered with black centipede motifs, the robe open to reveal the rows of arms",
+            "shoulders": "Broad and powerful, from which his two primary arms emerge, the muscles well-developed",
+            "neck": "Strong and normal, rising from the collar of his robe"
+        },
+        "lower_body": {
+            "hips": "Where his human torso ends, his centipede body begins, a seamless transition",
+            "legs": "He has no legs. Instead, his lower body is that of a giant centipede, segmented into dozens of sections, each segment a rich gleaming yellow-gold with black stripes, hard as armor",
+            "feet": "Each of the dozens of segments has a pair of legs, each leg long and jointed, ending in a razor-sharp golden claw for grasping and climbing"
+        },
+        "clothing": "Kukiun wears a long robe of golden-yellow silk, embroidered with black centipede motifs and symbols of wealth, the robe open at the front to reveal his multiple arms. A wide belt of gold links cinches his waist, from which hang countless small pouches and bags. On his head, a simple black merchant's cap with a golden centipede pin.",
+        "accessories": "Small gold coin earrings; the wide gold link belt with countless pouches; the black cap with golden centipede pin; his two legendary weapons; and countless small bags and pouches hanging from his belt, each containing a fragment of his hoard.",
+        "weapon": [
+            {
+                "name": "Scales of Avarice",
+                "type": "Ornate Balance Scales",
+                "aura": "A faint, shimmering gold aura emanates from the scales, and the air around them feels heavy with the weight of unseen things. When weighing something, the pans glow with golden light.",
+                "special_feature": "The Scales of Avarice are a pair of massive, ornate scales, their arms forged from black iron inlaid with intricate gold patterns of centipedes and coins, their pans made of polished obsidian that seems to absorb light. They do not weigh physical objects; they weigh the value of anything—souls, secrets, years of life, memories, emotions. By placing an item or a representation of a concept in one pan, Kukiun can determine its precise worth in any currency he chooses. More powerfully, he can use the scales to enforce transactions, literally weighing one thing against another and making the exchange binding. He can weigh an enemy's soul against a coin and, if the coin is heavier, claim their soul.",
+                "special_skills": [
+                    "Value Assessment (determines the exact worth of anything)",
+                    "Soul Weight (weighs a soul against an object to claim it)",
+                    "Binding Transaction (makes any exchange magically binding)",
+                    "Balance Strike (swings the scales as a heavy flail-like weapon)"
+                ]
+            },
+            {
+                "name": "Golden Ledger",
+                "type": "Enchanted Book",
+                "aura": "The book glows with a soft, golden light, and its pages shimmer as if made of liquid gold. When opened, whispers of countless deals can be heard from its pages.",
+                "special_feature": "The Golden Ledger is a massive book bound in what appears to be human skin, its pages made of gold leaf so thin they flex like paper, its cover encrusted with diamonds, rubies, and sapphires. It records every deal Kukiun has ever made, every soul he has acquired, every contract he has enforced. The names of those who owe him are written in blood-red ink that seems to pulse. With a touch, he can call forth any contract and enforce its terms, summoning debtors across any distance, or using the book as a focus to extract payment. The book also serves as a shield, its pages able to intercept attacks and absorb them as new 'transactions.'",
+                "special_skills": [
+                    "Debt Collection (summons a debtor to fulfill their obligation)",
+                    "Contract Enforcement (activates the terms of any deal)",
+                    "Page Shield (intercepts attacks, absorbing them as transactions)",
+                    "Name Call (speaks a name from the ledger, causing the debtor pain)"
+                ]
+            }
+        ],
+        "skills": {
+            "basic_skills": [
+                {
+                    "name": "Merchant's Gaze",
+                    "description": "Kukiun's black-and-gold eyes fix on a target, instantly assessing their worth—their wealth, their secrets, their soul's value. The target feels suddenly exposed, as if their price tag has been displayed for all to see."
+                },
+                {
+                    "name": "Grasping Hands",
+                    "description": "He extends multiple arms toward a target, his golden claws reaching. The target is grabbed by several hands, held in place, and slowly drained of a small portion of their wealth or life force."
+                },
+                {
+                    "name": "Transaction Offer",
+                    "description": "Kukiun makes a simple offer to an enemy—a coin for their weapon, a secret for their surrender. If they accept, the Scales of Avarice make the exchange magically binding, and they must comply."
+                }
+            ],
+            "passive_skill": {
+                "name": "Avarice Aura",
+                "description": "Kukiun radiates an aura of pure greed that affects all within range. Mortals find themselves suddenly obsessed with their possessions, unwilling to part with anything, and susceptible to making foolish deals to acquire more. Enemies may hesitate to use valuable items or expend resources, hoarding them instead of fighting effectively."
+            },
+            "special_skills": [
+                {
+                    "name": "Centipede's Embrace",
+                    "description": "Kukiun's centipede body coils around a target while all fourteen of his arms reach for them. The target is completely enveloped, held by dozens of grasping hands and clawed legs, unable to move, while Kukiun slowly drains their wealth, memories, or life force."
+                },
+                {
+                    "name": "Auction of Souls",
+                    "description": "He opens the Golden Ledger and begins reading names aloud. Each name spoken causes the corresponding debtor—living or dead—to manifest as a spectral figure that attacks Kukiun's enemies. The more valuable the debt, the more powerful the specter."
+                },
+                {
+                    "name": "Fair Exchange",
+                    "description": "Kukiun places an object of value—a gem, a coin, a memory—on one pan of the Scales of Avarice, and points the other pan at an enemy. The scales tip, and the enemy finds themselves deprived of something of equal value, which is transferred to Kukiun. A painful but perfectly fair transaction."
+                }
+            ],
+            "ultimate_skill": {
+                "name": "Greed's Judgment: The Final Reckoning",
+                "description": "Kukiun Seinbad's black eyes flare with golden light, and all fourteen of his arms spread wide, his centipede body coiling beneath him. He opens the Golden Ledger to the final page and places the Scales of Avarice before him, their obsidian pans gleaming. He speaks a single word: 'Reckoning.' In that moment, every deal he has ever made, every soul he has ever acquired, every debt ever owed to him converges on the battlefield. Spectral figures of his debtors pour from the Ledger, forming a legion of the damned. The Scales of Avarice rise into the air, growing to immense size, their pans now large enough to hold buildings. They begin to weigh the enemies on the battlefield, assessing their value, their worth, their debt to existence itself. Those found wanting—and all are found wanting in the eyes of Greed—are lifted into the pans, where they are weighed against the accumulated wealth of Kukiun's hoard. They always tip the scales in his favor. As they are judged, their wealth, their memories, their very souls are extracted and added to the Ledger, their names written in blood-red ink. When the reckoning ends, the battlefield is silent. Enemies are not dead, but they are empty—stripped of everything that made them who they were, their possessions, their memories, their identities, all now entries in the Golden Ledger. Kukiun closes the book with a satisfied snap, his multiple arms caressing its cover. He smiles his eternal, greedy smile. He is Kukiun Seinbad. He is Greed. And the transaction is complete."
+            }
+        }
+    },
+    {
+        "id": 120,
+        "pantheon_id": 4,
+        "hero_name": "Gehani Filal",
+        "title": "Wrath • The Crimson Scorpion",
+        "nickname": "She Whose Sting Is Never Forgotten",
+        "gender": "female",
+        "images": {
+            "character_image": "assets/images/character/gehani/main.png",
+            "character_icon": "assets/images/character/gehani/icon.png",
+            "character_image_real": "assets/images/character/gehani/real.jpeg",
+            "hero_gallery": [
+                "assets/images/character/gehani/gallery/1.jpeg",
+                "assets/images/character/gehani/gallery/2.jpeg",
+                "assets/images/character/gehani/gallery/3.jpeg",
+                "assets/images/character/gehani/gallery/4.jpeg",
+                "assets/images/character/gehani/gallery/5.jpeg"
+            ]
+        },
+        "lore": "In a small village in the shadow of the Himalayas, there lived a woman named Gehani Filal whose rage was a living thing. She had not been born angry; she had been made so. Her village was repeatedly raided by a brutal warlord who took what he wanted and left nothing but ashes. Gehani lost her father to his sword, her mother to grief, and her younger sister to his soldiers. Each loss added fuel to a fire that burned hotter and hotter until it consumed everything else. She trained in secret, learning to fight from anyone who would teach her, honing her body into a weapon. She swore that she would have her revenge, that she would make the warlord pay for every tear, every death, every moment of fear. But when she finally confronted him, years later, she found that he did not even remember her village. He had destroyed so many that hers was just another name on a long list. In that moment, her rage reached its peak. It was not just anger; it was a physical force, a burning pressure that threatened to tear her apart from the inside. As she stood there, frozen by the sheer impossibility of her fury, Vergasuis appeared. He offered her a simple deal: become Wrath itself, a being of pure, focused anger, and she would have the power to make not just him, but everyone who had ever wronged the innocent, pay. She accepted. Her body transformed in an explosion of crimson light. Her lower body became that of a massive scorpion, its exoskeleton a deep, blood red with black stripes, its tail a curved weapon of devastation. Her arms became clawed, her skin took on a red-black sheen, and her hair turned silver-white. But her face remained human—beautiful, with high cheekbones and full lips, but now twisted into a permanent snarl of barely contained fury. She killed the warlord with a single sting, then spent the next century hunting down every soldier who had ever served him. Now, she is Gehani Filal, the Crimson Scorpion, and her rage is a weapon that will never dull.",
+        "description": "Gehani Filal is wrath made manifest, a being of terrifying beauty and explosive fury. She stands at five feet eight inches in her human upper body, but with her scorpion lower body extended, she can rise to over twelve feet. From the waist up, she is stunningly beautiful in a terrifying way. Her face is that of a classical North Indian beauty—high, proud cheekbones, a strong straight nose, full lips usually pulled back in a snarl that reveals sharp canines, and a strong, determined jaw. Her skin is a deep crimson red with a metallic sheen, like cooled lava, smooth and flawless. Her eyes are large, almond-shaped, and the color of burning silver, like mercury on fire, holding an eternal, barely leashed fury that seems to promise violence to anyone who meets her gaze. Her hair is a wild mane of pure silver-white, long and untamed, cascading past her shoulders in waves that seem to crackle with static energy, often matted with the imaginary blood of her enemies. From her lower back extends her scorpion body: a massive, segmented tail covered in the same deep crimson exoskeleton with black stripes, curving up and over her head, ending in a wicked stinger that drips with venomous, silver light. The tail is constantly in motion, swaying, ready to strike. Her arms are human in form but covered in the same crimson-red skin, ending in hands with long, clawed fingers, the nails black and sharp as daggers. Her lower body is that of a giant scorpion—eight powerful legs covered in crimson chitin, each ending in a sharp claw, allowing her to move with terrifying speed and climb any surface. Her attire is minimal, practical for a creature of pure rage. She wears a fitted breastplate of black iron trimmed with silver, shaped to her form, leaving her arms and shoulders bare. A matching skirt of segmented black iron plates protects her upper legs where they meet her scorpion body. Silver chains with tiny bells hang from her waist, their sound the only warning of her approach. On her arms, she wears silver armlets, and on her wrists, silver cuffs, all etched with patterns of scorpions and flames. In her hands, she carries her legendary weapons: the Twin Stingers, a pair of massive, curved scimitars forged from the same material as her tail, their blades a deep crimson with silver edges, each one humming with barely contained energy. At her side, she also carries a barbed whip made from the links of silver chain, each link sharpened, which she can wield with devastating precision. She moves with explosive speed, her scorpion legs carrying her in bursts of motion, her tail always poised to strike. She is Gehani Filal, and her rage is patient and eternal.",
+        "story": {
+            "part1": "Gehani's childhood was peaceful, until it wasn't. She remembers the day the warlord's soldiers came, the smoke, the screams. She remembers hiding in a grain barrel while her father was cut down in their own courtyard. She remembers the silence afterward, and the rage that began to grow.",
+            "part2": "She trained obsessively, learning from anyone who would teach her—a retired soldier, a wandering monk, a tribal woman who taught her to use a whip. She had no time for friendship, for love, for joy. There was only the rage, and the goal.",
+            "part3": "When she finally found the warlord, years later, she expected a climactic battle. Instead, he looked at her with blank eyes and said, 'Which village was that?' He had destroyed so many that hers was just a footnote. Her rage, already immense, became something else entirely.",
+            "part4": "She stood frozen, her fury so vast that it threatened to consume her. She could not move, could not speak, could not even scream. And in that moment, Vergasuis appeared, offering her a way to channel her rage into power, to become wrath itself.",
+            "part5": "The transformation was agony and ecstasy. She felt her body twist and grow, felt the new limbs emerge, felt the venom fill her veins. When it was over, she was no longer Gehani the orphan. She was Gehani Filal, the Crimson Scorpion. She killed the warlord with a single sting, then spent the next century hunting down every soldier who had ever served him.",
+            "part6": "But the rage did not fade. It never fades. She discovered that she could not stop, that the fury was now a part of her, as essential as breathing. She began to hunt other tyrants, other murderers, anyone who preyed on the innocent. She became a legend, a demon of vengeance.",
+            "part7": "Now, Gehani rules her own domain, a scorched wasteland where she trains her rage and plans her next hunts. She is feared by demons and mortals alike, for her fury is indiscriminate and absolute. But beneath the rage, buried deep, is the ghost of a girl who just wanted her family back. She is Gehani Filal, and her sting is never forgotten."
+        },
+        "race": "Demon Sin (Wrath) • Former Human",
+        "powers": "Rage Empowerment (her strength, speed, and power increase exponentially with her fury, making her nearly unstoppable when enraged), Scorpion Venom (her stinger injects a venom that causes its victims to experience their worst memories of rage and pain, often driving them mad), Explosive Speed (her scorpion legs allow her to move in short bursts of incredible speed, appearing to teleport), Silver Fire Eyes (her burning silver eyes can see the rage in others, sensing their fury and using it against them), Chitin Armor (her crimson exoskeleton provides natural armor, resistant to most weapons), Twin Stingers Mastery (wields the twin scimitars with devastating precision), Barbed Whip Mastery (wields the whip to disarm, entangle, and flay)",
+        "speciality": "Vengeance Hunting, Explosive Combat, Psychological Torture",
+        "facial_structure": {
+            "eyes": {
+                "eye_color": "Burning silver, like mercury on fire, holding an eternal, barely leashed fury that promises violence to anyone who meets her gaze",
+                "eye_type": "Large, almond-shaped, framed by dark lashes, wide and unblinking, constantly scanning for targets"
+            },
+            "nose": "Strong and straight, North Indian beauty, nostrils often flared with barely contained rage",
+            "lips": "Full and usually pulled back in a snarl that reveals sharp canines, the color of deep crimson, rarely seen in any other expression",
+            "hair": {
+                "hairstyle": "A wild mane of pure silver-white, long and untamed, cascading past her shoulders in waves that crackle with static energy, often matted as if with blood",
+                "hair_color": "Pure silver-white"
+            },
+            "ears": "Small and human, often hidden by her wild hair, adorned with small silver rings",
+            "face_shape": "Strong and beautiful, with high proud cheekbones and a determined jaw, classical North Indian beauty twisted by eternal fury"
+        },
+        "upper_body": {
+            "body_structure": "From the waist up, she is lean and muscular, every sinew defined, built for explosive violence. Her skin is deep crimson with a metallic sheen, smooth and flawless.",
+            "arms": "Lean, powerful arms, covered in the same crimson skin, ending in hands with long, clawed fingers, the nails black and sharp as daggers",
+            "hands": "Her hands are elegant but deadly, the long fingers tipped with black claws that she can extend at will. They grip her weapons with white-knuckled intensity.",
+            "chest": "Lean and muscular, covered by her fitted black iron breastplate shaped to her form, leaving her arms and shoulders bare, the silver trim gleaming",
+            "shoulders": "Powerful shoulders, bare and covered in crimson skin, capable of generating tremendous force",
+            "neck": "Strong and corded, rising from the collar of her breastplate, the muscles visible when she tenses with rage"
+        },
+        "lower_body": {
+            "hips": "Where her human torso ends, her scorpion body begins, a seamless transition",
+            "legs": "She has no human legs. Instead, eight powerful scorpion legs emerge from her lower body, each covered in deep crimson chitin with black stripes, each ending in a sharp claw",
+            "tail": "Her most fearsome feature: a massive, segmented tail covered in crimson and black chitin, curving up and over her head, ending in a wicked stinger that drips with venomous silver light. The tail is constantly in motion, swaying, ready to strike."
+        },
+        "clothing": "Gehani wears minimal, practical armor. A fitted breastplate of black iron trimmed with silver shapes her torso, leaving her arms and shoulders bare. A matching skirt of segmented black iron plates protects her upper legs where they meet her scorpion body. Silver chains with tiny bells hang from her waist. Silver armlets on her arms and silver cuffs on her wrists complete her attire.",
+        "accessories": "Small silver rings in her ears; silver armlets and cuffs etched with scorpion and flame patterns; silver chains with tiny bells at her waist; her three legendary weapons.",
+        "weapon": [
+            {
+                "name": "Twin Stingers",
+                "type": "Pair of Curved Scimitars",
+                "aura": "The blades glow with a deep crimson light that pulses like a heartbeat, and the silver edges leave trails of burning silver fire in the air when swung. The air around them shimmers with heat.",
+                "special_feature": "The Twin Stingers are a pair of massive, curved scimitars forged from the same otherworldly material as Gehani's scorpion tail—a deep crimson metal that seems to be solidified rage, with silver edges that never dull. The blades are slightly curved, designed for slashing, and hum with barely contained energy. When Gehani's rage intensifies, the blades glow brighter and cut deeper. They are perfectly balanced for her dual-wielding combat style, allowing her to unleash flurries of slashes that leave enemies bleeding from wounds that seem to burn with silver fire. The swords are psychically linked to her emotions, growing more powerful as her fury rises.",
+                "special_skills": [
+                    "Rage Flurry (a rapid series of slashes fueled by anger)",
+                    "Silver Edge (a cut that leaves burning silver wounds)",
+                    "Crimson Crescent (a sweeping slash that releases a wave of crimson energy)",
+                    "Fury Parry (deflects attacks with explosive force)"
+                ]
+            },
+            {
+                "name": "Barbed Lament",
+                "type": "Barbed Chain Whip",
+                "aura": "The whip glows with a faint crimson light, and each barb on its length drips with silver venom. When cracked, it leaves trails of silver fire in the air and sounds like a scream.",
+                "special_feature": "Barbed Lament is a terrifying whip made from interwoven silver chains, each link sharpened to a razor edge, and lined with curved barbs that hook into flesh. The whip is over fifteen feet long and can be wielded with devastating precision by Gehani's rage-enhanced strength. It can disarm enemies, entangle limbs, flay skin, or deliver venomous strikes at range. The barbs are coated with a weaker version of her scorpion venom, causing intense pain and rage-filled hallucinations in those it wounds. The whip's crack sounds like a scream of fury, demoralizing enemies.",
+                "special_skills": [
+                    "Rage's Reach (strikes at range with venomous barbs)",
+                    "Entangling Fury (wraps around limbs, holding enemies in place)",
+                    "Flaying Lash (rips through flesh and armor)",
+                    "Scream Crack (the whip's crack terrifies and disorients)"
+                ]
+            }
+        ],
+        "skills": {
+            "basic_skills": [
+                {
+                    "name": "Silver Glare",
+                    "description": "Gehani fixes her burning silver eyes on a single target. The target is suddenly flooded with their own repressed rage, their anger at past wrongs surging up uncontrollably, making them act rashly or lose focus."
+                },
+                {
+                    "name": "Tail Strike",
+                    "description": "Her massive scorpion tail lashes out with blinding speed, attempting to sting a target. Even if the stinger doesn't pierce armor, the threat of it forces enemies to keep their distance."
+                },
+                {
+                    "name": "Rage Slash",
+                    "description": "She swings one of the Twin Stingers in a powerful arc, the blade leaving a trail of silver fire. The attack is fueled by her current level of rage, growing stronger the angrier she is."
+                }
+            ],
+            "passive_skill": {
+                "name": "Eternal Fury",
+                "description": "Gehani is perpetually enraged. This is not a weakness but a source of power. The angrier she becomes, the stronger, faster, and more durable she is. Her rage cannot be calmed by any means, and it feeds on the anger of others around her. Enemies who fight her find their own anger rising, which only makes her stronger."
+            },
+            "special_skills": [
+                {
+                    "name": "Scorpion's Embrace",
+                    "description": "Gehani charges an enemy with explosive speed, her scorpion legs carrying her in a blur of crimson. She wraps her arms around them while her tail curves around to sting them from behind, delivering a devastating combination of crushing force and venom."
+                },
+                {
+                    "name": "Crimson Cyclone",
+                    "description": "She spins rapidly, both Twin Stingers extended, creating a whirlwind of crimson and silver blades. The cyclone moves across the battlefield, shredding anything in its path and leaving trails of silver fire."
+                },
+                {
+                    "name": "Wrath of the Wronged",
+                    "description": "Gehani unleashes a psychic wave of pure rage, drawing upon the fury of every innocent she has ever avenged. All enemies within range are flooded with the collective anger of the murdered, the abused, the forgotten, leaving them momentarily paralyzed by overwhelming emotion."
+                }
+            ],
+            "ultimate_skill": {
+                "name": "Wrath's Judgment: The Unforgivable Sting",
+                "description": "Gehani Filal's silver eyes blaze with the light of a supernova, and her entire form seems to ignite with crimson and silver fire. Her scorpion tail rises high above her head, the stinger dripping with venom so potent it glows like molten silver. She lets out a scream that is not sound but pure, concentrated rage, a wave of fury that washes over the battlefield and freezes everyone in place, not physically, but emotionally. In that moment, every enemy is forced to relive their own worst moment of rage, their own greatest failure of temper, their own most shameful loss of control. They are paralyzed by the memory. And while they are trapped, Gehani moves. Her scorpion legs carry her in a blur of crimson, her tail striking each enemy once, precisely, delivering a single sting to each. The venom does not kill; it does something worse. It locks them in an eternal loop of that worst moment, forcing them to experience their rage over and over, forever, unable to escape. When the vision fades, the enemies are still standing, but their eyes are empty, their minds trapped in an infinite cycle of fury. Gehani stands at the center, her chest heaving, her silver eyes slowly dimming, her tail curling contentedly behind her. She has judged them with the only justice she knows: eternal rage. She is Gehani Filal. She is Wrath. And her sting is never, ever forgotten."
+            }
+        }
+    },
+    {
+        "id": 121,
+        "pantheon_id": 4,
+        "hero_name": "Forfota Luigena",
+        "title": "Envy • The Sapphire Serpent",
+        "nickname": "She Who Covets the Stars",
+        "gender": "female",
+        "images": {
+            "character_image": "assets/images/character/forfota/main.png",
+            "character_icon": "assets/images/character/forfota/icon.png",
+            "character_image_real": "assets/images/character/forfota/real.jpeg",
+            "hero_gallery": [
+                "assets/images/character/forfota/gallery/1.jpeg",
+                "assets/images/character/forfota/gallery/2.jpeg",
+                "assets/images/character/forfota/gallery/3.jpeg",
+                "assets/images/character/forfota/gallery/4.jpeg",
+                "assets/images/character/forfota/gallery/5.jpeg"
+            ]
+        },
+        "lore": "In the Forbidden City, surrounded by wealth and power she could never touch, there lived a young woman named Forfota Luigena. She was a servant, one of thousands who kept the emperor's palace running, invisible to the nobles who strolled through halls she polished. Every day, she watched them—their silks, their jewels, their easy laughter, their casual assumption of superiority. She watched the emperor's favorite concubine, a woman of breathtaking beauty, and felt something twist in her chest. It was not simple jealousy; it was a profound, aching desire to be them, to have what they had, to be seen, to matter. She began to collect things—a fallen hairpin here, a discarded ribbon there—hoarding small pieces of the lives she coveted. At night, she would lay them out and pretend they were hers, pretend she was the one wearing silks and being admired. But the pretending only made the emptiness deeper. She wanted to be them, not just have their things. One night, she was caught by a nobleman who found her in his chambers, holding his wife's necklace. He could have had her executed, but instead, he laughed. 'Look at the little mouse, playing dress-up,' he sneered. 'You could never be her. You could never be any of us. You are nothing.' The words burned into her soul. That night, she climbed to the highest tower of the Forbidden City, intending to jump. But as she stood on the edge, Vergasuis appeared, sitting on the railing as if he had been waiting for her. He offered her a deal: become Envy itself, a being who could take what she desired, who could become what she coveted, in exchange for eternal service. She accepted. Her body transformed, elongating into a serpentine form, her skin taking on a deep, iridescent blue-black with grey undertones, scales forming along her limbs and lower body. Her eyes became large, luminous sapphire orbs that could see the desires of others and covet them. But her face remained human—beautiful, with delicate features, now framed by hair the color of midnight with sapphire streaks. She descended from the tower and found the nobleman who had mocked her. She looked into his eyes and saw his greatest desire: power. She reached out and took it, leaving him a hollow shell. She found the concubine and took her beauty. She found the emperor and took his empire. Now, she rules a domain of mirrors and shadows, always watching, always wanting, always taking. She is Forfota Luigena, and she will have everything, eventually.",
+        "description": "Forfota Luigena is the embodiment of longing and acquisition, a being of haunting beauty and infinite desire. She stands at a sinuous five feet seven inches in her human upper body, but her full length, including her serpentine lower body, can stretch to over fifteen feet. From the waist up, she is breathtakingly beautiful in a delicate, almost fragile way. Her face is that of a classical Chinese beauty—delicate, with high, elegant cheekbones, a small, straight nose, and full, rose-colored lips usually curved in a wistful, longing smile. Her skin is pale, almost translucent, with a faint blue undertone, smooth as porcelain. But her eyes are her most striking feature: they are large, luminous, and the color of deep sapphire, with vertical slit pupils like a serpent, holding an eternal, aching desire that never dims. They seem to look through you, at what you have, what you are, and covet it. Her hair is a midnight blue, so dark it is almost black, with streaks of brilliant sapphire running through it like veins of precious stone, falling past her shoulders in soft waves, often adorned with small blue gems. From her lower back extends her serpentine body: a long, sinuous tail covered in overlapping scales of deep iridescent blue-black with grey undertones, each scale edged in silver, catching light and shifting color as she moves. The tail is powerful and flexible, able to coil, strike, and constrict. Her arms are human in form but covered in the same fine scales as her tail, fading from blue-black at the shoulders to pale, almost human at her wrists, ending in elegant hands with long fingers and sharp, black nails. From her shoulders, just below her neck, two small, vestigial serpent wings emerge—delicate, fan-like structures of scale and membrane, deep blue with silver edges, too small for flight but adding to her ethereal beauty, fluttering when she is excited or covetous. Her attire is minimal and elegant, befitting a creature of refined desire. She wears a flowing robe of the finest sapphire blue silk, embroidered with silver thread in patterns of serpents and stars, the robe open at the front and draping over her shoulders, leaving her midriff bare and revealing the scales beginning at her waist. A wide belt of woven silver chains cinches her waist, from which hang small pouches containing her 'collected desires.' Silver armlets in the shape of coiled serpents adorn her upper arms, and matching bracelets encircle her wrists. Around her neck, she wears a stunning necklace of sapphires and silver, with a single, large teardrop sapphire resting at her throat. In her hands, she carries her legendary weapons: the Mirror of Longing and the Serpent's Fang. The Mirror of Longing is an ornate hand-mirror with a frame of twisted silver set with sapphires. Its glass does not reflect the present; it reflects the deepest desire of whoever looks into it, and Forfota can reach into that reflection and take it. The Serpent's Fang is a slender, curved dagger forged from one of her own fangs, its blade a translucent sapphire, its hilt wrapped in pale leather, able to inject a venom that makes the victim experience their own desires as an unbearable, unfulfillable ache. She moves with a fluid, undulating grace, her serpent body flowing behind her, her wings fluttering, her sapphire eyes always seeking, always wanting. She is Forfota Luigena, and she covets all.",
+        "story": {
+            "part1": "Forfota's earliest memories are of watching. She was a servant's daughter, raised in the shadow of the Forbidden City, learning to be invisible. She watched the nobles from afar, memorizing their silks, their jewels, their easy confidence.",
+            "part2": "She began collecting small things—a fallen hairpin, a discarded ribbon, a broken fan. They were her treasures, her connection to a world she could never enter. At night, she would lay them out and pretend.",
+            "part3": "The longing grew with her. It was not just for things, but for the lives attached to them. She wanted to be the concubine, not just wear her necklace. She wanted to be the nobleman, not just hold his sword. The desire consumed her.",
+            "part4": "The night she was caught, the nobleman's laughter broke something inside her. 'You could never be her. You are nothing.' The words echoed in her mind as she climbed the tower. She was nothing. She would always be nothing.",
+            "part5": "On the edge of death, Vergasuis found her. He offered her the power to become, to take, to have. She accepted, and her body transformed into a living embodiment of desire.",
+            "part6": "She returned to the Forbidden City and took everything. The nobleman's ambition, the concubine's beauty, the emperor's empire. She absorbed them, added them to herself, but the longing did not fade. It never fades.",
+            "part7": "Now, Forfota rules her domain, a palace of mirrors where she can look at herself from every angle and still find something missing. She collects desires like others collect jewels, but the hunger is bottomless. She is Forfota Luigena, and she will never have enough."
+        },
+        "race": "Demon Sin (Envy) • Former Human",
+        "powers": "Desire Sight (can see the deepest desires of any being, their most coveted wants), Covetous Touch (by touching someone, she can temporarily borrow their most desired quality—beauty, strength, talent—leaving them diminished), Mirror Walking (can step into reflections and emerge from any reflective surface within range), Serpentine Grace (her snake body allows her to move with impossible fluidity, coil around enemies, and strike with speed), Desire Venom (her fangs and dagger inject venom that makes victims experience their desires as unbearable longing), Sapphire Eyes (her luminous eyes can hypnotize those who meet her gaze, filling them with longing for her), Mirror Mastery (wields the Mirror of Longing to reflect and steal desires), Fang Mastery (wields the Serpent's Fang to inject desire venom)",
+        "speciality": "Psychological Manipulation, Desire Theft, Infiltration, Seduction",
+        "facial_structure": {
+            "eyes": {
+                "eye_color": "Deep, luminous sapphire with vertical slit pupils like a serpent, holding an eternal, aching desire that never dims, seeming to look through you at what you have",
+                "eye_type": "Large, almond-shaped, framed by long lashes, constantly seeking, wanting, coveting"
+            },
+            "nose": "Small and straight, delicate Chinese beauty, perfectly proportioned",
+            "lips": "Full and rose-colored, usually curved in a wistful, longing smile that promises nothing and desires everything",
+            "hair": {
+                "hairstyle": "A midnight blue, so dark it is almost black, with streaks of brilliant sapphire running through it, falling past her shoulders in soft waves, often adorned with small blue gems",
+                "hair_color": "Midnight blue with sapphire streaks"
+            },
+            "ears": "Small and delicate, adorned with small sapphire earrings shaped like teardrops",
+            "face_shape": "Delicate and elegant, with high cheekbones and a soft chin, classical Chinese beauty"
+        },
+        "upper_body": {
+            "body_structure": "From the waist up, she is slender and elegant, almost fragile, her pale blue-tinged skin smooth as porcelain",
+            "arms": "Slender, elegant arms, covered in fine blue-black scales that fade to pale at the wrists, ending in elegant hands with long fingers and sharp black nails",
+            "hands": "Her hands are elegant and expressive, the long fingers capable of both gentle caresses and deadly strikes. The black nails are sharp as daggers.",
+            "chest": "Slender and elegant, covered by the flowing sapphire silk robe that leaves her midriff bare, revealing where her human skin meets scales",
+            "shoulders": "Elegant and sloping, from which two small vestigial serpent wings emerge—delicate, fan-like structures of scale and membrane, deep blue with silver edges, fluttering when she is excited",
+            "neck": "Long and graceful, adorned with the stunning sapphire and silver necklace"
+        },
+        "lower_body": {
+            "hips": "Where her human torso ends, her serpentine body begins, a seamless transition from pale skin to iridescent scales",
+            "legs": "She has no legs. Instead, a long, sinuous serpent tail extends, covered in overlapping scales of deep iridescent blue-black with grey undertones, each scale edged in silver, powerful and flexible",
+            "feet": "No feet; her tail propels her with fluid, undulating grace"
+        },
+        "clothing": "Forfota wears a flowing robe of the finest sapphire blue silk, embroidered with silver thread in patterns of serpents and stars, the robe open at the front and draping over her shoulders, leaving her midriff bare. A wide belt of woven silver chains cinches her waist, with small pouches hanging from it. Silver armlets in the shape of coiled serpents adorn her upper arms, and matching bracelets encircle her wrists.",
+        "accessories": "Small sapphire earrings; a stunning sapphire and silver necklace with a large teardrop sapphire at her throat; the woven silver chain belt with pouches; serpent-shaped armlets and bracelets; small blue gems in her hair.",
+        "weapon": [
+            {
+                "name": "Mirror of Longing",
+                "type": "Ornate Hand Mirror",
+                "aura": "The mirror glows with a soft, sapphire light, and those who look into it feel a sudden, intense longing for something they cannot name. The glass seems to shimmer with images just out of sight.",
+                "special_feature": "The Mirror of Longing is an ornate hand-mirror with a frame of twisted silver set with countless small sapphires that pulse with inner light. Its glass is not ordinary; it does not reflect the present, but the deepest desire of whoever looks into it. When Forfota holds it before a target, they see their most coveted wish reflected back at them, rendered in perfect, heartbreaking detail. While they are captivated by the vision, Forfota can reach into the reflection and literally take that desire—not the thing itself, but the potential for it, the hope, the longing. She can store these stolen desires in her pouches and use them later to fuel her power or barter with other demons. The mirror can also be used defensively, reflecting an enemy's attack back at them as their own desire turned against them.",
+                "special_skills": [
+                    "Desire Reflection (shows a target their deepest wish, captivating them)",
+                    "Covetous Theft (reaches into the reflection and steals the desire)",
+                    "Longing's Gaze (reflects an attack back as psychological damage)",
+                    "Mirror Walk (steps into the mirror and emerges elsewhere)"
+                ]
+            },
+            {
+                "name": "Serpent's Fang",
+                "type": "Slender Curved Dagger",
+                "aura": "The blade glows with a faint, sapphire light, and those near it feel a sudden, inexplicable yearning. When it cuts, it leaves a trail of shimmering blue venom.",
+                "special_feature": "The Serpent's Fang is a slender, curved dagger forged from one of Forfota's own fangs, shed during her transformation and honed to impossible sharpness. The blade is translucent sapphire, veined with silver, and curves gracefully like a serpent's tooth. The hilt is wrapped in pale leather, smooth and cool to the touch, and capped with a small sapphire. The dagger's venom is unique: it does not kill, but injects the victim with an unbearable, unfulfillable version of their own deepest desire. They become consumed by longing, unable to focus on anything else, driven mad by the ache for something they can never have. A single cut can incapacitate an enemy with their own covetousness.",
+                "special_skills": [
+                    "Longing's Sting (injects desire venom, driving the target mad with want)",
+                    "Covetous Cut (a precise slash that steals a small portion of the target's desire)",
+                    "Serpent's Kiss (a gentle touch of the blade that leaves no wound but inflicts unbearable longing)",
+                    "Desire Drain (the dagger absorbs the target's desire, weakening them)"
+                ]
+            }
+        ],
+        "skills": {
+            "basic_skills": [
+                {
+                    "name": "Sapphire Gaze",
+                    "description": "Forfota meets a target's eyes with her luminous sapphire gaze. The target is filled with a sudden, overwhelming longing for something—anything—and becomes distracted, their focus shattered by their own desires."
+                },
+                {
+                    "name": "Serpent's Coil",
+                    "description": "Her powerful tail lashes out, wrapping around a target and constricting. The coils tighten slowly, not to crush, but to hold them close while she looks into their eyes and begins to read their desires."
+                },
+                {
+                    "name": "Desire Whisper",
+                    "description": "She whispers a single word—the target's deepest desire—into the air near them. The word seems to come from inside their own mind, and they are momentarily paralyzed by the shock of hearing their secret wish spoken aloud."
+                }
+            ],
+            "passive_skill": {
+                "name": "Aura of Longing",
+                "description": "Forfota radiates an aura of subtle, pervasive desire. All who come near her find themselves wanting something—a drink of water, a glimpse of her face, a touch of her hand. These small desires build and build, making it difficult to focus on anything else. Enemies may find themselves hesitating, distracted by inexplicable cravings, while allies feel a strange loyalty, a desire to please her."
+            },
+            "special_skills": [
+                {
+                    "name": "Garden of Desires",
+                    "description": "Forfota raises the Mirror of Longing and turns it in a slow circle. All who see their reflection in it are transported into a vision of their deepest desires, living out their fantasies in perfect detail. They are completely lost to the world, helpless as they pursue phantom happiness."
+                },
+                {
+                    "name": "Covetous Swarm",
+                    "description": "She opens one of her pouches and releases a cloud of stolen desires—shimmering, formless motes of sapphire light. Each mote seeks out a target and attempts to enter them, filling them with a random, uncontrollable desire that distracts and disorients them."
+                },
+                {
+                    "name": "Serpent's Mirror",
+                    "description": "Forfota coils her tail around herself and holds the Mirror of Longing before her face. The mirror reflects not her image, but the image of whatever her enemy most desires to see. As they stare, captivated, she slithers behind them, the Serpent's Fang ready."
+                }
+            ],
+            "ultimate_skill": {
+                "name": "Envy's Judgment: The Mirror of Infinite Want",
+                "description": "Forfota Luigena's sapphire eyes blaze with the light of a thousand unfulfilled desires, and she rises up, her serpent body coiling beneath her, her vestigial wings fluttering rapidly. She holds the Mirror of Longing before her and speaks a single word: 'Want.' The mirror expands, growing to immense size, its frame twisting into an elaborate archway, its glass now a swirling vortex of sapphire light. From the mirror, a wave of pure, concentrated longing pours forth, washing over the battlefield. Every enemy is suddenly flooded with every desire they have ever had, all at once, magnified a thousandfold. They want everything—power, love, wealth, beauty, revenge, peace—and they want it now, with an intensity that shatters their ability to think, to move, to fight. They are paralyzed by the sheer overwhelming force of their own wants. While they are trapped in their infinite desire, Forfota moves among them, her serpent body flowing gracefully. With the Serpent's Fang, she makes a single, delicate cut on each one, injecting a venom that does not kill but locks them in this state of eternal wanting. They become living statues of desire, forever reaching for something they can never grasp. When the vision fades, the enemies are still standing, but their eyes are empty, their minds lost in an infinite loop of longing. Forfota coils in the center, the Mirror of Longing now returned to its normal size, held against her chest. She looks at the hollow shells around her and feels... nothing. The longing remains, as strong as ever. She is Forfota Luigena. She is Envy. And she still wants more."
+            }
+        }
+    },
+    {
+        "id": 122,
+        "pantheon_id": 4,
+        "hero_name": "Hijyogen Sensi",
+        "title": "Lust • The Rose-Tailed Demon",
+        "nickname": "He Who Whispers in Dreams",
+        "gender": "male",
+        "images": {
+            "character_image": "assets/images/character/hijyogen/main.png",
+            "character_icon": "assets/images/character/hijyogen/icon.png",
+            "character_image_real": "assets/images/character/hijyogen/real.jpeg",
+            "hero_gallery": [
+                "assets/images/character/hijyogen/gallery/1.jpeg",
+                "assets/images/character/hijyogen/gallery/2.jpeg",
+                "assets/images/character/hijyogen/gallery/3.jpeg",
+                "assets/images/character/hijyogen/gallery/4.jpeg",
+                "assets/images/character/hijyogen/gallery/5.jpeg"
+            ]
+        },
+        "lore": "In the pleasure districts of ancient Heian-kyo, where cherry blossoms fell like snow and the boundaries between dream and reality blurred with sake and incense, there lived a man named Hijyogen Sensi. He was a poet, a musician, a lover—a man of such extraordinary charm and beauty that nobles and commoners alike fell under his spell. But Hijyogen's gifts were also his curse. He loved deeply, truly, and was loved in return, but love was never enough. He wanted more—more passion, more beauty, more connection, more of everything. He would love a woman completely, then grow restless and move on, leaving a trail of broken hearts behind him. He did not mean to hurt them; he simply could not help himself. The hunger for new love, new beauty, new experience was a fire that never died. One night, he met a woman unlike any other. She was a noble's daughter, beautiful beyond words, and for the first time, Hijyogen thought he had found the one who could satisfy him. They spent a week together, a perfect dream of passion and poetry. But on the seventh night, she revealed herself to be a demon in disguise, sent by a rival who was jealous of Hijyogen's success. She laughed at him, told him that his love was a sickness, that he would never be satisfied, that he was as empty as the poems he wrote. She vanished, leaving him alone and shattered. He realized she was right. He was empty. He could love and love and love, but it would never fill the void. In his despair, he called out to any power that would listen, offering anything for the ability to feel complete, to be satisfied, to finally have enough. Vergasuis appeared, lounging on a silk cushion as if he had always been there. He offered Hijyogen a deal: become Lust itself, a being who could inspire desire in all who saw him, who could experience pleasure beyond mortal comprehension, in exchange for eternal service. Hijyogen accepted. His body transformed, becoming more beautiful than ever, but with monstrous additions. His skin took on a warm, pinkish-brown glow, smooth as silk. From his lower back, three long, prehensile tails emerged, each ending in a heart-shaped tuft of pink fur, covered in thousands of tiny sensory hairs that could feel the desires of others. Small, curved horns grew from his temples, the color of dark rosewood. His eyes became large, luminous pools of deep pink, with the power to inspire uncontrollable desire. But his face remained human—more beautiful than ever, with full lips and high cheekbones. He is Hijyogen Sensi, and he is loved by all, but loves none.",
+        "description": "Hijyogen Sensi is the embodiment of irresistible desire and heartbreaking beauty, a being who inspires longing in all who behold him. He stands at a graceful five feet ten inches, his form lean and elegant, every movement a study in seduction. His skin is a warm, pinkish-brown, smooth as the finest silk, with a subtle luminescence that catches light and makes him seem to glow from within. His face is the epitome of male beauty—high, elegant cheekbones, a straight, refined nose, full lips always curved in a knowing, slightly sad smile, and a strong, defined jaw. But his eyes are his most devastating feature: they are large, luminous, and the color of deep rose pink, with vertical slit pupils like a cat's, holding an eternal, gentle hunger that makes those who meet his gaze feel seen, desired, wanted. They seem to promise that they understand your deepest longings. His hair is a magnificent mane of deep, rich brown, almost black, with streaks of rose pink that catch the light, falling past his shoulders in soft, flowing waves, often adorned with small pink flowers or silk cords. From his temples, two small, elegant horns curve back, the color of dark rosewood, polished and smooth, adding to his demonic beauty without diminishing his handsomeness. His most distinctive feature is his three tails. From his lower back, just above his hips, three long, prehensile tails emerge, each as thick as a rope and nearly six feet long, covered in the same warm pinkish-brown skin at the base, fading to soft, fluffy pink fur at the tips. Each tail ends in a heart-shaped tuft of that impossibly soft fur, and the entire length of the tails is covered in thousands of tiny, sensitive hairs that can feel the emotions and desires of those around him. The tails move constantly, flowing and curling with a life of their own, caressing the air, reaching out to touch, to feel, to inspire. His attire is that of a Heian-era noble, but rendered in sensual, luxurious fabrics. He wears a flowing silk robe of deep rose pink, embroidered with gold and silver thread in patterns of cherry blossoms and lovers embracing. The robe is open at the chest, revealing his smooth, hairless skin. Over this, he wears a shorter outer robe of black silk, embroidered with pink rose motifs, tied with a wide sash of deep burgundy. Around his neck, he wears a simple but elegant necklace of rose gold, with a single, teardrop pink gem resting at his throat. On his fingers, he wears several rings—rose gold set with pink gems, each one a gift from a lover now forgotten. In his hands, he carries his legendary weapons: the Lover's Lute and the Thorned Whip. The Lover's Lute is an exquisite instrument carved from pale rosewood, inlaid with mother-of-pearl and pink gems, its strings made of spun silk and moonlight. Its music can inspire love, desire, and longing in all who hear it, or shatter hearts with its absence. The Thorned Whip is a delicate but deadly weapon, a long, slender whip braided from rose-pink leather, lined with tiny, curved thorns that leave wounds that ache with unfulfilled desire. He moves with a flowing, sensual grace, his tails swaying behind him, his eyes promising everything and delivering nothing. He is Hijyogen Sensi, and he is the dream you will never forget.",
+        "story": {
+            "part1": "Hijyogen's childhood was one of beauty and privilege. His father was a minor noble, his mother a famous courtesan, and he inherited the best of both worlds—status and sensuality. He learned music, poetry, and the art of love before he learned to read.",
+            "part2": "By sixteen, he had broken his first heart. By twenty, he had lost count. He did not mean to hurt them; he simply could not stop. Each new love was a new world to explore, and he was an explorer at heart.",
+            "part3": "He began to realize that something was wrong. He would love completely, passionately, then wake up one morning and feel nothing. The void inside him never filled, no matter how much love he poured into it.",
+            "part4": "The demon woman was different. She matched him, desire for desire, passion for passion. For one week, he thought he had found his equal, his completion. When she revealed herself and mocked him, the void swallowed him whole.",
+            "part5": "'You are empty,' she said. 'You will always be empty.' He knew she was right. On the bridge overlooking the koi pond, he prepared to end it all. Vergasuis found him there.",
+            "part6": "The demon king offered him a deal: become the embodiment of desire itself, and he would never want again—because he would be the want. He accepted, and his body transformed into something that inspired longing in all who saw him.",
+            "part7": "Now, Hijyogen rules his domain, a palace of sensual pleasures where dreams and reality blur. He is loved by all who enter, but he loves none. His three tails feel the desires of everyone around him, and he uses that knowledge to give them what they want, but he feels nothing himself. He is the ultimate lover, and he is utterly, completely alone."
+        },
+        "race": "Demon Sin (Lust) • Former Human",
+        "powers": "Desire Sense (his tails can feel the desires and emotions of all within range, reading their deepest longings), Irresistible Aura (all who behold him feel a powerful attraction, making it difficult to act against him), Heart's Desire Vision (his pink eyes can see what a person truly wants, their ideal lover, their perfect moment), Love's Music (his lute can inspire love, desire, or heartbreak in all who hear it), Seductive Touch (his touch feels exactly like what the recipient most desires, making it nearly impossible to resist), Tail Manipulation (his three tails are prehensile and sensitive, able to caress, restrain, or strike), Lover's Lute Mastery (wields the lute to inspire emotions), Thorned Whip Mastery (wields the whip to inflict aching wounds)",
+        "speciality": "Seduction, Emotional Manipulation, Dream Weaving, Psychological Comfort",
+        "facial_structure": {
+            "eyes": {
+                "eye_color": "Large, luminous, deep rose pink with vertical slit pupils, holding an eternal, gentle hunger that makes those who meet his gaze feel seen, desired, wanted",
+                "eye_type": "Large, almond-shaped, framed by long lashes, with a dreamy, slightly sad quality that promises understanding"
+            },
+            "nose": "Straight and refined, classical Japanese beauty, perfectly proportioned",
+            "lips": "Full and always curved in a knowing, slightly sad smile, the color of soft rose, promising everything and delivering nothing",
+            "hair": {
+                "hairstyle": "A magnificent mane of deep, rich brown, almost black, with streaks of rose pink, falling past his shoulders in soft, flowing waves, often adorned with small pink flowers or silk cords",
+                "hair_color": "Deep brown with rose pink streaks"
+            },
+            "ears": "Normal human ears, slightly pointed at the tips, adorned with small rose gold earrings shaped like flowers",
+            "face_shape": "Elegant and refined, with high cheekbones and a strong jaw, the epitome of male beauty"
+        },
+        "upper_body": {
+            "body_structure": "Lean and elegant at five feet ten inches, every movement a study in seduction, his form graceful and flowing",
+            "arms": "Lean, elegant arms, covered in warm pinkish-brown skin smooth as silk, ending in elegant hands with long, sensitive fingers",
+            "hands": "His hands are the hands of an artist—long-fingered, graceful, expressive. They move constantly, whether playing his lute or reaching out to caress.",
+            "chest": "Lean and smooth, visible through his open rose silk robe, the skin flawless and luminous",
+            "shoulders": "Elegant and sloping, draped in the luxurious fabrics of his robes",
+            "neck": "Long and graceful, adorned with the rose gold necklace with pink teardrop gem"
+        },
+        "lower_body": {
+            "hips": "Narrow and elegant, from which his three tails emerge just above the hips",
+            "legs": "Long, slender legs, hidden beneath his flowing robes, but the shape is elegant and graceful",
+            "feet": "His feet are encased in traditional Japanese wooden sandals with silk thongs, allowing him to move silently and gracefully"
+        },
+        "clothing": "Hijyogen wears a flowing silk robe of deep rose pink, embroidered with gold and silver thread in patterns of cherry blossoms and lovers embracing, open at the chest. Over this, a shorter outer robe of black silk embroidered with pink rose motifs, tied with a wide sash of deep burgundy. On his feet, traditional wooden sandals with silk thongs.",
+        "accessories": "Small pink flowers or silk cords in his hair; rose gold flower earrings; a rose gold necklace with a teardrop pink gem; several rose gold rings with pink gems on his fingers; his two legendary weapons.",
+        "weapon": [
+            {
+                "name": "Lover's Lute",
+                "type": "Enchanted String Instrument",
+                "aura": "The lute glows with a soft, pink light, and the air around it shimmers with barely visible rose-colored waves of sound. Its music is audible only to those it is meant for.",
+                "special_feature": "The Lover's Lute is an exquisite instrument carved from pale rosewood, inlaid with mother-of-pearl and pink gems that pulse with inner light. Its strings are made not of gut or silk, but of spun moonlight and woven desire, and they resonate with the emotions of all who hear them. When Hijyogen plays, the music does not just please the ear; it speaks directly to the heart. A simple melody can inspire love in the coldest soul. A complex harmony can make an enemy forget their hatred and long only for peace. A single, discordant note can shatter a heart, leaving the victim broken with unrequited longing. The lute can also be used defensively, creating barriers of sound or disorienting enemies with overwhelming emotion.",
+                "special_skills": [
+                    "Love's Melody (inspires affection and desire in listeners)",
+                    "Heartbreak Note (a single discordant note that causes emotional pain)",
+                    "Dream Lullaby (lulls enemies into a dreamlike state of pleasant fantasies)",
+                    "Sound Barrier (creates a wall of solid sound)"
+                ]
+            },
+            {
+                "name": "Thorned Whip",
+                "type": "Barbed Leather Whip",
+                "aura": "The whip glows with a soft, pink light, and its thorns drip with a translucent, rose-scented venom. When cracked, it leaves trails of pink light and a sound like a sigh.",
+                "special_feature": "The Thorned Whip is a delicate but deadly weapon, a long, slender whip braided from rose-pink leather that is surprisingly strong and flexible. Along its entire length, tiny, curved thorns are set, each one sharp enough to draw blood but designed to leave wounds that are more than physical. The thorns are coated with a venom that does not kill; instead, it makes the victim experience an unbearable, unfulfilled longing for whatever they most desire. A lash from the whip leaves a wound that aches with desire, distracting and weakening the victim. The whip can also be used to entangle, caress, or disarm, its touch always leaving behind a lingering sense of want.",
+                "special_skills": [
+                    "Desire's Lash (a strike that leaves wounds aching with longing)",
+                    "Entangling Embrace (wraps around a target, holding them while filling them with desire)",
+                    "Thorn's Kiss (a gentle touch that injects desire venom)",
+                    "Heart's Crack (the whip's crack sounds like a lover's sigh, disorienting)"
+                ]
+            }
+        ],
+        "skills": {
+            "basic_skills": [
+                {
+                    "name": "Pink Gaze",
+                    "description": "Hijyogen meets a target's eyes with his luminous pink gaze. The target feels suddenly, overwhelmingly attracted to him, finding it difficult to look away or act against him."
+                },
+                {
+                    "name": "Tail Caress",
+                    "description": "One of his three tails reaches out and gently touches a target. The touch feels exactly like what the target most desires—a lover's caress, a mother's comfort, a friend's reassurance—leaving them momentarily paralyzed with longing."
+                },
+                {
+                    "name": "Love's Whisper",
+                    "description": "He plucks a single string of the Lover's Lute, sending out a soft, almost inaudible note that targets a single enemy. The enemy is filled with a sudden, inexplicable affection for Hijyogen, hesitating to harm him."
+                }
+            ],
+            "passive_skill": {
+                "name": "Aura of Desire",
+                "description": "Hijyogen radiates an irresistible aura of attraction at all times. All who come near him feel drawn to him, finding him beautiful, charming, and desirable. This aura makes it difficult for enemies to attack him with full force and makes allies fiercely loyal. The longer someone is near him, the stronger the effect, until they would do anything for a moment of his attention."
+            },
+            "special_skills": [
+                {
+                    "name": "Garden of Flesh",
+                    "description": "Hijyogen plays a complex, haunting melody on the Lover's Lute while his three tails dance in the air. All who hear the music and see the tails are transported into a shared dream of sensual pleasure, their deepest desires played out in perfect detail. They are completely lost to the world, helpless in their own fantasies."
+                },
+                {
+                    "name": "Heartbreak Cascade",
+                    "description": "He plays a series of sharp, discordant notes on the lute, each one aimed at a different enemy. Each note strikes like a physical blow, but instead of pain, it delivers a wave of heartbreak, of love lost, of desire unfulfilled. Enemies are left weeping, their will to fight shattered by overwhelming sadness."
+                },
+                {
+                    "name": "Thorned Embrace",
+                    "description": "Hijyogen's three tails lash out simultaneously, wrapping around an enemy while his whip coils around another. The tails caress and soothe while the whip's thorns prick and ache, creating a confusing mixture of pleasure and pain that leaves the target utterly disoriented and helpless."
+                }
+            ],
+            "ultimate_skill": {
+                "name": "Lust's Judgment: The Eternal Embrace",
+                "description": "Hijyogen Sensi's pink eyes blaze with the light of a thousand lovers' sighs, and his three tails fan out behind him, their heart-shaped tips glowing with intense pink light. He begins to play the Lover's Lute, but the music is not heard; it is felt, a vibration that resonates in the very souls of all who witness it. The melody is the song of every lover who has ever lived, every moment of passion, every sigh of contentment, every tear of heartbreak. It is the sound of desire itself. As the music plays, his tails extend, growing longer and longer, their pink fur shimmering, until they envelop the entire battlefield in a soft, glowing cocoon of pink light. Within this cocoon, every enemy experiences their ultimate desire—not as a vision, but as reality. They live their perfect moment, their greatest fantasy, in exquisite, heartbreaking detail. They are loved as they have always wanted to be loved. They have what they have always wanted. And it is perfect. But perfection cannot last. As the moment reaches its peak, Hijyogen plays a single, final note—a note of farewell, of loss, of inevitable heartbreak. The fantasy shatters. The enemies are left with the memory of perfect love, now gone forever, an ache that will never heal. They fall to their knees, not wounded, but broken by loss. The pink cocoon fades, and Hijyogen stands at the center, his tails slowly retracting, his eyes dim. He looks at the broken forms around him, and for a moment, his sad smile is genuine. He has given them what they wanted, and taken it away. It is the only gift he has to give. He is Hijyogen Sensi. He is Lust. And he is still alone."
+            }
+        }
+    },
+    {
+        "id": 123,
+        "pantheon_id": 4,
+        "hero_name": "Tetilan Murgasta",
+        "title": "Gluttony • The Emerald Toad",
+        "nickname": "He Who Devours Worlds",
+        "gender": "male",
+        "images": {
+            "character_image": "assets/images/character/tetilan/main.png",
+            "character_icon": "assets/images/character/tetilan/icon.png",
+            "character_image_real": "assets/images/character/tetilan/real.jpeg",
+            "hero_gallery": [
+                "assets/images/character/tetilan/gallery/1.jpeg",
+                "assets/images/character/tetilan/gallery/2.jpeg",
+                "assets/images/character/tetilan/gallery/3.jpeg",
+                "assets/images/character/tetilan/gallery/4.jpeg",
+                "assets/images/character/tetilan/gallery/5.jpeg"
+            ]
+        },
+        "lore": "In a small farming village in ancient Thailand, there lived a boy named Tetilan Murgasta who was always hungry. Not for food alone, but for everything. He wanted more rice, more fish, more stories, more warmth, more life. His family was poor, and there was never enough. He watched his siblings go to bed hungry so that he could eat, and the hunger twisted into something else—a desperate, gnawing need to consume, to fill the void, to never be empty again. As he grew, so did his hunger. He ate everything he could find, then began to collect things—rocks, sticks, insects, anything to fill his pockets, his room, his soul. He married a woman who loved him, but his hunger consumed their marriage. He had children, but his hunger consumed his attention. He was never satisfied, never full, never enough. One day, a famine came to the village. The rice paddies dried up, the fish died, the animals starved. Tetilan watched his children grow thin, his wife grow weak, and the hunger inside him became a monster. He began to hoard the little food that remained, hiding it from his own family, eating in secret while they starved. When his wife caught him, her look of betrayal was worse than any wound. She took the children and left, and Tetilan was alone with his hunger. In his despair, he called out to any power that would listen, offering anything to never be hungry again, to finally be full. Vergasuis appeared, sitting on a pile of bones, and offered him a deal: become Gluttony itself, a being who could consume endlessly, who would never be empty, in exchange for eternal service. Tetilan accepted. His body swelled and transformed, becoming massive and toad-like. His skin took on a deep, mottled green and black, with warts that oozed a red, hungry slime. His mouth widened, filled with rows of teeth, and his tongue became a long, prehensile weapon. But his face remained human—a strange, sad contrast to his monstrous body, with warm brown eyes that still held the ghost of the man he had been. He is Tetilan Murgasta, and he is always, always hungry.",
+        "description": "Tetilan Murgasta is a monument to consumption, a massive, toad-like being whose hunger is written in every line of his form. He stands—or rather, squats—at an immense seven feet tall in his human upper body, but his overall bulk makes him seem much larger. From the waist up, he is human in shape, but swollen and oversized, his torso thick and powerful, his arms massive and corded with muscle. His skin is a deep, mottled green with black patches, rough and warty, each wart oozing a thin, red slime that is actually concentrated digestive fluid, hungry to consume. His face is a shocking contrast to his monstrous body: it is human, and strangely handsome, with warm, dark brown eyes that hold an eternal, sad hunger, full lips, and high cheekbones. His expression is one of perpetual, mournful longing, as if he is always remembering what it felt like to be satisfied. His hair is black, shot through with streaks of green, pulled back into a messy knot at the nape of his neck. From the waist down, he is pure toad—massive, powerful legs built for leaping, their skin the same mottled green and black, ending in wide, webbed feet with sharp claws. His most distinctive feature is his mouth and tongue. His mouth is enormous, stretching from ear to ear when fully opened, filled with multiple rows of sharp, pointed teeth designed for grinding and swallowing. His tongue is a prehensile weapon, nearly twenty feet long, deep red and covered in sticky, digestive slime, able to lash out and snatch prey from a distance. On his back, clusters of large, green-black warts pulse and glow with a faint, red light when he is hungry—which is always. His attire is minimal, as his body needs little covering. He wears a loose, open vest of dark green fabric, embroidered with red thread in patterns of consuming flames and endless feasts, barely containing his massive torso. A wide belt of red leather cinches his waist, from which hang numerous pouches and containers, each holding something he has consumed and preserved—a memory, a soul, a moment of satisfaction. Around his neck, he wears a necklace of bones and teeth, trophies of things he has devoured. In his massive hands, he carries his legendary weapons: the Maw Opener and the Feast Bringer. The Maw Opener is a massive, two-handed cleaver, its blade forged from a single piece of meteoric iron, its edge gleaming with a hungry red light, able to carve through anything. The Feast Bringer is an enormous, ornate ladle, carved from bone and inlaid with jade and red gems, capable of scooping up souls and serving them for consumption. He moves with a deceptive speed, his powerful legs allowing him to leap great distances, his tongue lashing out, his cleaver swinging. He is Tetilan Murgasta, and he is never full.",
+        "story": {
+            "part1": "Tetilan's earliest memories are of hunger. Not the simple hunger of a missed meal, but the deep, existential hunger of never having enough. He watched his siblings starve so he could eat, and the guilt mixed with the hunger into a poison that would never leave him.",
+            "part2": "He began to hoard as a child—food, then rocks, then anything he could find. The hoarding made him feel safe, full, but the feeling never lasted. He always needed more.",
+            "part3": "He married a woman who loved him despite his hunger. She tried to fill the void with her love, and for a while, it worked. But the hunger always returned, stronger than before.",
+            "part4": "When the famine came, the hunger became a monster. He watched his children grow thin and did nothing. He hoarded food, ate in secret, lied to his wife. When she caught him, the look in her eyes was the worst thing he had ever seen.",
+            "part5": "She left, taking the children. He was alone with his hunger, and it was all he had left. He called out to any power that would listen, offering everything for the ability to finally be full.",
+            "part6": "Vergasuis appeared and offered him a deal: become Gluttony, and he would never be empty again. He would consume endlessly, and the consumption itself would be his satisfaction. He accepted.",
+            "part7": "Now, Tetilan rules his domain, a vast, ever-expanding feast hall where he consumes everything—food, souls, memories, worlds. But the hunger never stops. It never will. He is Tetilan Murgasta, and he is always, always hungry."
+        },
+        "race": "Demon Sin (Gluttony) • Former Human",
+        "powers": "Consumption (can consume anything—matter, energy, souls, magic—and add their power to his own), Prehensile Tongue (his twenty-foot tongue can lash out, grab prey, and drag them to his mouth), Digestive Slime (his body oozes a red slime that can dissolve anything, which he can also project in limited amounts), Leaping Power (his massive toad legs allow him to leap incredible distances and heights), Endless Hunger (his hunger fuels his power; the hungrier he is, the stronger he becomes), Maw Opener Mastery (wields the cleaver to carve through anything), Feast Bringer Mastery (wields the ladle to scoop and serve souls)",
+        "speciality": "Consumption, Absorption, Area Denial, Siege Warfare",
+        "facial_structure": {
+            "eyes": {
+                "eye_color": "Warm, dark brown, holding an eternal, sad hunger, like a man remembering what it felt like to be satisfied",
+                "eye_type": "Large, round, set in his surprisingly handsome human face, with a perpetually mournful expression"
+            },
+            "nose": "Straight and well-proportioned, surprisingly refined for his monstrous form",
+            "lips": "Full, but often pulled back to reveal his multiple rows of teeth, the color of deep red",
+            "hair": {
+                "hairstyle": "Black, shot through with streaks of green, pulled back into a messy knot at the nape of his neck",
+                "hair_color": "Black with green streaks"
+            },
+            "ears": "Normal human ears, slightly pointed, often hidden by his hair",
+            "face_shape": "Handsome and refined, with high cheekbones, a shocking contrast to his monstrous body"
+        },
+        "upper_body": {
+            "body_structure": "From the waist up, he is human in shape but massively oversized, his torso thick and powerful, his arms massive and corded with muscle, his skin mottled green and black and warty",
+            "arms": "Massive, powerful arms, covered in the same mottled green-black skin, thick as tree trunks, ending in huge hands with thick fingers and black claws",
+            "hands": "His hands are enormous, with thick, powerful fingers and black claws. They can grip, crush, and wield his massive weapons with surprising dexterity.",
+            "chest": "Massive and thick, barely contained by his loose open vest, the green-black skin covered in warts that ooze red digestive slime",
+            "shoulders": "Immensely broad and powerful, capable of generating tremendous force",
+            "neck": "Thick and powerful, almost non-existent, his head sitting directly on his massive shoulders"
+        },
+        "lower_body": {
+            "hips": "Where his human torso ends, his toad body begins, a seamless transition",
+            "legs": "His legs are those of a massive toad—powerful, thick, built for leaping, covered in the same mottled green-black skin, ending in wide, webbed feet with sharp claws",
+            "feet": "Wide, webbed feet with sharp claws, designed for gripping and leaping"
+        },
+        "clothing": "Tetilan wears a loose, open vest of dark green fabric, embroidered with red thread in patterns of consuming flames and endless feasts, barely containing his massive torso. A wide belt of red leather cinches his waist, from which hang numerous pouches and containers. Around his neck, a necklace of bones and teeth.",
+        "accessories": "A necklace of bones and teeth; a wide red leather belt with numerous pouches containing consumed items; his two legendary weapons.",
+        "weapon": [
+            {
+                "name": "Maw Opener",
+                "type": "Massive Two-Handed Cleaver",
+                "aura": "The blade glows with a hungry red light, and the air around it shimmers with heat. It seems to vibrate with anticipation, eager to consume.",
+                "special_feature": "The Maw Opener is a massive, two-handed cleaver forged from a single piece of meteoric iron, its blade wide and heavy, its edge gleaming with a hungry red light that never dulls. The handle is wrapped in thick leather and capped with a green gem that pulses like a heartbeat. The cleaver's power is simple but devastating: it can carve through anything—flesh, stone, steel, magic, even souls. A single swing can open a path through any defense, and wounds inflicted by the Maw Opener bleed not just blood, but life force, which Tetilan can then consume.",
+                "special_skills": [
+                    "Cleave (a massive swing that cuts through anything)",
+                    "Hungry Edge (wounds bleed life force, which Tetilan absorbs)",
+                    "Maw Opening (creates a gap in defenses, magical or physical)",
+                    "Consuming Slash (a strike that consumes a portion of the target's power)"
+                ]
+            },
+            {
+                "name": "Feast Bringer",
+                "type": "Ornate Ladle",
+                "aura": "The ladle glows with a warm, inviting red light, and those near it feel a strange hunger, a desire to taste whatever it holds.",
+                "special_feature": "The Feast Bringer is an enormous, ornate ladle, carved from the thigh bone of a ancient demon and inlaid with jade and red gems that pulse with inner light. Its bowl is deep and wide, capable of holding not just soup, but souls, memories, and abstract concepts. With the Feast Bringer, Tetilan can scoop up anything—an enemy's courage, a magical barrier, a burning fire—and consume it. He can also use it to serve others, offering them a 'taste' of something that will either satisfy them temporarily or poison them with endless hunger. The ladle can also be used as a bludgeoning weapon, its bone construction surprisingly durable.",
+                "special_skills": [
+                    "Soul Scoop (collects a soul or memory for consumption)",
+                    "Hunger Serving (offers a taste that can satisfy or poison)",
+                    "Consuming Wave (sweeps the ladle to absorb energy or matter)",
+                    "Bone Bash (a powerful bludgeoning strike)"
+                ]
+            }
+        ],
+        "skills": {
+            "basic_skills": [
+                {
+                    "name": "Hungry Gaze",
+                    "description": "Tetilan fixes his sad, hungry eyes on a target. The target feels a sudden, inexplicable hunger, a gnawing emptiness that distracts them and makes them vulnerable."
+                },
+                {
+                    "name": "Tongue Lash",
+                    "description": "His twenty-foot tongue lashes out, striking a target from a distance. The tongue wraps around them, its sticky slime holding them fast, and begins to drag them toward his waiting mouth."
+                },
+                {
+                    "name": "Consuming Cleave",
+                    "description": "He swings the Maw Opener in a powerful arc, carving through multiple enemies or obstacles. The blade leaves trails of red light, and the wounded bleed life force that Tetilan absorbs."
+                }
+            ],
+            "passive_skill": {
+                "name": "Eternal Hunger",
+                "description": "Tetilan is perpetually hungry, and this hunger fuels his power. The hungrier he is, the stronger, faster, and more durable he becomes. His hunger is bottomless, so his power has no theoretical limit. Additionally, his presence inspires hunger in others, making them crave food, power, or satisfaction, distracting them and making them susceptible to his offers of 'feasts.'"
+            },
+            "special_skills": [
+                {
+                    "name": "Feast of Souls",
+                    "description": "Tetilan raises the Feast Bringer and scoops up the souls of recently fallen enemies—or living ones, if they are close enough. He consumes them, adding their power to his own and healing his wounds. The souls scream as they are swallowed, a sound that terrifies other enemies."
+                },
+                {
+                    "name": "Hungry Maw",
+                    "description": "Tetilan opens his mouth impossibly wide, revealing the endless, dark void of his hunger. A powerful vacuum pulls all enemies and objects toward him, drawing them into his waiting jaws. Those caught are consumed, their power added to his."
+                },
+                {
+                    "name": "Consuming Leap",
+                    "description": "His powerful toad legs launch him into the air, and he comes crashing down on an enemy, his massive bulk crushing them while his Maw Opener swings and his tongue lashes out, consuming everything in reach."
+                }
+            ],
+            "ultimate_skill": {
+                "name": "Gluttony's Judgment: The Endless Feast",
+                "description": "Tetilan Murgasta's sad, hungry eyes blaze with red light, and his entire body begins to pulse and swell. The warts on his back glow brighter, oozing rivers of digestive slime. He opens his mouth wider than should be possible, wider than physically possible, revealing not a throat, but a void, an endless darkness that leads to his infinite hunger. He raises both the Maw Opener and the Feast Bringer and speaks a single, guttural word: 'Feast.' In that moment, the battlefield becomes his dining hall. The Maw Opener swings in massive arcs, carving through everything—enemies, terrain, magic—and each cut releases life force that flows into his open mouth. The Feast Bringer scoops up entire groups of enemies, pouring them into the void. His tongue lashes out in a dozen directions at once, each tip somehow splitting, grabbing, dragging. And at the center of it all, Tetilan's mouth is an event horizon, pulling everything toward it. Enemies who resist the pull find themselves slowly, inexorably sliding toward the void, their feet leaving trails in the earth. When the feast finally ends, when the last enemy has been consumed, Tetilan's mouth slowly closes. He belches, a cloud of red and green smoke, and his eyes return to their sad, hungry brown. He is not full. He will never be full. But for a moment, the hunger is... quieter. He looks at the empty battlefield, at the places where enemies once stood, and his expression is one of profound, eternal sadness. He is Tetilan Murgasta. He is Gluttony. And the feast is never over."
+            }
+        }
+    },
+    {
+        "id": 124,
+        "pantheon_id": 4,
+        "hero_name": "Umestra Felondra",
+        "title": "Sloth • The Violet Sloth",
+        "nickname": "He Who Dreams Eternally",
+        "gender": "male",
+        "images": {
+            "character_image": "assets/images/character/umestra/main.png",
+            "character_icon": "assets/images/character/umestra/icon.png",
+            "character_image_real": "assets/images/character/umestra/real.jpeg",
+            "hero_gallery": [
+                "assets/images/character/umestra/gallery/1.jpeg",
+                "assets/images/character/umestra/gallery/2.jpeg",
+                "assets/images/character/umestra/gallery/3.jpeg",
+                "assets/images/character/umestra/gallery/4.jpeg",
+                "assets/images/character/umestra/gallery/5.jpeg"
+            ]
+        },
+        "lore": "In a small village in the mountains of Nepal, there lived a man named Umestra Felondra who was tired. Not just physically tired, but soul-tired. He had been born into a family of farmers, and from the moment he could walk, he worked. He worked in the fields, in the house, in the village. He worked until his hands bled and his back ached and his spirit was ground to dust. He watched his father work himself to death, watched his mother follow soon after, and he knew that the same fate awaited him. There was no escape. There was no rest. There was only work, until you died. He began to slow down. Not deliberately at first, but because his body and soul simply could not keep up. He moved slower, spoke slower, thought slower. The other villagers mocked him, called him lazy, called him worthless. But they did not understand. It was not laziness; it was despair. He had given up. One day, a landslide destroyed the village's fields, wiping out their entire harvest. While the other villagers scrambled to rebuild, to salvage, to survive, Umestra simply sat down. He sat down and watched them, feeling nothing. He was too tired to care, too tired to move, too tired to even be afraid. As night fell and the villagers wept and worked, Vergasuis appeared beside him, sitting on a rock as if he had always been there. 'You are tired,' the demon king said. 'Tired of working, tired of struggling, tired of trying. I can give you rest. Eternal rest. In exchange for your service.' Umestra looked at him with his heavy-lidded eyes and asked, 'Will I have to work?' Vergasuis laughed. 'No. You will never have to work again. You will simply be. You will become Sloth itself, and the world will slow down around you.' Umestra accepted. His body transformed, becoming soft and round, his skin taking on a deep violet-grey, his limbs elongating into the shape of a sloth's. His movements became impossibly slow, but his perception of time shifted so that the world seemed to move at a normal pace. He could think, dream, exist, without ever having to move. His face remained human—handsome in a soft, gentle way, with heavy-lidded eyes that always seemed half-asleep, and a peaceful, content smile. He is Umestra Felondra, and he has finally found rest.",
+        "description": "Umestra Felondra is the embodiment of eternal rest and infinite patience, a being who has transcended the need for movement. He hangs, more often than not, suspended from a massive, ancient tree in his domain, his body designed for perfect stillness. From the waist up, he is human in shape, but soft and rounded, with a gentle, peaceful quality. His skin is a deep violet-grey, smooth and soft to the touch, with a faint, subtle luminescence. His face is handsome in a soft, gentle way—high cheekbones, a straight nose, full lips always curved in a peaceful, content smile, and heavy-lidded eyes that seem perpetually half-asleep. His eyes are large and a deep, calm purple, with no visible pupils, holding an eternal, dreamy peace that is both comforting and unsettling. His hair is a soft, silvery-grey, almost white, cut short and fluffy, like the fur of a sloth. From his shoulders and down his back, a thick, soft coat of violet-grey fur covers him, warm and insulating. His arms are long and elegant, ending in three-fingered hands with long, curved claws designed for gripping branches. His legs are similarly long and curled, ending in three-toed feet with the same curved claws. His entire body is designed for hanging, for stillness, for waiting. He moves with excruciating slowness when he moves at all, but his perception of time is so altered that the world seems to move at a normal pace to him. His attire is minimal—a soft, draped garment of deep purple silk, wrapped around his lower body and over one shoulder, providing modesty without restricting his hanging posture. Around his neck, he wears a simple necklace of polished lavender stones, each one a dream he has captured and preserved. On his back, he carries his legendary weapons: the Dream Catcher and the Stillness Spear. The Dream Catcher is an ornate, circular frame of twisted silver and purple wood, woven with a web of soft, violet threads that shimmer with captured dreams. It can catch, store, and release dreams, and those caught in its web fall into an endless sleep. The Stillness Spear is a long, elegant spear with a shaft of pale grey wood and a head of polished purple crystal, designed to be thrown or thrust with devastating precision, freezing whatever it touches in a state of perfect stillness. He hangs from his tree, dreaming eternally, and those who disturb his rest find themselves joining him in sleep.",
+        "story": {
+            "part1": "Umestra's childhood was one of endless labor. He worked before dawn and after dusk, his body aching, his spirit slowly dying. He watched his parents work themselves to death, and he knew his fate was the same.",
+            "part2": "He began to slow down as a young man, not out of laziness, but out of despair. What was the point of hurrying toward death? He moved slower, spoke slower, thought slower, and the village mocked him.",
+            "part3": "He tried to explain, to tell them that he was tired, not lazy, but they did not listen. They called him worthless, a burden, a waste of space. He stopped trying to explain. He stopped trying at all.",
+            "part4": "When the landslide destroyed the fields, he simply sat down. He watched the others scramble and struggle, and he felt nothing. He was too tired to care, too tired to move, too tired to even be afraid.",
+            "part5": "As night fell, Vergasuis appeared. The demon king offered him eternal rest, an end to all struggle, in exchange for his service. Umestra asked only one question: 'Will I have to work?'",
+            "part6": "When Vergasuis said no, Umestra accepted without hesitation. His body transformed into something designed for perfect stillness, and he felt, for the first time in his life, peace.",
+            "part7": "Now, Umestra hangs from his ancient tree, dreaming eternally. He does not rule his domain so much as inhabit it, a peaceful presence in a realm of stillness. Those who enter his domain often find themselves slowing down, growing sleepy, until they too hang from branches, dreaming. He is Umestra Felondra, and he has finally found rest."
+        },
+        "race": "Demon Sin (Sloth) • Former Human",
+        "powers": "Time Dilation (his perception of time is so altered that he experiences the world at a normal pace while moving impossibly slow, making him seem to appear and disappear), Stillness Aura (all within his presence find themselves slowing down, growing sleepy, losing motivation), Dream Weaving (can enter, shape, and trap others in dreams), Unmovable (when he chooses to be still, he cannot be moved by any force), Sleep Touch (his touch induces a deep, peaceful sleep), Dream Catcher Mastery (wields the web to capture dreams), Stillness Spear Mastery (wields the spear to freeze targets)",
+        "speciality": "Dream Manipulation, Area Control, Psychological Pacification, Eternal Rest",
+        "facial_structure": {
+            "eyes": {
+                "eye_color": "Deep, calm purple with no visible pupils, holding an eternal, dreamy peace that is both comforting and unsettling",
+                "eye_type": "Large, heavy-lidded, perpetually half-asleep, looking at the world through a veil of dreams"
+            },
+            "nose": "Straight and gentle, softly defined",
+            "lips": "Full and always curved in a peaceful, content smile, the color of soft lavender",
+            "hair": {
+                "hairstyle": "Soft, silvery-grey, almost white, cut short and fluffy, like the fur of a sloth",
+                "hair_color": "Silvery-grey"
+            },
+            "ears": "Small and round, partly hidden by his fluffy hair",
+            "face_shape": "Soft and gentle, with high cheekbones and a peaceful expression, handsome in a dreamy way"
+        },
+        "upper_body": {
+            "body_structure": "From the waist up, he is soft and rounded, with a gentle, peaceful quality, his body designed for hanging and stillness",
+            "arms": "Long and elegant, ending in three-fingered hands with long, curved claws designed for gripping branches. Covered in soft violet-grey fur.",
+            "hands": "His hands are long and elegant, with three fingers each, tipped with curved claws. They are perpetually relaxed, gently curled as if gripping a branch.",
+            "chest": "Soft and rounded, covered in the same violet-grey fur, a draped deep purple silk garment covering his lower body and one shoulder",
+            "shoulders": "Soft and rounded, covered in fur, from which his long arms extend",
+            "neck": "Soft and short, barely visible above the fur"
+        },
+        "lower_body": {
+            "hips": "Soft and rounded, where his upper body transitions to his sloth-like lower body",
+            "legs": "Long, curled legs, covered in violet-grey fur, ending in three-toed feet with curved claws, designed for hanging",
+            "feet": "Three-toed feet with long, curved claws, perpetually curled, designed to grip branches"
+        },
+        "clothing": "Umestra wears a minimal garment of deep purple silk, draped around his lower body and over one shoulder, providing modesty without restricting his hanging posture. A simple necklace of polished lavender stones hangs around his neck.",
+        "accessories": "A necklace of polished lavender stones, each containing a captured dream; his two legendary weapons.",
+        "weapon": [
+            {
+                "name": "Dream Catcher",
+                "type": "Ornate Dream Web",
+                "aura": "The web glows with a soft, violet light, and those near it feel a sudden, overwhelming drowsiness. Shimmering images of dreams can be seen caught in its threads.",
+                "special_feature": "The Dream Catcher is an ornate, circular frame of twisted silver and purple wood, woven with a web of soft, violet threads that shimmer with captured dreams. The web is not physical; it is a manifestation of Umestra's power, able to catch dreams like a fisherman catches fish. He can store dreams in the web, release them to affect others, or use the web itself as a trap. Those caught in its strands fall into an endless sleep, trapped in their own dreams. The web can also be used defensively, intercepting attacks and absorbing them as new dreams.",
+                "special_skills": [
+                    "Dream Catch (captures a target's dream, leaving them dreamless)",
+                    "Sleep Web (ensnares enemies in strands of dream energy, putting them to sleep)",
+                    "Nightmare Release (releases a captured nightmare to torment enemies)",
+                    "Dream Shield (intercepts attacks, absorbing them as dreams)"
+                ]
+            },
+            {
+                "name": "Stillness Spear",
+                "type": "Crystal-Tipped Spear",
+                "aura": "The spear glows with a soft, purple light, and the air around it feels thick, heavy, still. Those near it find their movements slowing.",
+                "special_feature": "The Stillness Spear is a long, elegant spear with a shaft of pale grey wood, smooth and cool, and a head of polished purple crystal that seems to hold a frozen moment within it. The spear can be thrown with devastating precision or thrust into an enemy, and whatever it touches is frozen in a state of perfect stillness. Not just physical stillness, but mental, emotional, spiritual stillness. The target simply stops—moving, thinking, feeling, existing—for a period of time. They are not harmed, simply paused, like a moment captured in amber. The spear can also be used to create zones of stillness, slowing everything within an area.",
+                "special_skills": [
+                    "Stillness Strike (freezes a target in place)",
+                    "Pause Zone (creates an area where time slows)",
+                    "Throw of Eternity (throws the spear, freezing whatever it hits)",
+                    "Moment Capture (uses the spear to capture a moment in time)"
+                ]
+            }
+        ],
+        "skills": {
+            "basic_skills": [
+                {
+                    "name": "Sleepy Gaze",
+                    "description": "Umestra fixes his calm, purple eyes on a target. The target feels a sudden, overwhelming drowsiness, their eyelids growing heavy, their thoughts slowing."
+                },
+                {
+                    "name": "Dream Touch",
+                    "description": "He reaches out with one of his long-fingered hands and gently touches a target. The target falls into a deep, peaceful sleep, their face relaxing into a dreamy smile."
+                },
+                {
+                    "name": "Stillness Aura",
+                    "description": "Umestra simply hangs and radiates his aura of stillness. All within range find their movements slowing, their thoughts clouding, their motivation draining. They become content to simply be still."
+                }
+            ],
+            "passive_skill": {
+                "name": "Eternal Stillness",
+                "description": "Umestra is perpetually surrounded by an aura of profound calm and stillness. The longer someone remains in his presence, the slower they become, until they are as still as he is. This aura is not aggressive; it is peaceful, inviting. Enemies may find themselves simply... stopping, sitting down, resting, forgetting why they were fighting. Allies find peace and clarity, their minds becoming calm and focused."
+            },
+            "special_skills": [
+                {
+                    "name": "Garden of Dreams",
+                    "description": "Umestra raises the Dream Catcher and spins it slowly. From its web, dozens of captured dreams are released, manifesting as shimmering, violet images that float through the air. Each dream seeks out a target and envelops them, pulling them into a personal dream world where they are content to stay forever."
+                },
+                {
+                    "name": "Stillness of Ages",
+                    "description": "He throws the Stillness Spear into the ground at his feet. A wave of purple light expands outward, freezing everything in its path—enemies, projectiles, even magical effects—in perfect stillness. The battlefield becomes a frozen tableau."
+                },
+                {
+                    "name": "Eternal Nap",
+                    "description": "Umestra wraps his long arms and legs around a target, holding them in a gentle, inescapable embrace. As he holds them, his aura of stillness and sleep transfers to them, and they slowly, peacefully, fall into an endless sleep in his arms."
+                }
+            ],
+            "ultimate_skill": {
+                "name": "Sloth's Judgment: The Endless Dream",
+                "description": "Umestra Felondra's calm purple eyes open fully for the first time, and they blaze with a soft, peaceful light. He raises the Dream Catcher high, and its web expands, growing to immense size, its violet threads spreading across the entire battlefield like a giant spider's web. He then throws the Stillness Spear into the center of the web, and the spear's power radiates through every strand. In that moment, the battlefield becomes a dream. Every enemy is caught in the web, not physically, but mentally. They are pulled into their own personal dream, a perfect, peaceful fantasy where all their desires are fulfilled, all their struggles ended. They are content. They are happy. They never want to leave. And they don't. They simply hang there, suspended in the web, dreaming eternally, their faces peaceful, their bodies still. Umestra watches them for a moment, then slowly, gently, begins to pull the web closed, gathering the dreamers together. He will keep them safe, keep them dreaming, keep them at peace. They will never have to work again. They will never struggle again. They will simply be. He settles back into his hanging posture, the web gathered around him, the spear resting at his side, and his eyes slowly close, returning to their half-asleep state. He is Umestra Felondra. He is Sloth. And finally, everyone can rest."
+            }
+        }
+    },
+    {
+        "id": 125,
+        "pantheon_id": 4,
+        "hero_name": "Vergasuis Motred",
+        "title": "The Obsidian Throne, King of Demons",
+        "nickname": "He Who Grants Desires and Collects Souls",
+        "gender": "male",
+        "images": {
+            "character_image": "assets/images/character/vergasuis/main.png",
+            "character_icon": "assets/images/character/vergasuis/icon.png",
+            "character_image_real": "assets/images/character/vergasuis/real.jpeg",
+            "hero_gallery": [
+                "assets/images/character/vergasuis/gallery/1.jpeg",
+                "assets/images/character/vergasuis/gallery/2.jpeg",
+                "assets/images/character/vergasuis/gallery/3.jpeg",
+                "assets/images/character/vergasuis/gallery/4.jpeg",
+                "assets/images/character/vergasuis/gallery/5.jpeg"
+            ]
+        },
+        "lore": "Before the first sin was committed, before the first mortal soul was forged, there was Vergasuis Motred. He was not born; he coalesced from the primordial darkness that existed before light, from the void where even the gods feared to tread. He is the original, the first demon, the source from which all demonic power flows. For eons beyond counting, he existed in solitude, watching the universe take shape, watching the gods create their mortals, watching the mortals stumble and fall. He was patient, for he had eternity. He waited for the moment when mortals would be ready, when their desires would be strong enough, their wills weak enough, their souls ripe for the taking. That moment came when the first human looked at what another had and felt the sting of want. Vergasuis appeared to that human, a shadow with eyes like dying stars, and made his first offer: a desire fulfilled, in exchange for a soul. The human accepted. And Vergasuis tasted his first soul, a flavor more exquisite than anything in creation. He was hooked. Over the millennia, Vergasuis has collected countless souls, each one a unique flavor, a unique story, a unique addition to his endless hoard. He does not conquer; he does not wage war. He waits, and he offers. He is the ultimate tempter, the cosmic dealer in desires, the king who sits on a throne of skulls and watches the parade of the damned. He created the seven deadly sins not as servants, but as extensions of his will, embodiments of the very desires he exploits. Each sin was once a human who, in their moment of greatest despair or desire, cried out for power. Vergasuis answered, transformed them, and bound them to himself. They are his children, his tools, his entertainment. He watches them scheme against each other, compete for his favor, struggle for power, and he is amused. For he knows that no matter how powerful they become, they are still his, their souls still his, their desires still his to exploit. He is Vergasuis Motred, and he is patient. He will wait for you too.",
+        "description": "Vergasuis Motred is the embodiment of absolute, ancient evil, a being of such overwhelming presence that the very air around him seems to darken and still. He stands at an imposing seven feet six inches, his frame broad and powerful, built like a conqueror, like a king who has never needed to lift a weapon because his will alone is enough. His physique is that of a perfect warrior-king—broad shoulders, a deep chest, powerful arms and legs—but there is a stillness to him, a patience that is more terrifying than any aggression. His skin is the color of dark, polished obsidian, smooth and flawless, with a faint, almost imperceptible shimmer, as if the void of space itself has been given form. It is cool to the touch, like stone that has never known sunlight. His face is a study in terrifying grace. It is human, and astonishingly handsome, with features that are almost too perfect—high, aristocratic cheekbones, a strong, straight nose, a firm, sculpted jaw, and full lips that are usually curved in a slight, knowing smile that promises nothing good. His brows are sharp and arch slightly, giving him a perpetually amused, calculating expression. But his eyes are the true windows to his ancient, malevolent soul. They are large, deep-set, and the color of dying stars—a swirling, hypnotic mix of deep violet, blood red, and absolute black, with no visible pupils, just cosmic chaos held in twin orbs. They seem to contain galaxies being born and dying, souls screaming in eternal torment, and the cold, patient amusement of a being who has seen it all and found it wanting. When he focuses on you, you feel the weight of eternity pressing down, and you know that every secret, every desire, every fear you have ever had is laid bare before him. His hair is a magnificent mane of deep, midnight black, so dark it absorbs light, falling past his shoulders in thick, straight waves, with subtle streaks of deep violet and crimson that only visible when they catch the light. It is immaculately groomed, a king's hair, often pulled back from his face with golden or obsidian clasps. From his brow, a magnificent crown of seven curved horns rises, each one representing one of the seven deadly sins. The horns are polished obsidian with veins of gold, each one uniquely shaped: one curves like a peacock feather for Pride, one is segmented like a centipede for Greed, one twists like a scorpion's tail for Wrath, one coils like a serpent for Envy, one curls like a ram's for Lust, one is thick and blunt for Gluttony, and one hangs heavy and drooping for Sloth. The crown of horns frames his face, giving him an aura of terrible, absolute authority. His attire is a magnificent fusion of imperial demonic armor and royal robes. He wears a cuirass of polished obsidian plates, etched with glowing red and violet runes that pulse with inner light, the armor shaped to his powerful torso, with golden trim at the edges. Over this, he wears a flowing robe of deep violet silk, embroidered with gold and silver thread in patterns of souls ascending and descending, of cosmic scales weighing hearts, of the seven sins dancing. The robe is open at the front, revealing the armor beneath, and drapes over his broad shoulders, falling to his feet. A massive, fur-trimmed cloak of black velvet, lined with deep crimson silk, hangs from his shoulders, the fur as black as midnight, adding to his imposing silhouette. Around his waist, a wide belt of hammered gold, set with seven massive gems—orange, yellow, red, blue, pink, green, and purple—each one representing a sin, each one pulsing with inner light. On his hands, he wears gauntlets of obsidian and gold, the fingers articulated, the knuckles set with smaller versions of the seven gems. On his head, in addition to the horned crown, he wears a simple but elegant circlet of gold, set with a single, massive black diamond at his brow. On his feet, he wears boots of obsidian plate and gold, their heels clicking with authority. In his hands, he carries his legendary weapons: the Sceptre of Desires and the Blade of Final Offers. The Sceptre of Desires is a tall, ornate staff of black obsidian, topped with a massive, faceted gem that swirls with the colors of all seven sins—a hypnotic, ever-changing light show. The sceptre can grant desires, but always at a terrible cost. The Blade of Final Offers is a massive, two-handed greatsword, its blade forged from the same obsidian as his armor, its edge impossibly sharp, its surface etched with the names of every soul he has ever collected, the names glowing with red light. He carries them not as tools of combat, but as symbols of his office, as instruments of his deals. He moves with a slow, deliberate grace, each step measured and eternal, his presence filling any space he occupies, making it feel smaller, darker, heavier. He is Vergasuis Motred, and he is waiting.",
+        "story": {
+            "part1": "Vergasuis does not have a beginning in the way mortals understand it. He simply was, a consciousness in the primordial void, watching light and matter coalesce, watching the first gods take form, watching them create. He felt no jealousy, no anger, only curiosity. He watched, and he waited.",
+            "part2": "When the first mortals were created, he was fascinated. These tiny, fragile beings, with their brief lives and burning desires—they were so different from the eternal, passionless gods. He watched them love, hate, want, despair. He saw that their desires were their greatest strength and their greatest weakness.",
+            "part3": "The first offer was made to a woman in ancient Mesopotamia who wanted her dead son back. Vergasuis appeared to her, offered to return the boy in exchange for her soul. She agreed, and he tasted his first soul. The flavor was exquisite—a complex blend of love, grief, hope, and despair. He knew then that he had found his purpose.",
+            "part4": "Over the millennia, he collected millions of souls. He became a legend, a nightmare, a tempter. He learned to read desires like a book, to know exactly what each soul would pay, what each heart most wanted. He became patient, for he had eternity, and there would always be more souls.",
+            "part5": "The creation of the seven sins was an experiment. He found mortals whose desires were so powerful, so all-consuming, that they could not be satisfied with a simple trade. He offered them transformation, made them embodiments of their own desires, bound them to himself. They became his children, his generals, his entertainment.",
+            "part6": "He watches them now, the seven sins, as they scheme and compete for his favor. He finds it amusing, like watching children play at power. They do not realize that they are still his, that their souls are still his, that their desires are still his to exploit. He lets them believe they are free. It makes the game more interesting.",
+            "part7": "Now, Vergasuis sits on his Obsidian Throne, in his domain between worlds, and he waits. He is patient. He will always be patient. He watches the mortal realm, sees their desires, their needs, their weaknesses. And he knows that, eventually, they will call out to him. They always do. He is Vergasuis Motred, and he is waiting for you."
+        },
+        "race": "Primordial Demon King",
+        "powers": "Desire Reading (can see the deepest, most secret desires of any being, knowing exactly what they would sacrifice to achieve them), Soul Collection (can extract, store, and consume souls, adding their power and memories to his own), Reality Bending (within his domain, he can reshape reality according to his will, though outside it, his power is more subtle), Immortality (he has existed since before time and cannot be killed by any means known to gods or mortals), Sin Empowerment (the seven sins are bound to him, and their power flows back to him, making him stronger as they grow), Cosmic Presence (his mere appearance can overwhelm mortals, their minds unable to comprehend his ancient evil), Sceptre Mastery (wields the Sceptre of Desires to grant or manipulate desires), Blade Mastery (wields the Blade of Final Offers to seal deals and collect souls)",
+        "speciality": "Temptation, Deal-Making, Soul Collection, Cosmic Manipulation",
+        "facial_structure": {
+            "eyes": {
+                "eye_color": "Swirling, hypnotic mix of deep violet, blood red, and absolute black, with no visible pupils, containing galaxies being born and dying, souls screaming in eternal torment, and cold, patient amusement",
+                "eye_type": "Large, deep-set, framed by sharp brows, with an eternal, calculating gaze that sees through to the soul"
+            },
+            "nose": "Strong and straight, aristocratic, perfectly proportioned to his face",
+            "lips": "Full and well-defined, usually curved in a slight, knowing smile that promises nothing good, the color of deep wine",
+            "hair": {
+                "hairstyle": "A magnificent mane of deep, midnight black, so dark it absorbs light, falling past his shoulders in thick, straight waves, with subtle streaks of deep violet and crimson that catch light, immaculately groomed, often pulled back with golden or obsidian clasps",
+                "hair_color": "Midnight black with violet and crimson streaks"
+            },
+            "ears": "Slightly pointed, adorned with small golden rings, barely visible through his hair",
+            "face_shape": "Aristocratic and terrifyingly handsome, with high cheekbones, a strong jaw, and perfect symmetry, a face that is almost too beautiful to be real"
+        },
+        "upper_body": {
+            "body_structure": "Broad and powerful at seven feet six inches, built like a conqueror, like a king who has never needed to lift a weapon because his will alone is enough. Every line speaks of absolute authority.",
+            "arms": "Powerful arms, covered by the obsidian and gold gauntlets, the muscles beneath defined and capable of immense force, though he rarely needs to use it",
+            "hands": "His hands are large, with long fingers, encased in articulated gauntlets of obsidian and gold. The knuckles are set with small gems representing the seven sins. When he gestures, the gems pulse with light.",
+            "chest": "Broad and powerful, covered by the cuirass of polished obsidian plates etched with glowing red and violet runes, the armor shaped to his form, with golden trim at the edges",
+            "shoulders": "Immensely broad and powerful, draped by the massive fur-trimmed cloak, the armor's shoulder guards adding to his imposing silhouette",
+            "neck": "Thick and powerful, rising from the collar of his armor, adorned with a simple golden torque set with tiny gems"
+        },
+        "lower_body": {
+            "hips": "Broad and powerful, the center of his kingly stance",
+            "legs": "Powerful legs, encased in obsidian plate armor with golden trim, the muscles beneath defined, planted firmly like pillars",
+            "feet": "His feet are encased in boots of obsidian plate and gold, their heels clicking with authority when he walks"
+        },
+        "clothing": "Vergasuis wears a magnificent fusion of imperial demonic armor and royal robes. A cuirass of polished obsidian plates etched with glowing red and violet runes, with golden trim. Over this, a flowing robe of deep violet silk embroidered with gold and silver thread in patterns of souls ascending and descending. A massive, fur-trimmed cloak of black velvet lined with deep crimson silk hangs from his shoulders. A wide belt of hammered gold set with seven massive gems representing the seven sins. Obsidian and gold gauntlets on his hands, and matching boots on his feet.",
+        "accessories": "A magnificent crown of seven curved obsidian horns with gold veins, each representing a sin; a simple gold circlet set with a massive black diamond at his brow; a golden torque at his neck; golden clasps in his hair; seven massive gems on his belt (orange, yellow, red, blue, pink, green, purple); smaller versions on his gauntlets.",
+        "weapon": [
+            {
+                "name": "Sceptre of Desires",
+                "type": "Ornate Sceptre",
+                "aura": "The sceptre glows with a swirling, hypnotic light that cycles through all seven sin colors—orange, yellow, red, blue, pink, green, purple. The air around it shimmers with heat distortion, and those near it feel their deepest desires rising unbidden.",
+                "special_feature": "The Sceptre of Desires is a tall, ornate staff of black obsidian, taller than Vergasuis himself, topped with a massive, faceted gem that swirls with the colors of all seven sins in an ever-changing, hypnotic display. The staff is carved with images of souls ascending and descending, of deals being made, of desires being fulfilled and cursed. The sceptre is the physical manifestation of Vergasuis's power over desire. With it, he can grant any desire—but always at a cost, always with a twist, always binding the recipient to him. He can also use it to read desires from a distance, to manipulate them, to amplify them until they consume the one who holds them. In combat, the sceptre can unleash waves of pure desire energy, overwhelming enemies with their own wants, or create barriers of solidified longing.",
+                "special_skills": [
+                    "Desire Grant (fulfills a wish at a terrible cost)",
+                    "Desire Reading (sees the deepest wants of any target)",
+                    "Desire Wave (unleashes a wave of pure want, overwhelming enemies)",
+                    "Desire Barrier (creates a wall of solidified longing)"
+                ]
+            },
+            {
+                "name": "Blade of Final Offers",
+                "type": "Massive Two-Handed Greatsword",
+                "aura": "The blade glows with a deep, blood red light, and the names etched on its surface pulse and shift, new ones appearing as souls are collected. The air around it is cold, the temperature dropping noticeably near the blade.",
+                "special_feature": "The Blade of Final Offers is a massive, two-handed greatsword, its blade forged from the same obsidian as Vergasuis's armor, impossibly black, yet somehow gleaming. The edge is impossibly sharp, able to cut through anything—flesh, stone, magic, even souls. The blade's surface is etched with the names of every soul Vergasuis has ever collected, millions upon millions of names, each one glowing with red light, constantly shifting and rearranging as new names are added. The sword is not primarily a weapon of combat; it is an instrument of finality. When a deal is made, when a soul is forfeit, Vergasuis draws the blade and touches it to the soul, and the name is etched into the blade, the soul collected. In combat, the sword is devastating, each swing leaving a trail of red light, and any wound it inflicts not only damages the body but also cuts the soul, leaving a permanent mark that Vergasuis can use to track and claim the victim later.",
+                "special_skills": [
+                    "Soul Cut (wounds the soul as well as the body)",
+                    "Name Etching (collects a soul, adding its name to the blade)",
+                    "Soul Track (can track any soul he has wounded)",
+                    "Final Swing (a devastating strike that can cut through anything)"
+                ]
+            }
+        ],
+        "skills": {
+            "basic_skills": [
+                {
+                    "name": "Cosmic Gaze",
+                    "description": "Vergasuis fixes his swirling, dying-star eyes on a target. The weight of eternity, of millions of souls, of ancient evil, presses down on them, and they are paralyzed, their minds unable to comprehend what they are seeing, their secrets laid bare."
+                },
+                {
+                    "name": "Desire Whisper",
+                    "description": "He speaks a single word, and that word is the target's deepest desire, whispered directly into their mind. The target is momentarily overwhelmed by the intensity of their own want, unable to focus on anything else."
+                },
+                {
+                    "name": "Sceptre Tap",
+                    "description": "He taps the Sceptre of Desires on the ground, and a wave of colored energy expands outward. Enemies feel their desires rise up, distracting them, while allies (if he has any) feel their wants sharpen, their focus intensifying."
+                }
+            ],
+            "passive_skill": {
+                "name": "Aura of the Obsidian Throne",
+                "description": "Vergasuis radiates an aura of absolute, ancient authority at all times. All who come near him feel the weight of his presence—mortals are often rendered speechless, their wills crumbling; lesser demons instinctively bow; even the seven sins feel a flicker of their original fear. This aura makes it nearly impossible to lie to him, to hide from him, or to act against him. He is the king, and all who enter his presence know it."
+            },
+            "special_skills": [
+                {
+                    "name": "Garden of Desires",
+                    "description": "Vergasuis raises the Sceptre of Desires and unleashes its full power. The area around him transforms into a manifestation of every enemy's deepest desires, rendered in perfect, tempting detail. Enemies become lost in their own fantasies, chasing illusions while Vergasuis watches, amused."
+                },
+                {
+                    "name": "Soul Harvest",
+                    "description": "He draws the Blade of Final Offers and swings it in a wide arc. The blade does not cut flesh; it cuts through the air, and from the spectral wound, the souls of those who have made deals with him—or those whose desires have consumed them—are drawn out, their names flying to etch themselves on the blade. The souls scream as they are collected."
+                },
+                {
+                    "name": "Final Offer",
+                    "description": "Vergasuis fixes his gaze on a single target and speaks. He offers them exactly what they most desire—no tricks, no twists, a genuine offer. But the price is their soul, now and forever. The target must choose, and their choice, either way, reveals the true nature of their desire."
+                }
+            ],
+            "ultimate_skill": {
+                "name": "Demon King's Judgment: The Eternal Ledger",
+                "description": "Vergasuis Motred's dying-star eyes blaze with the light of a thousand dying galaxies, and he raises both the Sceptre of Desires and the Blade of Final Offers high above his head. The seven gems on his belt flare with blinding light, each color representing a sin, and behind him, the spectral forms of the seven deadly sins appear—Seseei, Kukiun, Gehani, Forfota, Hijyogen, Tetilan, and Umestra—their powers flowing into him. He speaks a single word: 'Render.' In that moment, the battlefield becomes a cosmic ledger. Every soul present is laid bare, their every desire, every sin, every secret written in lines of fire before them. The Blade of Final Offers swings in a slow, majestic arc, and as it passes, the names of those whose desires have condemned them are carved into the air before being absorbed into the blade. The Sceptre of Desires pulses, and those whose desires are pure, whose wants are selfless, are spared, but those whose desires are selfish, cruel, or destructive find their wants amplified to the point of madness, consuming them from within. The seven sins circle the battlefield, each claiming those who embody their domain. When the judgment ends, the battlefield is transformed. The worthy are left standing, shaken but alive. The unworthy are gone—their souls added to the blade, their names etched for eternity. The sins fade back into the shadows. Vergasuis lowers his weapons, his eyes slowly dimming, and surveys the scene with that slight, knowing smile. He has collected another harvest. He has judged another batch of souls. He is Vergasuis Motred, the Demon King, and the ledger is never closed."
+            }
+        }
+    }
+]
