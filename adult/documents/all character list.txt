@@ -1,0 +1,178 @@
+CHARACTER LIST BY ID
+ID 1: Sera - The Celestial Priestess
+ID 2: Yuki - The Violet Dreamer
+ID 3: Elara - The Victorian Enchantress
+ID 4: Neko - The Crimson Feline
+ID 5: Hana - The Festival Dreamer
+ID 6: Mizu - The Deep Dragon's Daughter
+ID 7: Ame - The Bubblegum Rain Dancer
+ID 8: Lian - The Lotus Petal Priestess
+ID 9: Enoki - The Neon Talisman Bearer
+ID 10: Aurora - The Cosmic Butterfly Warrior
+ID 11: Kira - The Golden Amber Sentinel
+ID 12: Vespera - The Crystal Winged Enchantress
+ID 13: Taiyo & Tsuki - The Sun and Moon Goddess
+ID 14: Ravenna - The Thorned Cage Queen
+ID 15: Solis - The Solar Cathedral Guardian
+ID 16: Crystal - The Crystal Lotus Ringmaster
+ID 17: Devata - The Temple Guardian Spirit
+ID 18: Astralis - The Star Map Weaver
+ID 19: Morgana Umbradra - The Midnight Archmage
+ID 20: Lilith - The Abyssal Demon Noblewoman
+ID 21: Solara - The Solar General
+ID 22: Seli - The Elven Lantern Noblewoman
+ID 23: Selena - S.T.U.N. Skin (Neon Idol)
+ID 24: Stella - The Stellar Gauntlet Warrior
+ID 25: Kaito - The Battle Salaryman
+ID 26: Onimaru - The Hannya-Masked Warlord
+ID 27: Kaelen - The Solar Flame Ascetic
+ID 28: Ren - The Oni-Masked Exorcist
+ID 29: Feather - The Peacock-Blade Aristocrat
+ID 30: Orion - The Celestial Mariner
+ID 31: Drake - The Dragon-Blade Street King
+ID 32: Sparkle - The Twin-Blade Birthday Idol
+ID 33: Kage - The Feathered Glaive Shadow
+ID 34: Fanny - The Royal Cavalry
+ID 35: Nova - The Cosmic Vanguard
+ID 36: Iori Yagami - The Flame of Ruin
+ID 37: Zero - The Aether-Blade Cyclist
+ID 38: K' - The Flame of Resistance
+ID 39: Yuna - The Cyber-Kitsune Blade Dancer
+ID 40: Ling - The Dragon-Braid Skater
+ID 41: Roxy - The Ducati Cyber-Racer
+ID 42: Tempest - The Storm Dragon Priestess
+ID 43: Shen - The New Year Dragon Spirit
+ID 44: Wukong - The Primordial Monkey King
+ID 45: Chronos - The Chronomantic Guardian
+ID 46: Kakuo - The Shadow's Edge
+ID 47: Brynhild - The Golden Valkyrie
+ID 48: Sorin - The Phantom Virtuoso
+ID 49: Linguanshin - The Crimson Kitsune
+ID 50: Ryoken - The Unbroken Spear
+ID 51: Corbin Black - The Shadow Omen
+ID 52: Christian Storm - The Rogue Appraiser
+ID 53: Ankhet - The Scarlet Bind
+ID 54: Kaelia - The Fractured Sky
+ID 55: Aurelius Drakon - The Golden Martyr
+ID 56: Nimue Harvestglen - The Autumn Witch
+ID 57: Feineir - The Crimson Eclipse
+ID 58: Sikenzo Waratta - The Neon Ghost
+ID 59: Zephyra Stormveil - The Fallen Tempest
+ID 60: Bloomf - The Eternal Blossom
+ID 61: Malakor - The Infernal Prince
+ID 62: Korgrath - The Ash-Blooded
+ID 63: Seraphine - The Godslayer
+ID 64: Aelira - The Silver Star
+ID 65: Leonar - The Golden Bastion
+ID 66: Theron - The Silent Blade
+ID 67: Kurosagi Yaman - The Twilight Fox
+ID 68: Vaelen - The Shrouded Martyr
+ID 69: Malachar - The Obsidian Scourge
+ID 70: Meiling - The Jade Emperor
+ID 71: Serkali - Venom's Last Daughter
+ID 72: Gajendra - The Amber-Belted
+ID 73: Zerilyn - The Exiled Star
+ID 74: Caelan Emberwick - The Hearthfire Prodigy
+ID 75: Zenthos - The Cosmic Warden
+ID 76: Lian Chen - The Floating Blade
+ID 77: Shen Wu - The Crimson Blade Demon
+ID 78: Wei Chen - The Formless Immortal
+ID 79: Lunaea Vespera - The Twilight Archer
+ID 80: General Jadebreaker - The Obsidian Rebel
+ID 81: Kageoni no Akuma - The Crimson Shadow Oni
+ID 82: Simhak Ashford - The Crimson Reaper
+ID 83: Theingzin Dokaran - The Arcane Detective
+ID 84: Glimmermek Sparkfuse - The Cog King
+ID 85: Chroncik - The World-Shaper
+ID 86: Ignivia Duskfeather - The Abyssal Phoenix
+ID 87: Pyralis Embervein - The Pale Flame Outcast
+ID 88: Zar'rak the Shadowpaw - The Last Shadow Leopard
+ID 89: Aurek Stormwind - The Skyward Knight
+ID 90: Shenlong Xu - The Enlightened Fist
+ID 91: Valogueneir Kimpatsu - The First Vampire
+ID 92: Jasper Cole - The Crimson & Verdant Hunter
+ID 93: Iridiana Starweaver - The Primal Healer
+ID 94: Jianlu Kian - The Four-Fisted Elemental
+ID 95: Auriel Thórvald - The Pearl Sovereign
+ID 96: Sengorkan - The Ascendant Fist
+ID 97: Kailash Vajran - The Onyx God of Annihilation
+ID 98: Fenglongxi Hua - The Gilded Seraphim Dragon
+ID 99: Xixuanlong Fixuan - The Shadowscale Corruptor
+ID 100: Vermilion Zephyron - The Crimson Armada
+ID 101: Ivory Leospur - The Pale Shadow
+ID 102: Kakzin Berotz - The Void-Born Sentinel
+ID 103: Crimson Sentinel - The People's Vanguard
+ID 104: Anticzi Fiorinelyn - The Antlered Sovereign
+ID 105: Nonhe Fikara - The Rage Unbound
+ID 106: Shiku Moki - The Sapphire Streak
+ID 107: Piujingyi Faonda - The Neon Phantom
+ID 108: Kael Umbra - The Light-Bearer of Damnation
+ID 109: Sinkur - The First Gaze
+ID 110: Fieande - The Silent Melody
+ID 111: Pokimenak - The Dancing Blades
+ID 112: Siburtar - The Boundless Earth
+ID 113: Renguijin - The Celestial Brush
+ID 114: Fumahari - The Gentle Flame
+ID 115: Balthuikan - The Shimmering Scale
+ID 116: Arguina - The Silver Crescent
+ID 117: Ronzer Vonsalgi - The Silver Wolf
+ID 118: Seseei Furhana - Pride • The Peacock Empress
+ID 119: Kukiun Seinbad - Greed • The Golden Centipede
+ID 120: Gehani Filal - Wrath • The Crimson Scorpion
+ID 121: Forfota Luigena - Envy • The Sapphire Serpent
+ID 122: Hijyogen Sensi - Lust • The Rose-Tailed Demon
+ID 123: Tetilan Murgasta - Gluttony • The Emerald Toad
+ID 124: Umestra Felondra - Sloth • The Violet Sloth
+ID 125: Vergasuis Motred - The Obsidian Throne
+ID 126: Vorlag the Emberhoof - The Burning Labyrinth
+ID 127: Markus Vex - The Corrupted Enforcer
+ID 128: Morgause Umbradra - The Abyssal Archmage
+ID 129: Flient Umbradra - The Reluctant Archsage
+ID 130: Yunmeng Lóngyān - The Crimson Dawn Prophet
+ID 131: Jin-Sook Hwaryeohan Mansin Jeungsan - The Void Courtesan
+ID 132: Qingzi Longman Huakthu - The Celestial Dragon
+ID 133: Rakteshwar Majhipa Bhurākut - The Crimson Dancer
+ID 134: Nilakantha Shwetabhrahm Vajradhwaj - The Blue-Throated Seraph
+ID 135: Vikram Kaalratri Bhairav Mukutadhari - The Mortal Who Wore Eternity
+ID 136: Surtel Kahalman Maharjan - The White Elephant
+ID 137: Rudraveer Angada Mahavir Hanumaddhari - The Golden Monkey
+ID 138: Indrakumari Ratna Vajra Pradhan - The Living Lotus
+ID 139: Rabjinah Maharjan - The Gilded Lotus of Bhaktapur
+ID 140: Raiju Maharjan - The Thunder Drum of Bhaktapur
+ID 141: Beibek Gautam - The Sage of Eternal Fire
+ID 142: Deeipti Gautam - The Flame of Sacred Wisdom
+ID 143: Bilova Chettri - The Iron Wolf of Gorkha
+ID 144: Raiya Chettri - The Silent Star of Gorkha
+ID 145: Jabyang Gurung - The Wind Walker of Annapurna
+ID 146: Saphalta Gurung - The Mountain's Healing Touch
+ID 147: Salina Magar - The Whisper of Ancient Forests
+ID 148: Barmon Magar - The Thunder of the Western Hills
+ID 149: Ashoka Tamang - The Drummer of the Eastern Clouds
+ID 150: Apsarah Tamang - The Weaver of Mountain Songs
+ID 151: Nuirbu Sherpa - The Yeti's Brother
+ID 152: Dekchen Sherpa - The Keeper of Mountain Memories
+ID 153: Biupul Rai - The Kirati Arrow
+ID 154: Aisha Rai - The Kirati Moon
+ID 155: Yangtangza Limbu - The Yalambar's Heir
+ID 156: Ishaah Limbu - The Ancestral Voice
+ID 157: Deigeini Moratta - Deceit • The Silver-Tongued Moth
+ID 158: Feinkuri Futaka - Betrayal • The Crimson Fox
+ID 159: Kurikurimiji Muji - Cruelty • The Violet Mantis
+ID 160: Zorgbein Fikas - Cowardice • The Shadow Hare
+ID 161: Iggluin Pakasha - Ignorance • The Blind Owl
+ID 162: Borongik Futakanji - Despair • The Weeping Willow
+ID 163: Jeirgani Furumu - Injustice • The Iron Scales
+ID 164: Fyngyilgi Forfata - Humility • The Swan's Grace
+ID 165: Keiloka Beibad - Generosity • The Eagle's Plenty
+ID 166: Pokihata Bijau - Patience • The Tiger's Stillness
+ID 167: Heinki Kuratsa - Kindness • The Stag's Heart
+ID 168: Sitanku Rei - Pure Love • The Crane's Fidelity
+ID 169: Seisingwa Futta - Temperance • The Bear's Wisdom
+ID 170: Kukukingo Fetta - Diligence • The Ant's Persistence
+ID 171: Feringqua Sii - Truth • The Wolf's Clarity
+ID 172: Boyyali Seing - Loyalty • The Hound's Devotion
+ID 173: Fengwangzhi Fuala - Compassion • The Dolphin's Mercy
+ID 174: Alexingz Furingwa - Courage • The Lion's Roar
+ID 175: Goatingza Luangzhi - Wisdom • The Hawk's Vision
+ID 176: Aishanglin Bweingzha - Hope • The Phoenix's Promise
+ID 177: Injuistar Rwingza - Justice • The Elephant's Memory
