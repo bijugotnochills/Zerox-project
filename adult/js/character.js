@@ -8,7 +8,7 @@ let currentCharId = null;
 let currentIndex = 0;
 let swiperInstance = null;
 let currentPage = 1;
-const pageSize = 30;
+const pageSize = 200;
 
 // DOM elements
 const container = document.getElementById('character-container');
