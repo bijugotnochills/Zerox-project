@@ -653,6 +653,7 @@
     margin: 1rem 0;
     border: 2px solid rgba(255, 255, 255, 0.1);
     object-fit: cover;
+    margin: 0 auto;
 }
 
 .companion-detail h3 {
