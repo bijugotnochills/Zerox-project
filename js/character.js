@@ -10,6 +10,9 @@ let swiperInstance = null;
 let currentPage = 1;
 const pageSize = 30;
 
+// NEW: keep track of which image mode the user selected
+let currentImageMode = 'normal'; // 'normal' or 'real'
+
 // DOM elements
 const container = document.getElementById('character-container');
 const searchInput = document.getElementById('character-search');
@@ -154,26 +157,26 @@ function attachEventListeners() {
     modalPrev.addEventListener('click', showPrevChar);
     modalNext.addEventListener('click', showNextChar);
 
+    // --- Image toggle handlers ---
     toggleNormal.addEventListener('click', () => {
         if (!currentCharId) return;
-        const char = allCharacters.find(c => c.id == currentCharId);
-        if (char?.images?.character_image) {
-            modalImage.src = char.images.character_image;
-            toggleNormal.classList.add('active');
-            toggleReal.classList.remove('active');
-        }
+        currentImageMode = 'normal';
+        updateToggleButtons('normal');
+        setModalImageBasedOnMode();
     });
 
     toggleReal.addEventListener('click', () => {
         if (!currentCharId) return;
         const char = allCharacters.find(c => c.id == currentCharId);
+        // Only allow switching to real if the character actually has a real image
         if (char?.images?.character_image_real) {
-            modalImage.src = char.images.character_image_real;
-            toggleReal.classList.add('active');
-            toggleNormal.classList.remove('active');
+            currentImageMode = 'real';
+            updateToggleButtons('real');
+            setModalImageBasedOnMode();
         }
     });
 
+    // Tab switching
     document.querySelectorAll('.tab-btn').forEach(btn => {
         btn.addEventListener('click', (e) => {
             const tab = e.target.dataset.tab;
@@ -183,6 +186,40 @@ function attachEventListeners() {
             document.getElementById(`tab-${tab}`)?.classList.add('active');
         });
     });
+}
+
+// Helper to set the active class on toggle buttons
+function updateToggleButtons(mode) {
+    if (mode === 'normal') {
+        toggleNormal.classList.add('active');
+        toggleReal.classList.remove('active');
+    } else {
+        toggleReal.classList.add('active');
+        toggleNormal.classList.remove('active');
+    }
+}
+
+// Set the modal image src based on currentImageMode and the currently displayed character
+function setModalImageBasedOnMode() {
+    if (!currentCharId) return;
+    const char = allCharacters.find(c => c.id == currentCharId);
+    if (!char) return;
+
+    let imageUrl = null;
+    if (currentImageMode === 'real' && char.images?.character_image_real) {
+        imageUrl = char.images.character_image_real;
+    } else {
+        // fallback to normal
+        imageUrl = char.images?.character_image;
+        // If we tried real but it's missing, silently switch mode to normal
+        if (currentImageMode === 'real' && !char.images?.character_image_real) {
+            currentImageMode = 'normal';
+            updateToggleButtons('normal');
+        }
+    }
+    if (imageUrl) {
+        modalImage.src = imageUrl;
+    }
 }
 
 function formatWeaponSkills(skills) {
@@ -202,6 +239,8 @@ function openModal(id) {
     currentIndex = index;
     try {
         populateModal(allCharacters[index]);
+        // After populating data, set the image according to the stored mode
+        setModalImageBasedOnMode();
         modal.style.display = 'block';
         document.body.style.overflow = 'hidden';
         initGallerySwiper();
@@ -245,12 +284,6 @@ function populateModal(char) {
     setText('modal-title', char.hero_name || 'Unknown');
     setText('modal-subtitle', (char.title ? char.title : '') + (char.nickname ? ` · ${char.nickname}` : ''));
 
-    // Image
-    if (char.images?.character_image) {
-        modalImage.src = char.images.character_image;
-        modalImage.alt = char.hero_name || '';
-    }
-
     // Lore, description
     setText('modal-lore', char.lore || 'No lore available.');
     setText('modal-description', char.description || 'No description.');
@@ -283,7 +316,7 @@ function populateModal(char) {
     setText('modal-powers', char.powers || 'Unknown');
     setText('modal-speciality', char.speciality || 'Unknown');
 
-    // --- Appearance sections (handle both object and string) ---
+    // --- Appearance sections ---
     // Facial structure
     const f = char.facial_structure;
     let facialHtml = '';
@@ -496,6 +529,18 @@ function populateModal(char) {
                 companionPane.classList.remove('active');
             }
         }
+    }
+
+    // After populating all data, ensure the toggle buttons reflect the current character's capabilities
+    // If the character has no real image, disable the real button (or just ensure it can't be activated)
+    if (!char.images?.character_image_real) {
+        // If current mode is real, we need to switch to normal
+        if (currentImageMode === 'real') {
+            currentImageMode = 'normal';
+            updateToggleButtons('normal');
+        }
+        // Optionally disable the real button visually (but we keep it, just won't work)
+        // You could add a disabled class, but we already prevent click by checking in its handler.
     }
 }
 
