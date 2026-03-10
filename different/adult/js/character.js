@@ -8,7 +8,10 @@ let currentCharId = null;
 let currentIndex = 0;
 let swiperInstance = null;
 let currentPage = 1;
-const pageSize = 200;
+const pageSize = 30;
+
+// NEW: keep track of which image mode the user selected
+let currentImageMode = 'normal'; // 'normal' or 'real'
 
 // DOM elements
 const container = document.getElementById('character-container');
@@ -154,26 +157,26 @@ function attachEventListeners() {
     modalPrev.addEventListener('click', showPrevChar);
     modalNext.addEventListener('click', showNextChar);
 
+    // --- Image toggle handlers ---
     toggleNormal.addEventListener('click', () => {
         if (!currentCharId) return;
-        const char = allCharacters.find(c => c.id == currentCharId);
-        if (char?.images?.character_image) {
-            modalImage.src = char.images.character_image;
-            toggleNormal.classList.add('active');
-            toggleReal.classList.remove('active');
-        }
+        currentImageMode = 'normal';
+        updateToggleButtons('normal');
+        setModalImageBasedOnMode();
     });
 
     toggleReal.addEventListener('click', () => {
         if (!currentCharId) return;
         const char = allCharacters.find(c => c.id == currentCharId);
+        // Only allow switching to real if the character actually has a real image
         if (char?.images?.character_image_real) {
-            modalImage.src = char.images.character_image_real;
-            toggleReal.classList.add('active');
-            toggleNormal.classList.remove('active');
+            currentImageMode = 'real';
+            updateToggleButtons('real');
+            setModalImageBasedOnMode();
         }
     });
 
+    // Tab switching
     document.querySelectorAll('.tab-btn').forEach(btn => {
         btn.addEventListener('click', (e) => {
             const tab = e.target.dataset.tab;
@@ -183,6 +186,40 @@ function attachEventListeners() {
             document.getElementById(`tab-${tab}`)?.classList.add('active');
         });
     });
+}
+
+// Helper to set the active class on toggle buttons
+function updateToggleButtons(mode) {
+    if (mode === 'normal') {
+        toggleNormal.classList.add('active');
+        toggleReal.classList.remove('active');
+    } else {
+        toggleReal.classList.add('active');
+        toggleNormal.classList.remove('active');
+    }
+}
+
+// Set the modal image src based on currentImageMode and the currently displayed character
+function setModalImageBasedOnMode() {
+    if (!currentCharId) return;
+    const char = allCharacters.find(c => c.id == currentCharId);
+    if (!char) return;
+
+    let imageUrl = null;
+    if (currentImageMode === 'real' && char.images?.character_image_real) {
+        imageUrl = char.images.character_image_real;
+    } else {
+        // fallback to normal
+        imageUrl = char.images?.character_image;
+        // If we tried real but it's missing, silently switch mode to normal
+        if (currentImageMode === 'real' && !char.images?.character_image_real) {
+            currentImageMode = 'normal';
+            updateToggleButtons('normal');
+        }
+    }
+    if (imageUrl) {
+        modalImage.src = imageUrl;
+    }
 }
 
 function formatWeaponSkills(skills) {
@@ -202,6 +239,8 @@ function openModal(id) {
     currentIndex = index;
     try {
         populateModal(allCharacters[index]);
+        // After populating data, set the image according to the stored mode
+        setModalImageBasedOnMode();
         modal.style.display = 'block';
         document.body.style.overflow = 'hidden';
         initGallerySwiper();
@@ -245,12 +284,6 @@ function populateModal(char) {
     setText('modal-title', char.hero_name || 'Unknown');
     setText('modal-subtitle', (char.title ? char.title : '') + (char.nickname ? ` · ${char.nickname}` : ''));
 
-    // Image
-    if (char.images?.character_image) {
-        modalImage.src = char.images.character_image;
-        modalImage.alt = char.hero_name || '';
-    }
-
     // Lore, description
     setText('modal-lore', char.lore || 'No lore available.');
     setText('modal-description', char.description || 'No description.');
@@ -258,7 +291,6 @@ function populateModal(char) {
     // Story - handle variable number of parts
     const storyDiv = document.getElementById('modal-story');
     if (char.story && typeof char.story === 'object') {
-        // Get all keys that start with 'part' and sort them numerically
         const partKeys = Object.keys(char.story)
             .filter(key => key.toLowerCase().startsWith('part'))
             .sort((a, b) => {
@@ -284,79 +316,102 @@ function populateModal(char) {
     setText('modal-powers', char.powers || 'Unknown');
     setText('modal-speciality', char.speciality || 'Unknown');
 
+    // --- Appearance sections ---
     // Facial structure
-    const f = char.facial_structure || {};
+    const f = char.facial_structure;
     let facialHtml = '';
-
-    if (f.mask) {
-        // Character wears a mask – display mask details
-        const mask = f.mask;
-        facialHtml += `<p><strong>Mask Name:</strong> ${mask.name || 'Unknown'}</p>`;
-        facialHtml += `<p><strong>Material:</strong> ${mask.material || ''}</p>`;
-        facialHtml += `<p><strong>Forehead:</strong> ${mask.forehead || ''}</p>`;
-        facialHtml += `<p><strong>Eyes:</strong> ${mask.eyes || ''}</p>`;
-        facialHtml += `<p><strong>Nose:</strong> ${mask.nose || ''}</p>`;
-        facialHtml += `<p><strong>Mouth:</strong> ${mask.mouth || ''}</p>`;
-        if (mask.tusks) facialHtml += `<p><strong>Tusks:</strong> ${mask.tusks}</p>`;
-        if (mask.surface) facialHtml += `<p><strong>Surface:</strong> ${mask.surface}</p>`;
-        // Add any other mask properties here
+    if (f && typeof f === 'object') {
+        if (f.mask) {
+            const mask = f.mask;
+            facialHtml += `<p><strong>Mask Name:</strong> ${mask.name || 'Unknown'}</p>`;
+            facialHtml += `<p><strong>Material:</strong> ${mask.material || ''}</p>`;
+            facialHtml += `<p><strong>Forehead:</strong> ${mask.forehead || ''}</p>`;
+            facialHtml += `<p><strong>Eyes:</strong> ${mask.eyes || ''}</p>`;
+            facialHtml += `<p><strong>Nose:</strong> ${mask.nose || ''}</p>`;
+            facialHtml += `<p><strong>Mouth:</strong> ${mask.mouth || ''}</p>`;
+            if (mask.tusks) facialHtml += `<p><strong>Tusks:</strong> ${mask.tusks}</p>`;
+            if (mask.surface) facialHtml += `<p><strong>Surface:</strong> ${mask.surface}</p>`;
+        } else {
+            const eyes = f.eyes || {};
+            const hair = f.hair || {};
+            facialHtml = `
+                <p><strong>Eyes:</strong> ${eyes.eye_color || 'Unknown'} (${eyes.eye_type || ''})</p>
+                <p><strong>Nose:</strong> ${f.nose || ''}</p>
+                <p><strong>Hair:</strong> ${hair.hairstyle || ''} (${hair.hair_color || ''})</p>
+                <p><strong>Face Shape:</strong> ${f.face_shape || ''}</p>
+            `;
+            if (f.ears) facialHtml += `<p><strong>Ears:</strong> ${f.ears}</p>`;
+        }
+    } else if (f && typeof f === 'string') {
+        facialHtml = `<p>${f}</p>`;
     } else {
-        // Normal facial features
-        const eyes = f.eyes || {};
-        const hair = f.hair || {};
-        facialHtml = `
-        <p><strong>Eyes:</strong> ${eyes.eye_color || 'Unknown'} (${eyes.eye_type || ''})</p>
-        <p><strong>Nose:</strong> ${f.nose || ''}</p>
-        <p><strong>Hair:</strong> ${hair.hairstyle || ''} (${hair.hair_color || ''})</p>
-        <p><strong>Face Shape:</strong> ${f.face_shape || ''}</p>
-    `;
-        // Optional: include ears if present
-        if (f.ears) facialHtml += `<p><strong>Ears:</strong> ${f.ears}</p>`;
+        facialHtml = '<p>No facial data available.</p>';
     }
     setHtml('modal-facial', facialHtml);
 
     // Upper body
-    const u = char.upper_body || {};
-    setHtml('modal-upper', `
-        <p><strong>Body Structure:</strong> ${u.body_structure || ''}</p>
-        <p><strong>Arms:</strong> ${u.arms || ''}</p>
-        <p><strong>Chest:</strong> ${u.chest || ''}</p>
-        <p><strong>Shoulders:</strong> ${u.shoulders || ''}</p>
-        <p><strong>Neck:</strong> ${u.neck || ''}</p>
-        <p><strong>Waist:</strong> ${u.waist || ''}</p>
-    `);
+    const u = char.upper_body;
+    let upperHtml = '';
+    if (u && typeof u === 'object') {
+        upperHtml = `
+            <p><strong>Body Structure:</strong> ${u.body_structure || ''}</p>
+            <p><strong>Arms:</strong> ${u.arms || ''}</p>
+            <p><strong>Chest:</strong> ${u.chest || ''}</p>
+            <p><strong>Shoulders:</strong> ${u.shoulders || ''}</p>
+            <p><strong>Neck:</strong> ${u.neck || ''}</p>
+            <p><strong>Waist:</strong> ${u.waist || ''}</p>
+        `;
+    } else if (u && typeof u === 'string') {
+        upperHtml = `<p>${u}</p>`;
+    } else {
+        upperHtml = '<p>No upper body data.</p>';
+    }
+    setHtml('modal-upper', upperHtml);
 
     // Lower body
-    const l = char.lower_body || {};
-    setHtml('modal-lower', `
-        <p><strong>Hips:</strong> ${l.hips || ''}</p>
-        <p><strong>Legs:</strong> ${l.legs || ''}</p>
-        <p><strong>Feet:</strong> ${l.feet || ''}</p>
-    `);
+    const l = char.lower_body;
+    let lowerHtml = '';
+    if (l && typeof l === 'object') {
+        lowerHtml = `
+            <p><strong>Hips:</strong> ${l.hips || ''}</p>
+            <p><strong>Legs:</strong> ${l.legs || ''}</p>
+            <p><strong>Feet:</strong> ${l.feet || ''}</p>
+        `;
+    } else if (l && typeof l === 'string') {
+        lowerHtml = `<p>${l}</p>`;
+    } else {
+        lowerHtml = '<p>No lower body data.</p>';
+    }
+    setHtml('modal-lower', lowerHtml);
 
     // Clothing
-    const cloth = char.clothing || {};
-    setHtml('modal-clothing', `
-        <p><strong>Head:</strong> ${cloth.head || ''}</p>
-        <p><strong>Upper:</strong> ${cloth.upper || ''}</p>
-        <p><strong>Lower:</strong> ${cloth.lower || ''}</p>
-        <p><strong>Accessories:</strong> ${cloth.accessories || ''}</p>
-    `);
+    const cloth = char.clothing;
+    let clothingHtml = '';
+    if (cloth && typeof cloth === 'object') {
+        clothingHtml = `
+            <p><strong>Head:</strong> ${cloth.head || ''}</p>
+            <p><strong>Upper:</strong> ${cloth.upper || ''}</p>
+            <p><strong>Lower:</strong> ${cloth.lower || ''}</p>
+            <p><strong>Accessories:</strong> ${cloth.accessories || ''}</p>
+        `;
+        if (cloth.feet) clothingHtml += `<p><strong>Feet:</strong> ${cloth.feet}</p>`;
+    } else if (cloth && typeof cloth === 'string') {
+        clothingHtml = `<p>${cloth}</p>`;
+    } else {
+        clothingHtml = '<p>No clothing data.</p>';
+    }
+    setHtml('modal-clothing', clothingHtml);
 
-    // === FIXED WEAPON HANDLING ===
+    // === WEAPON HANDLING ===
     const weaponContainer = document.getElementById('weapon-container');
     let weaponsHtml = '';
-
-    // Determine which weapon property exists
     let weaponData = null;
     if (char.weapons && Array.isArray(char.weapons)) {
-        weaponData = char.weapons;               // array of weapons
+        weaponData = char.weapons;
     } else if (char.weapon) {
-        weaponData = char.weapon;                 // could be object or array
+        weaponData = char.weapon;
     }
-
     if (weaponData) {
-        // Normalize to array
         const weaponsArray = Array.isArray(weaponData) ? weaponData : [weaponData];
         weaponsArray.forEach(wp => {
             if (!wp) return;
@@ -374,18 +429,14 @@ function populateModal(char) {
     }
     weaponContainer.innerHTML = weaponsHtml || '<p>No weapon data.</p>';
 
-    // --- Skills section (fixed to handle arrays for passive and ultimate) ---
+    // === SKILLS SECTION ===
     const skills = char.skills || {};
     let skillsHtml = '';
-
-    // Basic skills (always array)
     if (Array.isArray(skills.basic_skills)) {
         skills.basic_skills.forEach(s => {
             if (s) skillsHtml += `<div class="skill-card"><span class="skill-type">Basic</span><strong>${s.name || ''}</strong><p>${s.description || ''}</p></div>`;
         });
     }
-
-    // Passive skills (can be single object or array)
     if (skills.passive_skill) {
         if (Array.isArray(skills.passive_skill)) {
             skills.passive_skill.forEach(s => {
@@ -395,15 +446,11 @@ function populateModal(char) {
             skillsHtml += `<div class="skill-card"><span class="skill-type">Passive</span><strong>${skills.passive_skill.name || ''}</strong><p>${skills.passive_skill.description || ''}</p></div>`;
         }
     }
-
-    // Special skills (always array)
     if (Array.isArray(skills.special_skills)) {
         skills.special_skills.forEach(s => {
             if (s) skillsHtml += `<div class="skill-card"><span class="skill-type">Special</span><strong>${s.name || ''}</strong><p>${s.description || ''}</p></div>`;
         });
     }
-
-    // Ultimate skills (can be single object or array)
     if (skills.ultimate_skill) {
         if (Array.isArray(skills.ultimate_skill)) {
             skills.ultimate_skill.forEach(s => {
@@ -413,8 +460,44 @@ function populateModal(char) {
             skillsHtml += `<div class="skill-card"><span class="skill-type">Ultimate</span><strong>${skills.ultimate_skill.name || ''}</strong><p>${skills.ultimate_skill.description || ''}</p></div>`;
         }
     }
-
     document.getElementById('modal-skills').innerHTML = skillsHtml || '<p>No skill data.</p>';
+
+    // === COMPANION TAB ===
+    const companionDiv = document.getElementById('modal-companion');
+    let companionHtml = '';
+    if (char.companion) {
+        const c = char.companion;
+        companionHtml += `
+            <div class="companion-detail">
+                <h3>${c.name || 'Unnamed Companion'}</h3>
+                ${c.image ? `<img src="${c.image}" alt="${c.name}" class="companion-image">` : ''}
+                <p><strong>Type:</strong> ${c.type || ''}</p>
+                <p><strong>Description:</strong> ${c.description || ''}</p>
+                ${c.abilities ? `
+                    <h4>Abilities:</h4>
+                    <ul>${Array.isArray(c.abilities) ? c.abilities.map(a => `<li>${a}</li>`).join('') : `<li>${c.abilities}</li>`}</ul>
+                ` : ''}
+            </div>
+        `;
+    } else if (char.companions && Array.isArray(char.companions)) {
+        char.companions.forEach(c => {
+            companionHtml += `
+                <div class="companion-detail">
+                    <h3>${c.name || 'Unnamed Companion'}</h3>
+                    ${c.image ? `<img src="${c.image}" alt="${c.name}" class="companion-image">` : ''}
+                    <p><strong>Type:</strong> ${c.type || ''}</p>
+                    <p><strong>Description:</strong> ${c.description || ''}</p>
+                    ${c.abilities ? `
+                        <h4>Abilities:</h4>
+                        <ul>${Array.isArray(c.abilities) ? c.abilities.map(a => `<li>${a}</li>`).join('') : `<li>${c.abilities}</li>`}</ul>
+                    ` : ''}
+                </div>
+            `;
+        });
+    } else {
+        companionHtml = '<p>No companion data.</p>';
+    }
+    setHtml('modal-companion', companionHtml);
 
     // Gallery
     const galleryWrapper = document.getElementById('gallery-wrapper');
@@ -424,6 +507,40 @@ function populateModal(char) {
         `).join('');
     } else {
         galleryWrapper.innerHTML = '<div class="swiper-slide">No gallery images.</div>';
+    }
+
+    // --- Companion tab visibility ---
+    const companionTabBtn = document.getElementById('companion-tab-btn');
+    const companionPane = document.getElementById('tab-companion');
+    const companionDivContent = document.getElementById('modal-companion');
+    const hasCompanion = companionDivContent && companionDivContent.innerHTML.trim() !== '<p>No companion data.</p>';
+
+    if (hasCompanion) {
+        companionTabBtn.style.display = '';
+    } else {
+        companionTabBtn.style.display = 'none';
+        if (companionPane && companionPane.classList.contains('active')) {
+            const firstVisibleTab = document.querySelector('.tab-btn:not([style*="display: none"])');
+            if (firstVisibleTab) {
+                firstVisibleTab.click();
+            } else {
+                document.querySelector('[data-tab="lore"]').classList.add('active');
+                document.getElementById('tab-lore').classList.add('active');
+                companionPane.classList.remove('active');
+            }
+        }
+    }
+
+    // After populating all data, ensure the toggle buttons reflect the current character's capabilities
+    // If the character has no real image, disable the real button (or just ensure it can't be activated)
+    if (!char.images?.character_image_real) {
+        // If current mode is real, we need to switch to normal
+        if (currentImageMode === 'real') {
+            currentImageMode = 'normal';
+            updateToggleButtons('normal');
+        }
+        // Optionally disable the real button visually (but we keep it, just won't work)
+        // You could add a disabled class, but we already prevent click by checking in its handler.
     }
 }
 
