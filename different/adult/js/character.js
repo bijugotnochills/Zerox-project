@@ -10,8 +10,11 @@ let swiperInstance = null;
 let currentPage = 1;
 const pageSize = 30;
 
-// NEW: keep track of which image mode the user selected
+// Track which image mode the user selected
 let currentImageMode = 'normal'; // 'normal' or 'real'
+
+// Preloader timeout handle
+let preloaderTimeout;
 
 // DOM elements
 const container = document.getElementById('character-container');
@@ -22,6 +25,7 @@ const resetBtn = document.getElementById('reset-filters');
 const gridViewBtn = document.getElementById('grid-view-btn');
 const listViewBtn = document.getElementById('list-view-btn');
 const paginationDiv = document.getElementById('pagination');
+const preloader = document.getElementById('preloader');
 
 // Modal elements
 const modal = document.getElementById('character-modal');
@@ -34,15 +38,30 @@ const modalImage = document.getElementById('modal-image');
 
 // Load data
 (async function init() {
+    // Set a 5-second timeout to hide preloader even if loading fails
+    preloaderTimeout = setTimeout(() => {
+        if (preloader) preloader.style.display = 'none';
+        // If the container still shows the loading spinner, show an error
+        if (container.innerHTML.includes('Summoning heroes')) {
+            container.innerHTML = '<div class="loader error"><i class="fas fa-exclamation-triangle"></i> Loading timed out. Please refresh.</div>';
+        }
+    }, 5000);
+
     try {
         allCharacters = await fetchJSON('data/character_detail.json');
         filteredCharacters = [...allCharacters];
         populatePantheonFilter();
         renderPaginated();
         attachEventListeners();
+
+        // Data loaded successfully – hide preloader and clear timeout
+        if (preloader) preloader.style.display = 'none';
+        clearTimeout(preloaderTimeout);
     } catch (err) {
         container.innerHTML = `<div class="loader error"><i class="fas fa-exclamation-triangle"></i> Failed to load characters.</div>`;
         console.error(err);
+        if (preloader) preloader.style.display = 'none';
+        clearTimeout(preloaderTimeout);
     }
 })();
 
@@ -539,8 +558,6 @@ function populateModal(char) {
             currentImageMode = 'normal';
             updateToggleButtons('normal');
         }
-        // Optionally disable the real button visually (but we keep it, just won't work)
-        // You could add a disabled class, but we already prevent click by checking in its handler.
     }
 }
 
